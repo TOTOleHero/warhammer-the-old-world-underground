@@ -15,6 +15,8 @@
 | Totem warriors          |                  |                   |                 |                 |   Initiate of Rigg                    |   |   |   |   |   |
 | Amazon cold one riders  |                  |                   |                 |                 |   Tribeswoman                     |   |   |   |   |   |
 
+![image](https://github.com/TOTOleHero/warhammer-the-old-world-underground/assets/657752/8bc5e2cf-6bb3-4708-8586-142d94beb228)
+![image](https://github.com/TOTOleHero/warhammer-the-old-world-underground/assets/657752/bfd9f597-fd00-47b0-8010-2a17d1dc082f)
 
 
 http://www.solegends.com/citcat2005spc/c2005spcp0100-00.htm
