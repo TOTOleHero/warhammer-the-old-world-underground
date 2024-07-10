@@ -1,9 +1,83 @@
-# Amazons
+# Amazons ARMY LIST
+
+This page details the Grand Army composition list for the Empire of Man. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
+
+This army list is intended for use alongside the ‘Forming Units’ and ‘Warhammer Armies’ sections of the Warhammer: the Old World rulebook. Over the following pages you will find profiles and rules for each of the models in your army. These pages give you all of the information that you need to shape your collection of models into the units which will in turn form a force ready for battle.
+
+
+## Grand Army Composition List
+
+**Characters**
+
+Up to 50% of your army’s points value may be spent on:
+ - 0-1 General per 1,000 points
+ - 0-1 Serpent Priestess per 1,000 points
+
+**Core**
+At least 25% of your army’s points value must be spent on:
+
+- 0-1 unit of Totaem warrior Troops per 1,000 points
+- 0-1 Eagle Warrior 
+- Tribal warrior
+
+**Special**
+
+Up to 50% of your army’s points value may be spent on:
+• 0-1 Amazon culchan rider
+ - Piranha Warrior, Python Warrior 
+
+**Rare**
+Up to 25% of your army’s points value may be spent on:
+ - 0-1 Amazon cold One rider
+ - Amazon berserkers, jaguar warrior
+
+**Mercenaries**
+Up to 20% of your army’s points value may be spent
+on mercenaries.
+
+**Allies**
+Up to 25% of your army’s points value may be spent on a single
+allied contingent drawn from:
+
+• One of the following Grand Army composition lists:
+- Lizardmen
+
+**Battle Standard Bearer**
+A single hero  in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
+
+
+### Serpent Priestess 
+
+|                    | M | WS | BS | S | T | W | I | A | Ld | Points |
+|--------------------|---|----|----|---|---|---|---|---|----|--------|
+| Serpent Priestess  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  |        |
 
 
 
 
-### Amazon warriors
+**Character Mounts**
+
+A character that can be mounted may choose a mount from the following list. Some mounts are covered in detail on this page. Those that are not have their own dedicated entries later in this army list.
+
+A General may be mounted on a:
+ - Cold One ...............+18 points
+ - Culchan ...............+18 points
+
+
+### Tribal warriors
+
+|        | M | WS | BS | S | T | W | I | A | Ld | Points |
+|--------|---|----|----|---|---|---|---|---|----|--------|
+| Amazon | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 11     |
+
+**Troop Type** : Regular infantry
+**Base Size** : 25 x 25 mm
+**Unit Size** : 5+
+
+**Equipment**: bows
+
+
+### Anakonda warriors
 
 |        | M | WS | BS | S | T | W | I | A | Ld | Points |
 |--------|---|----|----|---|---|---|---|---|----|--------|
@@ -19,6 +93,188 @@
 
 
 
+
+
+
+
+### Totem warriors
+
+|                | M | WS | BS | S | T | W | I | A | Ld | Points |
+|----------------|---|----|----|---|---|---|---|---|----|--------|
+| Totem warriors | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 13     |
+
+
+Troop Type: Regular infantry
+Base Size: 25 x 25 mm
+Unit Size: 10+
+Equipment: two hand weapon
+
+Special Rules: Skirmishers, Hate everyone, Frenzy, 
+
+
+
+### amazon berserkers
+
+|        | M | WS | BS | S | T | W | I | A | Ld | Points |
+|--------|---|----|----|---|---|---|---|---|----|--------|
+| Amazon | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 15     |
+
+Troop Type: Regular infantry
+Base Size: 25 x 25 mm
+Unit Size: 5+
+
+**Equipment**: two hand weapons
+
+Special Rules: Close Order, Fanatical Zeal, Feel No Pain, Furious Charge,
+Immune to Psychology, Impetuous, Hatred (all enemies), Unbreakable
+
+### Jungle Swarms
+|                | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------- --|---|----|----|---|---|---|---|---|----|--------|
+|Jungle Swarms   | 5 | 3  | 0  | 2 | 2 | 5 | 1 | 5 | 5  | 40     |
+
+Troop Type: Swarms
+Base Size: 40 x 40 mm
+Unit Size: 3+
+Equipment: Hand weapons
+Special Rules: Cold Blooded, Immune to Psychology, Loner, Move through Cover, Poisoned Attacks, Skirmishers, Unbreakable, Vanguard
+
+
+
+### Culchan Riders
+
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Culchan Riders   | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 35     |
+| Amazon champion  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +5     |
+| Culchan          | 9 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
+
+Troop Type: Light cavalry
+Base Size: 25 x 50 mm
+Unit Size: 5+
+Equipment:
+ - Culchan Riders: hand weapon, spear, shield
+ - Cold Ones: Claws and teeth (counts as hand weapons)
+
+Options:
+• Any unit may:
+- Upgrade one model to a Dread Knight (champion)............................... +5 points per unit
+- Upgrade one model to a standard bearer................................................... +5 points per unit
+- Upgrade one model to a musician ................................................................ +5 points per unit
+
+Special Rules:  Close Order, Swiftstride
+
+### Amazon Cold One Riders
+
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Amazon           | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 35     |
+| Amazon champion  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +5     |
+| Cold One         | 7 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
+
+
+Troop Type: Heavy cavalry
+Base Size: 30 x 60 mm
+Unit Size: 5+
+Equipment:
+ - Amazons cold one riders: hand weapon, spear, shield
+ - Cold Ones: Claws and teeth (counts as hand weapons)
+
+Options:
+• Any unit may:
+- Upgrade one model to a Dread Knight (champion)............................... +5 points per unit
+- Upgrade one model to a standard bearer................................................... +5 points per unit
+- Upgrade one model to a musician ................................................................ +5 points per unit
+
+
+Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Close Order,Stupidity,
+Swiftstride
+
+
+### Eagle Warrior 
+
+Much like their namesake, Eagle Warriors are swift and agile: ducking and weaving across the batlle field
+
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Eagle Warrior    | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 17     |
+
+Troop Type: Regular infantry
+Base Size: 25 x 25 mm
+Unit Size: 5+
+Equipment: High Age weapons pistol
+
+Special Rules: Close Order, Immune to Psychology, Move through Cover
+
+|                         | R      | S   | AP | Special Rules |
+| High Age weapons pistol | 12''   | 4   | -2 |               |
+
+
+### Jaguar Warrior 
+
+Strongest among the Amazons are the Jaguar Warriors; immensely powerful women that act as guardians of the Amazons’ most sacred sites by protecting them from any unwanted explorers or treasure hunters.
+
+|                   | M | WS | BS | S | T | W | I | A | Ld | Points |
+|-------------------|---|----|----|---|---|---|---|---|----|--------|
+| Jaguar Warrior    | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 17     |
+
+Troop Type: Regular infantry
+Base Size: 25 x 25 mm
+Unit Size: 5+
+Equipment: Claw of the old ones (see below)
+
+
+|                      | R      | S   | AP | Special Rules |
+| Claw of the old ones | Combat | S+1 | -2 |               |
+
+**Claw of the old ones** : the 
+
+### Python Warrior
+
+Python Warriors spend years studying the snakes from which they draw their name, learning the art of patience and find the best moment to attack.
+
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Python Warrior    | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 35     |
+
+Troop Type: Regular infantry
+Base Size: 25 x 25 mm
+Unit Size: 5+
+Equipment: Arrows of python,
+
+|                      | R    | S  | AP | Special Rules     |
+| Arrows of python     | 24'' | 3  | -1 | Poisoned Attacks  |
+
+
+### Piranha Warrior 
+
+Emulating the ferocious river predator, from where they draw their name, Piranha Warriors strike with a series of lightning fast blows before quickly evading any counterattacks.
+
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Piranha Warrior  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 16     |
+
+Troop Type: Regular infantry
+Base Size: 25 x 25 mm
+Unit Size: 5+
+Equipment:
+
+Special Rules: Blood in the river, Evasive, Furious Charge, Immune to Psychology, Loner,
+Motley Crew, Move through Cover, Open Order, Skirmishers,
+Strike First
+
+Blood in the river
+In battle, Piranha Warrior perform the special attacks :
+
+ - Cutting teeth: Until the end of this Combat phase, this unit gains the Extra Attacks
+(+1) special rule.
+
+
+## amazons Magic Items
+
+The pages that follow detail magic items unique to Lizardmen armies. These can be purchased by models within a Lizardmen army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
+
+Extremely Common Magic Items: Any magic item marked with an asterisk (*) is considered to be extremely common, as described in the Warhammer: the Old World rulebook.
 
 ## Amazons special rules
 
