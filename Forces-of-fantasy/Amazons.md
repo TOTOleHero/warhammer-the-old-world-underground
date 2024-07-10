@@ -1,3 +1,33 @@
+# Amazons
+
+Unofficial and community Legacy army List
+
+
+For Use With Warhammer: The Old World Rules
+This document allows you to play a Amazons Army from the Warhammer Fantasy Battles range in games using the rules from Warhammer: The Old World. To use the contents of this document, you will need a copy of the Warhammer: The Old World rulebook.
+
+The rules contained within this document allow players the opportunity to try out the Warhammer: The Old World rules using models they may have in their collection. They are not intended for use in matched play events and will not be updated in line with any future Warhammer: the Old World publications.
+
+
+# amazons
+
+This document contains the following information:
+
+**Grand Army Composition List**: The default army composition list for the Lizardmen.
+**Profiles**: Every model available to the Lizardmen has a profile. Here, you will find that model’s characteristics, its equipment, its points value, details of any special rules unique to it and more.
+**Magic Items**: As well as the Common magic items detailed in the Warhammer: the Old World rulebook, this army list includes a number of magic items unique to the Lizardmen.
+**Special Rules**: This section covers rules unique to the Lizardmen.
+**The Lore of…**: Unique spells used in conjunction with the Lores of Magic found in the Warhammer: the Old World rulebook.
+
+
+CONTENTS
+Amazons Legacy Army List 
+  Grand Army Composition List 
+  Magic Items
+  Special Rules
+  Lore of Lustria
+
+
 # Amazons ARMY LIST
 
 This page details the Grand Army composition list for the Empire of Man. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
@@ -91,12 +121,6 @@ A General may be mounted on a:
 **specials rules** : skirmishers, native of Lustria 
 
 
-
-
-
-
-
-
 ### Totem warriors
 
 |                | M | WS | BS | S | T | W | I | A | Ld | Points |
@@ -145,7 +169,7 @@ Special Rules: Cold Blooded, Immune to Psychology, Loner, Move through Cover, Po
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Culchan Riders   | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 35     |
+| Culchan Riders   | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 30     |
 | Amazon champion  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +5     |
 | Culchan          | 9 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
 
@@ -168,7 +192,7 @@ Special Rules:  Close Order, Swiftstride
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon           | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 35     |
+| Amazon           | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 30     |
 | Amazon champion  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +5     |
 | Cold One         | 7 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
 
