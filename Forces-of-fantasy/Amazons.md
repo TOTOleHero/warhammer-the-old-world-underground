@@ -11,6 +11,9 @@ The rules contained within this document allow players the opportunity to try ou
 
 # amazons
 
+Amazons are unique in that their race has no males—reproduction takes place by parthenogenic reaction controlled by drugs. When the Siano ruled the world, Amazons were created to undertake many mundane tasks and labor. When the warp-gates collapsed, the Amazons already shared the high civilization of the Siano, serving as technicians and helpmates. As a result, their history has been one of slow degeneration under the shadow of the Slann's heritage, preserving many of the higher sciences lost to the Siano themselves.
+
+
 This document contains the following information:
 
 **Grand Army Composition List**: The default army composition list for the Lizardmen.
@@ -137,11 +140,15 @@ Special Rules: Skirmishers, Hate everyone, Frenzy,
 
 
 
-### amazon berserkers
+### Koka-Kalim
+
+Some Amazons are Berserkers and subject to frenzy. In addition the warriors known as the Kalim are of special interest. The Kalim are a group of religiously fighters who act as the soldiery of Amazonia and the guardian of its people and temples. The constant consumption of the narcotic koka in their diet enables them to live largley without sleep or food - so they tend to be a bit thin and slightly insane looking.Deprived of normal sensory functions they can overcome great
+Pain, and have little aversion to blood, slaughter or death.
 
 |        | M | WS | BS | S | T | W | I | A | Ld | Points |
 |--------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 15     |
+| Amazon | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 7     |
+
 
 Troop Type: Regular infantry
 Base Size: 25 x 25 mm
@@ -153,6 +160,9 @@ Special Rules: Close Order, Fanatical Zeal, Feel No Pain, Furious Charge,
 Immune to Psychology, Impetuous, Hatred (all enemies), Unbreakable
 
 ### Jungle Swarms
+
+
+
 |                | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------- --|---|----|----|---|---|---|---|---|----|--------|
 |Jungle Swarms   | 5 | 3  | 0  | 2 | 2 | 5 | 1 | 5 | 5  | 40     |
@@ -240,7 +250,7 @@ Strongest among the Amazons are the Jaguar Warriors; immensely powerful women th
 
 |                   | M | WS | BS | S | T | W | I | A | Ld | Points |
 |-------------------|---|----|----|---|---|---|---|---|----|--------|
-| Jaguar Warrior    | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 17     |
+| Jaguar Warrior    | 4 | 3  | 3  | 4 | 3 | 1 | 4 | 1 | 7  | 17     |
 
 Troop Type: Regular infantry
 Base Size: 25 x 25 mm
@@ -259,7 +269,7 @@ Python Warriors spend years studying the snakes from which they draw their name,
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Python Warrior    | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 35     |
+| Python Warrior    | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | 17     |
 
 Troop Type: Regular infantry
 Base Size: 25 x 25 mm
