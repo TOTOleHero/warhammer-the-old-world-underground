@@ -1,6 +1,6 @@
 # Amazons
 
-Unofficial and community Legacy army List
+Unofficial Community Legacy army List
 
 
 For Use With Warhammer: The Old World Rules
@@ -11,7 +11,7 @@ The rules contained within this document allow players the opportunity to try ou
 
 # amazons
 
-Amazons are unique in that their race has no males—reproduction takes place by parthenogenic reaction controlled by drugs. When the Siano ruled the world, Amazons were created to undertake many mundane tasks and labor. When the warp-gates collapsed, the Amazons already shared the high civilization of the Siano, serving as technicians and helpmates. As a result, their history has been one of slow degeneration under the shadow of the Slann's heritage, preserving many of the higher sciences lost to the Siano themselves.
+Amazons are unique in that their race has no males—reproduction takes place by parthenogenic reaction controlled by drugs. When the Slann ruled the world, Amazons were created to undertake many mundane tasks and labor. When the warp-gates collapsed, the Amazons already shared the high civilization of the Slann, serving as technicians and helpmates. As a result, their history has been one of slow degeneration under the shadow of the Slann's heritage, preserving many of the higher sciences lost to the Slann themselves.
 
 
 This document contains the following information:
@@ -33,7 +33,7 @@ Amazons Legacy Army List
 
 # Amazons ARMY LIST
 
-This page details the Grand Army composition list for the Empire of Man. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
+This page details the Grand Army composition list for the Amazons. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
 
 This army list is intended for use alongside the ‘Forming Units’ and ‘Warhammer Armies’ sections of the Warhammer: the Old World rulebook. Over the following pages you will find profiles and rules for each of the models in your army. These pages give you all of the information that you need to shape your collection of models into the units which will in turn form a force ready for battle.
 
@@ -43,7 +43,7 @@ This army list is intended for use alongside the ‘Forming Units’ and ‘Warh
 **Characters**
 
 Up to 50% of your army’s points value may be spent on:
- - 0-1 General per 1,000 points
+ - 0-1 Mother of sisterhood per 1,000 points
  - 0-1 Serpent Priestess per 1,000 points
 
 **Core**
@@ -61,8 +61,8 @@ Up to 50% of your army’s points value may be spent on:
 
 **Rare**
 Up to 25% of your army’s points value may be spent on:
- - 0-1 Amazon cold One rider
- - Amazon berserkers, jaguar warrior
+ - 0-1 Amazon cold One rider,Koka-kalim
+ - jaguar warrior
 
 **Mercenaries**
 Up to 20% of your army’s points value may be spent
@@ -74,6 +74,7 @@ allied contingent drawn from:
 
 • One of the following Grand Army composition lists:
 - Lizardmen
+- Only the Valkyrie unit from Norsca Grand Army list.
 
 **Battle Standard Bearer**
 A single hero  in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
@@ -95,6 +96,7 @@ A character that can be mounted may choose a mount from the following list. Some
 A General may be mounted on a:
  - Cold One ...............+18 points
  - Culchan ...............+18 points
+ - Koalt ................+xxx points
 
 
 ### Tribal warriors
@@ -176,6 +178,8 @@ Special Rules: Cold Blooded, Immune to Psychology, Loner, Move through Cover, Po
 
 
 ### Culchan Riders
+
+The Culchan is a huge, flightless, carnivorous bird that lives on the pampas grasslands of the Chulcan Plains of southern Lustria. 
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
@@ -303,6 +307,43 @@ In battle, Piranha Warrior perform the special attacks :
  - Cutting teeth: Until the end of this Combat phase, this unit gains the Extra Attacks
 (+1) special rule.
 
+
+### Koalt
+
+|                  | M | WS | BS | S | T    | W    | I | A | Ld | Points |
+|------------------|---|----|----|---|------|----- |---|---|----|--------|
+| Koalt            | 6 | 6  | -  | 7 | (+3) | (+6) | 4 | 3 | -  |  +210  |
+
+Troop Type: Behemoth
+Base Size: 60 x 100 mm
+Unit Size: 1
+Equipment: serrated maw (see below),
+soporific breath (see below) and
+draconic scales (counts as full plate armour)
+**Special Rules**: 
+ - Close Order
+ - Fly (10)
+ - Large Target
+ - Stomp Attacks (D6)
+ - Swiftstride
+ - Terror
+
+
+|                    | R      | S | AP | Special Rules                        |
+|--------------------|--------|---|----|--------------------------------------|
+| Serrated maw       | Combat | S | -  | Armour Bane (2), Multiple Wounds (2) |
+
+Notes: In combat, this model must make one of its attacks each turn with this weapon.
+
+|                    | R      | S | AP  | Special Rules                        |
+|--------------------|--------|---|-----|--------------------------------------|
+| Soporific breath   | N/A    | 2 | N/A | Breath Weapon                        |
+
+**Notes**: No armour save is permitted against wounds caused by soporific breath (Ward and
+Regeneration saves can be attempted as normal).
+
+**Character Mount**: Only one Koalt may only be included in your army as
+a character’s mount. Its points are added to that of its rider.
 
 ## amazons Magic Items
 
