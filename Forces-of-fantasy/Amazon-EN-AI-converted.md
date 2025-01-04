@@ -1,19 +1,19 @@
 Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WAP Empire to TOW Empire as base.
 
-==== base ===== 
+==== base =====
 
 # Forest Warriors
 
 ## Warriors
-| Profile   | M | WS | BS | S | T | W | I | A | Ld | Points  |
-|-----------|---|----|----|---|---|---|---|---|----|---------|
-| **Warrior** | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 1 | 7  | 4       |
+| Profile     | M | WS | BS | S | T | W | I | A | Ld | Points |
+|-------------|---|----|----|---|---|---|---|---|----|--------|
+| **Warrior** | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 1 | 7  | 4      |
 | **Adept**   | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 2 | 7  | +10/unit |
 
 ## Veteran Warriors
-| Profile           | M | WS | BS | S | T | W | I | A | Ld | Points  |
-|-------------------|---|----|----|---|---|---|---|---|----|---------|
-| **Veteran Warrior** | 4 | 4  | 3  | 3 | 3 | 1 | 3 | 1 | 7  | 6       |
+| Profile           | M | WS | BS | S | T | W | I | A | Ld | Points |
+|-------------------|---|----|----|---|---|---|---|---|----|--------|
+| **Veteran Warrior** | 4 | 4  | 3  | 3 | 3 | 1 | 3 | 1 | 7  | 6      |
 | **Veteran Adept**   | 4 | 4  | 3  | 3 | 3 | 1 | 3 | 2 | 7  | +10/unit |
 
 ## Troop Type
@@ -30,16 +30,16 @@ Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WA
 
 ## Options
 - The entire unit may take one of the following:
-  - **Spears**: +1 point/model
-  - **Replace shields with additional hand weapons**: Free
-  - **Replace shields with bows**: +2 points/model
+  - **Spears**: +1 point/model
+  - **Replace shields with additional hand weapons**: Free
+  - **Replace shields with bows**: +2 points/model
 - Any unit may:
-  - Upgrade one Warrior to an **Adept** (Champion): +10 points/unit
-  - Upgrade one Warrior to a **Standard Bearer**: +10 points/unit
-  - Upgrade one Warrior to a **Musician**: +10 points/unit
+  - Upgrade one Warrior to an **Adept** (Champion): +10 points/unit
+  - Upgrade one Warrior to a **Standard Bearer**: +10 points/unit
+  - Upgrade one Warrior to a **Musician**: +10 points/unit
 - A unit of **Veteran Warriors** may:
-  - Have the **Guerrilla Training** special rule: +1 point/model
-  - Purchase a Magic Standard worth up to: 50 points
+  - Have the **Guerrilla Training** special rule: +1 point/model
+  - Purchase a Magic Standard worth up to: 50 points
 
 ## Special Rules
 - **Forest Strider**
@@ -54,10 +54,10 @@ Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WA
 **Cost**: 6 points per model
 
 ### Profile
-| Unit         | M | WS | BS | S | T | W | I | A | Ld |
-|--------------|---|----|----|---|---|---|---|---|----|
-| Skirmisher   | 4 |  3 |  3 | 3 | 3 | 1 | 3 | 1 |  7 |
-| Tracker      | 4 |  3 |  4 | 3 | 3 | 1 | 3 | 1 |  7 |
+| Unit       | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------|---|----|----|---|---|---|---|---|----|--------|
+| Skirmisher | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 1 | 7  | 6      |
+| Tracker    | 4 | 3  | 4  | 3 | 3 | 1 | 3 | 1 | 7  | 6      |
 
 ### Unit Details
 - **Unit Size**: 10+
@@ -70,8 +70,8 @@ Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WA
 
 ### Options
 - May replace javelins with:
-  - Blowpipes (free)
-  - Slings (free)
+  - Blowpipes (free)
+  - Slings (free)
 - May upgrade javelins to have **Poisoned Attacks** (+1 point/model).
 - May take **shields** (+1 point/model).
 - May upgrade one Skirmisher to a **Tracker** (+10 points).
@@ -88,70 +88,70 @@ Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WA
 
 # Huntresses - 13 points per model
 
-| Profile     | M | WS | BS | S | T | W | I | A | Ld |
-|-------------|---|----|----|---|---|---|---|---|----|
-| Huntress    | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 1 | 7  |
-| Prowler     | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 2 | 7  |
-| Jaguar      | 8 | 3  | 0  | 3 | 3 | 1 | 4 | 1 | 5  |
+| Profile   | M | WS | BS | S | T | W | I | A | Ld | Points |
+|-----------|---|----|----|---|---|---|---|---|----|--------|
+| Huntress | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 1 | 7  | 13     |
+| Prowler   | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 2 | 7  | 13     |
+| Jaguar    | 8 | 3  | 0  | 3 | 3 | 1 | 4 | 1 | 5  | 13     |
 
-**Unit Size:** 5+  
-**Troop Type:** Cavalry (Human)  
-**Equipment:** Light lance, shield  
+**Unit Size:** 5+
+**Troop Type:** Cavalry (Human)
+**Equipment:** Light lance, shield
 
 ### Options
-- May replace light lances with javelins (+1 point/model) or replace light lances & shields with shortbows (free).  
-- May upgrade one Huntress to a **Prowler** (+10 points).  
-- May upgrade one Huntress to a **Musician** (+10 points).  
-- May upgrade one Huntress to a **Standard Bearer** (+10 points).  
-  - May take a Magic Standard worth up to 25 points.  
+- May replace light lances with javelins (+1 point/model) or replace light lances & shields with shortbows (free).
+- May upgrade one Huntress to a **Prowler** (+10 points).
+- May upgrade one Huntress to a **Musician** (+10 points).
+- May upgrade one Huntress to a **Standard Bearer** (+10 points).
+  - May take a Magic Standard worth up to 25 points.
 
 ### Special Rules
-- Fast Cavalry  
-- Forest Strider  
-- Garland Warfare  
-- Guerrilla Tactics  
+- Fast Cavalry
+- Forest Strider
+- Garland Warfare
+- Guerrilla Tactics
 - Strength Bonus (1) *(Jaguar only)*
 
 # Jaguar Hunting Packs
 
-**Points per Model:** 7  
+**Points per Model:** 7
 **Profile:**
 
-| Model          | M  | WS | BS | S  | T  | W  | I  | A  | Ld |
-|----------------|----|----|----|----|----|----|----|----|----|
-| Jaguar         | 8  | 3  | 0  | 3  | 3  | 1  | 4  | 1  | 5  |
-| Beastmistress  | 4  | 3  | 3  | 3  | 3  | 1  | 3  | 1  | 7  |
+| Model         | M | WS | BS | S | T | W | I | A | Ld | Points |
+|---------------|---|----|----|---|---|---|---|---|----|--------|
+| Jaguar        | 8 | 3  | 0  | 3 | 3 | 1 | 4 | 1 | 5  | 7      |
+| Beastmistress | 4 | 3  | 3  | 3 | 3 | 1 | 3 | 1 | 7  | 12     |
 
 ### Unit Details:
-- **Unit Size:** 5+  
-- **Troop Type:**  
-  - Jaguars: War Beast (Animal)  
-  - Beastmistress: Infantry (Human)  
+- **Unit Size:** 5+
+- **Troop Type:**
+  - Jaguars: War Beast (Animal)
+  - Beastmistress: Infantry (Human)
 
 ### Equipment:
-- **Beastmistress:** Two hand weapons  
+- **Beastmistress:** Two hand weapons
 
 ### Options:
 - One Beastmistress must be included for every 5 Jaguars (+5 points/model)
 
 ### Special Rules:
-- Forest Strider  
-- Guerrilla Tactics  
-- Mixed Unit  
-- Skirmishers  
-- Strength Bonus (1)  
+- Forest Strider
+- Guerrilla Tactics
+- Mixed Unit
+- Skirmishers
+- Strength Bonus (1)
 
 
 # Snake Swarms
 **Points Cost:** 30 points per model
 
 ## Profile
-| Unit | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------|----|----|----|----|---|---|---|---|----|--------|
-| Snake Swarm | 5 | 3 | 0 | 2 | 2 | 6 | 1 | 6 | 3 | 30 |
+| Unit        | M | WS | BS | S | T | W | I | A | Ld | Points |
+|-------------|---|----|----|---|---|---|---|---|----|--------|
+| Snake Swarm | 5 | 3 | 0 | 2 | 2 | 6 | 1 | 6 | 3 | 30     |
 
-**Troop Type:** Swarm (Animal)  
-**Base Size:** Not specified  
+**Troop Type:** Swarm (Animal)
+**Base Size:** Not specified
 **Unit Size:** 2+
 
 ## Equipment
@@ -165,17 +165,16 @@ Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WA
 ## Options
 * None
 
-
-
 ==== SPECIAL =====
 
-# PIRANHA WARRIORS  
-**8 points per model**  
+# PIRANHA WARRIORS
+**8 points per model**
 
-| Profile         | M | WS | BS | S | T | W | I | A | Ld |
-|-----------------|---|----|----|---|---|---|---|---|----|
-| Piranha Warrior | 4 | 3  | 4  | 3 | 3 | 1 | 4 | 1 | 8  |
-| Razorfin        | 4 | 3  | 5  | 3 | 3 | 1 | 4 | 1 | 8  |
+## Profile
+| Profile         | M | WS | BS | S | T | W | I | A | Ld | Points |
+|-----------------|---|----|----|---|---|---|---|---|----|--------|
+| Piranha Warrior | 4 | 3  | 4  | 3 | 3 | 1 | 4 | 1 | 8  | 8      |
+| Razorfin       | 4 | 3  | 5  | 3 | 3 | 1 | 4 | 1 | 8  | 18     |
 
 ### Unit Size:
 - 10+
@@ -184,26 +183,25 @@ Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WA
 - Infantry (Human)
 
 ### Equipment:
-- Hand weapon  
-- Javelins  
+- Hand weapon
+- Javelins
 
 ### Options:
-- May replace javelins with **Sunstaffs** (+5 points/model).  
-- May upgrade javelins to have **Poisoned Attacks** (+1 point/model).  
-- May take **shields** (+1 point/model).  
-- May take **Amulets of the Moon** (+2 points/model).  
-- May take **Koka** (+1 point/model).  
-- May upgrade one Piranha Warrior to a **Razorfin** (+10 points).  
-- May upgrade one Piranha Warrior to a **Musician** (+10 points).  
-- May upgrade one Piranha Warrior to a **Standard Bearer** (+10 points).  
-  - May take a **Magic Standard** worth up to 50 points.  
+- May replace javelins with **Sunstaffs** (+5 points/model).
+- May upgrade javelins to have **Poisoned Attacks** (+1 point/model).
+- May take **shields** (+1 point/model).
+- May take **Amulets of the Moon** (+2 points/model).
+- May take **Koka** (+1 point/model).
+- May upgrade one Piranha Warrior to a **Razorfin** (+10 points).
+- May upgrade one Piranha Warrior to a **Musician** (+10 points).
+- May upgrade one Piranha Warrior to a **Standard Bearer** (+10 points).
+  - May take a **Magic Standard** worth up to 50 points.
 
 ### Special Rules:
-- Forest Strider  
-- Garland Warfare  
-- Guerrilla Tactics  
-- Skirmishers  
-
+- Forest Strider
+- Garland Warfare
+- Guerrilla Tactics
+- Skirmishers
 
 # Eagle Warriors
 
