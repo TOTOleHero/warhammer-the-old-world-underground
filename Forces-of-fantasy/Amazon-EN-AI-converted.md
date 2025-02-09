@@ -209,9 +209,11 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 |-------------|---|----|----|---|---|---|---|---|----|--------|
 | Snake Swarm | 5 | 3 | 0 | 2 | 2 | 6 | 1 | 6 | 3 | 30     |
 
-**Troop Type:** Swarm (Animal)
-**Base Size:** Not specified
-**Unit Size:** 2+
+**Troop Type:** Swarm
+
+**Base Size:**  40 x 40 mm
+
+**Unit Size:** 2-10
 
 ## Equipment
 * None
