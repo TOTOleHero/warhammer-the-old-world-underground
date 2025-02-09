@@ -103,7 +103,7 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
   - Purchase a Magic Standard worth up to: 50 points
 
 ## Special Rules
-- **Forest Strider**
+- **Move through Cover**
 - **Garland Warfare**
 - **Guerrilla Tactics**
 - **Veteran Warriors**: Gain **Guerrilla Training** special rule when selected
@@ -139,7 +139,7 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 - May upgrade one Skirmisher to a **Musician** (+10 points).
 
 ### Special Rules
-- **Forest Strider**
+- **Move through Cover**
 - **Garland Warfare**
 - **Guerrilla Tactics**
 - **Skirmishers**
@@ -168,7 +168,7 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 
 ### Special Rules
 - Fast Cavalry
-- Forest Strider
+- Move through Cover
 - Garland Warfare
 - Guerrilla Tactics
 - Strength Bonus (1) *(Jaguar only)*
@@ -196,7 +196,7 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 - One Beastmistress must be included for every 5 Jaguars (+5 points/model)
 
 ### Special Rules:
-- Forest Strider
+- Move through Cover
 - Guerrilla Tactics
 - Mixed Unit
 - Skirmishers
@@ -259,7 +259,7 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
   - May take a **Magic Standard** worth up to 50 points.
 
 ### Special Rules:
-- Forest Strider
+- Move through Cover
 - Garland Warfare
 - Guerrilla Tactics
 - Skirmishers
@@ -290,7 +290,7 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
   - May take a Magic Standard worth up to 50 points
 
 ## Special Rules
-- Forest Strider  
+- Move through Cover  
 - Garland Warfare  
 - Guerrilla Tactics  
 - Vanguard
@@ -323,7 +323,7 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 
 ## Special Rules
 - **Ambushers**
-- **Forest Strider**
+- **Move through Cover**
 - **Garland Warfare**
 - **Guerrilla Tactics**
 
@@ -358,7 +358,7 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 ---
 
 ### Special Rules
-- **Forest Strider**  
+- **Move through Cover**  
 - **Garland Warfare**  
 - **Guerrilla Tactics**  
 - **Poisoned Attacks**  
@@ -397,7 +397,7 @@ Cavalry (Human)
 ### SPECIAL RULES
 - **Armour Piercing (1)** (Culchan only)  
 - **Fast Cavalry**  
-- **Forest Strider**  
+- **Move through Cover**  
 - **Garland Warfare**  
 - **Guerrilla Tactics**
 
@@ -426,7 +426,7 @@ Cavalry (Human)
 
 **Special Rules**:  
 - Fear  
-- Forest Strider  
+- Move through Cover  
 - Garland Warfare  
 - Guerrilla Tactics  
 - Natural Armour (6+)  
@@ -466,7 +466,7 @@ Cavalry (Human)
 - **Fast Cavalry**
 - **Fear**
 - **Fly (9)**
-- **Forest Strider**
+- **Move through Cover**
 - **Garland Warfare**
 - **Guerrilla Tactics**
 
@@ -496,7 +496,7 @@ To drop rocks, select one unengaged enemy unit that the Terradons moved over in 
 - May upgrade one Gorol to a Silverback (+10 points)
 
 ## Special Rules:
-- **Forest Strider**
+- **Move through Cover**
 
 
 ## Serpent Guard
@@ -529,7 +529,7 @@ To drop rocks, select one unengaged enemy unit that the Terradons moved over in 
   - May take a Magic Standard worth up to 50 points.
 
 ### Special Rules
-- **Forest Strider**
+- **Move through Cover**
 - **Garland Warfare**
 - **Guerrilla Tactics**
 - **Stubborn**
