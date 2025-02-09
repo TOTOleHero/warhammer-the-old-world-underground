@@ -1,5 +1,62 @@
 Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WAP Empire to TOW Empire as base.
 
+
+
+# AMAZON SPECIAL RULES  
+
+A game of *Warhammer: The Old World* is filled with skilled warriors, mystical artifacts, and unique fighting styles that the core rules cannot fully encompass. To represent these, special rules are used—covering the rare and extraordinary abilities of Amazon warriors.  
+On the following pages, you will find a full description of the army special rules used by models drawn from the Amazon army list:  
+
+## **Cold-Blooded**  
+The Amazons’ unwavering resolve and disciplined nature make them incredibly difficult to shake.  
+Whenever a model with this special rule takes a Leadership test, it rolls an additional dice and discards the highest result.  
+
+## **Garland Warfare**  
+Amazons are relentless in pursuit, closing in on their enemies with exceptional speed.  
+All models with this special rule may re-roll the distance they pursue a broken enemy from combat.  
+
+## **Guerrilla Tactics**  
+Amazons are masters of hit-and-run warfare, vanishing from battle only to strike again from an unexpected angle.  
+In any Close Combat phase where a unit with this special rule neither breaks nor breaks its enemy, it may choose to disengage from combat instead of performing a Combat Reform. If the unit lost the combat, it must first pass a Leadership test, just as when attempting to Reform from Defeat.  
+
+If the unit successfully disengages, it immediately makes a Flee move as if it had broken from combat. This Flee move follows the rules for *Feigned Flight* (though only Fast Cavalry and Skirmishers may move normally in the Remaining Moves phase after rallying). After completing its move, the unit automatically rallies.  
+
+The enemy unit may not Pursue but can perform a Combat Reform as normal.  
+
+---
+
+# **Amazon Weapons & Wargear**  
+
+## **Koka**  
+A stimulant brewed by Amazon shamans, Koka fills warriors with an unquenchable thirst for battle.  
+- Models with this upgrade gain the *Frenzy* special rule.  
+- They do not lose *Frenzy* even if they lose a round of combat.  
+
+## **Sunstaff**  
+These ancient weapons fire concentrated beams of searing sunlight, burning through armor with ease.  
+A **Sunstaff** has the following profile:  
+- **Range:** 24"  
+- **Strength:** 4  
+- **Special Rules:** Armour Piercing (1), Magical Attacks, Quick to Fire  
+
+## **Claw of the Old Ones**  
+Said to be remnants of the Old Ones' weapons, these claws tear through flesh and armor alike.  
+A **Claw of the Old Ones** is a *Hand Weapon* with the following special rules:  
+- **Strength Bonus:** +1  
+- **Special Rules:** Armour Piercing (1), Magical Attacks  
+
+## **Sun Gauntlet**  
+These sacred gauntlets fire short-range bursts of divine energy, making them feared on the battlefield.  
+A **Sun Gauntlet** is a *Pistol* with the following special rule:  
+- **Special Rules:** Magical Attacks  
+
+## **Amulet of the Moon**  
+Blessed by Amazon priestesses, these talismans shimmer with moonlight, turning aside incoming projectiles.  
+Against missile attacks, an **Amulet of the Moon** provides the following benefits:  
+- The wearer imposes a **-1 penalty** on enemies attempting to hit them.  
+- The wearer gains a **Ward save (5+).**  
+
+
 ==== base =====
 
 # Forest Warriors
