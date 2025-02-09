@@ -185,9 +185,8 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 
 ### Unit Details:
 - **Unit Size:** 5+
-- **Troop Type:**
-  - Jaguars: War Beast (Animal)
-  - Beastmistress: Infantry (Human)
+- **Troop Type:** Light cavalry
+- **Base Size:** 25 x 50 mm
 
 ### Equipment:
 - **Beastmistress:** Two hand weapons
@@ -198,7 +197,6 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 ### Special Rules:
 - Move through Cover
 - Guerrilla Tactics
-- Mixed Unit
 - Skirmishers
 - Strength Bonus (1)
 
