@@ -7,6 +7,10 @@ Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WA
 A game of *Warhammer: The Old World* is filled with skilled warriors, mystical artifacts, and unique fighting styles that the core rules cannot fully encompass. To represent these, special rules are used—covering the rare and extraordinary abilities of Amazon warriors.  
 On the following pages, you will find a full description of the army special rules used by models drawn from the Amazon army list:  
 
+## *AQUATIC*
+Models with the Aquatic special rule can move within any area of water on the battlefield, including rivers and even deep water that 
+layers may have deemed impassable to other models, as if it were open ground. However, they are still subject to any special effects that specific terrain may have (e.g. we don't exempt Aquatic models from the dangers of marshes). In addition, models with this special  rule can march, claim rank bonus and be steadfast even when in water. Furthermore, if every model in a unit has the Aquatic special rule, and the majority of the unit is within water terrain, enemies shooting at that unit suffer an additional -1 To Hit penalty.
+
 ## **Cold-Blooded**  
 The Amazons’ unwavering resolve and disciplined nature make them incredibly difficult to shake.  
 Whenever a model with this special rule takes a Leadership test, it rolls an additional dice and discards the highest result.  
