@@ -685,3 +685,135 @@ At the start of the Amazon turn, the Avatar of Rigg may choose one of the follow
 ## Notes
 * You may only have one Avatar of Rigg included in your army
 
+
+
+# MAGIC ITEMS
+This section contains the rules for some of the most iconic and powerful magical artifacts used by the Amazons. These may be used in addition to the magic items found in the Warhammer rulebook.
+
+## MAGIC WEAPONS
+
+- **Star Sword** (60 points)  
+  Grants the wielder **Always Strikes First, Ignores Armour Saves, and Parry (6+)** special rules.
+
+- **Arc Claws** (40 points)  
+  Counts as **two hand weapons**. Attacks made with Arc Claws have the **Lightning Attacks** special rule, and the wielder may **reroll failed To Wound rolls** in close combat.
+
+- **Hand of Rigg** (40 points)  
+  All attacks made with this weapon are resolved at **Strength 8** and gain **Always Strikes Last** special rule.
+
+- **Bright Staff** (30 points)  
+  A **Sunstaff** with **30" range** and **Multiple Shots (D6)** special rule.
+
+- **Jaguar Mace** (25 points)  
+  Grants **Armour Piercing (1)**, and enemies in close combat suffer **-1 To Hit** when attacking the wielder.
+
+- **Skypiercer** (25 points)  
+  A **bow** that fires at **Strength 5** with the **Flaming Attacks** special rule. The arrow penetrates ranks like a **bolt thrower**, without Strength penalties for each rank.
+
+- **Meteor Spear** (25 points)  
+  A **light lance** with the **Flaming Attacks** special rule. When charging, attacks gain **+1 Strength, Armour Piercing (1), and Multiple Wounds (D3)**.
+
+- **Roar of Chotec** (25 points)  
+  A **Sun Gauntlet** that fires at **Strength 6**. Can be overcharged to **Strength 7** with **Multiple Wounds (2)**, but a To Hit roll of **1** causes the wielder to suffer an automatic hit.
+
+- **Stunning Rod** (20 points)  
+  A **Great Weapon**. Any enemy suffering an unsaved wound from this weapon gains **Always Strikes Last** in the next combat round (**except those with Immunity (Lightning Attacks)**).
+
+## MAGIC ARMOUR
+
+- **Shield of Feather Iron** (40 points)  
+  A **shield** that forces all enemies in base contact to suffer **Always Strikes Last**.
+
+- **Crystalline Armour** (35 points)  
+  A **medium armour** that generates an extra **Power Dice or Dispel Dice** each time a spell is successfully cast on the bearer or their unit. Characters may wear this even if they cannot take normal medium armour.
+
+- **Armour of the Swamp Drake** (10 points)  
+  A **light armour** that grants **Aquatic** and **Natural Armour (6+)** special rules.
+
+## TALISMANS
+
+- **Magic Feathers of Natalina** (50 points)  
+  Enemies must **reroll successful To Hit rolls** in close combat and with missile weapons. Also grants a **Ward save (6+)**.
+
+- **Aspect of Axlberyn** (40 points)  
+  **Model on foot only.** Grants the **Ethereal** special rule, but the bearer **cannot join units**.
+
+- **Shield Amulet** (40 points)  
+  When suffering a Wound, roll a D6. If the result is **equal to or higher** than the Strength of the attack, the Wound is nullified.
+
+- **Sign of Potec** (30 points)  
+  Grants **Magic Resistance (1)**. Additionally, **Daemonic, Undead, and Vampiric** models must **reroll successful To Hit rolls** against the bearer in close combat.
+
+- **Mirage of Amaxonia** (20 points)  
+  Grants **Dodge (5+)** special rule.
+
+- **Itzl’s Beast-Ward** (15 points)  
+  **Warbeasts, Monstrous Beasts, Monsters, Cavalry, Monstrous Cavalry, and Chariots** must pass a **Leadership test** before charging the bearer or their unit. If failed, they must choose another target.
+
+## ARCANE ITEMS
+
+- **Bright Wand of Xoloc** (35 points)  
+  **Bound Spell (Power Level 4)**. Fires a **24" magic missile** that behaves like a **bolt thrower** with **Flaming Attacks**.
+
+- **Locket of Rigg** (35 points)  
+  **Bound Spell (Power Level 4)**. At the start of the game, roll a D6 to determine a **random spell from the Lore of Light** contained in the Locket. You may replace the result with **Shem’s Burning Gaze**.
+
+- **The Cobra Staff** (30 points)  
+  **Bound Spell (Power Level 3)**. Fires a **magic missile (18" range)** that causes **2D6 hits**, always **Wounds on 4+**, and has **Armour Piercing (2)**.
+
+- **Tiara of Serena** (20 points)  
+  The bearer may **attempt to cast the same spell twice** per Magic phase if the first attempt fails or is dispelled.
+
+## ENCHANTED ITEMS
+
+- **Elixir of Life** (50 points)  
+  Grants **Regeneration (6+)** and **heals one Wound** at the start of each turn.
+
+- **Fiery Wings** (30 points)  
+  **Models on foot only.** Grants **Fly (10) and Impact Hits (1)**.
+
+- **Plaque of the Old Ones** (25 points)  
+  Makes the bearer a **Level 1 Wizard** who may use any of the **eight Lores of Battle Magic**. However, they gain **no casting/dispel bonuses and cannot channel dice**.
+
+- **Blue Stump Brew** (20 points, One Use Only)**  
+  Can be used at any time. Roll a D6; the result is the **total number of points** the bearer may distribute **across any of their characteristics** until the next turn.
+
+- **Eye of Tzcalli** (20 points)  
+  Grants the **Sniper** special rule.
+
+  - **Emerald of the Moon** (15 points)  
+  Grants **Armour Piercing (1)** and **Poisoned Attacks** special rules.
+
+- **Augur Skull** (10 points)  
+  Enemy units deploying with the **Scout** special rule cannot be set up closer than **18"** from the bearer.
+
+- **Statue of Sotek** (10 points)  
+  All **Skink units** in base contact with the bearer gain the **Always Strikes Last** and **Hatred** special rules.
+
+- **Warrior’s Sun Ring** (10 points)  
+  The bearer may **reroll one failed To Wound roll** in each of their combat phases.
+
+- **Huanchi’s Jaguar Headdress** (5 points)  
+  **Infantry or Cavalry only.** Grants the **Ambushers** special rule.
+
+## MAGIC STANDARDS
+
+- **Banner of the First Queen** (55 points)  
+  Increases the range of the bearer’s **Hold Your Ground** special rule by **6"**. Also, the bearer and any accompanying unit gain the **Strider** special rule and are **Stubborn** in the first round of close combat.
+
+- **Jaguar Standard** (45 points)  
+  The unit carrying the **Jaguar Standard** gains the **Strength Bonus (1)** special rule and may take their **Break Tests on 3D6**, discarding the highest result.
+
+- **Eagle Banner** (40 points)  
+  The unit carrying the **Eagle Banner** gains the **Swiftstride** special rule and may **reroll any 1's** for their charge distance roll.
+
+- **Piranha Totem** (30 points)  
+  The unit carrying this standard gains the **Killing Blow** special rule.
+
+- **Pennant of Serena** (25 points)  
+  The unit carrying this standard automatically passes **Leadership tests** to disengage from combat when using **Guerrilla Tactics**. Additionally, they may move normally during the **Remaining Moves phase** after rallying, even if they are not **Skirmishers** or **Fast Cavalry**.
+
+- **Tapestry of Inhamex** (15 points)  
+  If a friendly unit within **6"** is destroyed or involuntarily flees, the unit carrying this standard may **reroll 1's** when rolling **To Hit** and **To Wound** in their next close combat phase.
+
+
