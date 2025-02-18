@@ -820,4 +820,31 @@ This section contains the rules for some of the most iconic and powerful magical
 - **Tapestry of Inhamex** (15 points)  
   If a friendly unit within **6"** is destroyed or involuntarily flees, the unit carrying this standard may **reroll 1's** when rolling **To Hit** and **To Wound** in their next close combat phase.
 
+# LORE OF THE SERPENT
+
+While the magic of the Amazons remains a mystery beyond their island domain, it is whispered that their power is a direct gift from the Gods themselves. Amazon Priestesses channel the untamed forces of the jungle, shaping the elements, beasts, and flora to their will.  
+
+### Singing Wind  
+The Priestess calls to her the spirit of the divine wind, whipping the jungle into a frenzy and lashing her foes without mercy.  
+
+**Type:** Assailment  
+**Casting Value:** 7+  
+**Range:** 18"  
+**Effect:** The target enemy unit suffers D6 Strength 3 hits. Any unit affected by this spell must take a Panic test if it suffers one or more casualties.  
+
+### Serpent's Strength  
+Calling wildly to the ancients, the Priestess summons the raw power of the jungle, its essence filling her with primal fury.  
+
+**Type:** Enchantment  
+**Casting Value:** 9+  
+**Range:** Self  
+**Effect:** Remains in Play. Whilst this spell is in play, the caster and any unit they have joined gain a +1 modifier to their Strength characteristic (to a maximum of 10).  
+
+### The Living Jungle  
+In a whirl of graceful motion, the Priestess calls forth the denizens of the jungle, binding them to aid her against her foes.  
+
+**Type:** Magical Vortex  
+**Casting Value:** 11+  
+**Range:** 18"  
+**Effect:** Place a small (3") blast template so that its central hole is within 18" of the caster. Any enemy unit under or touching the template suffers D6 Strength 3 hits. If a 5 or 6 is rolled for any model’s wound roll, that model suffers an additional Strength 2 hit.  
 
