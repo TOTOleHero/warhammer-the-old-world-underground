@@ -1,4 +1,4 @@
-Converted with some AI tools like ChatGPT, Gemini, claude. Used the convetion WAP Empire to TOW Empire as base.
+Converted with some AI tools like ChatGPT, Gemini, claude. Used the convertion WAP Empire to TOW Empire as base.
 
 
 
