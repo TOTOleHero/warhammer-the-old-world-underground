@@ -61,6 +61,54 @@ Against missile attacks, an **Amulet of the Moon** provides the following benefi
 - The wearer gains a **Ward save (5+).**  
 
 
+=== characters ====
+
+# Amazonian Priestesses
+
+## Mages of the Sisterhood
+
+Elusive and powerful, the Serpent Priestesses of the Amazonian Sisterhood are masters of both magic and survival. These warrior-mystics wield potent magical abilities and possess an unmatched connection to the untamed wilderness of Lustria. They are rarely seen by outsiders, but those fortunate enough to gain their favor find themselves allied with formidable sorceresses who can turn the tide of battle.
+
+## Profile
+
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|---|---|----|----|---|---|---|----|---|----|--------|
+| Serpent Priestess | 5  | 4  | 4  | 3  | 3  | 3  | 4  | 2  | 8  | 155 |
+| Mystic Adept | 5  | 4  | 4  | 3  | 3  | 2  | 4  | 1  | 8  | 80  |
+
+**Troop Type:** Regular infantry (character)  
+**Base Size:** 25 x 25 mm  
+**Unit Size:** 1  
+
+## Equipment:
+- Hand weapon
+
+## Magic:
+A **Serpent Priestess** is a **Level 3 Wizard**, while a **Mystic Adept** is a **Level 1 Wizard**. Every Amazonian Mage knows spells from one of the following Lores of Magic:
+- **Battle Magic**
+- **Elementalism**
+- **High Magic**
+- **Illusion**
+
+## Options:
+- May have the **Talismanic Tattoos** special rule for **+15 points**
+- May be mounted *(See page 126)*
+- May take **Jungle Spirits** *(See page 141)* up to a total of **50 points**
+- A **Serpent Priestess** may:
+  - Be a **Level 4 Wizard** for **+30 points**
+  - Purchase **magic items** up to a total of **100 points**
+- A **Mystic Adept** may:
+  - Be a **Level 2 Wizard** for **+30 points**
+  - Purchase **magic items** up to a total of **50 points**
+
+## Special Rules:
+- **Lore of the serpent**
+- **Jungle-born** – The Serpent Priestess and Mystic Adept are attuned to the deep jungles of Lustria, moving effortlessly through its perils.
+- **Magical Attacks**
+- **Move through Cover**
+
+
+
 ==== base =====
 
 # Forest Warriors
