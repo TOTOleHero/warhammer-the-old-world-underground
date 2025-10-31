@@ -85,7 +85,7 @@ A single hero  in your army may be upgraded to be your Battle Standard Bearer fo
 
 |                    | M | WS | BS | S | T | W | I | A | Ld | Points |
 |--------------------|---|----|----|---|---|---|---|---|----|--------|
-| Serpent Priestess  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  |        |
+| Serpent Priestess  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 50     |
 
 
 
