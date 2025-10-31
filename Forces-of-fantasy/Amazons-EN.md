@@ -164,10 +164,8 @@ Immune to Psychology, Impetuous, Hatred (all enemies), Unbreakable
 
 ### Jungle Swarms
 
-
-
 |                | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------- --|---|----|----|---|---|---|---|---|----|--------|
+|----------------|---|----|----|---|---|---|---|---|----|--------|
 |Jungle Swarms   | 5 | 3  | 0  | 2 | 2 | 5 | 1 | 5 | 5  | 40     |
 
 Troop Type: Swarms
@@ -246,6 +244,7 @@ Equipment: High Age weapons pistol
 Special Rules: Close Order, Immune to Psychology, Move through Cover
 
 |                         | R      | S   | AP | Special Rules |
+|-------------------------|--------|-----|----|---------------|
 | High Age weapons pistol | 12''   | 4   | -2 |               |
 
 
@@ -264,6 +263,7 @@ Equipment: Claw of the old ones (see below)
 
 
 |                      | R      | S   | AP | Special Rules |
+|----------------------|--------|-----|----|---------------|
 | Claw of the old ones | Combat | S+1 | -2 |               |
 
 **Claw of the old ones** : the 
@@ -282,6 +282,7 @@ Unit Size: 5+
 Equipment: Arrows of python,
 
 |                      | R    | S  | AP | Special Rules     |
+|----------------------|------|----|----|-------------------|
 | Arrows of python     | 24'' | 3  | -1 | Poisoned Attacks  |
 
 
