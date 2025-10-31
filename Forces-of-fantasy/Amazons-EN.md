@@ -56,7 +56,8 @@ At least 25% of your army’s points value must be spent on:
 **Special**
 
 Up to 50% of your army’s points value may be spent on:
-• 0-1 Amazon culchan rider
+
+ - 0-1 Amazon culchan rider
  - Piranha Warrior, Python Warrior 
 
 **Rare**
