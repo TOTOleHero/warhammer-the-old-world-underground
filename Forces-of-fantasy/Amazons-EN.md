@@ -81,6 +81,122 @@ allied contingent drawn from:
 A single hero  in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
 
+
+# Mother of Sisterhood
+
+## Background
+
+The Mothers of Sisterhood are the matriarchs and military leaders of the Amazon tribes of Lustria. Direct heirs to Slann knowledge, they are commanders, guardians of ancestral traditions, and spiritual figures of their people. Each Mother oversees a tribe or group of related tribes, maintaining social order and perpetuating the parthenogenic reproduction rituals that ensure their race's survival.
+
+Unlike Serpent Priestesses who channel magical energies, Mothers of Sisterhood excel in the art of war and tactical command. They carry the most ancient Blades of the Ancients, Slann artefacts passed down through generations, and are often accompanied by totem animals symbolizing their authority.
+
+---
+
+## Profile
+
+### Mother of Sisterhood - 85 points
+
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|----|
+| 4 | 5  | 4  | 3 | 3 | 3 | 5 | 3 | 9  |
+
+**Troop Type:** Infantry (Hero)
+
+**Unit Size:** 1
+
+---
+
+## Special Rules
+
+* **Blades of the Ancients** (see Amazons Army Special Rules)
+* **Inspiring Presence**
+* **Native of Lustria** (see Amazons Army Special Rules)
+* **Skirmisher** (if on foot only)
+* **Matriarch Authority**
+* **Ancient Wisdom**
+
+### Matriarch Authority
+
+The Mother of Sisterhood represents supreme authority in the Amazon hierarchy. Her command is absolute and her presence on the battlefield inspires her sisters to greater feats of martial prowess.
+
+Amazon Core units (Tribal Warriors, Anakonda Warriors, and Humming Bird Warriors) within 12" of one or more friendly models with this special rule may use that model's Leadership characteristic when taking Leadership tests.
+
+Once per battle, at the start of any phase during the Amazon player's turn, a model with this special rule may declare a **Sister's Command**. Until the end of that turn, all Amazon units within 18" of the model that declared the Sister's Command gain +1 to their Combat Resolution.
+
+### Ancient Wisdom
+
+Mothers of Sisterhood have preserved fragments of Slann knowledge concerning warfare and tactics, allowing them to outmaneuver their foes through superior strategic insight.
+
+If your army includes at least one model with this special rule, you may re-roll a single dice when rolling to determine who chooses deployment zones.
+
+In addition, if your army's General has this special rule, you may deploy one Core unit after the enemy has finished deploying their army (but before Scouts are deployed).
+
+---
+
+## Equipment
+
+### Standard Equipment
+
+* Hand weapon
+* Blade of the Ancients
+* Light armour
+
+---
+
+## Options
+
+### Weapons & Armour
+
+* May replace hand weapon with one of the following:
+  * Spear .......................................................................... free
+  * Great weapon ............................................................. +6 pts
+
+* May take one of the following:
+  * Shield .......................................................................... +2 pts
+  * Additional hand weapon ................................................ +3 pts
+
+* May replace light armour with:
+  * Heavy armour .............................................................. +3 pts
+
+* May take:
+  * Javelin ........................................................................ +2 pts
+
+### Mounts
+
+* May ride one of the following:
+  * Culchan (see Amazons Bestiary) .................................... +20 pts
+  * Cold One (see Amazons Bestiary) .................................. +30 pts
+  * Koalt (see Amazons Bestiary) ....................................... +210 pts (0-1 per army)
+
+### Special Options
+
+* May be upgraded to:
+  * **Battle Standard Bearer** (see Battle Standard Bearer rules) .... +25 pts
+  * **Champion of the Ancients** (see below) ............................ +15 pts
+
+#### Champion of the Ancients
+
+Some Mothers of Sisterhood are exceptional warriors, chosen and trained from childhood to embody the martial heritage of their race. These champions have honed their skills to perfection and are capable of challenging even the mightiest heroes.
+
+A model upgraded to be a Champion of the Ancients has the following improved profile:
+
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|----|
+| 4 | 6  | 4  | 3 | 3 | 3 | 5 | 3 | 9  |
+
+In addition, the model gains the **Killing Blow** special rule.
+
+Furthermore, during the first round of any close combat, a Champion of the Ancients may re-roll failed rolls To Hit.
+
+### Magic Items
+
+* May take magic items chosen from the Common and/or Amazons magic items lists with a total points value of up to .................................................. 50 pts
+
+#### Battle Standard Bearer
+
+If the model has been upgraded to be the army's Battle Standard Bearer, it may take a magic standard (this is an exception to the normal rules for magic items). Note that a magic standard still counts towards this model's magic item points allowance.
+
+
 ### Serpent Priestess 
 
 |                    | M | WS | BS | S | T | W | I | A | Ld | Points |
@@ -97,7 +213,7 @@ A character that can be mounted may choose a mount from the following list. Some
 A General may be mounted on a:
  - Cold One ...............+18 points
  - Culchan ...............+18 points
- - Koalt ................+xxx points
+ - Koalt ................ +210 pts
 
 
 ### Tribal warriors
