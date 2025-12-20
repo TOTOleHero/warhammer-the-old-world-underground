@@ -203,6 +203,63 @@ If the model has been upgraded to be the army's Battle Standard Bearer, it may t
 |--------------------|---|----|----|---|---|---|---|---|----|--------|
 | Serpent Priestess  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 50     |
 
+# High Priestess of the Serpent - Ritual of the Scaled Servants
+
+## Updated Serpent Priestess Entry
+
+### Serpent Priestess - Wizard Level 1-4
+
+**Special Rules:**
+- Blades of the Ancients
+- Native of Lustria
+- Lore of Lustria (Wizards only)
+
+**Magic:**
+A Serpent Priestess is a Wizard who uses spells from the Lore of Lustria.
+
+A Serpent Priestess may be upgraded to:
+- Wizard Level 2 for +35 points
+- Wizard Level 3 for +70 points  
+- Wizard Level 4 for +105 points
+
+A Wizard Level 4 Serpent Priestess may be upgraded to a **High Priestess of the Serpent** (see below).
+
+---
+
+## High Priestess of the Serpent Upgrade
+
+### High Priestess of the Serpent - +50 points
+
+**Requirements:**
+- Only available to a Serpent Priestess (Hero) at Wizard Level 4
+- Must be included in a 2000+ point army
+
+**Background:**
+
+The highest rank among the Serpent Priestesses, a High Priestess has mastered not only the magical arts of the Lore of Lustria but also the ancient rituals recorded on Slann stone tablets hidden deep within the temple ruins. These forbidden rites allow her to awaken and command the great beasts that once served the Old Ones as guardians and war-engines.
+
+Through days of chanting and ritual preparation, a High Priestess can perform the **Ritual of the Scaled Servants**, calling forth the descendants of creatures that remember the time when the Slann ruled Lustria. These ancient beasts recognize the authority carried in the Priestess's words and temporarily submit to the Amazon warband, seeing in them echoes of their former masters.
+
+However, this power comes at great cost. The ritual drains the Priestess's spiritual energy and requires rare sacred herbs and offerings. For this reason, only the most desperate circumstances warrant summoning these primordial creatures to war.
+
+---
+
+### Special Rule: Ritual of the Scaled Servants
+
+A High Priestess of the Serpent has performed the forbidden rituals to command the great scaled beasts that once served the Slann.
+
+If your army includes a High Priestess of the Serpent, you may include the following units in your army:
+
+**Special Choices:**
+- **0-2 units of Amazon Cold One Riders** (in addition to any already allowed)
+- **0-1 unit of Amazon Terradon Riders** (see new unit entry below)
+
+**Rare Choices:**
+- **0-1 War Stegadon of the Ancients** (see new unit entry below)
+
+These units count as Amazon units for all purposes and gain the **Native of Lustria** special rule. However, they do **not** gain the **Cold-Blooded** special rule (they are commanded by the Priestess's will, not naturally disciplined like true Lizardmen beasts).
+
+**Restriction:** If the High Priestess of the Serpent is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to **Stupidity** for the remainder of the game as the Priestess's control over the beasts weakens.
 
 
 
@@ -396,6 +453,38 @@ Options:
 Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Close Order,Stupidity,
 Swiftstride
 
+### Amazon Terradon Riders
+
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Amazon           | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 30     |
+| Sky Huntress     | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 8  | +10    |
+| Terradon         | 2 | 3  | -  | 4 | 4 | 2 | 3 | 2 | -  | -      |
+
+**Troop Type:** Monstrous Cavalry (Skirmishers)
+
+**Base Size:** 40 x 40 mm (flying base)
+
+**Unit Size:** 3-6
+
+**Equipment:**
+- Amazon Terradon Riders: hand weapon, javelin, shield, light armour
+- Terradon: Claws and beak (counts as hand weapons)
+
+**Options:**
+• Any unit may:
+- Upgrade one model to a Sky Huntress (champion)................................. +10 points per unit
+- Upgrade one model to a standard bearer.................................................. +10 points per unit
+- Upgrade one model to a musician.............................................................. +10 points per unit
+- Replace javelins with bows......................................................................... +1 point per model
+- Replace javelins with spears...................................................................... at no additional cost
+
+**Special Rules:** Blades of the Ancients (rider only), Fly (10), Native of Lustria, Skirmishers, Dropping Rocks
+
+**Dropping Rocks:** Once per battle, at the start of any friendly Shooting phase, a unit of Amazon Terradon Riders may drop rocks instead of making normal shooting attacks. Choose one enemy unit that the Terradon Riders moved over during their previous Movement phase. That unit immediately suffers D6 Strength 4 hits with no Armour Save allowed, distributed as shooting hits.
+
+**Restrictions:** Amazon Terradon Riders may only be included in an army that contains a High Priestess of the Serpent. If the High Priestess is slain, the unit must take a Leadership test at the start of each friendly turn. If failed, the unit must use its Fly movement to move towards the nearest table edge. If it reaches the table edge, it is removed from play.  
+
 
 ### Eagle Warrior 
 
@@ -477,6 +566,115 @@ In battle, Piranha Warrior perform the special attacks :
 
  - Cutting teeth: Until the end of this Combat phase, this unit gains the Extra Attacks
 (+1) special rule.
+
+
+### War Stegadon of the Ancients - 280 points
+
+**Background:**
+
+The War Stegadon is a living relic of the age when the Old Ones walked Lustria. These colossal creatures served as mobile fortresses for the Slann, their massive howdahs carrying priests and warriors into battle. When the Amazons discovered how to awaken and command these ancient beasts through the Ritual of the Scaled Servants, they adapted the tradition to their own needs.
+
+Atop the War Stegadon's reinforced howdah, a crew of elite Amazon warriors rains arrows and javelots upon the enemy while the beast itself tramples through enemy formations with unstoppable momentum. The ground shakes with each footfall, and entire units break and flee before its charge.
+
+However, the War Stegadon is not truly tamed—it is merely directed. The beast remembers when it served greater masters, and the Amazons must constantly maintain the ritual bindings lest it revert to its wild, unpredictable nature.
+
+---
+
+### Profile
+
+**War Stegadon**
+
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|----|
+| 6 | 3  | 0  | 6 | 6 | 8 | 1 | 4 | 6  |
+
+**Crew (5 Amazon Warriors)**
+
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|----|
+| 4 | 3  | 3  | 3 | - | - | 4 | 1 | 7  |
+
+**Troop Type:** Monster with Howdah and Crew (Rare - Requires High Priestess of the Serpent)
+
+**Unit Size:** 1
+
+---
+
+### Special Rules
+
+* **Large Target**
+* **Native of Lustria**
+* **Stubborn**
+* **Terror**
+* **Unstoppable Stampede**
+* **War Platform**
+
+#### Unstoppable Stampede
+
+When the War Stegadon charges, it gains the **Impact Hits (D6+1)** special rule.
+
+In addition, the War Stegadon may make a Stampede Attack instead of its normal attacks. If it does so, it makes D6 Strength 6 attacks that hit automatically (no To Hit roll required). These attacks are resolved at Initiative step 1.
+
+The War Stegadon may choose whether to use Stampede Attack or its normal attacks at the start of each Round of Combat.
+
+---
+
+#### War Platform
+
+The War Stegadon carries a reinforced howdah with a crew of 5 Amazon Warriors.
+
+**Crew Attacks:**
+- The crew may shoot with their ranged weapons during the Shooting phase with no penalty for moving.
+- The crew counts as being in Rank 2 during close combat and may make supporting attacks if the Stegadon is engaged.
+- The crew has a 4+ Armour Save (howdah protection).
+
+**Crew Casualties:**
+- Hits against the War Stegadon must be distributed between the Stegadon and the crew.
+- Roll a D6 for each hit:
+  - **1-4:** Resolved against the Stegadon's Toughness and Wounds
+  - **5-6:** Resolved against a crew member (Toughness 3)
+
+- If all crew members are slain, the War Stegadon loses the ability to shoot but continues fighting normally.
+
+**Crew Weapons:**
+- Each crew member is armed with a **bow** (Range 30", Strength 3) **OR** **javelins** (Range 12", Strength 3, Quick to Fire)
+- The crew may fire as a single unit (5 shots total per Shooting phase)
+
+---
+
+### Equipment
+
+**War Stegadon:**
+- Horns and massive bulk (included in profile)
+
+**Crew (5 Amazon Warriors):**
+- Hand weapons
+- Bows (may be replaced with javelins at no cost)
+- Light armour (included in 4+ save from howdah)
+
+---
+
+### Options
+
+* **The War Stegadon may be equipped with an Engine of the Gods** for +30 points
+  * Replaces crew weapons with a bound spell (Power Level 3):
+  * **Burning Alignment** (Magic Missile, 24" range, causes 2D6 Strength 4 hits)
+  * The crew may still make supporting attacks in combat but cannot shoot normal ranged weapons.
+
+* **One crew member may be upgraded to a Howdah Captain** for +10 points
+  * Howdah Captain has WS 4, BS 4, A 2, Ld 8
+  * Howdah Captain may be equipped with magic items (up to 25 points)
+
+* **The entire crew may replace bows with javelins** at no additional cost
+
+---
+
+### Special Rule: Ancient Beast
+
+The War Stegadon does not benefit from the army General's **Inspiring Presence** or a Mother of Sisterhood's **Matriarch Authority** special rule. It uses its own Leadership of 6 for all Leadership tests.
+
+If the High Priestess of the Serpent who unlocked this unit is slain, the War Stegadon must take a Leadership test at the start of each friendly turn. If failed, it gains the **Stupidity** special rule for the remainder of the game.
+
 
 
 ### Koalt
