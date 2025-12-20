@@ -714,6 +714,122 @@ Regeneration saves can be attempted as normal).
 **Character Mount**: Only one Koalt may only be included in your army as
 a character’s mount. Its points are added to that of its rider.
 
+
+# Slann Star-Fire Cannon
+
+### Slann Star-Fire Cannon (0-1 Rare)
+
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Amazon Crew (3)  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 180    |
+| Star-Fire Cannon | - | -  | -  | - | 7 | 4 | - | - | -  | -      |
+
+**Troop Type:** War Machine
+
+**Base Size:** 60 x 100 mm (machine), 20 x 20 mm (crew)
+
+**Unit Size:** 1 Star-Fire Cannon + 3 crew
+
+**Equipment:**
+- Amazon Crew: hand weapons, light armour
+- Star-Fire Cannon: Ancient Slann technology (see special rules)
+
+**Special Rules:** Blades of the Ancients (crew only), Native of Lustria, Ancient Star Technology, Graviton Discharge, Catastrophic Overload
+
+---
+
+## Ancient Star Technology
+
+The Star-Fire Cannon is not a weapon forged by mortal hands, but a relic from the Old Ones' celestial arsenal. This device manipulates the very fabric of reality, warping gravitational fields through complex crystalline matrices and impossibly intricate mechanisms of unknown metals that shimmer with otherworldly light. Though the Amazons call its power "magic," it is in truth technology so advanced it appears supernatural. The weapon's crystalline core pulses with captured starlight, and arcane symbols - actually computational glyphs of the Old Ones - flicker across its surface as it calculates trajectories through means no human mind can fathom.
+
+The cannon can only fire if at least one crew member remains alive to operate its crystalline controls.
+
+---
+
+## Shooting
+
+**Range:** 36"
+
+**Strength:** 7
+
+**Special Rules:** Armour Piercing (3), Magical Attacks, Multiple Wounds (D3), Anti-Gravity Weapon
+
+The Star-Fire Cannon fires a concentrated beam of gravitational distortion that crushes and tears apart even the most massive targets.
+
+**Firing the Cannon:**
+- The cannon requires the crew to remain stationary to fire (see Move or Fire below)
+- Nominate a single target model within range and line of sight
+- Roll to hit using the crew's BS (BS 3)
+- If the shot hits, the target suffers a Strength 7 hit with Armour Piercing (3) and Multiple Wounds (D3)
+- All hits count as Magical Attacks
+
+---
+
+## Anti-Gravity Weapon
+
+The Star-Fire Cannon's gravitational distortion is particularly devastating against large creatures and constructs. The weapon tears apart internal structures and shatters bones through impossible gravitational stress.
+
+**Effect:**
+- Against models with Toughness 5 or higher, the cannon's Strength counts as **Strength 8**
+- Against models with 3 or more Wounds on their profile, the Multiple Wounds effect increases to **(D3+1)**
+- Against War Machines, Stone Throwers, Chariots, and Monsters, successful hits wound automatically (still apply Armour Piercing 3)
+
+---
+
+## Move or Fire
+
+The cannon's delicate crystalline alignment requires absolute stability. The ancient mechanisms must maintain perfect calibration with celestial positions, and any movement disrupts these calculations.
+
+**Effect:**
+- If the Star-Fire Cannon or any of its crew moves for any reason during the Movement phase, it may not fire during the Shooting phase
+- If the cannon fires, it may not move during the next Movement phase
+- If the cannon is engaged in close combat, it cannot fire
+
+---
+
+## Catastrophic Overload
+
+The Star-Fire Cannon's power source is volatile and unpredictable. When the cannon suffers damage, there is a risk that its crystalline core will rupture, releasing uncontrolled gravitational energy.
+
+**Effect:**
+- Whenever the Star-Fire Cannon loses its final Wound, roll a D6 before removing it as a casualty:
+  - **1-2:** **Gravitational Implosion** - The cannon collapses into itself. All models (friend and foe) within 3D6" must take a Leadership test. If failed, they are pulled D3" directly towards the cannon's position. Any model that comes into contact with another model stops immediately. All models within 6" of the cannon's final position suffer a Strength 6 hit with Armour Piercing (2) and Multiple Wounds (D3). The cannon is then removed as a casualty.
+  - **3-4:** **Controlled Shutdown** - The ancient safety protocols activate. The cannon powers down safely and is removed as a casualty with no additional effects.
+  - **5-6:** **Crystal Fragmentation** - The crystalline core shatters explosively. All models (friend and foe) within 6" suffer a Strength 5 hit. The cannon is then removed as a casualty.
+
+---
+
+## Options
+
+• The Amazon crew may be equipped with:
+- Shields................................................................................................................. +1 point per model
+
+---
+
+## Restrictions
+
+**Requires Mother of Sisterhood:** 
+The Slann Star-Fire Cannon may only be included in an army that contains at least one Mother of Sisterhood. The Mothers are the only Amazons who possess the ancient knowledge necessary to awaken and operate these relics from the stars.
+
+**0-1 Rare Choice:** 
+Only one Slann Star-Fire Cannon may be taken per army. These devices are extraordinarily rare, and even the Mothers of Sisterhood guard them jealously as irreplaceable treasures from a bygone age.
+
+---
+
+## Lore & Description
+
+*"We found it in the Temple of Falling Stars, buried beneath centuries of jungle growth. The Mothers say the Old Ones brought it from the heavens themselves, a weapon designed to shatter the great beasts that once threatened their works. Its surface is smoother than any polished stone, yet harder than the finest dwarf-forged steel. Strange symbols dance across it when we speak the activation words - words in a tongue no living creature speaks, yet which the ancient blood in our veins somehow remembers.*
+
+*When it fires, reality itself weeps. The air twists and warps, gravity becomes a weapon, and even the mightiest creatures are crushed like insects beneath an invisible fist. I have seen it tear a Carnosaur in half, pulling the great beast apart from within. I have watched stone collapse and steel crumple as if made of parchment.*
+
+*The enemy calls it sorcery, but the Mothers know better. This is not magic as the Serpent Priestesses wield - this is the science of beings who reshaped worlds, translated into a form our primitive understanding interprets as mystical.*
+
+*We do not truly understand it. We only know that when the great beasts come, when war mammoths shake the earth and dragons darken the sky, the Star-Fire Cannon is our answer. We can only pray to the Old Ones that we never forget how to use it - and that we never misuse it."*
+
+— Chronicle of the Sky-Watchers, Amazon oral tradition
+
+
+
 ## amazons Magic Items
 
 The pages that follow detail magic items unique to Lizardmen armies. These can be purchased by models within a Lizardmen army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
