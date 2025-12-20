@@ -568,113 +568,135 @@ In battle, Piranha Warrior perform the special attacks :
 (+1) special rule.
 
 
-### War Stegadon of the Ancients - 280 points
+### Stegadon
 
-**Background:**
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Stegadon         | 6 | 3  | -  | 5 | 6 | 5 | 2 | 4 | -  | 215    |
+| Ancient Stegadon | 6 | 4  | -  | 6 | 6 | 5 | 1 | 3 | -  | 230    |
+| Amazon Crew (x5) | - | 3  | 3  | 3 | - | - | 4 | 1 | 7  | -      |
 
-The War Stegadon is a living relic of the age when the Old Ones walked Lustria. These colossal creatures served as mobile fortresses for the Slann, their massive howdahs carrying priests and warriors into battle. When the Amazons discovered how to awaken and command these ancient beasts through the Ritual of the Scaled Servants, they adapted the tradition to their own needs.
+**Troop Type:** Behemoth
 
-Atop the War Stegadon's reinforced howdah, a crew of elite Amazon warriors rains arrows and javelots upon the enemy while the beast itself tramples through enemy formations with unstoppable momentum. The ground shakes with each footfall, and entire units break and flee before its charge.
-
-However, the War Stegadon is not truly tamed—it is merely directed. The beast remembers when it served greater masters, and the Amazons must constantly maintain the ritual bindings lest it revert to its wild, unpredictable nature.
-
----
-
-### Profile
-
-**War Stegadon**
-
-| M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|----|
-| 6 | 3  | 0  | 6 | 6 | 8 | 1 | 4 | 6  |
-
-**Crew (5 Amazon Warriors)**
-
-| M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|----|
-| 4 | 3  | 3  | 3 | - | - | 4 | 1 | 7  |
-
-**Troop Type:** Monster with Howdah and Crew (Rare - Requires High Priestess of the Serpent)
+**Base Size:** 60 x 100 mm
 
 **Unit Size:** 1
 
----
+**Armour Save:** 4+
 
-### Special Rules
-
-* **Large Target**
-* **Native of Lustria**
-* **Stubborn**
-* **Terror**
-* **Unstoppable Stampede**
-* **War Platform**
-
-#### Unstoppable Stampede
-
-When the War Stegadon charges, it gains the **Impact Hits (D6+1)** special rule.
-
-In addition, the War Stegadon may make a Stampede Attack instead of its normal attacks. If it does so, it makes D6 Strength 6 attacks that hit automatically (no To Hit roll required). These attacks are resolved at Initiative step 1.
-
-The War Stegadon may choose whether to use Stampede Attack or its normal attacks at the start of each Round of Combat.
+**Equipment:**
+- Stegadon/Ancient Stegadon: Great horns (see below)
+- Amazon Crew: Hand weapons, javelins, and bows
 
 ---
 
-#### War Platform
+## Options
 
-The War Stegadon carries a reinforced howdah with a crew of 5 Amazon Warriors.
+• A Stegadon may be equipped with:
+- Fighting Platform (Amazon Crew with javelins and bows)................................... Included in base cost
 
-**Crew Attacks:**
-- The crew may shoot with their ranged weapons during the Shooting phase with no penalty for moving.
-- The crew counts as being in Rank 2 during close combat and may make supporting attacks if the Stegadon is engaged.
-- The crew has a 4+ Armour Save (howdah protection).
+• An Ancient Stegadon may be equipped with:
+- Fighting Platform (Amazon Crew with javelins and bows)................................... Included in base cost
+- **Slann Star-Fire Cannon Platform (Requires Mother of Sisterhood)................... +90 points**
 
-**Crew Casualties:**
-- Hits against the War Stegadon must be distributed between the Stegadon and the crew.
-- Roll a D6 for each hit:
-  - **1-4:** Resolved against the Stegadon's Toughness and Wounds
-  - **5-6:** Resolved against a crew member (Toughness 3)
+* May add up to +3 additional Amazon Crew to the Fighting Platform ............... +8 points per model
+---
 
-- If all crew members are slain, the War Stegadon loses the ability to shoot but continues fighting normally.
+## Special Rules
 
-**Crew Weapons:**
-- Each crew member is armed with a **bow** (Range 30", Strength 3) **OR** **javelins** (Range 12", Strength 3, Quick to Fire)
-- The crew may fire as a single unit (5 shots total per Shooting phase)
+**Close Order, Cold Blooded, Howdah, Immune to Psychology, Impact Hits (D3+1), Large Target, Poisoned Attacks (javelins only), Stomp Attacks (D3+2), Stubborn, Terror, Blades of the Ancients (Amazon Crew only), Native of Lustria (Amazon Crew only)**
 
 ---
 
-### Equipment
+## Fighting Platform
 
-**War Stegadon:**
-- Horns and massive bulk (included in profile)
+The Stegadon's howdah serves as a mobile fighting platform for Amazon warriors. The crew may shoot their bows or javelins in the Shooting phase, targeting any enemy unit within range and line of sight.
 
-**Crew (5 Amazon Warriors):**
-- Hand weapons
-- Bows (may be replaced with javelins at no cost)
-- Light armour (included in 4+ save from howdah)
+### Shooting Profile (Fighting Platform)
 
----
+**Bows:**
 
-### Options
+| Range | Strength | AP | Special Rules |
+|-------|----------|----|---------------|
+| 24"   | 3        | -  | Volley Fire   |
 
-* **The War Stegadon may be equipped with an Engine of the Gods** for +30 points
-  * Replaces crew weapons with a bound spell (Power Level 3):
-  * **Burning Alignment** (Magic Missile, 24" range, causes 2D6 Strength 4 hits)
-  * The crew may still make supporting attacks in combat but cannot shoot normal ranged weapons.
+**Javelins:**
 
-* **One crew member may be upgraded to a Howdah Captain** for +10 points
-  * Howdah Captain has WS 4, BS 4, A 2, Ld 8
-  * Howdah Captain may be equipped with magic items (up to 25 points)
+| Range | Strength | AP | Special Rules     |
+|-------|----------|----|-------------------|
+| 8"    | 3        | -  | Poisoned Attacks  |
 
-* **The entire crew may replace bows with javelins** at no additional cost
+The Amazon Crew fires with BS 3 and may shoot 360° (the howdah allows firing in all directions).
 
 ---
 
-### Special Rule: Ancient Beast
+## Slann Star-Fire Cannon Platform (Requires Mother of Sisterhood)
 
-The War Stegadon does not benefit from the army General's **Inspiring Presence** or a Mother of Sisterhood's **Matriarch Authority** special rule. It uses its own Leadership of 6 for all Leadership tests.
+An Ancient Stegadon may replace its standard Fighting Platform with a Slann Star-Fire Cannon mounted upon its howdah. This ancient relic of the Old Ones has been adapted by the Mothers of Sisterhood to be carried into battle atop these massive beasts, combining devastating firepower with battlefield mobility.
 
-If the High Priestess of the Serpent who unlocked this unit is slain, the War Stegadon must take a Leadership test at the start of each friendly turn. If failed, it gains the **Stupidity** special rule for the remainder of the game.
+### Mounted Star-Fire Configuration
 
+When a Slann Star-Fire Cannon is mounted on an Ancient Stegadon:
+
+- The Amazon Crew is reduced to **3 crew members** (instead of 5) who operate the cannon
+- The crew **loses** their bows and javelins (they operate the cannon instead)
+- The Ancient Stegadon **may move and fire** the Star-Fire Cannon in the same turn (ignoring the normal Move or Fire restriction)
+- The cannon uses the crew's **BS 3** to hit
+- The cannon retains all other special rules: **Anti-Gravity Weapon, Catastrophic Overload**
+- The cannon has the same profile as the standard Slann Star-Fire Cannon (see Slann Star-Fire Cannon entry)
+
+### Shooting Profile (Star-Fire Cannon Platform)
+
+**Range:** 36"
+
+**Strength:** 7
+
+**Special Rules:** Armour Piercing (3), Magical Attacks, Multiple Wounds (D3), Anti-Gravity Weapon
+
+**Anti-Gravity Weapon:**
+- Against models with Toughness 5 or higher, the cannon's Strength counts as **Strength 8**
+- Against models with 3 or more Wounds on their profile, the Multiple Wounds effect increases to **(D3+1)**
+- Against War Machines, Stone Throwers, Chariots, and Monsters, successful hits wound automatically (still apply Armour Piercing 3)
+
+The cannon may fire 360° from the howdah platform.
+
+### Catastrophic Overload (Mounted)
+
+If the Ancient Stegadon is reduced to 0 Wounds and has a mounted Slann Star-Fire Cannon, roll a D6:
+
+- **1-2:** **Gravitational Implosion** - All models (friend and foe) within 3D6" must take a Leadership test. If failed, they are pulled D3" directly towards the Stegadon's position. All models within 6" suffer a Strength 6 hit with Armour Piercing (2) and Multiple Wounds (D3).
+- **3-4:** **Controlled Shutdown** - The ancient safety protocols activate. No additional effects.
+- **5-6:** **Crystal Fragmentation** - All models (friend and foe) within 6" suffer a Strength 5 hit.
+
+### Restrictions
+
+- **Requires Mother of Sisterhood:** The Slann Star-Fire Cannon (mounted or otherwise) may only be included in an army that contains at least one Mother of Sisterhood
+- This option counts toward your army's 0-1 Slann Star-Fire Cannon limitation
+- If you take a mounted Star-Fire Cannon, you cannot also take a static Star-Fire Cannon (and vice versa)
+- Only **Ancient Stegadons** may be equipped with the Star-Fire Cannon Platform (regular Stegadons cannot)
+
+---
+
+## Weapon Profiles
+
+### Great Horns
+
+| Range  | Strength | AP  | Special Rules |
+|--------|----------|-----|---------------|
+| Combat | User     | -3  | -             |
+
+---
+
+## Character Mount
+
+A Stegadon or Ancient Stegadon may be included in your army as a character mount for an Amazon Hero or Mother of Sisterhood. Its cost is added to that of its rider.
+
+Note that, because it has the Howdah special rule, a Stegadon or Ancient Stegadon is considered a chariot rather than a mounted monster.
+
+When taken as a character mount:
+- The character replaces one of the Amazon Crew members
+- The character may fight in close combat and shoot with the platform's weapons (or operate the Star-Fire Cannon if equipped)
+- The character benefits from the howdah's protection
 
 
 ### Koalt
