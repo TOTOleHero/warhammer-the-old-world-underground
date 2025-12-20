@@ -259,24 +259,77 @@ Special Rules: Skirmishers, Hate everyone, Frenzy,
 
 
 
-### Koka-Kalim
+# Koka-Kalim Warriors
 
-Some Amazons are Berserkers and subject to frenzy. In addition the warriors known as the Kalim are of special interest. The Kalim are a group of religiously fighters who act as the soldiery of Amazonia and the guardian of its people and temples. The constant consumption of the narcotic koka in their diet enables them to live largley without sleep or food - so they tend to be a bit thin and slightly insane looking.Deprived of normal sensory functions they can overcome great
-Pain, and have little aversion to blood, slaughter or death.
+## Background
 
-|        | M | WS | BS | S | T | W | I | A | Ld | Points |
-|--------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 7     |
+The Koka-Kalim are the most feared warriors among the Amazon tribes. These warriors have undergone the sacred Koka-Kalim ritual, a transformation process that strips away their sense of self-preservation and amplifies their combat prowess. Through ancient Slann techniques preserved by the Serpent Priestesses, their bodies are conditioned to ignore pain and fight beyond normal physical limitations.
+
+Armed with the revered Blades of the Ancients, these warriors form the shock troops of Amazon armies. They advance with inexorable determination, their eyes fixed on the enemy, utterly heedless of danger. Their presence on the battlefield is both inspiring and terrifying – to allies, they represent the ultimate dedication to the tribe's survival; to enemies, they are an unstoppable tide of obsidian blades and savage fury.
+
+The ritual that creates a Koka-Kalim warrior is irreversible. Once undertaken, these warriors can never return to normal tribal life. They live in sacred groves near the temples, tended by the Serpent Priestesses and called upon only in times of great need. Their sacrifice is honored by all Amazons, for they have given up their individual existence to become living weapons in defense of their people.
+
+---
 
 
-Troop Type: Regular infantry
-Base Size: 25 x 25 mm
-Unit Size: 5+
 
-**Equipment**: two hand weapons
+### Koka-Kalim Warriors - 12 points per model
 
-Special Rules: Close Order, Fanatical Zeal, Feel No Pain, Furious Charge,
-Immune to Psychology, Impetuous, Hatred (all enemies), Unbreakable
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|----|
+| 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  |
+
+**Troop Type:** Infantry (Special)
+
+**Unit Size:** 10+
+
+
+#### Special Rules
+
+* **Blades of the Ancients** (see Amazons Army Special Rules)
+* **Immune to Psychology**
+* **Impetuous**
+* **Native of Lustria** (see Amazons Army Special Rules)
+* **Sacred Fury**
+* **Unbreakable**
+
+### Sacred Fury
+
+Warriors who have undergone the Koka-Kalim ritual feel reduced pain and fight with supernatural vigor in close combat. The ritual has fundamentally altered their physiology, allowing them to fight on through wounds that would fell ordinary warriors.
+
+Models with this special rule have a 6+ Ward save against wounds suffered in close combat only.
+
+In addition, at the start of each Round of Combat after the first (i.e., from Round 2 onwards), roll a D6 for each model with this special rule that has previously suffered one or more unsaved Wounds during this combat. On a roll of 6, that model immediately recovers 1 Wound previously lost during this combat (to a maximum of its starting Wound characteristic).
+
+**Designer's Note:** This represents the Koka-Kalim's ability to fight through injuries and their enhanced recovery in the heat of battle, but does not protect them from ranged attacks or magic where they are as vulnerable as any other warrior.
+
+### Standard Equipment
+
+* Hand weapon
+* **Blade of the Ancients**
+* Light armour
+
+---
+
+## Unit Composition & Options
+
+### Options
+
+* The entire unit may be equipped with **javelins** at an additional cost of +1 point per model
+
+### Unit Champion
+
+* One Koka-Kalim Warrior may be upgraded to a **Koka-Kalim Rager** at an additional cost of +10 points
+
+#### Koka-Kalim Rager Profile
+
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|----|
+| 4 | 4  | 3  | 3 | 3 | 1 | 4 | 3 | 7  |
+
+The Koka-Kalim Rager has all the special rules of a regular Koka-Kalim Warrior.
+
+
 
 ### Jungle Swarms
 
