@@ -851,6 +851,97 @@ Only one Slann Star-Fire Cannon may be taken per army. These devices are extraor
 — Chronicle of the Sky-Watchers, Amazon oral tradition
 
 
+Voici la version mise en forme en **Markdown** :
+
+---
+
+### **Avatar of Rigg — Rare Unit**
+
+---
+
+### **Profil**
+
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|----|
+| 6 | 6  | 5  | 5 | 5 | 4 | 7 | 4 | 9  |
+
+**Type d’Unité :** Monstrous Infantry (1 model)  
+**Coût :** 275 pts
+
+---
+
+### **Équipement Standard**
+
+- **Claws of the Serpent Mother**  
+  Armes naturelles, Magical Attacks  
+- **Sacred Scales**  
+  Armour Save 4+ (non-modifiable par équipement)
+
+---
+
+### **Règles Spéciales**
+
+#### **Avatar of the Goddess**
+L’Avatar de Rigg est une manifestation divine. Elle bénéficie de :  
+- Magical Attacks  
+- Magic Resistance (2)  
+- Terror  
+- Unstable (comme les Daemons – perd 1W par point perdu en combat)
+
+---
+
+#### **Mother's Blessing**
+- Toutes les unités Amazon **Core** et **Special** dans un rayon de **12"** gagnent *Stubborn*.  
+- Les **Serpent Priestesses** dans ce rayon gagnent **+1 aux jets de dissipation**.
+
+---
+
+#### **Divine Wrath**
+Au début de chaque tour de combat, l’Avatar choisit *un* des effets suivants :
+
+- **Vengeance of Rigg**  
+  Tous les ennemis en contact socle-à-socle doivent réussir un test de Leadership ou subissent **-1 WS** jusqu’à la fin du tour.
+
+- **Fury of the Serpent**  
+  L’Avatar gagne **+D3 Attacks** pour ce tour.
+
+- **Shield of Scales**  
+  L’Avatar et toutes les unités alliées dans un rayon de **6"** gagnent **Ward Save (5+)** jusqu’au début du prochain tour.
+
+---
+
+#### **Serpent's Gaze** *(1 fois par partie)*
+Au début d’un tour Amazon :
+
+- Choisissez une unité ennemie à **18"** ou moins.  
+- Elle doit réussir un test de Leadership ou devient **Stupefied** jusqu'au début du prochain tour Amazon.
+
+**Unités Stupefied :**
+- -2 Movement  
+- Ne peuvent pas marcher  
+- Ne peuvent pas charger  
+- Ne peuvent pas tirer  
+
+---
+
+### **Options**
+
+**Upgrades (0–1 au choix)**  
+- **Coils of Binding (+30 pts)** — L’Avatar gagne **ASF (Always Strikes First)**  
+- **Obsidian Heart (+25 pts)** — L’Avatar devient **Unbreakable**, mais perd **Unstable**  
+- **Sacred Venom (+20 pts)** — Les attaques de l’Avatar gagnent **Poisoned Attacks**
+
+---
+
+### **Restrictions**
+
+- 0–1 par armée  
+- Ne peut pas rejoindre d’unités  
+- Ne peut pas être le General  
+- Compte comme un **Rare choice**
+
+---
+
 
 ## amazons Magic Items
 
