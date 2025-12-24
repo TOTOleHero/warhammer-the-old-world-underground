@@ -132,21 +132,15 @@ If your army includes at least one model with this special rule, you may re-roll
 
 In addition, if your army's General has this special rule, you may deploy one Core unit after the enemy has finished deploying their army (but before Scouts are deployed).
 
----
 
 ## Equipment
-
-### Standard Equipment
 
 * Hand weapon
 * Blade of the Ancients
 * Light armour
 
----
 
 ## Options
-
-### Weapons & Armour
 
 * May replace hand weapon with one of the following:
   * Spear .......................................................................... free
@@ -168,34 +162,6 @@ In addition, if your army's General has this special rule, you may deploy one Co
   * Culchan (see Amazons Bestiary) .................................... +20 pts
   * Cold One (see Amazons Bestiary) .................................. +30 pts
   * Koalt (see Amazons Bestiary) ....................................... +210 pts (0-1 per army)
-
-### Special Options
-
-* May be upgraded to:
-  * **Battle Standard Bearer** (see Battle Standard Bearer rules) .... +25 pts
-  * **Champion of the Ancients** (see below) ............................ +15 pts
-
-#### Champion of the Ancients
-
-Some Mothers of Sisterhood are exceptional warriors, chosen and trained from childhood to embody the martial heritage of their race. These champions have honed their skills to perfection and are capable of challenging even the mightiest heroes.
-
-A model upgraded to be a Champion of the Ancients has the following improved profile:
-
-| M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|----|
-| 4 | 6  | 4  | 3 | 3 | 3 | 5 | 3 | 9  |
-
-In addition, the model gains the **Killing Blow** special rule.
-
-Furthermore, during the first round of any close combat, a Champion of the Ancients may re-roll failed rolls To Hit.
-
-### Magic Items
-
-* May take magic items chosen from the Common and/or Amazons magic items lists with a total points value of up to .................................................. 50 pts
-
-
-
-Voici le paragraphe pour un personnage héros Amazon pouvant porter la grande bannière :
 
 ---
 
@@ -243,9 +209,10 @@ Voici le paragraphe pour un personnage héros Amazon pouvant porter la grande ba
 
 ### Special Rules
 
-**Blades of the Ancients, Native of Lustria, War Cry**
+- **Blades of the Ancients**
+- **Native of Lustria** 
+- **War Cry**
 
----
 
 ### War Cry
 
@@ -307,13 +274,17 @@ In addition, if the War Leader is your army's Battle Standard Bearer, the range 
 
 **Battle Standard Bearer**: If the model has been upgraded to be the army's Battle Standard Bearer, it may take a magic standard (this is an exception to the normal rules for magic items). Note that a magic standard still counts towards this model's magic item points allowance.
 
+---
+
+
 ### Serpent Priestess 
 
 |                    | M | WS | BS | S | T | W | I | A | Ld | Points |
 |--------------------|---|----|----|---|---|---|---|---|----|--------|
 | Serpent Priestess  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 50     |
 
-# High Priestess of the Serpent - Ritual of the Scaled Servants
+**Troop Type**: Infantry (Character)  
+**Base Size**: 25 x 25 mm
 
 ## Updated Serpent Priestess Entry
 
@@ -334,7 +305,6 @@ A Serpent Priestess may be upgraded to:
 
 A Wizard Level 4 Serpent Priestess may be upgraded to a **High Priestess of the Serpent** (see below).
 
----
 
 ## High Priestess of the Serpent Upgrade
 
@@ -352,7 +322,6 @@ Through days of chanting and ritual preparation, a High Priestess can perform th
 
 However, this power comes at great cost. The ritual drains the Priestess's spiritual energy and requires rare sacred herbs and offerings. For this reason, only the most desperate circumstances warrant summoning these primordial creatures to war.
 
----
 
 ### Special Rule: Ritual of the Scaled Servants
 
@@ -379,10 +348,6 @@ A General may be mounted on a:
  - Cold One ...............+18 points
  - Culchan ...............+18 points
  - Koalt ................ +210 pts
-
----
-
-Voici une proposition complète en anglais, construite pour être cohérente avec le style et la structure des entrées d’unités des Arcane Journals de The Old World, tout en restant raisonnable en termes d’équilibrage. Tu pourras ajuster les coûts ou options si ton propre Arcane Journal Amazones précise autre chose.
 
 ---
 
