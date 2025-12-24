@@ -380,21 +380,46 @@ A General may be mounted on a:
  - Culchan ...............+18 points
  - Koalt ................ +210 pts
 
+---
 
-### Tribal warriors
+Voici une proposition complète en anglais, construite pour être cohérente avec le style et la structure des entrées d’unités des Arcane Journals de The Old World, tout en restant raisonnable en termes d’équilibrage. Tu pourras ajuster les coûts ou options si ton propre Arcane Journal Amazones précise autre chose.
 
-|        | M | WS | BS | S | T | W | I | A | Ld | Points |
-|--------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 11     |
+---
 
-**Troop Type** : Regular infantry
-**Base Size** : 25 x 25 mm
-**Unit Size** : 5+
+### Tribal Warriors
 
-**Equipment**: 
-- hand weapon
-- bows
+|          | M | WS | BS | S | T | W | I | A | Ld | Points |
+|----------|---|----|----|---|---|---|---|---|----|--------|
+| Amazon   | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 11     |
+| Champion | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 11     |
 
+**Troop Type**: Regular Infantry  
+**Base Size**: 25 x 25 mm  
+**Unit Size**: 5+
+
+**Equipment**:  
+- Hand weapon  
+- Bow
+
+**Special Rules**:  
+- Light Armour  
+- Skirmishers  
+- Scouts  
+- Forest Strider
+
+**Options**:  
+- May upgrade one Amazon to a **Champion** (+1 Attack) for +10 pts  
+- May upgrade one Amazon to a **Standard Bearer** for +10 pts  
+- May upgrade one Amazon to a **Musician** for +5 pts  
+
+**Weapon Options** (per model):  
+- May exchange bow for **javelin and shield** for +1 pt/model  
+- May take **additional hand weapon** for +1 pt/model (cannot be combined with shield)  
+
+**Restrictions**:  
+- 0–3 units of Tribal Warriors per army at 2,000 points or less (increase this limit by +1 for each additional full 1,000 points in the army)
+
+---
 
 ### Anakonda warriors
 
@@ -410,6 +435,7 @@ A General may be mounted on a:
 
 **specials rules** : skirmishers, native of Lustria 
 
+---
 
 ### Totem warriors
 
@@ -484,7 +510,7 @@ enemy attack.
 - A 5+ Ward save against any wounds suffered that were caused by a non-magical enemy
 attack with a Strength 5 or higher.
 
-
+---
 
 ### Jungle Swarms
 
@@ -498,7 +524,7 @@ Unit Size: 3+
 Equipment: Hand weapons
 Special Rules: Cold Blooded, Immune to Psychology, Loner, Move through Cover, Poisoned Attacks, Skirmishers, Unbreakable, Vanguard
 
-
+---
 
 ### Culchan Riders
 
@@ -525,12 +551,14 @@ Options:
 
 Special Rules:  Close Order, Swiftstride
 
+---
+
 ### Amazon Cold One Riders
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon           | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 30     |
-| Amazon champion  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +5     |
+| Noblewomen       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 30     |
+| Headwomen        | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +7     |
 | Cold One         | 7 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
 
 
@@ -543,13 +571,18 @@ Equipment:
 
 Options:
 • Any unit may:
-- Upgrade one model to a Dread Knight (champion)............................... +5 points per unit
-- Upgrade one model to a standard bearer................................................... +5 points per unit
-- Upgrade one model to a musician ................................................................ +5 points per unit
+- Upgrade one model to a | Headwomen        | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +7     |
+ (champion)............................... +7 points per unit
+- Upgrade one model to a standard bearer................................................... +7 points per unit
+- Upgrade one model to a musician ................................................................ +7 points per unit
 
 
 Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Close Order,Stupidity,
 Swiftstride
+
+**Restrictions:** Amazon Cold One Riders may only be included in an army that contains a High Priestess of the Serpent. If the High Priestess is slain, the unit must take a Leadership test at the start of each friendly turn. If failed, the unit must use its Fly movement to move towards the nearest table edge. If it reaches the table edge, it is removed from play. 
+
+---
 
 ### Amazon Terradon Riders
 
@@ -603,43 +636,71 @@ Special Rules: Close Order, Immune to Psychology, Move through Cover
 |-------------------------|--------|-----|----|---------------|
 | High Age weapons pistol | 12''   | 4   | -2 |               |
 
+---
 
-### Jaguar Warrior 
+### Jaguar Warrior
 
-Strongest among the Amazons are the Jaguar Warriors; immensely powerful women that act as guardians of the Amazons’ most sacred sites by protecting them from any unwanted explorers or treasure hunters.
+**Strongest among the Amazons are the Jaguar Warriors; immensely powerful women that act as guardians of the Amazons’ most sacred sites by protecting them from any unwanted explorers or treasure hunters.**
 
 |                   | M | WS | BS | S | T | W | I | A | Ld | Points |
 |-------------------|---|----|----|---|---|---|---|---|----|--------|
 | Jaguar Warrior    | 4 | 3  | 3  | 4 | 3 | 1 | 4 | 1 | 7  | 17     |
 
-Troop Type: Regular infantry
-Base Size: 25 x 25 mm
-Unit Size: 5+
-Equipment: Claw of the old ones (see below)
-
+**Troop Type:** Regular infantry  
+**Base Size:** 25 x 25 mm  
+**Unit Size:** 5+  
+**Equipment:** Claw of the old ones (see below)
 
 |                      | R      | S   | AP | Special Rules |
 |----------------------|--------|-----|----|---------------|
-| Claw of the old ones | Combat | S+1 | -2 |               |
+| Claw of the old ones | Combat | S+1 | -2 | **Armour Piercing**, **Jaguar Strike** |
 
-**Claw of the old ones** : the 
+**Claw of the old ones:** These ancient claws, forged from the bones of primordial jungle beasts, rend flesh with savage precision. Models equipped with the **Claw of the old ones** gain the **Armour Piercing (AP)** special rule, representing their ability to tear through defences. Additionally, they have the **Jaguar Strike** special rule: when this model charges, it gains +1 Attack on the turn it charges, reflecting the ferocious ambush tactics of these elite guardians.
+
+Voici une proposition complète et cohérente avec The Old World, en restant dans l’esprit des anciennes listes Amazones / Arcane Journals non officiels, tout en gardant le profil et l’équipement que tu as fournis.
+
+Je pars du principe que tu veux un warscroll utilisable tel quel : profil, règles spéciales, options, commandement, etc.
+
+---
 
 ### Python Warrior
 
-Python Warriors spend years studying the snakes from which they draw their name, learning the art of patience and find the best moment to attack.
+Python Warriors spend years studying the snakes from which they draw their name, learning the art of patience and to find the best moment to strike.
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Python Warrior    | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | 17     |
+| Python Warrior   | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | 17     |
 
-Troop Type: Regular infantry
-Base Size: 25 x 25 mm
-Unit Size: 5+
-Equipment: Arrows of python,
+**Troop Type:** Regular Infantry  
+**Base Size:** 25 x 25 mm  
+**Unit Size:** 5+
 
-|                      | R    | S  | AP | Special Rules     |
-|----------------------|------|----|----|-------------------|
-| Arrows of python     | 24'' | 3  | -1 | Poisoned Attacks  |
+**Equipment:**  
+- Hand weapon  
+- **Arrows of python**
+
+|                  | R    | S | AP | Special Rules       |
+|------------------|------|---|----|---------------------|
+| Arrows of python | 24"  | 3 | -1 | Poisoned Attacks   |
+
+
+### Special Rules
+
+- **Close Order** (as per The Old World core rules).  
+- **Poisoned Attacks (Shooting)**: Attacks made with **Arrows of python** have Poisoned Attacks.  
+- **Jungle Hunters**:  
+  - The unit treats woods, jungle and similar terrain as *open ground* for the purposes of movement (they still suffer any dangerous terrain tests that might be required).  
+  - Enemy units do not gain Soft Cover against shooting attacks from Python Warriors if the only source of cover is a wood or jungle they are in or that is between them and the Python Warriors.
+
+
+### Options
+
+- The unit may upgrade one Python Warrior to a **Serpent Matriarch** (Champion) ……… +10 pts  
+  - The Serpent Matriarch gains +1 Attack.
+- The unit may include a **Standard Bearer** ……… +10 pts  
+- The unit may include a **Musician** ………………… +5 pts  
+
+
 
 
 ### Piranha Warrior 
