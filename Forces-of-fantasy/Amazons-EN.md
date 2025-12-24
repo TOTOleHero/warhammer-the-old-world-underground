@@ -81,21 +81,15 @@ The Mothers of Sisterhood are the matriarchs and military leaders of the Amazon 
 
 Unlike Serpent Priestesses who channel magical energies, Mothers of Sisterhood excel in the art of war and tactical command. They carry the most ancient Blades of the Ancients, Slann artefacts passed down through generations, and are often accompanied by totem animals symbolizing their authority.
 
----
 
-## Profile
-
-### Mother of Sisterhood - 85 points
-
-| M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|----|
-| 4 | 5  | 4  | 3 | 3 | 3 | 5 | 3 | 9  |
+| M | WS | BS | S | T | W | I | A | Ld | points |
+|---|----|----|---|---|---|---|---|----|--------|
+| 4 | 5  | 4  | 3 | 3 | 3 | 5 | 3 | 9  | 85     |
 
 **Troop Type:** Infantry (Hero)
-
+**Base Size:** 25 x 25 mm
 **Unit Size:** 1
-
----
+**Equipment:** Hand weapon
 
 ## Special Rules
 
