@@ -38,49 +38,52 @@ This page details the Grand Army composition list for the Amazons. This is the d
 This army list is intended for use alongside the ‘Forming Units’ and ‘Warhammer Armies’ sections of the Warhammer: the Old World rulebook. Over the following pages you will find profiles and rules for each of the models in your army. These pages give you all of the information that you need to shape your collection of models into the units which will in turn form a force ready for battle.
 
 
-## Grand Army Composition List
+## AMAZONS ARMY LIST
 
-**Characters**
+This page details the Grand Army composition list for the Amazons. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
 
-Up to 50% of your army’s points value may be spent on:
- - 0-1 Mother of sisterhood per 1,000 points
- - 0-1 Serpent Priestess per 1,000 points
- - 0-1 Amazon war leader
+## Battle Standard Bearer
+A single Amazon War Leader in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
 
-**Core**
-At least 25% of your army’s points value must be spent on:
+## Characters
+Up to 50% of your army's points value may be spent on:
+- 0-1 Mother of Sisterhood per army
+- Serpent Priestesses and High Priestesses of the Serpent
+- Amazon War Leaders
 
-- 0-1 unit of Totaem warrior Troops per 1,000 points
-- 0-1 Eagle Warrior 
-- Tribal warrior
+## Core
+At least 25% of your army's points value must be spent on:
+- Tribal Warriors
+- Anakonda Warriors
+- Totem Warriors
+- Eagle Warriors
 
-**Special**
+## Special
+Up to 50% of your army's points value may be spent on:
+- Amazon Culchan Riders
+- Piranha Warriors
+- Python Warriors
+- Jungle Swarms
+- Amazon Cold One Riders (available with the Ritual of the Scaled Servants)
+- Amazon Terradon Riders (available with the Ritual of the Scaled Servants)
 
-Up to 50% of your army’s points value may be spent on:
+## Rare
+Up to 25% of your army's points value may be spent on:
+- Koka-Kalim
+- Jaguar Warriors
+- Stegadons (available with the Ritual of the Scaled Servants)
+- Ancient Stegadons (available with the Ritual of the Scaled Servants)
+- Koalts (character mount only)
+- 0-1 Slann Star-Fire Cannon (available only with Mother of Sisterhood)
+- Avatar of Rigg
 
- - 0-1 Amazon culchan rider
- - Piranha Warrior, Python Warrior 
+## Mercenaries
+Up to 20% of your army's points value may be spent on mercenaries.
 
-**Rare**
-Up to 25% of your army’s points value may be spent on:
- - 0-1 Amazon cold One rider,Koka-kalim
- - jaguar warrior
-
-**Mercenaries**
-Up to 20% of your army’s points value may be spent
-on mercenaries.
-
-**Allies**
-Up to 25% of your army’s points value may be spent on a single
-allied contingent drawn from:
-
-• One of the following Grand Army composition lists:
-- Lizardmen
-- Only the Valkyrie unit from Norsca Grand Army list.
-
-**Battle Standard Bearer**
-A single hero  in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
-
+## Allies
+Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
+- Any Lizardmen Grand Army composition list
+- Valkyrie unit (from Norsca only)
 
 
 # Mother of Sisterhood
