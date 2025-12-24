@@ -45,6 +45,7 @@ This army list is intended for use alongside the ‘Forming Units’ and ‘Warh
 Up to 50% of your army’s points value may be spent on:
  - 0-1 Mother of sisterhood per 1,000 points
  - 0-1 Serpent Priestess per 1,000 points
+ - 0-1 Amazon war leader
 
 **Core**
 At least 25% of your army’s points value must be spent on:
@@ -192,10 +193,119 @@ Furthermore, during the first round of any close combat, a Champion of the Ancie
 
 * May take magic items chosen from the Common and/or Amazons magic items lists with a total points value of up to .................................................. 50 pts
 
-#### Battle Standard Bearer
 
-If the model has been upgraded to be the army's Battle Standard Bearer, it may take a magic standard (this is an exception to the normal rules for magic items). Note that a magic standard still counts towards this model's magic item points allowance.
 
+Voici le paragraphe pour un personnage héros Amazon pouvant porter la grande bannière :
+
+---
+
+## AMAZON WAR LEADER
+
+|                    | M | WS | BS | S | T | W | I | A | Ld | Points |
+|--------------------|---|----|----|---|---|---|---|---|----|--------|
+| Amazon War Leader  | 4 | 4  | 4  | 3 | 3 | 2 | 5 | 2 | 8  | 55     |
+
+**Troop Type**: Infantry (Character)  
+**Base Size**: 25 x 25 mm
+
+### Equipment
+
+**Standard Equipment**:
+- Hand weapon
+- Blades of the Ancients
+- Light armour
+
+### Options
+
+**Weapons & Armour**:
+- May replace hand weapon with one of the following:
+  - Spear .......................................................................... free
+  - Great weapon ............................................................. +4 pts
+- May take one of the following:
+  - Shield .......................................................................... +2 pts
+  - Additional hand weapon ................................................ +2 pts
+- May replace light armour with:
+  - Heavy armour .............................................................. +3 pts
+- May take:
+  - Javelin ........................................................................ +2 pts
+
+**Mounts**:
+- May ride one of the following:
+  - Culchan ...................................................................... +20 pts
+  - Cold One .................................................................... +30 pts
+
+**Special Options**:
+- May be upgraded to:
+  - Battle Standard Bearer ................................................ +25 pts
+
+**Magic Items**:
+- May take magic items chosen from the Common and/or Amazons magic items lists with a total points value of up to ................................... 25 pts
+
+### Special Rules
+
+**Blades of the Ancients, Native of Lustria, War Cry**
+
+---
+
+### War Cry
+
+Amazon War Leaders inspire their sisters through powerful battle cries that echo through the jungle canopy. These veteran warriors have proven themselves in countless battles and carry the respect of all Amazon tribes.
+
+At the start of any friendly turn, an Amazon War Leader may unleash a War Cry. All friendly Amazon Core units within 6" of the War Leader may immediately re-roll failed Leadership tests until the start of the next friendly turn.
+
+In addition, if the War Leader is your army's Battle Standard Bearer, the range of this ability increases to 12".
+
+---
+
+## AMAZON WAR LEADER
+
+|                    | M | WS | BS | S | T | W | I | A | Ld | Points |
+|--------------------|---|----|----|---|---|---|---|---|----|--------|
+| Amazon War Leader  | 4 | 4  | 4  | 3 | 3 | 2 | 5 | 2 | 8  | 55     |
+
+**Troop Type**: Infantry (Character)  
+**Base Size**: 25 x 25 mm
+
+### Equipment
+
+**Standard Equipment**:
+- Hand weapon
+- Blades of the Ancients
+- Light armour
+
+### Options
+
+**Weapons & Armour**:
+- May replace hand weapon with one of the following:
+  - Spear .......................................................................... free
+  - Great weapon ............................................................. +4 pts
+- May take one of the following:
+  - Shield .......................................................................... +2 pts
+  - Additional hand weapon ................................................ +2 pts
+- May replace light armour with:
+  - Heavy armour .............................................................. +3 pts
+- May take:
+  - Javelin ........................................................................ +2 pts
+
+**Mounts**:
+- May ride one of the following:
+  - Culchan ...................................................................... +20 pts
+  - Cold One .................................................................... +30 pts
+
+**Special Options**:
+- May be upgraded to:
+  - Battle Standard Bearer ................................................ +25 pts
+
+**Magic Items**:
+- May take magic items chosen from the Common and/or Amazons magic items lists with a total points value of up to ................................... 25 pts
+
+### Special Rules
+
+**Blades of the Ancients, Native of Lustria, War Cry**
+
+**War Cry**: At the start of any friendly turn, an Amazon War Leader may unleash a War Cry. All friendly Amazon Core units within 6" of the War Leader may immediately re-roll failed Leadership tests until the start of the next friendly turn. If the War Leader is your army's Battle Standard Bearer, the range of this ability increases to 12".
+
+**Battle Standard Bearer**: If the model has been upgraded to be the army's Battle Standard Bearer, it may take a magic standard (this is an exception to the normal rules for magic items). Note that a magic standard still counts towards this model's magic item points allowance.
 
 ### Serpent Priestess 
 
@@ -261,8 +371,6 @@ These units count as Amazon units for all purposes and gain the **Native of Lust
 
 **Restriction:** If the High Priestess of the Serpent is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to **Stupidity** for the remainder of the game as the Priestess's control over the beasts weakens.
 
-
-
 **Character Mounts**
 
 A character that can be mounted may choose a mount from the following list. Some mounts are covered in detail on this page. Those that are not have their own dedicated entries later in this army list.
@@ -283,7 +391,9 @@ A General may be mounted on a:
 **Base Size** : 25 x 25 mm
 **Unit Size** : 5+
 
-**Equipment**: bows
+**Equipment**: 
+- hand weapon
+- bows
 
 
 ### Anakonda warriors
@@ -295,52 +405,66 @@ A General may be mounted on a:
 **Troop Type** : Regular infantry
 **Base Size** : 25 x 25 mm
 **Unit Size** : 5+
-**Equipment**: **Blades of the Ancients** (counts as light armour).
+**Equipment**: 
+- **Blades of the Ancients** (counts as light armour).
 
 **specials rules** : skirmishers, native of Lustria 
 
 
 ### Totem warriors
 
-|                | M | WS | BS | S | T | W | I | A | Ld | Points |
-|----------------|---|----|----|---|---|---|---|---|----|--------|
-| Totem warriors | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 13     |
+*These Amazons steeped in the mysteries of the Sisterhood are warriors initiated into the aspects of the Koka-Kalim. These women come from all corners of Amazon society and take on the aspect of their tribe's totem. Initiated at a young age and trained for years, these warriors are totally uncompromising.*
+
+|                       | M | WS | BS | S | T | W | I | A | Ld | Points |
+|-----------------------|---|----|----|---|---|---|---|---|----|--------|
+| Totem warriors        | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 13     |
+| Totem warriors Devout | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
 
 
 Troop Type: Regular infantry
 Base Size: 25 x 25 mm
 Unit Size: 10+
-Equipment: two hand weapon
+Equipment: Two Hand Weapons
 
-Special Rules: Skirmishers, Hate everyone, Frenzy, 
+Any unit may:
+- Upgrade one model to a Totem warriors Devout (champion).........................................+10 points per unit
+- Upgrade one model to a standard bearer...................................................+10 points per unit
+- Upgrade one model to a musician ................................................................+10 points per unit
+
+Special Rules: 
+- Skirmishers
+- Hate (everyone)
+- Frenzy
+- Poisoned Attacks
 
 
 
 # Koka-Kalim Warriors
 
-## Background
-
-The Koka-Kalim are the most feared warriors among the Amazon tribes. These warriors have undergone the sacred Koka-Kalim ritual, a transformation process that strips away their sense of self-preservation and amplifies their combat prowess. Through ancient Slann techniques preserved by the Serpent Priestesses, their bodies are conditioned to ignore pain and fight beyond normal physical limitations.
-
-Armed with the revered Blades of the Ancients, these warriors form the shock troops of Amazon armies. They advance with inexorable determination, their eyes fixed on the enemy, utterly heedless of danger. Their presence on the battlefield is both inspiring and terrifying – to allies, they represent the ultimate dedication to the tribe's survival; to enemies, they are an unstoppable tide of obsidian blades and savage fury.
-
-The ritual that creates a Koka-Kalim warrior is irreversible. Once undertaken, these warriors can never return to normal tribal life. They live in sacred groves near the temples, tended by the Serpent Priestesses and called upon only in times of great need. Their sacrifice is honored by all Amazons, for they have given up their individual existence to become living weapons in defense of their people.
+The Koka-Kalim are the fanatical elite of Amazonian warriors, a militant order tasked with protecting the temples and sanctuaries of the goddess Rigg. Their name derives from their constant consumption of koka, a narcotic drug extracted from local plants that allows them to go almost entirely without sleep or food. This dependency gives them an emaciated appearance and a disturbed gaze, but also exceptional martial capabilities. Impervious to pain and devoid of any natural aversion to blood and death, these fighters exist in a permanent state of nervous agitation that makes them unpredictable and irrational. The Sisterhood, holder of religious power in Amazonia, maintains an elite guard of Koka-Kalim called the Devouts, who protect the most sacred sanctuaries and are sometimes entrusted with ancestral Slann weapons: power swords and bolter guns, relics venerated as gifts from Rigg herself.
 
 ---
 
-
-
 ### Koka-Kalim Warriors - 12 points per model
 
-| M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|----|
-| 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  |
+|                  | M | WS | BS | S | T | W | I | A | Ld | points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Koka-Kalim       | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 12     |
+| Koka-Kalim Rager | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 3 | 7  | +10     |
 
-**Troop Type:** Infantry (Special)
-
+**Troop Type:** Regular infantry
+**Base Size:** 25 x 25 mm
 **Unit Size:** 10+
+**Equipment:** 
+ - Hand weapon
+ - **Blade of the Ancients**
+ - Light armour
 
+### Options
 
+* The entire unit may be equipped with **javelins** at an additional cost of +1 point per model
+* One Koka-Kalim Warrior may be upgraded to a **Koka-Kalim Rager** at an additional cost of +10 points
+* 
 #### Special Rules
 
 * **Blades of the Ancients** (see Amazons Army Special Rules)
@@ -352,39 +476,13 @@ The ritual that creates a Koka-Kalim warrior is irreversible. Once undertaken, t
 
 ### Sacred Fury
 
-Warriors who have undergone the Koka-Kalim ritual feel reduced pain and fight with supernatural vigor in close combat. The ritual has fundamentally altered their physiology, allowing them to fight on through wounds that would fell ordinary warriors.
+Warriors who have undergone the Koka-Kalim ritual and constantly consume the narcotic drug feel reduced pain and fight with supernatural vigor in close combat. Deprived of their normal sensory functions by the effects of koka, they can overcome great suffering and have no aversion to death, continuing to fight despite wounds that would fell ordinary warriors.
 
-Models with this special rule have a 6+ Ward save against wounds suffered in close combat only.
-
-In addition, at the start of each Round of Combat after the first (i.e., from Round 2 onwards), roll a D6 for each model with this special rule that has previously suffered one or more unsaved Wounds during this combat. On a roll of 6, that model immediately recovers 1 Wound previously lost during this combat (to a maximum of its starting Wound characteristic).
-
-**Designer's Note:** This represents the Koka-Kalim's ability to fight through injuries and their enhanced recovery in the heat of battle, but does not protect them from ranged attacks or magic where they are as vulnerable as any other warrior.
-
-### Standard Equipment
-
-* Hand weapon
-* **Blade of the Ancients**
-* Light armour
-
----
-
-## Unit Composition & Options
-
-### Options
-
-* The entire unit may be equipped with **javelins** at an additional cost of +1 point per model
-
-### Unit Champion
-
-* One Koka-Kalim Warrior may be upgraded to a **Koka-Kalim Rager** at an additional cost of +10 points
-
-#### Koka-Kalim Rager Profile
-
-| M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|----|
-| 4 | 4  | 3  | 3 | 3 | 1 | 4 | 3 | 7  |
-
-The Koka-Kalim Rager has all the special rules of a regular Koka-Kalim Warrior.
+A model with this special rule has:
+- A 6+ Ward save against any wounds suffered that were caused by a non-magical
+enemy attack.
+- A 5+ Ward save against any wounds suffered that were caused by a non-magical enemy
+attack with a Strength 5 or higher.
 
 
 
