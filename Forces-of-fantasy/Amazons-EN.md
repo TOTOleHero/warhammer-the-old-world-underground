@@ -31,13 +31,6 @@ Amazons Legacy Army List
   Lore of Lustria
 
 
-# Amazons ARMY LIST
-
-This page details the Grand Army composition list for the Amazons. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
-
-This army list is intended for use alongside the ‘Forming Units’ and ‘Warhammer Armies’ sections of the Warhammer: the Old World rulebook. Over the following pages you will find profiles and rules for each of the models in your army. These pages give you all of the information that you need to shape your collection of models into the units which will in turn form a force ready for battle.
-
-
 ## AMAZONS ARMY LIST
 
 This page details the Grand Army composition list for the Amazons. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
