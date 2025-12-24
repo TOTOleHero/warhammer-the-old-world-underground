@@ -89,7 +89,10 @@ Unlike Serpent Priestesses who channel magical energies, Mothers of Sisterhood e
 **Troop Type:** Infantry (Hero)
 **Base Size:** 25 x 25 mm
 **Unit Size:** 1
-**Equipment:** Hand weapon
+## Equipment
+* Hand weapon
+* Blade of the Ancients
+* Light armour
 
 ## Special Rules
 
@@ -104,7 +107,7 @@ Unlike Serpent Priestesses who channel magical energies, Mothers of Sisterhood e
 
 The Mother of Sisterhood represents supreme authority in the Amazon hierarchy. Her command is absolute and her presence on the battlefield inspires her sisters to greater feats of martial prowess.
 
-Amazon Core units (Tribal Warriors, Anakonda Warriors, and Humming Bird Warriors) within 12" of one or more friendly models with this special rule may use that model's Leadership characteristic when taking Leadership tests.
+Amazon Core units (Tribal Warriors, Anakonda Warriors, Totem Warriors, and Eagle Warriors) within 12" of one or more friendly models with this special rule may use that model's Leadership characteristic when taking Leadership tests.
 
 Once per battle, at the start of any phase during the Amazon player's turn, a model with this special rule may declare a **Sister's Command**. Until the end of that turn, all Amazon units within 18" of the model that declared the Sister's Command gain +1 to their Combat Resolution.
 
@@ -116,12 +119,7 @@ If your army includes at least one model with this special rule, you may re-roll
 
 In addition, if your army's General has this special rule, you may deploy one Core unit after the enemy has finished deploying their army (but before Scouts are deployed).
 
-
-## Equipment
-
-* Hand weapon
-* Blade of the Ancients
-* Light armour
+Finally, Ancient Wisdom grants access to some technologies of the ancient Slann, technologies that no one in the Old World can claim to possess. These technologies seem to come from another era or another world. Ancient Wisdom unlocks: Slann Star-Fire Cannon
 
 
 ## Options
