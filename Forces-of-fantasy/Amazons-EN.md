@@ -277,8 +277,9 @@ In addition, if the War Leader is your army's Battle Standard Bearer, the range 
 - Native of Lustria
 - Lore of Lustria (Wizards only)
 
+
 **Magic:**
-A Serpent Priestess is a Wizard who uses spells from the Lore of Lustria.
+A Serpent Priestess is a Level 1 Wizard who uses spells from the Lore of Lustria.
 
 A Serpent Priestess may be upgraded to:
 - Wizard Level 2 for +35 points
@@ -287,14 +288,27 @@ A Serpent Priestess may be upgraded to:
 
 A Wizard Level 4 Serpent Priestess may be upgraded to a **High Priestess of the Serpent** (see below).
 
+**Lores of Magic:**
+Every Serpent Priestess knows spells from one of the following Lores of Magic:
+- Lore of Beasts
+- Lore of Life
+- Lore of Serpents
 
-## High Priestess of the Serpent Upgrade
 
 ### High Priestess of the Serpent - +50 points
 
 **Requirements:**
 - Only available to a Serpent Priestess (Hero) at Wizard Level 4
 - Must be included in a 2000+ point army
+
+**Magic:**
+A High Priestess of the Serpent is a Level 4 Wizard who uses spells from the Lore of Lustria.
+
+**Lores of Magic:**
+Every High Priestess of the Serpent knows spells from one of the following Lores of Magic:
+- Lore of Beasts
+- Lore of Life
+- Lore of Serpents
 
 **Background:**
 
