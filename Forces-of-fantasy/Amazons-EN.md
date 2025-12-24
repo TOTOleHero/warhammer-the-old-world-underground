@@ -72,6 +72,7 @@ Up to 25% of your army's points value may be spent on a single allied contingent
 - Any Lizardmen Grand Army composition list
 - Valkyrie unit (from Norsca only)
 
+--- 
 
 # Mother of Sisterhood
 
@@ -147,6 +148,7 @@ Finally, Ancient Wisdom grants access to some technologies of the ancient Slann,
 
 ---
 
+
 ## AMAZON WAR LEADER
 
 |                    | M | WS | BS | S | T | W | I | A | Ld | Points |
@@ -194,63 +196,6 @@ Finally, Ancient Wisdom grants access to some technologies of the ancient Slann,
 - **Blades of the Ancients**
 - **Native of Lustria** 
 - **War Cry**
-
-
-### War Cry
-
-Amazon War Leaders inspire their sisters through powerful battle cries that echo through the jungle canopy. These veteran warriors have proven themselves in countless battles and carry the respect of all Amazon tribes.
-
-At the start of any friendly turn, an Amazon War Leader may unleash a War Cry. All friendly Amazon Core units within 6" of the War Leader may immediately re-roll failed Leadership tests until the start of the next friendly turn.
-
-In addition, if the War Leader is your army's Battle Standard Bearer, the range of this ability increases to 12".
-
----
-
-## AMAZON WAR LEADER
-
-|                    | M | WS | BS | S | T | W | I | A | Ld | Points |
-|--------------------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon War Leader  | 4 | 4  | 4  | 3 | 3 | 2 | 5 | 2 | 8  | 55     |
-
-**Troop Type**: Infantry (Character)  
-**Base Size**: 25 x 25 mm
-
-### Equipment
-
-**Standard Equipment**:
-- Hand weapon
-- Blades of the Ancients
-- Light armour
-
-### Options
-
-**Weapons & Armour**:
-- May replace hand weapon with one of the following:
-  - Spear .......................................................................... free
-  - Great weapon ............................................................. +4 pts
-- May take one of the following:
-  - Shield .......................................................................... +2 pts
-  - Additional hand weapon ................................................ +2 pts
-- May replace light armour with:
-  - Heavy armour .............................................................. +3 pts
-- May take:
-  - Javelin ........................................................................ +2 pts
-
-**Mounts**:
-- May ride one of the following:
-  - Culchan ...................................................................... +20 pts
-  - Cold One .................................................................... +30 pts
-
-**Special Options**:
-- May be upgraded to:
-  - Battle Standard Bearer ................................................ +25 pts
-
-**Magic Items**:
-- May take magic items chosen from the Common and/or Amazons magic items lists with a total points value of up to ................................... 25 pts
-
-### Special Rules
-
-**Blades of the Ancients, Native of Lustria, War Cry**
 
 **War Cry**: At the start of any friendly turn, an Amazon War Leader may unleash a War Cry. All friendly Amazon Core units within 6" of the War Leader may immediately re-roll failed Leadership tests until the start of the next friendly turn. If the War Leader is your army's Battle Standard Bearer, the range of this ability increases to 12".
 
@@ -424,15 +369,12 @@ Special Rules:
 - Frenzy
 - Poisoned Attacks
 
-
+---
 
 # Koka-Kalim Warriors
 
 The Koka-Kalim are the fanatical elite of Amazonian warriors, a militant order tasked with protecting the temples and sanctuaries of the goddess Rigg. Their name derives from their constant consumption of koka, a narcotic drug extracted from local plants that allows them to go almost entirely without sleep or food. This dependency gives them an emaciated appearance and a disturbed gaze, but also exceptional martial capabilities. Impervious to pain and devoid of any natural aversion to blood and death, these fighters exist in a permanent state of nervous agitation that makes them unpredictable and irrational. The Sisterhood, holder of religious power in Amazonia, maintains an elite guard of Koka-Kalim called the Devouts, who protect the most sacred sanctuaries and are sometimes entrusted with ancestral Slann weapons: power swords and bolter guns, relics venerated as gifts from Rigg herself.
 
----
-
-### Koka-Kalim Warriors - 12 points per model
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
@@ -577,6 +519,7 @@ Swiftstride
 
 **Restrictions:** Amazon Terradon Riders may only be included in an army that contains a High Priestess of the Serpent. If the High Priestess is slain, the unit must take a Leadership test at the start of each friendly turn. If failed, the unit must use its Fly movement to move towards the nearest table edge. If it reaches the table edge, it is removed from play.  
 
+---
 
 ### Eagle Warrior 
 
@@ -662,7 +605,7 @@ Python Warriors spend years studying the snakes from which they draw their name,
 - The unit may include a **Musician** ………………… +5 pts  
 
 
-
+---
 
 ### Piranha Warrior 
 
@@ -687,6 +630,7 @@ In battle, Piranha Warrior perform the special attacks :
  - Cutting teeth: Until the end of this Combat phase, this unit gains the Extra Attacks
 (+1) special rule.
 
+---
 
 ### Stegadon
 
@@ -708,7 +652,6 @@ In battle, Piranha Warrior perform the special attacks :
 - Stegadon/Ancient Stegadon: Great horns (see below)
 - Amazon Crew: Hand weapons, javelins, and bows
 
----
 
 ## Options
 
@@ -726,7 +669,7 @@ In battle, Piranha Warrior perform the special attacks :
 
 **Close Order, Cold Blooded, Howdah, Immune to Psychology, Impact Hits (D3+1), Large Target, Poisoned Attacks (javelins only), Stomp Attacks (D3+2), Stubborn, Terror, Blades of the Ancients (Amazon Crew only), Native of Lustria (Amazon Crew only)**
 
----
+
 
 ## Fighting Platform
 
@@ -859,7 +802,6 @@ a character’s mount. Its points are added to that of its rider.
 
 # Slann Star-Fire Cannon
 
-### Slann Star-Fire Cannon (0-1 Rare)
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
@@ -878,7 +820,6 @@ a character’s mount. Its points are added to that of its rider.
 
 **Special Rules:** Blades of the Ancients (crew only), Native of Lustria, Ancient Star Technology, Graviton Discharge, Catastrophic Overload
 
----
 
 ## Ancient Star Technology
 
@@ -886,7 +827,7 @@ The Star-Fire Cannon is not a weapon forged by mortal hands, but a relic from th
 
 The cannon can only fire if at least one crew member remains alive to operate its crystalline controls.
 
----
+
 
 ## Shooting
 
@@ -905,7 +846,7 @@ The Star-Fire Cannon fires a concentrated beam of gravitational distortion that 
 - If the shot hits, the target suffers a Strength 7 hit with Armour Piercing (3) and Multiple Wounds (D3)
 - All hits count as Magical Attacks
 
----
+
 
 ## Anti-Gravity Weapon
 
@@ -916,7 +857,7 @@ The Star-Fire Cannon's gravitational distortion is particularly devastating agai
 - Against models with 3 or more Wounds on their profile, the Multiple Wounds effect increases to **(D3+1)**
 - Against War Machines, Stone Throwers, Chariots, and Monsters, successful hits wound automatically (still apply Armour Piercing 3)
 
----
+
 
 ## Move or Fire
 
@@ -927,7 +868,7 @@ The cannon's delicate crystalline alignment requires absolute stability. The anc
 - If the cannon fires, it may not move during the next Movement phase
 - If the cannon is engaged in close combat, it cannot fire
 
----
+
 
 ## Catastrophic Overload
 
@@ -939,14 +880,14 @@ The Star-Fire Cannon's power source is volatile and unpredictable. When the cann
   - **3-4:** **Controlled Shutdown** - The ancient safety protocols activate. The cannon powers down safely and is removed as a casualty with no additional effects.
   - **5-6:** **Crystal Fragmentation** - The crystalline core shatters explosively. All models (friend and foe) within 6" suffer a Strength 5 hit. The cannon is then removed as a casualty.
 
----
+
 
 ## Options
 
 • The Amazon crew may be equipped with:
 - Shields................................................................................................................. +1 point per model
 
----
+
 
 ## Restrictions
 
@@ -956,7 +897,7 @@ The Slann Star-Fire Cannon may only be included in an army that contains at leas
 **0-1 Rare Choice:** 
 Only one Slann Star-Fire Cannon may be taken per army. These devices are extraordinarily rare, and even the Mothers of Sisterhood guard them jealously as irreplaceable treasures from a bygone age.
 
----
+
 
 ## Lore & Description
 
@@ -971,26 +912,18 @@ Only one Slann Star-Fire Cannon may be taken per army. These devices are extraor
 — Chronicle of the Sky-Watchers, Amazon oral tradition
 
 
-Voici la version mise en forme en **Markdown** :
 
 ---
 
-### **Avatar of Rigg — Rare Unit**
+### **Avatar of Rigg**
 
----
-
-### **Profil**
-
-| M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|----|
-| 6 | 6  | 5  | 5 | 5 | 4 | 7 | 4 | 9  |
+| M | WS | BS | S | T | W | I | A | Ld | points |
+|---|----|----|---|---|---|---|---|----|--------|
+| 6 | 6  | 5  | 5 | 5 | 4 | 7 | 4 | 9  | 275    |
 
 **Type d’Unité :** Monstrous Infantry (1 model)  
-**Coût :** 275 pts
-
----
-
-### **Équipement Standard**
+**base size :** 50 x 75 mm
+**Équipement :**
 
 - **Claws of the Serpent Mother**  
   Armes naturelles, Magical Attacks  
@@ -1058,7 +991,6 @@ Au début d’un tour Amazon :
 - 0–1 par armée  
 - Ne peut pas rejoindre d’unités  
 - Ne peut pas être le General  
-- Compte comme un **Rare choice**
 
 ---
 
