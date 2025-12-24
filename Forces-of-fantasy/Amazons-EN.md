@@ -23,12 +23,6 @@ This document contains the following information:
 **The Lore of…**: Unique spells used in conjunction with the Lores of Magic found in the Warhammer: the Old World rulebook.
 
 
-CONTENTS
-Amazons Legacy Army List 
-  Grand Army Composition List 
-  Magic Items
-  Special Rules
-  Lore of Lustria
 
 
 ## AMAZONS ARMY LIST
