@@ -449,7 +449,7 @@ Options:
 - Upgrade one model to a standard bearer for +5 points per unit
 - Upgrade one model to a musician for +5 points per unit
 
-Special Rules:  Close Order, Swiftstride, Fast Cavalry, Native of Lustria
+Special Rules:  Close Order, Swiftstride, Fast Cavalry, Native of Lustria 
 
 
 **Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like WFB6 Warhamer Realms: Lustria ) they are immune to the same Encounters as the Lizardmen.
@@ -459,8 +459,8 @@ Special Rules:  Close Order, Swiftstride, Fast Cavalry, Native of Lustria
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Noblewomen       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 30     |
-| Headwomen        | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +7     |
+| Noblewomen       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 25     |
+| Headwomen        | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10     |
 | Cold One         | 7 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
 
 
@@ -472,17 +472,51 @@ Equipment:
  - Cold Ones: Claws and teeth (counts as hand weapons)
 
 Options:
-• Any unit may:
-- Upgrade one model to a | Headwomen        | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +7     |
- (champion)............................... +7 points per unit
-- Upgrade one model to a standard bearer................................................... +7 points per unit
-- Upgrade one model to a musician ................................................................ +7 points per unit
+- Any unit may:
+  - May replace lance with a great weapon for +2 pts/model  
+  - May take heavy armour for +3 pts/model
+  - Upgrade one model to a Headwomen (champion) for +10 points per unit
+  - Upgrade one model to a standard bearer................................................... +7 points per unit
+  - Upgrade one model to a musician ................................................................ +7 points per unit
 
 
-Special Rules: Armour Bane (1, Cold One only), Armoured Hide (1), Close Order,Stupidity,
+Special Rules: Armour Bane (1, Cold One only), Toughness (1), Close Order,Stupidity,
 Swiftstride
 
 **Restrictions:** Amazon Cold One Riders may only be included in an army that contains a High Priestess of the Serpent. If the High Priestess is slain, the unit must take a Leadership test at the start of each friendly turn. If failed, the unit must use its Fly movement to move towards the nearest table edge. If it reaches the table edge, it is removed from play. 
+
+
+
+---
+
+### Jaguar Huntresses
+
+|               | M | WS | BS | S | T | W | I | A | Ld | Points |
+|---------------|---|----|----|---|---|---|---|---|----|----|
+| Huntress      | 4 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 | 55 |
+| Pack Mistress | 4 | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 8 | +15 |
+| War Jaguar    | 8 | 4 | 0 | 4 | 4 | 2 | 4 | 3 | 5 | - |
+
+Troop Type: Monstrous cavalry
+Base Size: 30 x 60 mm
+Unit Size: 3-6 models
+**Equipment**
+- Javelin (Range 8", Fight in Extra Ranks)
+- Hand weapon
+- Light armour
+- Shield
+
+Options
+
+- The entire unit may replace their javelins with hunting spears (+2 pts/model) (Hunting Spear: Armour Piercing (1) on the turn they charge)
+- One model may be upgraded to a Pack Mistress (+15 pts)
+- The unit may include a Standard Bearer (+10 pts)
+- The unit may include a Musician (+10 pts)
+
+
+**Special Rules:** : Vanguard, Native of Lustria, Devastating Charge, Volley Fire,Silent Hunter
+
+**Silent Hunter**: The unit may use Scout deployment if it does not include a magic standard.
 
 ---
 
@@ -490,8 +524,8 @@ Swiftstride
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon           | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 30     |
-| Sky Huntress     | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 8  | +10    |
+| Amazon           | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 36     |
+| Sky Huntress     | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 8  | +12    |
 | Terradon         | 2 | 3  | -  | 4 | 4 | 2 | 3 | 2 | -  | -      |
 
 **Troop Type:** Monstrous Cavalry (Skirmishers)
@@ -683,29 +717,27 @@ In battle, Piranha Warrior perform the special attacks :
 - Amazon Crew: Hand weapons, javelins, and bows
 
 
-## Options
+**Options**
 
 • A Stegadon may be equipped with:
 - Fighting Platform (Amazon Crew with javelins and bows)................................... Included in base cost
-
 • An Ancient Stegadon may be equipped with:
 - Fighting Platform (Amazon Crew with javelins and bows)................................... Included in base cost
-- **Slann Star-Fire Cannon Platform (Requires Mother of Sisterhood)................... +90 points**
-
+- **Slann Star-Fire Cannon Platform** (Requires Mother of Sisterhood)................... +60 points
 * May add up to +3 additional Amazon Crew to the Fighting Platform ............... +8 points per model
 ---
 
-## Special Rules
+**Special Rules**
 
 **Close Order, Cold Blooded, Howdah, Immune to Psychology, Impact Hits (D3+1), Large Target, Poisoned Attacks (javelins only), Stomp Attacks (D3+2), Stubborn, Terror, Blades of the Ancients (Amazon Crew only), Native of Lustria (Amazon Crew only)**
 
 
 
-## Fighting Platform
+**Fighting Platform**
 
 The Stegadon's howdah serves as a mobile fighting platform for Amazon warriors. The crew may shoot their bows or javelins in the Shooting phase, targeting any enemy unit within range and line of sight.
 
-### Shooting Profile (Fighting Platform)
+**Shooting Profile (Fighting Platform)**
 
 **Bows:**
 
@@ -721,13 +753,12 @@ The Stegadon's howdah serves as a mobile fighting platform for Amazon warriors. 
 
 The Amazon Crew fires with BS 3 and may shoot 360° (the howdah allows firing in all directions).
 
----
 
-## Slann Star-Fire Cannon Platform (Requires Mother of Sisterhood)
+** Slann Star-Fire Cannon Platform** (Requires Mother of Sisterhood)
 
 An Ancient Stegadon may replace its standard Fighting Platform with a Slann Star-Fire Cannon mounted upon its howdah. This ancient relic of the Old Ones has been adapted by the Mothers of Sisterhood to be carried into battle atop these massive beasts, combining devastating firepower with battlefield mobility.
 
-### Mounted Star-Fire Configuration
+ Mounted Star-Fire Configuration
 
 When a Slann Star-Fire Cannon is mounted on an Ancient Stegadon:
 
@@ -738,7 +769,7 @@ When a Slann Star-Fire Cannon is mounted on an Ancient Stegadon:
 - The cannon retains all other special rules: **Anti-Gravity Weapon, Catastrophic Overload**
 - The cannon has the same profile as the standard Slann Star-Fire Cannon (see Slann Star-Fire Cannon entry)
 
-### Shooting Profile (Star-Fire Cannon Platform)
+Shooting Profile (Star-Fire Cannon Platform)
 
 **Range:** 36"
 
@@ -753,7 +784,7 @@ When a Slann Star-Fire Cannon is mounted on an Ancient Stegadon:
 
 The cannon may fire 360° from the howdah platform.
 
-### Catastrophic Overload (Mounted)
+Catastrophic Overload (Mounted)
 
 If the Ancient Stegadon is reduced to 0 Wounds and has a mounted Slann Star-Fire Cannon, roll a D6:
 
@@ -761,26 +792,25 @@ If the Ancient Stegadon is reduced to 0 Wounds and has a mounted Slann Star-Fire
 - **3-4:** **Controlled Shutdown** - The ancient safety protocols activate. No additional effects.
 - **5-6:** **Crystal Fragmentation** - All models (friend and foe) within 6" suffer a Strength 5 hit.
 
-### Restrictions
+Restrictions
 
 - **Requires Mother of Sisterhood:** The Slann Star-Fire Cannon (mounted or otherwise) may only be included in an army that contains at least one Mother of Sisterhood
 - This option counts toward your army's 0-1 Slann Star-Fire Cannon limitation
 - If you take a mounted Star-Fire Cannon, you cannot also take a static Star-Fire Cannon (and vice versa)
 - Only **Ancient Stegadons** may be equipped with the Star-Fire Cannon Platform (regular Stegadons cannot)
 
----
 
-## Weapon Profiles
 
-### Great Horns
+
+**Great Horns**
 
 | Range  | Strength | AP  | Special Rules |
 |--------|----------|-----|---------------|
 | Combat | User     | -3  | -             |
 
----
 
-## Character Mount
+
+**Character Mount**
 
 A Stegadon or Ancient Stegadon may be included in your army as a character mount for an Amazon Hero or Mother of Sisterhood. Its cost is added to that of its rider.
 
@@ -791,6 +821,7 @@ When taken as a character mount:
 - The character may fight in close combat and shoot with the platform's weapons (or operate the Star-Fire Cannon if equipped)
 - The character benefits from the howdah's protection
 
+---
 
 ### Koalt
 
@@ -829,119 +860,58 @@ Regeneration saves can be attempted as normal).
 **Character Mount**: Only one Koalt may only be included in your army as
 a character’s mount. Its points are added to that of its rider.
 
+---
 
-# Slann Star-Fire Cannon
+### Slann Star-Fire Cannon
 
+|                        | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------------|---|----|----|---|---|---|---|---|----|--------|
+| Slann Star-Fire Cannon | - | -  | -  | - | 7 | 5 | - | - | -  | 125    |
+| Crew (3 Amazons)       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | -      |
 
-|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon Crew (3)  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 180    |
-| Star-Fire Cannon | - | -  | -  | - | 7 | 4 | - | - | -  | -      |
+**Troop Type**: War Machine
+**Base Size**: 60 x 100 mm (machine), 20 x 20 mm (crew)
+**Unit Size**: 1 machine + 3 crew
+**Armour Save**: 5+
 
-**Troop Type:** War Machine
+**Special Rules**:
+- Magical Attacks
+- Move or Fire
+- Catastrophic Overload (see below)
 
-**Base Size:** 60 x 100 mm (machine), 20 x 20 mm (crew)
+#### Shooting Profile
 
-**Unit Size:** 1 Star-Fire Cannon + 3 crew
+| Weapon               | R   | S | AP | Special Rules                          |
+|----------------------|-----|---|----|----------------------------------------|
+| Slann Star-Fire Cannon | 36" | 7 | 3  | Multiple Wounds (D3), Anti-Gravity Weapon |
 
-**Equipment:**
-- Amazon Crew: hand weapons, light armour
-- Star-Fire Cannon: Ancient Slann technology (see special rules)
+#### Anti-Gravity Weapon
 
-**Special Rules:** Blades of the Ancients (crew only), Native of Lustria, Ancient Star Technology, Graviton Discharge, Catastrophic Overload
+- **Vs T5+ models**: Strength counts as 8
+- **Vs W3+ models**: Multiple Wounds becomes (D3+1)
+- **Vs Monsters, War Machines, Chariots**: Automatic Wounds (still apply AP3)
+- **Shockwave Effect**: If this attack kills a Monster or causes 3+ Wounds to a single model, place Small Blast Template (3") centered on target. Models under template suffer S4 hit with no armour save.
 
+#### Move or Fire
 
-## Ancient Star Technology
+If machine or crew moves, cannot fire. Standard war machine restriction.
 
-The Star-Fire Cannon is not a weapon forged by mortal hands, but a relic from the Old Ones' celestial arsenal. This device manipulates the very fabric of reality, warping gravitational fields through complex crystalline matrices and impossibly intricate mechanisms of unknown metals that shimmer with otherworldly light. Though the Amazons call its power "magic," it is in truth technology so advanced it appears supernatural. The weapon's crystalline core pulses with captured starlight, and arcane symbols - actually computational glyphs of the Old Ones - flicker across its surface as it calculates trajectories through means no human mind can fathom.
+#### Catastrophic Overload
 
-The cannon can only fire if at least one crew member remains alive to operate its crystalline controls.
+When machine is reduced to 0 Wounds, roll D6:
+- **1**: Graviton Implosion - All models within 3" suffer S5 AP2 hit
+- **2-6**: Controlled Shutdown - No additional effect
 
+#### Options
 
+- **Shields for crew**: +1 pt/model
+- **Graviton Anchor** (+15 pts): Ignore Move or Fire, but Range reduced to 30"
+- **Crystalline Shielding** (+20 pts): Machine gains 5+ Ward vs Shooting
 
-## Shooting
+#### Restrictions
 
-**Range:** 36"
-
-**Strength:** 7
-
-**Special Rules:** Armour Piercing (3), Magical Attacks, Multiple Wounds (D3), Anti-Gravity Weapon
-
-The Star-Fire Cannon fires a concentrated beam of gravitational distortion that crushes and tears apart even the most massive targets.
-
-**Firing the Cannon:**
-- The cannon requires the crew to remain stationary to fire (see Move or Fire below)
-- Nominate a single target model within range and line of sight
-- Roll to hit using the crew's BS (BS 3)
-- If the shot hits, the target suffers a Strength 7 hit with Armour Piercing (3) and Multiple Wounds (D3)
-- All hits count as Magical Attacks
-
-
-
-## Anti-Gravity Weapon
-
-The Star-Fire Cannon's gravitational distortion is particularly devastating against large creatures and constructs. The weapon tears apart internal structures and shatters bones through impossible gravitational stress.
-
-**Effect:**
-- Against models with Toughness 5 or higher, the cannon's Strength counts as **Strength 8**
-- Against models with 3 or more Wounds on their profile, the Multiple Wounds effect increases to **(D3+1)**
-- Against War Machines, Stone Throwers, Chariots, and Monsters, successful hits wound automatically (still apply Armour Piercing 3)
-
-
-
-## Move or Fire
-
-The cannon's delicate crystalline alignment requires absolute stability. The ancient mechanisms must maintain perfect calibration with celestial positions, and any movement disrupts these calculations.
-
-**Effect:**
-- If the Star-Fire Cannon or any of its crew moves for any reason during the Movement phase, it may not fire during the Shooting phase
-- If the cannon fires, it may not move during the next Movement phase
-- If the cannon is engaged in close combat, it cannot fire
-
-
-
-## Catastrophic Overload
-
-The Star-Fire Cannon's power source is volatile and unpredictable. When the cannon suffers damage, there is a risk that its crystalline core will rupture, releasing uncontrolled gravitational energy.
-
-**Effect:**
-- Whenever the Star-Fire Cannon loses its final Wound, roll a D6 before removing it as a casualty:
-  - **1-2:** **Gravitational Implosion** - The cannon collapses into itself. All models (friend and foe) within 3D6" must take a Leadership test. If failed, they are pulled D3" directly towards the cannon's position. Any model that comes into contact with another model stops immediately. All models within 6" of the cannon's final position suffer a Strength 6 hit with Armour Piercing (2) and Multiple Wounds (D3). The cannon is then removed as a casualty.
-  - **3-4:** **Controlled Shutdown** - The ancient safety protocols activate. The cannon powers down safely and is removed as a casualty with no additional effects.
-  - **5-6:** **Crystal Fragmentation** - The crystalline core shatters explosively. All models (friend and foe) within 6" suffer a Strength 5 hit. The cannon is then removed as a casualty.
-
-
-
-## Options
-
-• The Amazon crew may be equipped with:
-- Shields................................................................................................................. +1 point per model
-
-
-
-## Restrictions
-
-**Requires Mother of Sisterhood:** 
-The Slann Star-Fire Cannon may only be included in an army that contains at least one Mother of Sisterhood. The Mothers are the only Amazons who possess the ancient knowledge necessary to awaken and operate these relics from the stars.
-
-**0-1 Rare Choice:** 
-Only one Slann Star-Fire Cannon may be taken per army. These devices are extraordinarily rare, and even the Mothers of Sisterhood guard them jealously as irreplaceable treasures from a bygone age.
-
-
-
-## Lore & Description
-
-*"We found it in the Temple of Falling Stars, buried beneath centuries of jungle growth. The Mothers say the Old Ones brought it from the heavens themselves, a weapon designed to shatter the great beasts that once threatened their works. Its surface is smoother than any polished stone, yet harder than the finest dwarf-forged steel. Strange symbols dance across it when we speak the activation words - words in a tongue no living creature speaks, yet which the ancient blood in our veins somehow remembers.*
-
-*When it fires, reality itself weeps. The air twists and warps, gravity becomes a weapon, and even the mightiest creatures are crushed like insects beneath an invisible fist. I have seen it tear a Carnosaur in half, pulling the great beast apart from within. I have watched stone collapse and steel crumple as if made of parchment.*
-
-*The enemy calls it sorcery, but the Mothers know better. This is not magic as the Serpent Priestesses wield - this is the science of beings who reshaped worlds, translated into a form our primitive understanding interprets as mystical.*
-
-*We do not truly understand it. We only know that when the great beasts come, when war mammoths shake the earth and dragons darken the sky, the Star-Fire Cannon is our answer. We can only pray to the Old Ones that we never forget how to use it - and that we never misuse it."*
-
-— Chronicle of the Sky-Watchers, Amazon oral tradition
-
-
+- Requires Mother of Sisterhood
+- 0-1 per army (0-2 if Mother is Army General)
 
 ---
 
@@ -960,26 +930,25 @@ Only one Slann Star-Fire Cannon may be taken per army. These devices are extraor
 - **Sacred Scales**  
   Armour Save 4+ (non-modifiable par équipement)
 
----
 
-### **Règles Spéciales**
 
-#### **Avatar of the Goddess**
+ **Règles Spéciales**
+
+ **Avatar of the Goddess**
 L’Avatar de Rigg est une manifestation divine. Elle bénéficie de :  
 - Magical Attacks  
 - Magic Resistance (2)  
 - Terror  
 - Unstable (comme les Daemons – perd 1W par point perdu en combat)
 
----
 
-#### **Mother's Blessing**
+ **Mother's Blessing**
 - Toutes les unités Amazon **Core** et **Special** dans un rayon de **12"** gagnent *Stubborn*.  
 - Les **Serpent Priestesses** dans ce rayon gagnent **+1 aux jets de dissipation**.
 
----
 
-#### **Divine Wrath**
+
+ **Divine Wrath**
 Au début de chaque tour de combat, l’Avatar choisit *un* des effets suivants :
 
 - **Vengeance of Rigg**  
@@ -991,9 +960,9 @@ Au début de chaque tour de combat, l’Avatar choisit *un* des effets suivants 
 - **Shield of Scales**  
   L’Avatar et toutes les unités alliées dans un rayon de **6"** gagnent **Ward Save (5+)** jusqu’au début du prochain tour.
 
----
 
-#### **Serpent's Gaze** *(1 fois par partie)*
+
+ **Serpent's Gaze** *(1 fois par partie)*
 Au début d’un tour Amazon :
 
 - Choisissez une unité ennemie à **18"** ou moins.  
@@ -1005,18 +974,18 @@ Au début d’un tour Amazon :
 - Ne peuvent pas charger  
 - Ne peuvent pas tirer  
 
----
 
-### **Options**
+
+**Options**
 
 **Upgrades (0–1 au choix)**  
 - **Coils of Binding (+30 pts)** — L’Avatar gagne **ASF (Always Strikes First)**  
 - **Obsidian Heart (+25 pts)** — L’Avatar devient **Unbreakable**, mais perd **Unstable**  
 - **Sacred Venom (+20 pts)** — Les attaques de l’Avatar gagnent **Poisoned Attacks**
 
----
 
-### **Restrictions**
+
+ **Restrictions**
 
 - 0–1 par armée  
 - Ne peut pas rejoindre d’unités  
