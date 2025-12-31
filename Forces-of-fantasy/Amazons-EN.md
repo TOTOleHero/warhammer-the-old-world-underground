@@ -42,7 +42,6 @@ Up to 50% of your army's points value may be spent on:
 At least 25% of your army's points value must be spent on:
 - Tribal Warriors
 - Anakonda Warriors
-- Totem Warriors
 - Eagle Warriors
 
 ## Special
@@ -56,6 +55,7 @@ Up to 50% of your army's points value may be spent on:
 
 ## Rare
 Up to 25% of your army's points value may be spent on:
+- Totem Warriors
 - Koka-Kalim
 - Jaguar Warriors
 - Stegadons (available with the Ritual of the Scaled Servants)
@@ -311,35 +311,25 @@ A General may be mounted on a:
 - Light Armour  
 - Skirmishers  
 - Scouts  
-- Forest Strider
+- Move Through Cover
+- Blades of the Ancients  
+- Native of Lustria  
 
-**Options**:  
-- May upgrade one Amazon to a **Champion** (+1 Attack) for +10 pts  
-- May upgrade one Amazon to a **Standard Bearer** for +10 pts  
-- May upgrade one Amazon to a **Musician** for +5 pts  
 
-**Weapon Options** (per model):  
-- May exchange bow for **javelin and shield** for +1 pt/model  
-- May take **additional hand weapon** for +1 pt/model (cannot be combined with shield)  
+**Options**: 
+- Any unit may:
+  - May upgrade one Amazon to a **Champion** (+1 Attack) for +10 pts  
+  - May upgrade one Amazon to a **Standard Bearer** for +10 pts  
+  - May upgrade one Amazon to a **Musician** for +5 pts  
+  - Purchase a magic standard worth up to 100 points
+  - May replace bow with a spear for free  
+  - May take a shield for +1 pt/model  
+  - May take an additional hand weapon for +1 pt/model  
+  - May replace bow with javelins (12", S3, Poisoned Attacks) for +1 pt/model 
 
 **Restrictions**:  
 - 0–3 units of Tribal Warriors per army at 2,000 points or less (increase this limit by +1 for each additional full 1,000 points in the army)
 
----
-
-### Anakonda warriors
-
-|        | M | WS | BS | S | T | W | I | A | Ld | Points |
-|--------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 11     |
-
-**Troop Type** : Regular infantry
-**Base Size** : 25 x 25 mm
-**Unit Size** : 5+
-**Equipment**: 
-- **Blades of the Ancients** (counts as light armour).
-
-**specials rules** : skirmishers, native of Lustria 
 
 ---
 
@@ -349,25 +339,28 @@ A General may be mounted on a:
 
 |                       | M | WS | BS | S | T | W | I | A | Ld | Points |
 |-----------------------|---|----|----|---|---|---|---|---|----|--------|
-| Totem warriors        | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 13     |
+| Totem warriors        | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 15     |
 | Totem warriors Devout | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
 
 
 Troop Type: Regular infantry
 Base Size: 25 x 25 mm
 Unit Size: 10+
-Equipment: Two Hand Weapons
+Equipment: 
+- Two Hand Weapons
+- Totem Mask (grants Fear)
 
+**Options:**
 Any unit may:
 - Upgrade one model to a Totem warriors Devout (champion).........................................+10 points per unit
 - Upgrade one model to a standard bearer...................................................+10 points per unit
 - Upgrade one model to a musician ................................................................+10 points per unit
 
-Special Rules: 
-- Skirmishers
-- Hate (everyone)
-- Frenzy
-- Poisoned Attacks
+**Special Rules:**
+- Skirmishers  
+- Frenzy  
+- Poisoned Attacks (close combat)  
+- Fear (Totem Mask)  
 
 ---
 
@@ -378,7 +371,7 @@ The Koka-Kalim are the fanatical elite of Amazonian warriors, a militant order t
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Koka-Kalim       | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 12     |
+| Koka-Kalim       | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 10     |
 | Koka-Kalim Rager | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 3 | 7  | +10     |
 
 **Troop Type:** Regular infantry
@@ -389,29 +382,28 @@ The Koka-Kalim are the fanatical elite of Amazonian warriors, a militant order t
  - **Blade of the Ancients**
  - Light armour
 
-### Options
 
-* The entire unit may be equipped with **javelins** at an additional cost of +1 point per model
-* One Koka-Kalim Warrior may be upgraded to a **Koka-Kalim Rager** at an additional cost of +10 points
-* 
-#### Special Rules
+**Options:**
+- May replace hand weapon with a spear for free  
+- May take javelins (12", S3, Poisoned Attacks) for +1 pt/model  
+- One model may be upgraded to a Koka-Kalim Rager for +10 pts
+
+**Special Rules:**
 
 * **Blades of the Ancients** (see Amazons Army Special Rules)
 * **Immune to Psychology**
 * **Impetuous**
 * **Native of Lustria** (see Amazons Army Special Rules)
-* **Sacred Fury**
+* **Sacred Fury (see below)**
 * **Unbreakable**
 
-### Sacred Fury
+**Sacred Fury**
 
 Warriors who have undergone the Koka-Kalim ritual and constantly consume the narcotic drug feel reduced pain and fight with supernatural vigor in close combat. Deprived of their normal sensory functions by the effects of koka, they can overcome great suffering and have no aversion to death, continuing to fight despite wounds that would fell ordinary warriors.
 
 A model with this special rule has:
-- A 6+ Ward save against any wounds suffered that were caused by a non-magical
-enemy attack.
-- A 5+ Ward save against any wounds suffered that were caused by a non-magical enemy
-attack with a Strength 5 or higher.
+- A 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
+- A 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack with a Strength 5 or higher.
 
 ---
 
@@ -435,25 +427,32 @@ The Culchan is a huge, flightless, carnivorous bird that lives on the pampas gra
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Culchan Riders   | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 30     |
-| Amazon champion  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +5     |
+| Culchan Riders   | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 25     |
+| Culchan-Ka       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
 | Culchan          | 9 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
 
 Troop Type: Light cavalry
 Base Size: 25 x 50 mm
 Unit Size: 5+
 Equipment:
- - Culchan Riders: hand weapon, spear, shield
+ - Culchan Riders:
+   - Blades of the Ancients 
+   - Light armour  
+   - Shield
  - Cold Ones: Claws and teeth (counts as hand weapons)
 
 Options:
 • Any unit may:
-- Upgrade one model to a Dread Knight (champion)............................... +5 points per unit
-- Upgrade one model to a standard bearer................................................... +5 points per unit
-- Upgrade one model to a musician ................................................................ +5 points per unit
+- May replace lance with javelins for free 
+- May take an additional hand weapon for +1 pt/model
+- Upgrade one model to a Culchan-Ka (champion) for +10 points per unit
+- Upgrade one model to a standard bearer for +5 points per unit
+- Upgrade one model to a musician for +5 points per unit
 
-Special Rules:  Close Order, Swiftstride
+Special Rules:  Close Order, Swiftstride, Fast Cavalry, Native of Lustria
 
+
+**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like WFB6 Warhamer Realms: Lustria ) they are immune to the same Encounters as the Lizardmen.
 ---
 
 ### Amazon Cold One Riders
@@ -532,13 +531,22 @@ Much like their namesake, Eagle Warriors are swift and agile: ducking and weavin
 Troop Type: Regular infantry
 Base Size: 25 x 25 mm
 Unit Size: 5+
-Equipment: High Age weapons pistol
+Equipment: 
+ - High Age Weapons Pistol (see below)  
+ - Hand weapon  
+ - Light armour
+
+Options:  
+- Any unit may:
+  - May replace pistol with a longbow for free  
+  - May take a shield for +1 pt/model
 
 Special Rules: Close Order, Immune to Psychology, Move through Cover
 
-|                         | R      | S   | AP | Special Rules |
-|-------------------------|--------|-----|----|---------------|
-| High Age weapons pistol | 12''   | 4   | -2 |               |
+
+|                             | R      | S   | AP | Special Rules |
+|-----------------------------|--------|-----|----|---------------|
+| **High Age weapons pistol** | 12''   | 4   | -2 |               |
 
 ---
 
@@ -548,22 +556,25 @@ Special Rules: Close Order, Immune to Psychology, Move through Cover
 
 |                   | M | WS | BS | S | T | W | I | A | Ld | Points |
 |-------------------|---|----|----|---|---|---|---|---|----|--------|
-| Jaguar Warrior    | 4 | 3  | 3  | 4 | 3 | 1 | 4 | 1 | 7  | 17     |
+| Jaguar Warrior    | 4 | 3  | 3  | 4 | 3 | 1 | 4 | 1 | 7  | 14     |
 
 **Troop Type:** Regular infantry  
 **Base Size:** 25 x 25 mm  
 **Unit Size:** 5+  
-**Equipment:** Claw of the old ones (see below)
+**Equipment:** 
+ - Claw of the Old Ones (see below)  
+ - Light armour
 
-|                      | R      | S   | AP | Special Rules |
-|----------------------|--------|-----|----|---------------|
-| Claw of the old ones | Combat | S+1 | -2 | **Armour Piercing**, **Jaguar Strike** |
+**Special Rules:**
+- Stubborn  
+- Jaguar Strike (+1 Attack when charging)  
+- Armour Piercing (Claw)
 
-**Claw of the old ones:** These ancient claws, forged from the bones of primordial jungle beasts, rend flesh with savage precision. Models equipped with the **Claw of the old ones** gain the **Armour Piercing (AP)** special rule, representing their ability to tear through defences. Additionally, they have the **Jaguar Strike** special rule: when this model charges, it gains +1 Attack on the turn it charges, reflecting the ferocious ambush tactics of these elite guardians.
+|                          | R      | S   | AP | Special Rules |
+|--------------------------|--------|-----|----|---------------|
+| **Claw of the old ones** | Combat | S+1 | -2 | **Armour Piercing**, **Jaguar Strike** |
 
-Voici une proposition complète et cohérente avec The Old World, en restant dans l’esprit des anciennes listes Amazones / Arcane Journals non officiels, tout en gardant le profil et l’équipement que tu as fournis.
-
-Je pars du principe que tu veux un warscroll utilisable tel quel : profil, règles spéciales, options, commandement, etc.
+**Claw of the old ones:** These ancient claws, forged from the bones of primordial jungle beasts, rend flesh with savage precision. Models equipped with the **Claw of the old ones** gain the **Armour Piercing (AP -2)** rule, representing their ability to tear through defences. Additionally, they have the **Jaguar Strike** special rule: when this model charges, it gains +1 Attack on the turn it charges only, reflecting the ferocious ambush tactics of these elite guardians.
 
 ---
 
@@ -571,9 +582,11 @@ Je pars du principe que tu veux un warscroll utilisable tel quel : profil, règl
 
 Python Warriors spend years studying the snakes from which they draw their name, learning the art of patience and to find the best moment to strike.
 
-|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Python Warrior   | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | 17     |
+|                     | M | WS | BS | S | T | W | I | A | Ld | Points |
+|---------------------|---|----|----|---|---|---|---|---|----|--------|
+| Python Warrior      | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | 13    |
+| Serpent Matriarch   | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | +10     |
+
 
 **Troop Type:** Regular Infantry  
 **Base Size:** 25 x 25 mm  
@@ -582,27 +595,27 @@ Python Warriors spend years studying the snakes from which they draw their name,
 **Equipment:**  
 - Hand weapon  
 - **Arrows of python**
+- Light armour
 
 |                  | R    | S | AP | Special Rules       |
 |------------------|------|---|----|---------------------|
-| Arrows of python | 24"  | 3 | -1 | Poisoned Attacks   |
+| Arrows of python | 24"  | 3 | -1 | Poisoned Attacks    |
 
 
-### Special Rules
+**Special Rules:**
 
 - **Close Order** (as per The Old World core rules).  
 - **Poisoned Attacks (Shooting)**: Attacks made with **Arrows of python** have Poisoned Attacks.  
 - **Jungle Hunters**:  
-  - The unit treats woods, jungle and similar terrain as *open ground* for the purposes of movement (they still suffer any dangerous terrain tests that might be required).  
-  - Enemy units do not gain Soft Cover against shooting attacks from Python Warriors if the only source of cover is a wood or jungle they are in or that is between them and the Python Warriors.
+  - The unit treats woods, jungle and similar terrain as *open ground* for the purposes of movement (they still suffer any dangerous terrain tests that might be required).   - Enemy units do not gain Soft Cover against shooting attacks from Python Warriors if the only source of cover is a wood or jungle they are in or that is between them and the Python Warriors.
 
 
-### Options
-
-- The unit may upgrade one Python Warrior to a **Serpent Matriarch** (Champion) ……… +10 pts  
-  - The Serpent Matriarch gains +1 Attack.
-- The unit may include a **Standard Bearer** ……… +10 pts  
-- The unit may include a **Musician** ………………… +5 pts  
+**Options:**
+- May replace bow with javelins (12", S3, Poisoned Attacks) for free  
+- May take a shield for +1 pt/model  
+- The unit may upgrade one Python Warrior to a **Serpent Matriarch** (Champion) for +10 pts  
+- The unit may include a **Standard Bearer** for +10 pts  
+- The unit may include a **Musician** for +5 pts  
 
 
 ---
@@ -613,22 +626,39 @@ Emulating the ferocious river predator, from where they draw their name, Piranha
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
-| Piranha Warrior  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 16     |
+| Piranha Warrior  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 18     |
 
 Troop Type: Regular infantry
 Base Size: 25 x 25 mm
 Unit Size: 5+
-Equipment:
 
-Special Rules: Blood in the river, Evasive, Furious Charge, Immune to Psychology, Loner,
-Motley Crew, Move through Cover, Open Order, Skirmishers,
-Strike First
+**Equipment:**
+- Two hand weapons  
+- Javelins (12", S3, Poisoned Attacks)  
+- Light armour
 
-Blood in the river
+**Special Rules:** 
+- Blood in the river
+- Evasive
+- Furious Charge 
+- Immune to Psychology
+- Loner
+- Motley Crew 
+- Move through Cover
+- Open Order
+- Skirmishers
+- Strike First
+- Vanguard
+- Poisoned Attacks (shooting only)
+
+Options:  
+- Any unit may:
+  - May replace two hand weapons with a spear for  free  
+  - May take a shield for +1 pt/model
+
+**Blood in the river**
 In battle, Piranha Warrior perform the special attacks :
-
- - Cutting teeth: Until the end of this Combat phase, this unit gains the Extra Attacks
-(+1) special rule.
+ - Cutting teeth: Until the end of this Combat phase, this unit gains the Extra Attacks (+1) special rule.
 
 ---
 
