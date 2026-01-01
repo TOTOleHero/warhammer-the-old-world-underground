@@ -807,6 +807,9 @@ a character’s mount. Its points are added to that of its rider.
 
 ## Slann Star-Fire Cannon
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0e3c2f70-7a54-439a-b7ef-d05fc434f228" />
+
+
 |                        | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------------|---|----|----|---|---|---|---|---|----|--------|
 | Slann Star-Fire Cannon | - | -  | -  | - | 7 | 5 | - | - | -  | 125    |
@@ -859,6 +862,9 @@ When machine is reduced to 0 Wounds, roll D6:
 ---
 
 ## **Avatar of Rigg**
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b0a0711-e54a-4c2f-940f-72e84bc45783" />
+
 
 | M | WS | BS | S | T | W | I | A | Ld | points |
 |---|----|----|---|---|---|---|---|----|--------|
