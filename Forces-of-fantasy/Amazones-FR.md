@@ -1,979 +1,1234 @@
 # Amazones
 
-Liste d'Armée Communautaire Non Officielle Legacy
+Liste d’armée communautaire non officielle (Legacy)
 
-Pour Utilisation Avec les Règles de Warhammer : The Old World
-Ce document vous permet de jouer une Armée d'Amazones de la gamme Warhammer Fantasy Battles dans des parties utilisant les règles de Warhammer : The Old World. Pour utiliser le contenu de ce document, vous aurez besoin d'un exemplaire du livre de règles Warhammer : The Old World.
+Pour une utilisation avec les règles de Warhammer : The Old World  
+Ce document vous permet de jouer une armée d’Amazones de la gamme Warhammer Fantasy Battles dans des parties utilisant les règles de Warhammer : The Old World. Pour utiliser le contenu de ce document, vous aurez besoin d’un exemplaire du livre de règles de Warhammer : The Old World.
 
-Les règles contenues dans ce document offrent aux joueurs l'opportunité d'essayer les règles de Warhammer : The Old World en utilisant des figurines qu'ils peuvent avoir dans leur collection. Elles ne sont pas destinées à être utilisées dans des événements de jeu équilibré et ne seront pas mises à jour en accord avec les futures publications de Warhammer : The Old World.
+Les règles contenues dans ce document offrent aux joueurs l’opportunité d’essayer les règles de Warhammer : The Old World en utilisant les figurines qu’ils peuvent avoir dans leur collection. Elles ne sont pas destinées à être utilisées lors d’événements compétitifs et ne seront pas mises à jour en fonction de futures publications de Warhammer : The Old World.
+
 
 # amazones
 
-Les Amazones sont uniques en ce que leur race ne compte aucun mâle—la reproduction se fait par réaction parthénogénique contrôlée par des drogues. Lorsque les Slann régnaient sur le monde, les Amazones furent créées pour accomplir de nombreuses tâches banales et travaux. Quand les portails dimensionnels s'effondrèrent, les Amazones partageaient déjà la haute civilisation des Slann, servant comme techniciennes et assistantes. En conséquence, leur histoire a été celle d'une lente dégénérescence sous l'ombre de l'héritage des Slann, préservant nombre des sciences supérieures perdues par les Slann eux-mêmes.
+Les Amazones sont uniques en ce que leur race ne possède aucun mâle — la reproduction se fait par réaction parthénogénétique contrôlée par des drogues. Lorsque les Slanns régnaient sur le monde, les Amazones ont été créées pour accomplir de nombreuses tâches et travaux ordinaires. Lorsque les portes de warp se sont effondrées, les Amazones partageaient déjà la haute civilisation des Slanns, servant de techniciennes et d’assistantes. En conséquence, leur histoire est celle d’une lente dégénérescence dans l’ombre de l’héritage des Slanns, préservant nombre des sciences supérieures perdues par les Slanns eux‑mêmes.
 
 Ce document contient les informations suivantes :
 
-**Liste de Composition de Grande Armée** : La liste de composition d'armée par défaut pour les Hommes-Lézards.
-**Profils** : Chaque figurine disponible pour les Hommes-Lézards possède un profil. Ici, vous trouverez les caractéristiques de cette figurine, son équipement, sa valeur en points, les détails de toute règle spéciale qui lui est propre et plus encore.
-**Objets Magiques** : En plus des objets magiques Communs détaillés dans le livre de règles Warhammer : The Old World, cette liste d'armée inclut un certain nombre d'objets magiques propres aux Hommes-Lézards.
-**Règles Spéciales** : Cette section couvre les règles propres aux Hommes-Lézards.
-**La Tradition de...** : Sorts uniques utilisés en conjonction avec les Traditions de Magie trouvées dans le livre de règles Warhammer : The Old World.
-
-## LISTE D'ARMÉE AMAZONES
-
-Cette page détaille la liste de composition de Grande Armée pour les Amazones. Il s'agit de la liste de composition d'armée par défaut pour cette faction. Utiliser cette liste de composition d'armée pour écrire votre liste de rassemblement vous donnera la plus grande variété d'unités parmi lesquelles choisir et créer une force large et équilibrée.
-
-## Porte-Étendard de Bataille
-Une unique Chef de Guerre Amazone dans votre armée peut être améliorée pour devenir votre Porte-Étendard de Bataille pour +25 points. En plus de leur allocation habituelle de points à dépenser en objets magiques, un Porte-Étendard de Bataille peut acheter un unique étendard magique sans limite de points.
-
-## Personnages
-Jusqu'à 50% de la valeur en points de votre armée peut être dépensée en :
-- 0-1 Mère de la Sororité par armée
-- Prêtresses du Serpent et Hautes Prêtresses du Serpent
-- Chefs de Guerre Amazones
-
-## Unités de Base
-Au moins 25% de la valeur en points de votre armée doit être dépensée en :
-- Guerrières Tribales
-- Guerrières Anakonda
-- Guerrières Totem
-- Guerrières Aigle
-
-## Unités Spéciales
-Jusqu'à 50% de la valeur en points de votre armée peut être dépensée en :
-- Cavalières Culchan Amazones
-- Guerrières Piranha
-- Guerrières Python
-- Nuées de Jungle
-- Cavalières sur Sauriens à Sang Froid Amazones (disponibles avec le Rituel des Servants Écailleux)
-- Cavalières sur Terradon Amazones (disponibles avec le Rituel des Servants Écailleux)
-
-## Unités Rares
-Jusqu'à 25% de la valeur en points de votre armée peut être dépensée en :
-- Koka-Kalim
-- Guerrières Jaguar
-- Stégadons (disponibles avec le Rituel des Servants Écailleux)
-- Stégadons Anciens (disponibles avec le Rituel des Servants Écailleux)
-- Koalts (monture de personnage uniquement)
-- 0-1 Canon Feu-Stellaire Slann (disponible uniquement avec la Mère de la Sororité)
-- Avatar de Rigg
-
-## Mercenaires
-Jusqu'à 20% de la valeur en points de votre armée peut être dépensée en mercenaires.
-
-## Alliés
-Jusqu'à 25% de la valeur en points de votre armée peut être dépensée en un unique contingent allié tiré de :
-- Toute liste de composition de Grande Armée Hommes-Lézards
-- Unité de Valkyrie (de Norsca uniquement)
-
---- 
-
-# Mère de la Sororité
-
-## Contexte
-
-Les Mères de la Sororité sont les matriarches et chefs militaires des tribus Amazones de Lustrie. Héritières directes du savoir Slann, elles sont commandantes, gardiennes des traditions ancestrales et figures spirituelles de leur peuple. Chaque Mère supervise une tribu ou un groupe de tribus apparentées, maintenant l'ordre social et perpétuant les rituels de reproduction parthénogénique qui assurent la survie de leur race.
-
-Contrairement aux Prêtresses du Serpent qui canalisent les énergies magiques, les Mères de la Sororité excellent dans l'art de la guerre et le commandement tactique. Elles portent les plus anciennes Lames des Anciens, artefacts Slann transmis de génération en génération, et sont souvent accompagnées d'animaux totems symbolisant leur autorité.
-
-| M | CC | CT | F | E | PV | I | A | Cd | points |
-|---|----|----|---|---|----|----|---|----|--------|
-| 4 | 5  | 4  | 3 | 3 | 3  | 5  | 3 | 9  | 85     |
-
-**Type de Troupe :** Infanterie (Héros)
-**Taille de Socle :** 25 x 25 mm
-**Taille d'Unité :** 1
-
-## Équipement
-* Arme de base
-* Lame des Anciens
-* Armure légère
-
-## Règles Spéciales
-
-* **Lames des Anciens** (voir Règles Spéciales de l'Armée Amazones)
-* **Présence Inspirante**
-* **Native de Lustrie** (voir Règles Spéciales de l'Armée Amazones)
-* **Tirailleurs** (uniquement à pied)
-* **Autorité Matriarcale**
-* **Sagesse Ancestrale**
-
-### Autorité Matriarcale
-
-La Mère de la Sororité représente l'autorité suprême dans la hiérarchie Amazone. Son commandement est absolu et sa présence sur le champ de bataille inspire ses sœurs à accomplir de plus grands exploits martiaux.
-
-Les unités de Base Amazones (Guerrières Tribales, Guerrières Anakonda, Guerrières Totem et Guerrières Aigle) à moins de 12" d'une ou plusieurs figurines amies disposant de cette règle spéciale peuvent utiliser la caractéristique de Commandement de cette figurine lors des tests de Commandement.
-
-Une fois par bataille, au début de n'importe quelle phase durant le tour du joueur Amazone, une figurine disposant de cette règle spéciale peut déclarer un **Commandement de Sœur**. Jusqu'à la fin de ce tour, toutes les unités Amazones à moins de 18" de la figurine ayant déclaré le Commandement de Sœur gagnent +1 à leur Résultat de Combat.
-
-### Sagesse Ancestrale
-
-Les Mères de la Sororité ont préservé des fragments de la connaissance Slann concernant la guerre et les tactiques, leur permettant de surpasser leurs ennemis grâce à une perspicacité stratégique supérieure.
-
-Si votre armée inclut au moins une figurine disposant de cette règle spéciale, vous pouvez relancer un unique dé lors du jet pour déterminer qui choisit les zones de déploiement.
-
-De plus, si le Général de votre armée dispose de cette règle spéciale, vous pouvez déployer une unité de Base après que l'ennemi ait fini de déployer son armée (mais avant que les Éclaireurs ne soient déployés).
-
-Enfin, la Sagesse Ancestrale donne accès à certaines technologies des anciens Slann, des technologies que personne dans le Vieux Monde ne peut prétendre posséder. Ces technologies semblent provenir d'une autre ère ou d'un autre monde. La Sagesse Ancestrale débloque : Canon Feu-Stellaire Slann
-
-## Options
-
-* Peut remplacer son arme de base par l'une des options suivantes :
-  * Lance .......................................................................... gratuit
-  * Arme lourde ................................................................. +6 pts
-
-* Peut prendre l'une des options suivantes :
-  * Bouclier ...................................................................... +2 pts
-  * Arme de base supplémentaire ........................................ +3 pts
-
-* Peut remplacer son armure légère par :
-  * Armure lourde ............................................................. +3 pts
-
-* Peut prendre :
-  * Javelot ........................................................................ +2 pts
-
-### Montures
-
-* Peut monter l'une des options suivantes :
-  * Culchan (voir Bestiaire Amazones) ................................. +20 pts
-  * Saurien à Sang Froid (voir Bestiaire Amazones) .............. +30 pts
-  * Koalt (voir Bestiaire Amazones) ..................................... +210 pts (0-1 par armée)
-
-  ---
-
-  ## CHEF DE GUERRE AMAZONE
-
-|                      | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|----------------------|---|----|----|---|---|----|---|---|----|--------|
-| Chef de Guerre Amazone | 4 | 4  | 4  | 3 | 3 | 2  | 5 | 2 | 8  | 55     |
-
-**Type de Troupe** : Infanterie (Personnage)  
-**Taille de Socle** : 25 x 25 mm
-
-### Équipement
-
-**Équipement Standard** :
-- Arme de base
-- Lames des Anciens
-- Armure légère
-
-### Options
-
-**Armes & Armure** :
-- Peut remplacer son arme de base par l'une des options suivantes :
-  - Lance .......................................................................... gratuit
-  - Arme lourde ................................................................. +4 pts
-- Peut prendre l'une des options suivantes :
-  - Bouclier ...................................................................... +2 pts
-  - Arme de base supplémentaire ........................................ +2 pts
-- Peut remplacer son armure légère par :
-  - Armure lourde ............................................................. +3 pts
-- Peut prendre :
-  - Javelot ........................................................................ +2 pts
-
-**Montures** :
-- Peut monter l'une des options suivantes :
-  - Culchan ...................................................................... +20 pts
-  - Saurien à Sang Froid ................................................... +30 pts
-
-**Options Spéciales** :
-- Peut être améliorée en :
-  - Porte-Étendard de Bataille ........................................... +25 pts
-
-**Objets Magiques** :
-- Peut prendre des objets magiques choisis parmi les listes d'objets magiques Communs et/ou Amazones pour une valeur totale en points allant jusqu'à ................................... 25 pts
-
-### Règles Spéciales
-
-- **Lames des Anciens**
-- **Native de Lustrie** 
-- **Cri de Guerre**
-
-**Cri de Guerre** : Au début de n'importe quel tour ami, une Chef de Guerre Amazone peut lancer un Cri de Guerre. Toutes les unités de Base Amazones amies à moins de 6" de la Chef de Guerre peuvent immédiatement relancer les tests de Commandement ratés jusqu'au début du prochain tour ami. Si la Chef de Guerre est le Porte-Étendard de Bataille de votre armée, la portée de cette capacité passe à 12".
-
-**Porte-Étendard de Bataille** : Si la figurine a été améliorée pour devenir le Porte-Étendard de Bataille de l'armée, elle peut prendre un étendard magique (il s'agit d'une exception aux règles normales pour les objets magiques). Notez qu'un étendard magique compte toujours dans l'allocation de points d'objets magiques de cette figurine.
+**Liste de composition de la Grande Armée** : La liste de composition d’armée par défaut pour les Hommes‑Lézards.  
+**Profils** : Chaque figurine disponible pour les Hommes‑Lézards possède un profil. Ici, vous trouverez les caractéristiques de cette figurine, son équipement, sa valeur en points, les détails de ses règles spéciales et plus encore.  
+**Objets magiques** : En plus des objets magiques communs décrits dans le livre de règles de Warhammer : The Old World, cette liste d’armée inclut un certain nombre d’objets magiques propres aux Hommes‑Lézards.  
+**Règles spéciales** : Cette section couvre les règles propres aux Hommes‑Lézards.  
+**Le Savoir de…** : Des sorts uniques utilisés en complément des Savoirs de la Magie trouvés dans le livre de règles de Warhammer : The Old World.
 
 ---
 
-### Prêtresse du Serpent
+## LISTE D’ARMÉE DES AMAZONES
 
-|                      | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|----------------------|---|----|----|---|---|----|---|---|----|--------|
-| Prêtresse du Serpent | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 50     |
+Cette page détaille la liste de composition de la Grande Armée des Amazones. Il s’agit de la liste de composition d’armée par défaut pour cette faction. Utiliser cette liste pour rédiger votre liste de mobilisation vous donnera la plus grande variété d’unités et permettra de créer une force large et équilibrée.
 
-**Type de Troupe** : Infanterie (Personnage)  
-**Taille de Socle** : 25 x 25 mm
+## Porte-étendard de bataille
+Une seule Cheffe de Guerre Amazone de votre armée peut être améliorée pour devenir votre Porte‑étendard de Bataille pour +25 points. En plus de son allocation habituelle de points à dépenser en objets magiques, une Porte‑étendard de Bataille peut acheter une unique bannière magique sans limite de points.
 
-## Entrée Mise à Jour de la Prêtresse du Serpent
+## Personnages
+Jusqu’à 50 % de la valeur en points de votre armée peut être dépensée en :
+- 0‑1 Mère de la Sororité par armée  
+- Prêtresses du Serpent et Grandes Prêtresses du Serpent  
+- Cheffes de Guerre Amazones
 
-### Prêtresse du Serpent - Sorcier Niveau 1-4
+## Base
+Au moins 25 % de la valeur en points de votre armée doit être dépensée en :
+- Guerrières Tribales  
+- Guerrières Anakonda  
+- Guerrières Aigle
 
-**Règles Spéciales :**
-- Lames des Anciens
-- Native de Lustrie
-- Savoir de Lustrie (Sorciers uniquement)
+## Spéciales
+Jusqu’à 50 % de la valeur en points de votre armée peut être dépensée en :
+- Cavalières Amazoniennes sur Culchan  
+- Chasseresses Jaguar  
+- Guerrières Piranha  
+- Guerrières Python  
+- Nuées de la Jungle  
+- Cavalières Amazones sur Sang‑Froid (disponibles avec le Rituel des Serviteurs Écailleux)  
+- Cavalières Amazones sur Terradon (disponibles avec le Rituel des Serviteurs Écailleux)
 
-**Magie :**
-Une Prêtresse du Serpent est un Sorcier de Niveau 1 qui utilise des sorts du Savoir de Lustrie.
+## Rares
+Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en :
+- Guerrières Totem  
+- Koka‑Kalim  
+- Guerrières Jaguar  
+- Stegadons (disponibles avec le Rituel des Serviteurs Écailleux)  
+- Anciens Stegadons (disponibles avec le Rituel des Serviteurs Écailleux)  
+- Koalts (monture de personnage uniquement)  
+- 0‑1 Canon d’Étoile‑de‑Feu Slann (disponible uniquement avec une Mère de la Sororité)  
+- Avatar de Rigg
 
-Une Prêtresse du Serpent peut être améliorée en :
-- Sorcier Niveau 2 pour +35 points
-- Sorcier Niveau 3 pour +70 points  
-- Sorcier Niveau 4 pour +105 points
+## Mercenaires
+Jusqu’à 20 % de la valeur en points de votre armée peut être dépensée en mercenaires.
 
-Une Prêtresse du Serpent Sorcier Niveau 4 peut être améliorée en **Haute Prêtresse du Serpent** (voir ci-dessous).
+## Alliés
+Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en un seul contingent allié choisi parmi :
+- Toute liste de composition de Grande Armée des Hommes‑Lézards  
+- Unité de Valkyries (armée de Norsca)  
+- Toute liste de composition de Grande Armée des Elfes des Mers
 
-**Domaines de Magie :**
-Chaque Prêtresse du Serpent connaît des sorts de l'un des Domaines de Magie suivants :
-- Domaine des Bêtes
-- Domaine de la Vie
-- Domaine des Serpents
+--- 
 
-### Haute Prêtresse du Serpent - +50 points
+## MOTHER OF SISTERHOOD / AMAZON WAR LEADER
 
-**Conditions :**
-- Disponible uniquement pour une Prêtresse du Serpent (Héros) de Niveau 4 Sorcier
-- Doit être incluse dans une armée de 2000+ points
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|---|---|----|----|---|---|---|---|---|----|----|
+| Mother of Sisterhood | 4 | 6 | 5 | 4 | 4 | 3 | 6 | 4 | 9 | 126 |
+| Amazon War Leader | 4 | 5 | 4 | 4 | 3 | 2 | 5 | 3 | 8 | 65 |
 
-**Magie :**
-Une Haute Prêtresse du Serpent est un Sorcier de Niveau 4 qui utilise des sorts du Savoir de Lustrie.
+**Troop Type:** Regular infantry (character)
 
-**Domaines de Magie :**
-Chaque Haute Prêtresse du Serpent connaît des sorts de l'un des Domaines de Magie suivants :
-- Domaine des Bêtes
-- Domaine de la Vie
-- Domaine des Serpents
+**Base Size:** 25 x 25 mm
 
-**Contexte :**
+**Unit Size:** 1
 
-Le rang le plus élevé parmi les Prêtresses du Serpent, une Haute Prêtresse a maîtrisé non seulement les arts magiques du Savoir de Lustrie mais aussi les anciens rituels enregistrés sur des tablettes de pierre Slann cachées au plus profond des ruines des temples. Ces rites interdits lui permettent d'éveiller et de commander les grandes bêtes qui servaient autrefois les Anciens comme gardiens et machines de guerre.
+**Equipment**
+- Hand weapon
+- Blade of the Ancients
+- Light armour
 
-Par des jours de chants et de préparation rituelle, une Haute Prêtresse peut accomplir le **Rituel des Servants Écailleux**, invoquant les descendants de créatures qui se souviennent de l'époque où les Slann régnaient sur la Lustrie. Ces bêtes anciennes reconnaissent l'autorité portée dans les paroles de la Prêtresse et se soumettent temporairement à la bande de guerre Amazone, voyant en elles les échos de leurs anciens maîtres.
+**Options**
+**Weapons and armour:**
+- May take one of the following:
+  - Additional hand weapon .................................................................................. +3 points
+  - Great weapon ................................................................................................... +4 points
+  - Lance (if appropriately mounted) .................................................................... +4 points
+- May take:
+  - Javelin ............................................................................................................... +3 points
+- May take a shield ................................................................................................ +2 points
+- May replace light armour with:
+  - Heavy armour ................................................................................................... +3 points
 
-Cependant, ce pouvoir a un grand coût. Le rituel draine l'énergie spirituelle de la Prêtresse et nécessite des herbes sacrées rares et des offrandes. Pour cette raison, seules les circonstances les plus désespérées justifient l'invocation de ces créatures primordiales à la guerre.
+**Mounts:**
+- May be mounted ......................................................................................... See page XX
 
-### Règle Spéciale : Rituel des Servants Écailleux
+**A Mother of Sisterhood may:**
+- Purchase magic items up to a total of .......................................................... 100 points
 
-Une Haute Prêtresse du Serpent a accompli les rituels interdits pour commander les grandes bêtes écailleuses qui servaient autrefois les Slann.
+**An Amazon War Leader may:**
+- Be upgraded to Battle Standard Bearer .......................................................... +25 points
+- Purchase magic items up to a total of ............................................................ 50 points
 
-Si votre armée inclut une Haute Prêtresse du Serpent, vous pouvez inclure les unités suivantes dans votre armée :
+**Battle Standard Bearer:** If the model has been upgraded to the army's Battle Standard Bearer, it may take a magic standard (this counts towards the model's magic item points total).
+
+**Special Rules**
+- Blades of the Ancients
+- Native of Lustria
+- Skirmisher (if on foot only)
+- Rallying Cry
+- Matriarch Authority (Mother of Sisterhood only)
+- Ancient Wisdom (Mother of Sisterhood only)
+- War Cry (Amazon War Leader only)
+
+**Matriarch Authority** (Mother of Sisterhood only)
+
+The Mother of Sisterhood represents the supreme authority within the Amazon hierarchy. Her command is absolute and her presence on the battlefield inspires her sisters to accomplish greater martial feats.
+
+Amazon Core units (Tribal Warriors, Anakonda Warriors, Totem Warriors, and Eagle Warriors) within 12" of one or more friendly models with this rule may use this model's Leadership characteristic when taking Leadership tests.
+
+Once per battle, at the start of any phase during the Amazon player's turn, a model with this rule may declare a Sister's Command. Until the end of that turn, all Amazon units within 18" of the model that declared the Sister's Command gain +1 to their Combat Resolution.
+
+**Ancient Wisdom** (Mother of Sisterhood only)
+
+Mothers of Sisterhood have preserved fragments of Slann knowledge concerning warfare and tactics, allowing them to outmaneuver their adversaries.
+
+If your army includes at least one model with this rule, you may re-roll one dice when determining deployment zones.
+
+If the General of your army has this rule, you may deploy one Core unit after the enemy has finished their deployment (but before Scouts).
+
+Ancient Wisdom unlocks: Slann Star-Fire Cannon
+
+**War Cry** (Amazon War Leader only)
+
+At the start of any friendly turn, an Amazon War Leader may trigger a War Cry. All friendly Amazon Core units within 6" may immediately re-roll failed Leadership tests until the start of the next friendly turn. If the War Leader is the army's Battle Standard Bearer, the range is increased to 12".
+
+---
+
+## MÈRE DE LA SORORITÉ / CHEFFE DE GUERRE AMAZONE
+
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|---|---|----|----|---|---|---|---|---|----|----|
+| Mère de la Sororité | 4 | 6 | 5 | 4 | 4 | 3 | 6 | 4 | 9 | 126 |
+| Cheffe de Guerre Amazone | 4 | 5 | 4 | 4 | 3 | 2 | 5 | 3 | 8 | 65 |
+
+**Type de troupe :** Infanterie régulière (personnage)
+
+**Taille de socle :** 25 x 25 mm
+
+**Taille d’unité :** 1
+
+**Équipement**
+- Arme de base  
+- Lame des Anciens  
+- Armure légère
+
+**Options**  
+**Armes et armures :**
+- Peut prendre l’une des options suivantes :
+  - Arme de base additionnelle ............................................................................. +3 points  
+  - Arme lourde .................................................................................................... +4 points  
+  - Lance (si montée de manière appropriée) ....................................................... +4 points
+- Peut prendre :
+  - Javelot .............................................................................................................. +3 points
+- Peut prendre un bouclier ..................................................................................... +2 points
+- Peut remplacer l’armure légère par :
+  - Armure lourde .................................................................................................. +3 points
+
+**Montures :**
+- Peut être montée ........................................................................................ Voir page XX
+
+**Une Mère de la Sororité peut :**
+- Acheter des objets magiques pour un total de ................................................... 100 points
+
+**Une Cheffe de Guerre Amazone peut :**
+- Être améliorée en Porte‑étendard de Bataille ..................................................... +25 points  
+- Acheter des objets magiques pour un total de .................................................... 50 points
+
+**Porte‑étendard de Bataille :** Si le modèle a été amélioré en Porte‑étendard de Bataille de l’armée, il peut prendre une bannière magique (elle compte dans son total de points d’objets magiques).
+
+**Règles spéciales**
+- Lames des Anciens  
+- Native de Lustrie  
+- Tirailleurs (si à pied uniquement)  
+- Cri de Ralliement  
+- Autorité Matriarcale (Mère de la Sororité uniquement)  
+- Sagesse Antique (Mère de la Sororité uniquement)  
+- Cri de Guerre (Cheffe de Guerre Amazone uniquement)
+
+**Autorité Matriarcale** (Mère de la Sororité uniquement)
+
+La Mère de la Sororité représente l’autorité suprême au sein de la hiérarchie amazone. Son commandement est absolu et sa présence sur le champ de bataille inspire ses sœurs à accomplir de plus grands exploits martiaux.
+
+Les unités de Base amazones (Guerrières Tribales, Guerrières Anakonda, Guerrières Totem et Guerrières Aigle) situées à 12" ou moins d’un ou plusieurs modèles amis ayant cette règle peuvent utiliser la valeur de Commandement de ce modèle lors des tests de Commandement.
+
+Une fois par bataille, au début de n’importe quelle phase durant le tour du joueur amazone, un modèle avec cette règle peut déclarer un Commandement Sororal. Jusqu’à la fin de ce tour, toutes les unités amazones à 18" ou moins du modèle gagnent +1 à leur Résolution de Combat.
+
+**Sagesse Antique** (Mère de la Sororité uniquement)
+
+Les Mères de la Sororité ont préservé des fragments du savoir Slann concernant la guerre et les tactiques, leur permettant de manœuvrer leurs adversaires.
+
+Si votre armée inclut au moins un modèle avec cette règle, vous pouvez relancer un dé lors de la détermination des zones de déploiement.
+
+Si le Général de votre armée possède cette règle, vous pouvez déployer une unité de Base après que l’ennemi a terminé son déploiement (mais avant les Éclaireurs).
+
+Sagesse Antique débloque : Canon Slann à Feu‑d’Étoile
+
+**Cri de Guerre** (Cheffe de Guerre Amazone uniquement)
+
+Au début de n’importe quel tour ami, une Cheffe de Guerre Amazone peut déclencher un Cri de Guerre. Toutes les unités de Base amazones situées à 6" peuvent immédiatement relancer les tests de Commandement ratés jusqu’au début du prochain tour ami. Si la Cheffe de Guerre est la Porte‑étendard de Bataille, la portée passe à 12".
+
+---
+
+## GRANDE PRÊTRESSE DU SERPENT / PRÊTRESSE DU SERPENT
+
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|---|---|----|----|---|---|---|---|---|----|----|
+| Grande Prêtresse du Serpent | 4 | 4 | 3 | 3 | 4 | 3 | 5 | 2 | 8 | 160 |
+| Prêtresse du Serpent | 4 | 4 | 3 | 3 | 3 | 2 | 4 | 1 | 7 | 50 |
+
+**Type de troupe :** Infanterie régulière (personnage)
+
+**Taille de socle :** 25 x 25 mm
+
+**Taille d’unité :** 1
+
+**Équipement**
+- Arme de base
+
+**Magie**
+Une Grande Prêtresse du Serpent est une Sorcière de Niveau 3. Une Prêtresse du Serpent est une Sorcière de Niveau 1.
+
+Chaque Prêtresse connaît des sorts issus de l’un des Savoirs de Magie suivants :
+- Savoir des Bêtes  
+- Savoir de la Vie  
+- Savoir des Serpents
+
+**Options**  
+**Montures :**
+- Peut être montée ........................................................................................ Voir page XX
+
+**Une Grande Prêtresse du Serpent peut :**
+- Être une Sorcière de Niveau 4 ............................................................................. +35 points  
+- Prendre le Rituel des Serviteurs Écailleux (Niveau 3 ou 4 uniquement) .............. +60 points  
+- Acheter des objets magiques pour un total de ................................................... 100 points
+
+**Une Prêtresse du Serpent peut :**
+- Être une Sorcière de Niveau 2 ............................................................................. +35 points  
+- Acheter des objets magiques pour un total de .................................................... 50 points
+
+**Règles spéciales**
+- Lames des Anciens  
+- Native de Lustrie  
+- Savoir de Lustrie  
+- Cri de Ralliement
+
+**Rituel des Serviteurs Écailleux** (Grande Prêtresse du Serpent Niveau 3 ou 4 uniquement)
+
+Plus haut rang parmi les Prêtresses du Serpent, une Grande Prêtresse a maîtrisé non seulement les arts magiques du Savoir de Lustrie mais aussi les anciens rituels inscrits sur les tablettes de pierre Slann cachées au fond des ruines des temples. Ces rites interdits lui permettent d’éveiller et de commander les grandes bêtes qui servaient autrefois les Anciens comme gardiens et machines de guerre.
+
+Si votre armée inclut une Grande Prêtresse du Serpent avec cette option, vous pouvez inclure les unités suivantes dans votre armée :
 
 **Choix Spéciaux :**
-- **0-2 unités de Cavalières sur Sauriens à Sang Froid Amazones** (en plus de celles déjà autorisées)
-- **0-1 unité de Cavalières sur Terradon Amazones** (voir nouvelle entrée d'unité ci-dessous)
+- 0‑2 unités de Cavalières Amazones sur Sang‑Froid (en plus de celles déjà autorisées)  
+- 0‑1 unité de Cavalières Amazones sur Terradon
 
 **Choix Rares :**
-- **0-1 Stégadon de Guerre des Anciens** (voir nouvelle entrée d'unité ci-dessous)
+- 0‑1 Stégadon de Guerre des Anciens
 
-Ces unités comptent comme unités Amazones à toutes fins et gagnent la règle spéciale **Native de Lustrie**. Cependant, elles ne gagnent **pas** la règle spéciale **Sang-Froid** (elles sont commandées par la volonté de la Prêtresse, pas naturellement disciplinées comme les véritables bêtes Hommes-Lézards).
+Ces unités comptent comme des unités amazones à tous égards et gagnent la règle spéciale Native de Lustrie. Cependant, elles ne gagnent pas la règle Sang‑Froid (elles sont commandées par la volonté de la Prêtresse, pas naturellement disciplinées comme les véritables créatures des Hommes‑Lézards).
 
-**Restriction :** Si la Haute Prêtresse du Serpent est tuée durant la bataille, toutes les unités débloquées par cette règle doivent immédiatement effectuer un test de Commandement au début de chaque tour ami suivant. En cas d'échec, l'unité devient sujette à la **Stupidité** pour le reste de la partie, le contrôle de la Prêtresse sur les bêtes s'affaiblissant.
+**Restriction :** Si la Grande Prêtresse du Serpent est tuée durant la bataille, toutes les unités débloquées par cette règle doivent immédiatement effectuer un test de Commandement au début de chaque tour ami suivant. En cas d’échec, l’unité devient sujette à la Stupidité pour le reste de la partie, la volonté de la Prêtresse s’affaiblissant.
 
-**Montures de Personnages**
+---
 
-Un personnage pouvant être monté peut choisir une monture de la liste suivante. Certaines montures sont détaillées sur cette page. Celles qui ne le sont pas ont leurs propres entrées dédiées plus loin dans cette liste d'armée.
+### LISTE DES MONTURES
 
-Un Général peut être monté sur un :
- - Saurien à Sang Froid ...............+18 points
- - Culchan ...............+18 points
- - Koalt ................ +210 pts
+Un personnage pouvant être monté peut choisir une monture dans la liste suivante :
+
+**Une Mère de la Sororité peut être montée sur :**
+- Culchan ................................................................................................................. +20 points  
+- Sang‑Froid .............................................................................................................. +30 points  
+- Koalt .................................................................................................................... +210 points (0‑1 par armée)
+
+**Une Cheffe de Guerre Amazone peut être montée sur :**
+- Culchan ................................................................................................................. +20 points  
+- Sang‑Froid .............................................................................................................. +30 points
+
+**Une Grande Prêtresse du Serpent peut être montée sur :**
+- Culchan ................................................................................................................. +20 points  
+- Sang‑Froid .............................................................................................................. +30 points
+
+**Une Prêtresse du Serpent peut être montée sur :**
+- Culchan ................................................................................................................. +20 points  
+- Sang‑Froid .............................................................................................................. +30 points
 
 ---
 
 ### Guerrières Tribales
 
 |          | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|----------|---|----|----|---|---|----|---|---|----|--------|
-| Amazone  | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 11     |
-| Championne | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 2 | 7  | 11     |
+|----------|---|----|----|---|---|---|---|---|----|--------|
+| Amazone  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 11     |
+| Champion | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 11     |
 
-**Type de Troupe** : Infanterie Régulière  
-**Taille de Socle** : 25 x 25 mm  
-**Taille d'Unité** : 5+
+**Type de troupe** : Infanterie régulière  
+**Taille de socle** : 25 x 25 mm  
+**Taille d’unité** : 5+
 
 **Équipement** :  
 - Arme de base  
 - Arc
 
-**Règles Spéciales** :  
-- Armure Légère  
+**Règles spéciales** :  
+- Armure légère  
 - Tirailleurs  
 - Éclaireurs  
-- Arpenteur des Forêts
+- Déplacement à travers les couverts  
+- Lames des Anciens  
+- Native de Lustrie  
 
-**Options** :  
-- Peut améliorer une Amazone en **Championne** (+1 Attaque) pour +10 pts  
-- Peut améliorer une Amazone en **Porte-Étendard** pour +10 pts  
-- Peut améliorer une Amazone en **Musicienne** pour +5 pts  
-
-**Options d'Armes** (par figurine) :  
-- Peut échanger l'arc contre **javelot et bouclier** pour +1 pt/figurine  
-- Peut prendre une **arme de base supplémentaire** pour +1 pt/figurine (ne peut pas être combinée avec un bouclier)  
+**Options** :
+- Toute unité peut :
+  - Améliorer une Amazone en **Championne** (+1 Attaque) pour +10 pts  
+  - Améliorer une Amazone en **Porte‑étendard** pour +10 pts  
+  - Améliorer une Amazone en **Musicienne** pour +5 pts  
+  - Acheter une bannière magique valant jusqu’à 100 points  
+  - Remplacer l’arc par une lance gratuitement  
+  - Prendre un bouclier pour +1 pt/modèle  
+  - Prendre une arme de base additionnelle pour +1 pt/modèle  
+  - Remplacer l’arc par des javelots (12", F3, Attaques Empoisonnées) pour +1 pt/modèle
 
 **Restrictions** :  
-- 0–3 unités de Guerrières Tribales par armée à 2 000 points ou moins (augmentez cette limite de +1 pour chaque tranche complète de 1 000 points supplémentaires dans l'armée)
+- 0–3 unités de Guerrières Tribales par armée à 2 000 points ou moins  
+  (augmentez cette limite de +1 pour chaque tranche supplémentaire complète de 1 000 points)
 
 ---
 
-### Guerrières Anakonda
+## Guerrières Totem
 
-|        | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|--------|---|----|----|---|---|----|---|---|----|--------|
-| Amazone | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 11     |
-
-**Type de Troupe** : Infanterie Régulière  
-**Taille de Socle** : 25 x 25 mm  
-**Taille d'Unité** : 5+  
-**Équipement** : 
-- **Lames des Anciens** (compte comme armure légère).
-
-**Règles spéciales** : Tirailleurs, Native de Lustrie
-
----
-
-### Guerrières Totem
-
-*Ces Amazones imprégnées des mystères de la Sororité sont des guerrières initiées aux aspects du Koka-Kalim. Ces femmes viennent de tous les horizons de la société Amazone et adoptent l'aspect du totem de leur tribu. Initiées dès leur plus jeune âge et entraînées pendant des années, ces guerrières sont totalement intransigeantes.*
+*Ces Amazones immergées dans les mystères de la Sororité sont des guerrières initiées aux aspects du Koka‑Kalim. Issues de tous les horizons de la société amazone, elles incarnent l’aspect du totem de leur tribu. Initiées dès leur plus jeune âge et entraînées pendant des années, ces guerrières sont totalement intransigeantes.*
 
 |                       | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|-----------------------|---|----|----|---|---|----|---|---|----|--------|
-| Guerrières Totem      | 5 | 4  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 13     |
-| Dévote des Guerrières Totem | 5 | 4  | 3  | 3 | 3 | 1  | 4 | 2 | 7  | +10    |
+|-----------------------|---|----|----|---|---|---|---|---|----|--------|
+| Guerrières Totem      | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 15     |
+| Dévotes Totem         | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
 
-**Type de Troupe** : Infanterie Régulière  
-**Taille de Socle** : 25 x 25 mm  
-**Taille d'Unité** : 10+  
-**Équipement** : Deux Armes de Base
+**Type de troupe** : Infanterie régulière  
+**Taille de socle** : 25 x 25 mm  
+**Taille d’unité** : 10+  
+**Équipement** :  
+- Deux armes de base  
+- Masque Totem (confère Peur)
 
-Toute unité peut :
-- Améliorer une figurine en Dévote des Guerrières Totem (championne).........................................+10 points par unité
-- Améliorer une figurine en porte-étendard...................................................+10 points par unité
-- Améliorer une figurine en musicienne ................................................................+10 points par unité
+**Options :**  
+Toute unité peut :  
+- Améliorer un modèle en **Dévote Totem** (championne) ......................................... +10 pts/unité  
+- Améliorer un modèle en **Porte‑étendard** ...................................................... +10 pts/unité  
+- Améliorer un modèle en **Musicienne** ................................................................... +10 pts/unité
 
-**Règles Spéciales** : 
-- Tirailleurs
-- Haine (tout le monde)
-- Frénésie
-- Attaques Empoisonnées
+**Règles spéciales :**  
+- Tirailleurs  
+- Frénésie  
+- Attaques Empoisonnées (corps à corps)  
+- Peur (Masque Totem)
 
 ---
 
-# Guerrières Koka-Kalim
+## Guerrières Koka‑Kalim
 
-Les Koka-Kalim sont l'élite fanatique des guerrières Amazones, un ordre militant chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom dérive de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque entièrement de sommeil ou de nourriture. Cette dépendance leur donne une apparence émaciée et un regard troublé, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues de toute aversion naturelle pour le sang et la mort, ces combattantes existent dans un état permanent d'agitation nerveuse qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, maintient une garde d'élite de Koka-Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et se voient parfois confier des armes Slann ancestrales : épées énergétiques et fusils bolter, reliques vénérées comme des dons de Rigg elle-même.
+Les Koka‑Kalim sont l’élite fanatique des guerrières amazones, un ordre militaire chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom vient de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque totalement de nourriture ou de sommeil. Cette dépendance leur donne une apparence émaciée et un regard halluciné, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues d’aversion naturelle pour le sang et la mort, ces combattantes vivent dans un état d’excitation nerveuse permanent qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, entretient une garde d’élite de Koka‑Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et reçoivent parfois des armes Slann ancestrales : épées énergétiques et fusils‑bolters, des reliques vénérées comme des dons de Rigg elle‑même.
 
 |                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Koka-Kalim       | 4 | 4  | 3  | 3 | 3 | 1  | 4 | 2 | 7  | 12     |
-| Enragée Koka-Kalim | 4 | 4  | 3  | 3 | 3 | 1  | 4 | 3 | 7  | +10    |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Koka‑Kalim       | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 10     |
+| Furie Koka‑Kalim | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 3 | 7  | +10    |
 
-**Type de Troupe :** Infanterie Régulière  
-**Taille de Socle :** 25 x 25 mm  
-**Taille d'Unité :** 10+  
-**Équipement :** 
- - Arme de base
- - **Lames des Anciens**
- - Armure légère
+**Type de troupe :** Infanterie régulière  
+**Taille de socle :** 25 x 25 mm  
+**Taille d’unité :** 10+  
+**Équipement :**  
+- Arme de base  
+- **Lame des Anciens**  
+- Armure légère
 
-### Options
+**Options :**  
+- Peut remplacer l’arme de base par une lance gratuitement  
+- Peut prendre des javelots (12", F3, Attaques Empoisonnées) pour +1 pt/modèle  
+- Un modèle peut être amélioré en **Furie Koka‑Kalim** pour +10 pts
 
-* L'unité entière peut être équipée de **javelots** pour un coût supplémentaire de +1 point par figurine
-* Une Guerrière Koka-Kalim peut être améliorée en **Enragée Koka-Kalim** pour un coût supplémentaire de +10 points
+**Règles spéciales :**  
+- **Lames des Anciens**  
+- **Immunisée à la Psychologie**  
+- **Impétueuse**  
+- **Native de Lustrie**  
+- **Furie Sacrée** (voir ci‑dessous)  
+- **Inébranlable**
 
-#### Règles Spéciales
+**Furie Sacrée**
 
-* **Lames des Anciens** (voir Règles Spéciales de l'Armée Amazones)
-* **Immunité Psychologique**
-* **Impétueuse**
-* **Native de Lustrie** (voir Règles Spéciales de l'Armée Amazones)
-* **Fureur Sacrée**
-* **Inébranlable**
+Les guerrières ayant subi le rituel Koka‑Kalim et consommant constamment la drogue narcotique ressentent moins la douleur et combattent avec une vigueur surnaturelle au corps à corps. Privées de leurs sensations normales, elles surmontent des souffrances extrêmes et n’ont aucune aversion pour la mort, continuant de se battre malgré des blessures mortelles.
 
-### Fureur Sacrée
-
-Les guerrières ayant subi le rituel Koka-Kalim et consommant constamment la drogue narcotique ressentent une douleur réduite et combattent avec une vigueur surnaturelle au corps à corps. Privées de leurs fonctions sensorielles normales par les effets du koka, elles peuvent surmonter de grandes souffrances et n'ont aucune aversion pour la mort, continuant à combattre malgré des blessures qui abattraient des guerrières ordinaires.
-
-Une figurine avec cette règle spéciale possède :
-- Une sauvegarde invulnérable de 6+ contre toutes les blessures subies causées par une attaque ennemie non-magique.
-- Une sauvegarde invulnérable de 5+ contre toutes les blessures subies causées par une attaque ennemie non-magique avec une Force de 5 ou plus.
+Un modèle avec cette règle possède :
+- Une sauvegarde invulnérable de 6+ contre toute blessure causée par une attaque ennemie non magique.  
+- Une sauvegarde invulnérable de 5+ contre toute blessure causée par une attaque ennemie non magique de Force 5 ou plus.
 
 ---
 
-### Nuées de Jungle
+## Nuées de la Jungle
 
 |                | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|----------------|---|----|----|---|---|----|---|---|----|--------|
-|Nuées de Jungle | 5 | 3  | 0  | 2 | 2 | 5  | 1 | 5 | 5  | 40     |
+|----------------|---|----|----|---|---|---|---|---|----|--------|
+| Nuées de la Jungle | 5 | 3 | 0 | 2 | 2 | 5 | 1 | 5 | 5 | 40 |
 
-**Type de Troupe** : Nuées  
-**Taille de Socle** : 40 x 40 mm  
-**Taille d'Unité** : 3+  
-**Équipement** : Armes de base  
-**Règles Spéciales** : Sang-Froid, Immunité Psychologique, Solitaire, Déplacement à Travers Couvert, Attaques Empoisonnées, Tirailleurs, Inébranlable, Avant-garde
+**Type de troupe :** Nuées  
+**Taille de socle :** 40 x 40 mm  
+**Taille d’unité :** 3+  
+**Équipement :** Armes de base  
+
+**Règles spéciales :**  
+- Sang‑froid  
+- Immunisée à la Psychologie  
+- Solitaire  
+- Déplacement à travers les couverts  
+- Attaques Empoisonnées  
+- Tirailleurs  
+- Inébranlable  
+- Avant‑garde
 
 ---
 
-### Cavalières Culchan
+## Cavalières sur Culchan
 
-Le Culchan est un énorme oiseau carnivore incapable de voler qui vit dans les prairies des pampas des Plaines de Chulcan, au sud de la Lustrie.
+Le Culchan est un immense oiseau carnivore incapable de voler, vivant dans les pampas des Plaines Chulcan au sud de la Lustrie.  
 
 |                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Cavalières Culchan | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 30     |
-| Championne Amazone | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 2 | 7  | +5     |
-| Culchan          | 9 | 3  | -  | 4 | - | -  | 2 | 2 | -  | -      |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Cavalières sur Culchan | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 25     |
+| Culchan‑Ka       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
+| Culchan          | 9 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
 
-**Type de Troupe** : Cavalerie Légère  
-**Taille de Socle** : 25 x 50 mm  
-**Taille d'Unité** : 5+  
-**Équipement** :
- - Cavalières Culchan : arme de base, lance, bouclier
- - Culchan : Griffes et dents (compte comme armes de base)
+**Type de troupe :** Cavalerie légère  
+**Taille de socle :** 25 x 50 mm  
+**Taille d’unité :** 5+  
 
-**Options** :
-• Toute unité peut :
-- Améliorer une figurine en Chevalière de l'Effroi (championne)............................... +5 points par unité
-- Améliorer une figurine en porte-étendard................................................... +5 points par unité
-- Améliorer une figurine en musicienne ................................................................ +5 points par unité
+**Équipement :**  
+- Cavalières sur Culchan :  
+  - Lames des Anciens  
+  - Armure légère  
+  - Bouclier  
+- Culchan : Griffes et bec (compte comme arme de base)
 
-**Règles Spéciales** : Ordre Serré, Déplacement Rapide
+**Options :**  
+• Toute unité peut :  
+- Remplacer la lance par des javelots gratuitement  
+- Prendre une arme de base additionnelle pour +1 pt/modèle  
+- Améliorer un modèle en **Culchan‑Ka** (champion) pour +10 pts/unité  
+- Améliorer un modèle en **Porte‑étendard** pour +5 pts/unité  
+- Améliorer un modèle en **Musicienne** pour +5 pts/unité  
+
+**Règles spéciales :** Formation Serrée, Ruée Implacable, Cavalerie Légère, Native de Lustrie  
+
+**Native de Lustrie** : Les Amazones sont natives de la Lustrie et la jungle ne leur présente aucun danger. Lors de l’utilisation de règles de jungle (comme *WFB6 Warhammer Realms: Lustria*), elles sont immunisées aux mêmes Rencontres que les Hommes‑Lézards.
 
 ---
 
-### Cavalières sur Sauriens à Sang Froid Amazones
+## Cavalières Amazones sur Sang‑Froid
 
 |                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Nobles           | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 30     |
-| Chef de Clan     | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 2 | 7  | +7     |
-| Saurien à Sang Froid | 7 | 3  | -  | 4 | - | -  | 2 | 2 | -  | -      |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Nobles            | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 25     |
+| Cheffe            | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
+| Sang‑Froid        | 7 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
 
-**Type de Troupe** : Cavalerie Lourde  
-**Taille de Socle** : 30 x 60 mm  
-**Taille d'Unité** : 5+  
-**Équipement** :
- - Cavalières sur sauriens à sang froid amazones : arme de base, lance, bouclier
- - Sauriens à Sang Froid : Griffes et dents (compte comme armes de base)
 
-**Options** :
-• Toute unité peut :
-- Améliorer une figurine en Chef de Clan (championne)............................... +7 points par unité
-- Améliorer une figurine en porte-étendard................................................... +7 points par unité
-- Améliorer une figurine en musicienne ................................................................ +7 points par unité
+**Type de troupe :** Cavalerie lourde  
+**Taille de socle :** 30 x 60 mm  
+**Taille d’unité :** 5+  
 
-**Règles Spéciales** : Fléau d'Armure (1, Saurien à Sang Froid uniquement), Peau Écailleuse (1), Ordre Serré, Stupidité, Déplacement Rapide
+**Équipement :**  
+- Cavalières : arme de base, lance, bouclier  
+- Sang‑Froid : Griffes et dents (arme de base)
 
-**Restrictions :** Les Cavalières sur Sauriens à Sang Froid Amazones ne peuvent être incluses dans une armée que si celle-ci contient une Haute Prêtresse du Serpent. Si la Haute Prêtresse est tuée, l'unité doit effectuer un test de Commandement au début de chaque tour ami. En cas d'échec, l'unité doit utiliser son mouvement de Vol pour se déplacer vers le bord de table le plus proche. Si elle atteint le bord de table, elle est retirée du jeu.
+**Options :**  
+- Toute unité peut :  
+  - Remplacer la lance par une arme lourde pour +2 pts/modèle  
+  - Prendre une armure lourde pour +3 pts/modèle  
+  - Améliorer un modèle en **Cheffe** (champion) pour +10 pts/unité  
+  - Améliorer un modèle en **Porte‑étendard** pour +7 pts/unité  
+  - Améliorer un modèle en **Musicienne** pour +7 pts/unité  
+
+**Règles spéciales :** Brise‑Armure (1, Sang‑Froid uniquement), Endurance (1), Formation Serrée, Stupidité, Ruée Implacable  
+
+**Restrictions :**  
+Les Cavalières Amazones sur Sang‑Froid ne peuvent être incluses que dans une armée contenant une **Grande Prêtresse du Serpent**.  
+Si celle‑ci est tuée, l’unité doit effectuer un test de Commandement au début de chaque tour ami ; en cas d’échec, elle doit utiliser son mouvement pour se diriger vers le bord de table le plus proche. Si elle l’atteint, elle est retirée du jeu.
 
 ---
 
-### Cavalières sur Terradon Amazones
+## Chasseresses Jaguar
+
+|               | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|---------------|---|----|----|---|---|---|---|---|----|--------|
+| Chasseresse   | 4 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 | 55 |
+| Maîtresse de Meute | 4 | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 8 | +15 |
+| Jaguar de Guerre | 8 | 4 | 0 | 4 | 4 | 2 | 4 | 3 | 5 | - |
+
+**Type de troupe :** Cavalerie monstrueuse  
+**Taille de socle :** 30 x 60 mm  
+**Taille d’unité :** 3–6 modèles  
+
+**Équipement :**  
+- Javelot (Portée 8", Combat en Rang Supplémentaire)  
+- Arme de base  
+- Armure légère  
+- Bouclier
+
+**Options :**  
+- Toute unité peut remplacer les javelots par des lances de chasse (+2 pts/modèle)  
+  (Lance de chasse : Perforant (1) au tour où elles chargent)  
+- Un modèle peut être amélioré en **Maîtresse de Meute** (+15 pts)  
+- Peut inclure un **Porte‑étendard** (+10 pts)  
+- Peut inclure un **Musicien** (+10 pts)
+
+**Règles spéciales :** Avant‑garde, Native de Lustrie, Charge Dévastatrice, Tir de Salve, Chasseresse Silencieuse
+
+**Chasseresse Silencieuse** : L’unité peut utiliser le déploiement *Éclaireur* si elle ne porte aucune bannière magique.
+
+---
+
+## Cavalières Terradon Amazones
 
 |                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Amazone          | 4 | 4  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 30     |
-| Chasseresse Céleste | 4 | 4  | 3  | 3 | 3 | 1  | 4 | 2 | 8  | +10    |
-| Terradon         | 2 | 3  | -  | 4 | 4 | 2  | 3 | 2 | -  | -      |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Amazone          | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 36     |
+| Chasseresse Céleste | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 8  | +12    |
+| Terradon         | 2 | 3  | -  | 4 | 4 | 2 | 3 | 2 | -  | -      |
 
-**Type de Troupe :** Cavalerie Monstrueuse (Tirailleurs)
+**Type de troupe :** Cavalerie Monstrueuse (Tirailleurs)  
+**Taille de socle :** 40 x 40 mm (socle volant)  
+**Taille d’unité :** 3–6  
 
-**Taille de Socle :** 40 x 40 mm (socle volant)
+**Équipement :**  
+- Amazones : arme de base, javelot, bouclier, armure légère  
+- Terradon : Griffes et bec (armes de base)
 
-**Taille d'Unité :** 3-6
+**Options :**  
+• Toute unité peut :  
+- Améliorer un modèle en **Chasseresse Céleste** ..................... +10 pts/unité  
+- Améliorer un modèle en **Porte‑étendard** ............................. +10 pts/unité  
+- Améliorer un modèle en **Musicienne** .................................. +10 pts/unité  
+- Remplacer les javelots par des arcs ......................................... +1 pt/modèle  
+- Remplacer les javelots par des lances ........................................ Gratuit
 
-**Équipement :**
-- Cavalières sur Terradon Amazones : arme de base, javelot, bouclier, armure légère
-- Terradon : Griffes et bec (compte comme armes de base)
+**Règles spéciales :** Lames des Anciens (cavalière uniquement), Vol (10), Native de Lustrie, Tirailleurs, *Largage de Rochers*
 
-**Options :**
-• Toute unité peut :
-- Améliorer une figurine en Chasseresse Céleste (championne)................................. +10 points par unité
-- Améliorer une figurine en porte-étendard.................................................. +10 points par unité
-- Améliorer une figurine en musicienne.............................................................. +10 points par unité
-- Remplacer les javelots par des arcs......................................................................... +1 point par figurine
-- Remplacer les javelots par des lances...................................................................... sans coût supplémentaire
+**Largage de Rochers :**  
+Une fois par bataille, au début de n’importe quelle phase de Tir amie, une unité de Cavalières Terradon peut larguer des rochers au lieu de tirer normalement. Choisissez une unité ennemie survolée lors de la phase de Mouvement précédente : elle subit immédiatement D6 touches de Force 4, sans sauvegarde d’armure, réparties comme des tirs.
 
-**Règles Spéciales :** Lames des Anciens (cavalière uniquement), Vol (10), Native de Lustrie, Tirailleurs, Largage de Rochers
-
-**Largage de Rochers :** Une fois par bataille, au début de n'importe quelle phase de Tir amie, une unité de Cavalières sur Terradon Amazones peut larguer des rochers au lieu d'effectuer des attaques de tir normales. Choisissez une unité ennemie que les Cavalières sur Terradon ont survolée durant leur phase de Mouvement précédente. Cette unité subit immédiatement D6 touches de Force 4 sans Sauvegarde d'Armure autorisée, distribuées comme des touches de tir.
-
-**Restrictions :** Les Cavalières sur Terradon Amazones ne peuvent être incluses dans une armée que si celle-ci contient une Haute Prêtresse du Serpent. Si la Haute Prêtresse est tuée, l'unité doit effectuer un test de Commandement au début de chaque tour ami. En cas d'échec, l'unité doit utiliser son mouvement de Vol pour se déplacer vers le bord de table le plus proche. Si elle atteint le bord de table, elle est retirée du jeu.
+**Restrictions :** Comme pour les Sang‑Froid, nécessite une Grande Prêtresse du Serpent en vie.
 
 ---
 
-### Guerrière Aigle
+## Guerrières Aigle
 
-Tout comme leur homonyme, les Guerrières Aigle sont rapides et agiles : esquivant et se faufilant à travers le champ de bataille.
+Comme leur nom l’indique, les Guerrières Aigle sont rapides et agiles, virevoltant sur le champ de bataille.
 
 |                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Guerrière Aigle  | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 17     |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Guerrière Aigle  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 17     |
 
-**Type de Troupe** : Infanterie Régulière  
-**Taille de Socle** : 25 x 25 mm  
-**Taille d'Unité** : 5+  
-**Équipement** : Pistolet d'armes de l'Âge Ancien
+**Type de troupe :** Infanterie régulière  
+**Taille de socle :** 25 x 25 mm  
+**Taille d’unité :** 5+  
 
-**Règles Spéciales** : Ordre Serré, Immunité Psychologique, Déplacement à Travers Couvert
+**Équipement :**  
+- Pistolet de l’Âge Antique (voir ci‑dessous)  
+- Arme de base  
+- Armure légère
 
-|                                  | P      | F   | PA | Règles Spéciales |
-|----------------------------------|--------|-----|----|------------------|
-| Pistolet d'armes de l'Âge Ancien | 12''   | 4   | -2 |                  |
+**Options :**  
+- Toute unité peut :  
+  - Remplacer le pistolet par un arc long gratuitement  
+  - Prendre un bouclier pour +1 pt/modèle
+
+**Règles spéciales :** Formation Serrée, Immunisée à la Psychologie, Déplacement à travers les couverts  
+
+|                                 | Portée | F | PA | Règles spéciales |
+|---------------------------------|--------|---|----|------------------|
+| **Pistolet de l’Âge Antique**   | 12"    | 4 | -2 |                  |
 
 ---
 
-### Guerrière Jaguar
+## Guerrières Jaguar
 
-**Les plus puissantes parmi les Amazones sont les Guerrières Jaguar ; des femmes d'une force immense qui agissent comme gardiennes des sites les plus sacrés des Amazones en les protégeant de tout explorateur ou chasseur de trésors indésirable.**
+**Les plus puissantes parmi les Amazones sont les Guerrières Jaguar : des femmes redoutablement fortes qui protègent les sites sacrés des Amazones contre les explorateurs et pilleurs.**
 
 |                   | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|-------------------|---|----|----|---|---|----|---|---|----|--------|
-| Guerrière Jaguar  | 4 | 3  | 3  | 4 | 3 | 1  | 4 | 1 | 7  | 17     |
+|-------------------|---|----|----|---|---|---|---|---|----|--------|
+| Guerrière Jaguar  | 4 | 3  | 3  | 4 | 3 | 1 | 4 | 1 | 7  | 14     |
 
-**Type de Troupe :** Infanterie Régulière  
-**Taille de Socle :** 25 x 25 mm  
-**Taille d'Unité :** 5+  
-**Équipement :** Griffe des Anciens (voir ci-dessous)
+**Type de troupe :** Infanterie régulière  
+**Taille de socle :** 25 x 25 mm  
+**Taille d’unité :** 5+  
 
-|                      | P      | F   | PA | Règles Spéciales |
-|----------------------|--------|-----|----|------------------|
-| Griffe des Anciens   | Corps à corps | F+1 | -2 | **Perce-Armure**, **Frappe du Jaguar** |
+**Équipement :**  
+- Griffe des Anciens (voir ci‑dessous)  
+- Armure légère
 
-**Griffe des Anciens :** Ces griffes anciennes, forgées à partir des os de bêtes de jungle primordiales, déchirent la chair avec une précision sauvage. Les figurines équipées de la **Griffe des Anciens** gagnent la règle spéciale **Perce-Armure (PA)**, représentant leur capacité à déchirer les défenses. De plus, elles possèdent la règle spéciale **Frappe du Jaguar** : lorsque cette figurine charge, elle gagne +1 Attaque au tour où elle charge, reflétant les tactiques d'embuscade féroces de ces gardiennes d'élite.
+**Règles spéciales :**  
+- Tenace  
+- Frappe Jaguar (+1 Attaque en charge)  
+- Perforant (Griffe)
+
+|                          | Portée | F   | PA | Règles spéciales |
+|--------------------------|--------|-----|-----|------------------|
+| **Griffe des Anciens**   | Combat | F+1 | -2  | Perforant, Frappe Jaguar |
+
+**Griffe des Anciens :**  
+Anciennes armes façonnées à partir d’os de bêtes primordiales, capables de déchirer les protections les plus solides. Elles confèrent **Perforant (PA -2)** et **Frappe Jaguar** (+1 Attaque lors d’une charge).
 
 ---
 
-### Guerrière Python
+## Guerrières Python
 
-Les Guerrières Python passent des années à étudier les serpents dont elles tirent leur nom, apprenant l'art de la patience et à trouver le meilleur moment pour frapper.
+Les Guerrières Python passent des années à étudier les serpents dont elles tirent leur nom, apprenant la patience et le moment parfait pour frapper.
 
-|                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Guerrière Python | 4 | 3  | 4  | 4 | 3 | 1  | 4 | 1 | 7  | 17     |
+|                     | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|---------------------|---|----|----|---|---|---|---|---|----|--------|
+| Guerrière Python    | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | 13     |
+| Matriarche Serpent  | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | +10    |
 
-**Type de Troupe :** Infanterie Régulière  
-**Taille de Socle :** 25 x 25 mm  
-**Taille d'Unité :** 5+
+**Type de troupe :** Infanterie régulière  
+**Taille de socle :** 25 x 25 mm  
+**Taille d’unité :** 5+  
 
 **Équipement :**  
 - Arme de base  
-- **Flèches de python**
+- **Flèches Python**  
+- Armure légère
 
-|                  | P    | F | PA | Règles Spéciales       |
-|------------------|------|---|----|------------------------|
-| Flèches de python | 24"  | 3 | -1 | Attaques Empoisonnées |
+|                     | Portée | F | PA | Règles spéciales        |
+|---------------------|--------|---|----|--------------------------|
+| Flèches Python      | 24"    | 3 | -1 | Attaques Empoisonnées   |
 
-### Règles Spéciales
+**Règles spéciales :**  
+- Formation Serrée  
+- Attaques Empoisonnées (Tir)  
+- Chasseuses de la Jungle :  
+  - Traitent les forêts et jungles comme du terrain *ouvert* pour le mouvement (mais subissent toujours les tests de terrain dangereux éventuels).  
+  - Les ennemis ne bénéficient pas de Couvert Léger contre leurs tirs si le seul couvert provient d’une forêt ou jungle.
 
-- **Ordre Serré** (selon les règles de base de The Old World).  
-- **Attaques Empoisonnées (Tir)** : Les attaques effectuées avec les **Flèches de python** ont la règle Attaques Empoisonnées.  
-- **Chasseresses de Jungle** :  
-  - L'unité traite les bois, jungle et terrains similaires comme *terrain découvert* pour les besoins du mouvement (elles subissent toujours les tests de terrain dangereux éventuellement requis).  
-  - Les unités ennemies ne gagnent pas de Couvert Léger contre les attaques de tir des Guerrières Python si la seule source de couvert est un bois ou une jungle dans lequel elles se trouvent ou qui est entre elles et les Guerrières Python.
-
-### Options
-
-- L'unité peut améliorer une Guerrière Python en **Matriarche Serpent** (Championne) ……… +10 pts  
-  - La Matriarche Serpent gagne +1 Attaque.
-- L'unité peut inclure un **Porte-Étendard** ……… +10 pts  
-- L'unité peut inclure une **Musicienne** ………………… +5 pts
+**Options :**  
+- Remplacer l’arc par des javelots (12", F3, Attaques Empoisonnées) gratuitement  
+- Prendre un bouclier pour +1 pt/modèle  
+- Améliorer une Guerrière Python en **Matriarche Serpent** pour +10 pts  
+- Ajouter un **Porte‑étendard** pour +10 pts  
+- Ajouter un **Musicien** pour +5 pts  
 
 ---
 
-### Guerrière Piranha
+## Guerrière Piranha
 
-Imitant le féroce prédateur des rivières, dont elles tirent leur nom, les Guerrières Piranha frappent par une série de coups rapides comme l'éclair avant d'esquiver rapidement toute contre-attaque.
+Imitant le féroce prédateur fluvial dont elles tirent leur nom, les Guerrières Piranha frappent d’une série de coups extrêmement rapides avant d’esquiver toute contre‑attaque.
 
 |                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Guerrière Piranha | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 2 | 7  | 16     |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Guerrière Piranha | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 18     |
 
-**Type de Troupe** : Infanterie Régulière  
-**Taille de Socle** : 25 x 25 mm  
-**Taille d'Unité** : 5+  
-**Équipement** :
+**Type de troupe :** Infanterie régulière  
+**Taille de socle :** 25 x 25 mm  
+**Taille d’unité :** 5+
 
-**Règles Spéciales** : Sang dans la Rivière, Évasive, Charge Furieuse, Immunité Psychologique, Solitaire, Troupe Hétéroclite, Déplacement à Travers Couvert, Ordre Dispersé, Tirailleurs, Frappe en Premier
+**Équipement :**  
+- Deux armes de base  
+- Javelots (12", F3, Attaques Empoisonnées)  
+- Armure légère
 
-**Sang dans la Rivière**  
-En bataille, les Guerrières Piranha effectuent les attaques spéciales :
+**Règles spéciales :**  
+- Sang du fleuve  
+- Évasive  
+- Charge Furieuse  
+- Immunisée à la Psychologie  
+- Solitaire  
+- Bande Bigarrée  
+- Déplacement à travers les couverts  
+- Formation Ouverte  
+- Tirailleurs  
+- Frappe en Premier  
+- Avant‑garde  
+- Attaques Empoisonnées (tir uniquement)
 
- - Dents Tranchantes : Jusqu'à la fin de cette phase de Combat, cette unité gagne la règle spéciale Attaques Supplémentaires (+1).
+**Options :**  
+- Toute unité peut :  
+  - Remplacer les deux armes de base par une lance gratuitement  
+  - Prendre un bouclier pour +1 pt/modèle  
+
+ **Sang du fleuve**  
+Au combat, les Guerrières Piranha effectuent des attaques spéciales :
+**• Dents tranchantes :**  
+Jusqu’à la fin de cette phase de Combat, cette unité gagne la règle **Attaques Supplémentaires (+1)**.
 
 ---
 
-### Stégadon
+## Stegadon
 
 |                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Stégadon         | 6 | 3  | -  | 5 | 6 | 5  | 2 | 4 | -  | 215    |
-| Stégadon Ancien  | 6 | 4  | -  | 6 | 6 | 5  | 1 | 3 | -  | 230    |
-| Équipage Amazone (x5) | - | 3  | 3  | 3 | - | -  | 4 | 1 | 7  | -      |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Stegadon         | 6 | 3  | -  | 5 | 6 | 5 | 2 | 4 | -  | 215    |
+| Ancien Stegadon  | 6 | 4  | -  | 6 | 6 | 5 | 1 | 3 | -  | 230    |
+| Équipage Amazon (x5) | - | 3  | 3  | 3 | - | - | 4 | 1 | 7  | -      |
 
-**Type de Troupe :** Béhémoth
+**Type de troupe :** Béhémoth  
+**Taille de socle :** 60 x 100 mm  
+**Taille d’unité :** 1  
+**Sauvegarde d’armure :** 4+
 
-**Taille de Socle :** 60 x 100 mm
+**Équipement :**  
+- Stegadon / Ancien Stegadon : Grandes cornes (voir ci‑dessous)  
+- Équipage Amazone : armes de base, javelots, arcs
 
-**Taille d'Unité :** 1
 
-**Sauvegarde d'Armure :** 4+
 
-**Équipement :**
-- Stégadon/Stégadon Ancien : Grandes cornes (voir ci-dessous)
-- Équipage Amazone : Armes de base, javelots et arcs
+ **Options**
 
-## Options
+• Un Stegadon peut recevoir :  
+- Plateforme de Combat (Équipage avec arcs et javelots) .................................... Inclus
 
-• Un Stégadon peut être équipé de :
-- Plateforme de Combat (Équipage Amazone avec javelots et arcs)................................... Inclus dans le coût de base
+• Un Ancien Stegadon peut recevoir :  
+- Plateforme de Combat (Équipage avec arcs et javelots) .................................... Inclus  
+- **Plateforme de Canon Slann Feu‑Stellaire** (nécessite une Mère de la Sororité) .... +60 pts  
+* Peut ajouter jusqu’à +3 membres d’équipage ................................................ +8 pts/modèle
 
-• Un Stégadon Ancien peut être équipé de :
-- Plateforme de Combat (Équipage Amazone avec javelots et arcs)................................... Inclus dans le coût de base
-- **Plateforme Canon Feu-Stellaire Slann (Requiert la Mère de la Sororité)................... +90 points**
 
-* Peut ajouter jusqu'à +3 membres d'Équipage Amazone supplémentaires à la Plateforme de Combat ............... +8 points par figurine
 
----
+ **Règles spéciales**
 
-## Règles Spéciales
+**Formation Serrée, Sang‑Froid, Howdah, Immunisé à la Psychologie,  
+Touches d’Impact (D3+1), Grande Cible, Attaques Empoisonnées (javelots uniquement),  
+Piétinement (D3+2), Tenace, Terreur, Lames des Anciens (Équipage uniquement),  
+Native de Lustrie (Équipage uniquement)**
 
-**Ordre Serré, Sang-Froid, Howdah, Immunité Psychologique, Touches d'Impact (D3+1), Grande Cible, Attaques Empoisonnées (javelots uniquement), Attaques de Piétinement (D3+2), Têtu, Terreur, Lames des Anciens (Équipage Amazone uniquement), Native de Lustrie (Équipage Amazone uniquement)**
 
-## Plateforme de Combat
 
-Le howdah du Stégadon sert de plateforme de combat mobile pour les guerrières Amazones. L'équipage peut tirer avec ses arcs ou javelots durant la phase de Tir, ciblant toute unité ennemie à portée et en ligne de vue.
+ **Plateforme de Combat**
 
-### Profil de Tir (Plateforme de Combat)
+Le howdah sert de plateforme de tir mobile. L’équipage peut tirer à 360°.
+
+ **Profil de Tir (Plateforme standard)**
 
 **Arcs :**
 
-| Portée | Force | PA | Règles Spéciales |
-|--------|-------|----|------------------|
-| 24"    | 3     | -  | Tir en Cloche    |
+| Portée | Force | PA | Règles |
+|--------|--------|----|--------|
+| 24"    | 3      | -  | Tir de Salve |
 
 **Javelots :**
 
-| Portée | Force | PA | Règles Spéciales     |
-|--------|-------|----|----------------------|
-| 8"     | 3     | -  | Attaques Empoisonnées |
-
-L'Équipage Amazone tire avec CT 3 et peut tirer à 360° (le howdah permet de tirer dans toutes les directions).
-
----
-
-## Plateforme Canon Feu-Stellaire Slann (Requiert la Mère de la Sororité)
-
-Un Stégadon Ancien peut remplacer sa Plateforme de Combat standard par un Canon Feu-Stellaire Slann monté sur son howdah. Cette relique ancienne des Anciens a été adaptée par les Mères de la Sororité pour être transportée au combat sur ces bêtes massives, combinant une puissance de feu dévastatrice avec la mobilité sur le champ de bataille.
-
-### Configuration du Feu-Stellaire Monté
-
-Lorsqu'un Canon Feu-Stellaire Slann est monté sur un Stégadon Ancien :
-
-- L'Équipage Amazone est réduit à **3 membres d'équipage** (au lieu de 5) qui opèrent le canon
-- L'équipage **perd** ses arcs et javelots (il opère le canon à la place)
-- Le Stégadon Ancien **peut se déplacer et tirer** avec le Canon Feu-Stellaire durant le même tour (ignorant la restriction normale Déplacement ou Tir)
-- Le canon utilise le **CT 3** de l'équipage pour toucher
-- Le canon conserve toutes ses autres règles spéciales : **Arme Anti-Gravité, Surcharge Catastrophique**
-- Le canon possède le même profil que le Canon Feu-Stellaire Slann standard (voir l'entrée Canon Feu-Stellaire Slann)
-
-### Profil de Tir (Plateforme Canon Feu-Stellaire)
-
-**Portée :** 36"
-
-**Force :** 7
-
-**Règles Spéciales :** Perce-Armure (3), Attaques Magiques, Blessures Multiples (D3), Arme Anti-Gravité
-
-**Arme Anti-Gravité :**
-- Contre les figurines avec Endurance 5 ou plus, la Force du canon compte comme **Force 8**
-- Contre les figurines avec 3 Points de Vie ou plus sur leur profil, l'effet Blessures Multiples augmente à **(D3+1)**
-- Contre les Machines de Guerre, Catapultes, Chars et Monstres, les touches réussies blessent automatiquement (appliquez toujours Perce-Armure 3)
-
-Le canon peut tirer à 360° depuis la plateforme howdah.
-
-### Surcharge Catastrophique (Monté)
-
-Si le Stégadon Ancien est réduit à 0 Point de Vie et possède un Canon Feu-Stellaire Slann monté, lancez un D6 :
-
-- **1-2 :** **Implosion Gravitationnelle** - Toutes les figurines (alliées et ennemies) dans un rayon de 3D6" doivent effectuer un test de Commandement. En cas d'échec, elles sont tirées de D3" directement vers la position du Stégadon. Toutes les figurines dans un rayon de 6" subissent une touche de Force 6 avec Perce-Armure (2) et Blessures Multiples (D3).
-- **3-4 :** **Arrêt Contrôlé** - Les anciens protocoles de sécurité s'activent. Aucun effet supplémentaire.
-- **5-6 :** **Fragmentation Cristalline** - Toutes les figurines (alliées et ennemies) dans un rayon de 6" subissent une touche de Force 5.
-
-### Restrictions
-
-- **Requiert la Mère de la Sororité :** Le Canon Feu-Stellaire Slann (monté ou non) ne peut être inclus dans une armée que si celle-ci contient au moins une Mère de la Sororité
-- Cette option compte dans la limitation 0-1 Canon Feu-Stellaire Slann de votre armée
-- Si vous prenez un Canon Feu-Stellaire monté, vous ne pouvez pas également prendre un Canon Feu-Stellaire statique (et vice versa)
-- Seuls les **Stégadons Anciens** peuvent être équipés de la Plateforme Canon Feu-Stellaire (les Stégadons réguliers ne le peuvent pas)
-
----
-
-## Profils d'Armes
-
-### Grandes Cornes
-
-| Portée         | Force      | PA  | Règles Spéciales |
-|----------------|------------|-----|------------------|
-| Corps à corps  | Utilisateur | -3  | -                |
+| Portée | Force | PA | Règles               |
+|--------|--------|----|----------------------|
+| 8"     | 3      | -  | Attaques Empoisonnées |
 
 
----
 
-## Monture de Personnage
+ **Plateforme de Canon Slann Feu‑Stellaire**  
+*(Nécessite Mère de la Sororité)*
 
-Un Stégadon ou Stégadon Ancien peut être inclus dans votre armée comme monture de personnage pour une Héroïne Amazone ou une Mère de la Sororité. Son coût s'ajoute à celui de son cavalier.
+Un Ancien Stegadon peut remplacer sa plateforme par un Canon Feu‑Stellaire.
 
-Notez que, parce qu'il possède la règle spéciale Howdah, un Stégadon ou Stégadon Ancien est considéré comme un char plutôt qu'un monstre monté.
+- L’équipage devient **3 Amazones**  
+- Elles perdent arcs et javelots  
+- Le Stegadon peut **bouger et tirer**  
+- Utilise CT 3  
+- Conserve : Attaques magiques, Arme Antigravité, Surcharge Catastrophique  
+- Même profil que le Canon Slann standard
 
-Lorsqu'il est pris comme monture de personnage :
-- Le personnage remplace un des membres de l'Équipage Amazone
-- Le personnage peut combattre au corps à corps et tirer avec les armes de la plateforme (ou opérer le Canon Feu-Stellaire s'il est équipé)
-- Le personnage bénéficie de la protection du howdah
+Profil de Tir
 
-### Koalt
+**Portée :** 36"  
+**Force :** 7  
+**PA :** -3  
+**Règles :** Attaques Magiques, Blessures Multiples (D3), Anti‑Gravité
 
-|                  | M | CC | CT | F | E    | PV   | I | A | Cd | Points |
-|------------------|---|----|----|---|------|------|---|---|----|--------|
-| Koalt            | 6 | 6  | -  | 7 | (+3) | (+6) | 4 | 3 | -  | +210   |
+**Anti‑Gravité :**  
+- Vs Endurance 5+ : Force 8  
+- Vs 3+ PV : Blessures Multiples (D3+1)  
+- Vs Machines, Monstres, Chars : touche = blessure automatique  
+- Tirs à 360°
 
-**Type de Troupe** : Béhémoth  
-**Taille de Socle** : 60 x 100 mm  
-**Taille d'Unité** : 1  
-**Équipement** : Gueule dentelée (voir ci-dessous), souffle soporifique (voir ci-dessous) et écailles draconiques (compte comme armure de plaques complète)
+**Surcharge Catastrophique**
 
-**Règles Spéciales** :
- - Ordre Serré
- - Vol (10)
- - Grande Cible
- - Attaques de Piétinement (D6)
- - Déplacement Rapide
- - Terreur
+Si l’Ancien Stegadon est détruit :
 
-|                    | P          | F | PA | Règles Spéciales                     |
-|--------------------|------------|---|----|--------------------------------------|
-| Gueule dentelée    | Corps à corps | F | -  | Fléau d'Armure (2), Blessures Multiples (2) |
+- **1-2 : Implosion Gravitique**  
+- **3-4 : Arrêt contrôlé**  
+- **5-6 : Fragmentation Cristalline**
 
-**Notes** : En combat, cette figurine doit effectuer une de ses attaques chaque tour avec cette arme.
+(identique au texte anglais)
 
-|                    | P      | F | PA  | Règles Spéciales                     |
-|--------------------|--------|---|-----|--------------------------------------|
-| Souffle soporifique | N/A    | 2 | N/A | Arme de Souffle                      |
+**Restrictions**  
+- Nécessite une **Mère de la Sororité**  
+- Compte pour la limite 0‑1  
+- Mutuellement exclusif avec la version au sol  
+- Réservé aux **Anciens Stegadons**
 
-**Notes** : Aucune sauvegarde d'armure n'est permise contre les blessures causées par le souffle soporifique (les sauvegardes invulnérables et de Régénération peuvent être tentées normalement).
 
-**Monture de Personnage** : Un seul Koalt peut être inclus dans votre armée comme monture d'un personnage. Ses points s'ajoutent à ceux de son cavalier.
+
+**Grandes cornes**
+
+| Portée | Force | PA  | Règles |
+|--------|--------|-----|--------|
+| Combat | Util. | -3  | -      |
+
+
+**Monture de personnage**
+
+Un Stegadon (ou Ancien) peut servir de monture à un héros Amazone / Mère de la Sororité.
+
+- Remplace un membre d’équipage  
+- Peut combattre/tirer depuis la plateforme  
+- Considéré comme un **char** (règle Howdah)
 
 ---
 
-# Canon Feu-Stellaire Slann
+## Koalt
 
+|        | M | CC | CT | F | E    | PV   | I | A | Cd | Points |
+|--------|---|----|----|---|------|------|---|---|----|--------|
+| Koalt  | 6 | 6  | -  | 7 | (+3) | (+6) | 4 | 3 | -  | +210   |
 
-|                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|----|---|---|----|--------|
-| Équipage Amazone (3) | 4 | 3  | 3  | 3 | 3 | 1  | 4 | 1 | 7  | 180    |
-| Canon Feu-Stellaire  | - | -  | -  | - | 7 | 4  | - | - | -  | -      |
+**Type de troupe :** Béhémoth  
+**Taille de socle :** 60 x 100 mm  
+**Taille d’unité :** 1  
 
-**Type de Troupe :** Machine de Guerre
+**Équipement :**  
+- Gueule dentelée (voir ci‑dessous)  
+- Souffle soporifique (voir ci‑dessous)  
+- Écailles draconiques (compte comme armure de plates)
 
-**Taille de Socle :** 60 x 100 mm (machine), 20 x 20 mm (équipage)
-
-**Taille d'Unité :** 1 Canon Feu-Stellaire + 3 servants
-
-**Équipement :**
-- Équipage Amazone : armes de base, armure légère
-- Canon Feu-Stellaire : Technologie Slann Ancienne (voir règles spéciales)
-
-**Règles Spéciales :** Lames des Anciens (équipage uniquement), Native de Lustrie, Technologie Stellaire Ancienne, Décharge Gravitonique, Surcharge Catastrophique
-
-
-## Technologie Stellaire Ancienne
-
-Le Canon Feu-Stellaire n'est pas une arme forgée par des mains mortelles, mais une relique de l'arsenal céleste des Anciens. Cet appareil manipule le tissu même de la réalité, déformant les champs gravitationnels à travers des matrices cristallines complexes et des mécanismes d'une complexité inouïe faits de métaux inconnus qui scintillent d'une lumière surnaturelle. Bien que les Amazones appellent son pouvoir "magie", il s'agit en vérité d'une technologie si avancée qu'elle semble surnaturelle. Le noyau cristallin de l'arme pulse de lumière stellaire capturée, et des symboles arcaniques - en réalité des glyphes computationnels des Anciens - scintillent à sa surface tandis qu'il calcule des trajectoires par des moyens qu'aucun esprit humain ne peut comprendre.
-
-Le canon ne peut tirer que si au moins un membre de l'équipage reste en vie pour opérer ses contrôles cristallins.
-
-
-
-## Tir
-
-**Portée :** 36"
-
-**Force :** 7
-
-**Règles Spéciales :** Perce-Armure (3), Attaques Magiques, Blessures Multiples (D3), Arme Anti-Gravité
-
-Le Canon Feu-Stellaire tire un rayon concentré de distorsion gravitationnelle qui écrase et déchire même les cibles les plus massives.
-
-**Tir du Canon :**
-- Le canon nécessite que l'équipage reste stationnaire pour tirer (voir Déplacement ou Tir ci-dessous)
-- Désignez une seule figurine cible à portée et en ligne de vue
-- Lancez pour toucher en utilisant le CT de l'équipage (CT 3)
-- Si le tir touche, la cible subit une touche de Force 7 avec Perce-Armure (3) et Blessures Multiples (D3)
-- Toutes les touches comptent comme Attaques Magiques
-
-
-
-## Arme Anti-Gravité
-
-La distorsion gravitationnelle du Canon Feu-Stellaire est particulièrement dévastatrice contre les grandes créatures et les constructions. L'arme déchire les structures internes et brise les os par un stress gravitationnel impossible.
-
-**Effet :**
-- Contre les figurines avec Endurance 5 ou plus, la Force du canon compte comme **Force 8**
-- Contre les figurines avec 3 Points de Vie ou plus sur leur profil, l'effet Blessures Multiples augmente à **(D3+1)**
-- Contre les Machines de Guerre, Catapultes, Chars et Monstres, les touches réussies blessent automatiquement (appliquez toujours Perce-Armure 3)
-
-
-
-## Déplacement ou Tir
-
-L'alignement cristallin délicat du canon nécessite une stabilité absolue. Les mécanismes anciens doivent maintenir un calibrage parfait avec les positions célestes, et tout mouvement perturbe ces calculs.
-
-**Effet :**
-- Si le Canon Feu-Stellaire ou l'un de ses servants se déplace pour quelque raison que ce soit durant la phase de Mouvement, il ne peut pas tirer durant la phase de Tir
-- Si le canon tire, il ne peut pas se déplacer durant la phase de Mouvement suivante
-- Si le canon est engagé au corps à corps, il ne peut pas tirer
-
-
-
-## Surcharge Catastrophique
-
-La source d'énergie du Canon Feu-Stellaire est volatile et imprévisible. Lorsque le canon subit des dégâts, il existe un risque que son noyau cristallin se rupture, libérant une énergie gravitationnelle incontrôlée.
-
-**Effet :**
-- Chaque fois que le Canon Feu-Stellaire perd son dernier Point de Vie, lancez un D6 avant de le retirer comme perte :
-  - **1-2 :** **Implosion Gravitationnelle** - Le canon s'effondre sur lui-même. Toutes les figurines (alliées et ennemies) dans un rayon de 3D6" doivent effectuer un test de Commandement. En cas d'échec, elles sont tirées de D3" directement vers la position du canon. Toute figurine qui entre en contact avec une autre figurine s'arrête immédiatement. Toutes les figurines dans un rayon de 6" de la position finale du canon subissent une touche de Force 6 avec Perce-Armure (2) et Blessures Multiples (D3). Le canon est ensuite retiré comme perte.
-  - **3-4 :** **Arrêt Contrôlé** - Les anciens protocoles de sécurité s'activent. Le canon s'éteint en toute sécurité et est retiré comme perte sans effets supplémentaires.
-  - **5-6 :** **Fragmentation Cristalline** - Le noyau cristallin explose en éclats. Toutes les figurines (alliées et ennemies) dans un rayon de 6" subissent une touche de Force 5. Le canon est ensuite retiré comme perte.
-
-
-
-## Options
-
-• L'équipage Amazone peut être équipé de :
-- Boucliers................................................................................................................. +1 point par figurine
-
-
-
-## Restrictions
-
-**Requiert la Mère de la Sororité :**  
-Le Canon Feu-Stellaire Slann ne peut être inclus dans une armée que si celle-ci contient au moins une Mère de la Sororité. Les Mères sont les seules Amazones qui possèdent la connaissance ancienne nécessaire pour éveiller et opérer ces reliques des étoiles.
-
-**0-1 Choix Rare :**  
-Un seul Canon Feu-Stellaire Slann peut être pris par armée. Ces appareils sont extraordinairement rares, et même les Mères de la Sororité les gardent jalousement comme des trésors irremplaçables d'une ère révolue.
-
-## Histoire & Description
-
-*"Nous l'avons trouvé dans le Temple des Étoiles Tombantes, enfoui sous des siècles de végétation de la jungle. Les Mères disent que les Anciens l'ont apporté des cieux eux-mêmes, une arme conçue pour briser les grandes bêtes qui menaçaient autrefois leurs œuvres. Sa surface est plus lisse que n'importe quelle pierre polie, pourtant plus dure que le meilleur acier forgé par les nains. D'étranges symboles dansent à sa surface lorsque nous prononçons les mots d'activation - des mots dans une langue qu'aucune créature vivante ne parle, mais que le sang ancien dans nos veines se rappelle d'une certaine manière.*
-
-*Quand il tire, la réalité elle-même pleure. L'air se tord et se déforme, la gravité devient une arme, et même les créatures les plus puissantes sont écrasées comme des insectes sous un poing invisible. Je l'ai vu déchirer un Carnosaure en deux, arrachant la grande bête de l'intérieur. J'ai regardé la pierre s'effondrer et l'acier se froisser comme s'il était fait de parchemin.*
-
-*L'ennemi appelle cela sorcellerie, mais les Mères savent mieux. Ce n'est pas de la magie comme les Prêtresses Serpent la manient - c'est la science d'êtres qui ont remodelé des mondes, traduite sous une forme que notre compréhension primitive interprète comme mystique.*
-
-*Nous ne le comprenons pas vraiment. Nous savons seulement que lorsque les grandes bêtes arrivent, quand les mammouths de guerre ébranlent la terre et que les dragons obscurcissent le ciel, le Canon Feu-Stellaire est notre réponse. Nous ne pouvons que prier les Anciens que nous n'oubliions jamais comment l'utiliser - et que nous ne l'utilisions jamais à mauvais escient."*
-
-— Chronique des Observatrices du Ciel, tradition orale Amazone
-
----
-
-### **Avatar de Rigg**
-
-| M | CC | CT | F | E | PV | I | A | Cd | points |
-|---|----|----|---|---|----|---|---|----|--------|
-| 6 | 6  | 5  | 5 | 5 | 4  | 7 | 4 | 9  | 275    |
-
-**Type d'Unité :** Infanterie Monstrueuse (1 figurine)  
-**Taille de socle :** 50 x 75 mm  
-**Équipement :**
-
-- **Griffes de la Mère Serpent**  
-  Armes naturelles, Attaques Magiques  
-- **Écailles Sacrées**  
-  Sauvegarde d'Armure 4+ (non modifiable par équipement)
-
----
-
-### **Règles Spéciales**
-
-#### **Avatar de la Déesse**
-L'Avatar de Rigg est une manifestation divine. Elle bénéficie de :  
-- Attaques Magiques  
-- Résistance à la Magie (2)  
+**Règles spéciales :**  
+- Formation Serrée  
+- Vol (10)  
+- Grande Cible  
+- Piétinement (D6)  
+- Ruée Implacable  
 - Terreur  
-- Instable (comme les Démons – perd 1 PV par point perdu en combat)
+
+
+
+### **Gueule dentelée**
+
+| Portée | F | PA | Règles |
+|--------|---|----|--------|
+| Combat | F | -  | Perce‑Armure (2), Blessures Multiples (2) |
+
+*Doit effectuer au moins une attaque avec cette arme à chaque phase de combat.*
+
+### **Souffle soporifique**
+
+| Portée | F | PA  | Règles        |
+|--------|---|-----|----------------|
+| N/A    | 2 | N/A | Arme de Souffle |
+
+*Pas de sauvegarde d’armure permise contre ces blessures (invus et régénération autorisées).*
 
 ---
 
-#### **Bénédiction de la Mère**
-- Toutes les unités Amazones **de Base** et **Spéciales** dans un rayon de **12"** gagnent *Tenace*.  
-- Les **Prêtresses Serpent** dans ce rayon gagnent **+1 aux jets de dissipation**.
+## Canon Slann Feu‑Stellaire
+
+|                        | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|------------------------|---|----|----|---|---|---|---|---|----|--------|
+| Canon Feu‑Stellaire    | - | -  | -  | - | 7 | 5 | - | - | -  | 125    |
+| Équipage (3 Amazones)  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | -      |
+
+**Type de troupe :** Machine de guerre  
+**Taille de socle :** 60 x 100 mm  
+**Sauvegarde d’armure :** 5+  
+
+**Règles spéciales :**  
+- Attaques Magiques  
+- Ne peut pas tirer en se déplaçant  
+- Surcharge Catastrophique
+
+### Profil de Tir
+
+| Arme                    | Portée | F | PA | Règles |
+|-------------------------|--------|---|----|--------|
+| Canon Feu‑Stellaire     | 36"    | 7 | -3 | Blessures Multiples (D3), Arme Antigravité |
+
+**Arme Antigravité :**  
+- Vs E5+ : F8  
+- Vs 3+ PV : (D3+1)  
+- Vs Monstres / Machines / Chars : blessure auto  
+- Si tue un Monstre → gabarit 3" (F4, pas de sauvegarde)
+
+**Surcharge Catastrophique :**  
+- 1 : Implosion  
+- 2–6 : Arrêt
+
+**Options :**  
+- Boucliers d’équipage : +1 pt/modèle  
+- **Ancre Gravitationnelle** : +15 pts (peut tirer en bougeant, portée 30")  
+- **Blindage Cristallin** : +20 pts (invulnérable 5+ vs tir)
+
+**Restrictions :**  
+- Nécessite Mère de la Sororité  
+- 0–1 (0–2 si la Mère est Général)
 
 ---
 
-#### **Courroux Divin**
-Au début de chaque tour de combat, l'Avatar choisit *un* des effets suivants :
+# Objets Magiques des Amazones
 
-- **Vengeance de Rigg**  
-  Tous les ennemis en contact socle-à-socle doivent réussir un test de Commandement ou subissent **-1 CC** jusqu'à la fin du tour.
+Les pages suivantes décrivent les objets magiques propres aux armées des Royaumes Amazoniens. Ils peuvent être achetés par les figurines d’une armée amazone exactement de la même manière que les objets magiques communs, comme décrit dans le livre de règles de *Warhammer: The Old World*.
 
-- **Fureur du Serpent**  
-  L'Avatar gagne **+D3 Attaques** pour ce tour.
-
-- **Bouclier d'Écailles**  
-  L'Avatar et toutes les unités alliées dans un rayon de **6"** gagnent **Sauvegarde Invulnérable (5+)** jusqu'au début du prochain tour.
+**Objets Magiques Extrêmement Courants :** Tout objet magique marqué d’un astérisque (*) est considéré comme extrêmement courant, comme expliqué dans le livre de règles de *Warhammer: The Old World*.
 
 ---
 
-#### **Regard du Serpent** *(1 fois par partie)*
-Au début d'un tour Amazone :
+## ARMES MAGIQUES
 
-- Choisissez une unité ennemie à **18"** ou moins.  
-- Elle doit réussir un test de Commandement ou devient **Stupéfiée** jusqu'au début du prochain tour Amazone.
+**Lame des Réalités** – 75 pts  
+*Enchantement :* Les blessures non sauvegardées causées par cette arme obligent la cible à réussir un test de Commandement ou être tuée sur le coup (les personnages peuvent utiliser leur propre Commandement).
 
-**Unités Stupéfiées :**
-- -2 Mouvement  
-- Ne peuvent pas faire de marche forcée  
-- Ne peuvent pas charger  
-- Ne peuvent pas tirer  
+**Cimeterre Resplendissant** – 50 pts  
+*Enchantement :* Le porteur gagne +2 Attaques.
 
----
+**Épée Piranha** – 40 pts  
+*Enchantement :* Les blessures non sauvegardées causées par cette arme infligent 2 Points de vie au lieu de 1.
 
-### **Options**
+**Grand Bâton Solaire** (*) – 35 pts  
+*Enchantement :* Arme de tir. Portée 24", Force 5, Perforant (1), Tir Rapide. Nécessite les deux mains.
 
-**Améliorations (0–1 au choix)**  
-- **Anneaux de Ligature (+30 pts)** — L'Avatar gagne **FEP (Frappe en Premier)**  
-- **Cœur d'Obsidienne (+25 pts)** — L'Avatar devient **Inébranlable**, mais perd **Instable**  
-- **Venin Sacré (+20 pts)** — Les attaques de l'Avatar gagnent **Attaques Empoisonnées**
+**Épée Sacrificielle** – 30 pts  
+*Enchantement :* Le porteur gagne la règle Coups Fatals.
 
----
-
-### **Restrictions**
-
-- 0–1 par armée  
-- Ne peut pas rejoindre d'unités  
-- Ne peut pas être le Général  
+**Épée-Frelon** (*) – 25 pts  
+*Enchantement :* Le porteur gagne Frappe Toujours en Premier.
 
 ---
 
-## Objets Magiques Amazones
+## ARMURES MAGIQUES
 
-Les pages qui suivent détaillent les objets magiques propres aux armées des Amazones. Ceux-ci peuvent être achetés par les figurines d'une armée Amazone exactement de la même manière que les objets magiques Communs, comme décrit dans le livre de règles Warhammer : the Old World.
+**Heaume de la Grande Matriarche** – 50 pts  
+*Enchantement :* Armure lourde. Le porteur améliore sa sauvegarde d’armure de +1 et gagne +1 Commandement.
 
-Objets Magiques Extrêmement Communs : Tout objet magique marqué d'un astérisque (*) est considéré comme extrêmement commun, comme décrit dans le livre de règles Warhammer : the Old World.
+**Bouclier-Miroir** – 35 pts  
+*Enchantement :* Bouclier. Sur 2+, les Projectiles Magiques ciblant le porteur sont renvoyés vers le lanceur.
+
+**Bouclier de Mutilation** – 30 pts  
+*Enchantement :* Bouclier. Le porteur gagne +1 Attaque (cette attaque est magique).
+
+**Bouclier Enchanté** (*) – 15 pts  
+*Enchantement :* Bouclier conférant une sauvegarde d’armure de 5+ (ou améliore la sauvegarde existante de +1, au choix du porteur au début de chaque round de combat).
 
 ---
 
-## Règles Spéciales des Amazones
+## TALISMANS
 
-**Lames des Anciens** : Les Amazones portent un type spécial d'armes d'origine inconnue, qu'elles appellent les Lames des Anciens. Ces armes sont réputées être de rares artefacts très recherchés de l'Âge d'Or. Malgré leur grand âge, elles sont toujours puissantes, les gemmes serties en elles étant censées flamboyer avec les feux capturés d'une étoile tombante.
+**Amulette Lunaire** – 50 pts  
+*Enchantement :* Sauvegarde Invulnérable (4+).
 
-Les lames donnent aux Amazones +1 Force au corps à corps. De plus, elles projettent un bouclier d'énergie arcanique autour de la porteuse, lui accordant une sauvegarde invulnérable de 6+.
+**Aura de Dispersion** – 40 pts  
+*Enchantement :* Les ennemis subissent -1 pour toucher le porteur au corps à corps.
 
-En outre, les Amazones peuvent pointer les lames vers l'ennemi et libérer les flammes mêmes du soleil pendant la phase de Tir. Cela accorde à chaque Amazone une attaque à distance d'une portée de 12'' qui cause une touche de Force 3. Aucune pénalité de portée ou de mouvement ne s'applique lorsque les Amazones utilisent cette attaque.
+**Amulette‑Bouclier** – 30 pts  
+*Enchantement :* Une seule utilisation. Sauvegarde Invulnérable (2+) contre la première blessure reçue par le porteur.
 
-**Tirailleurs** : Les Amazones sont bien habituées à la guerre en jungle et sont donc considérées comme des tirailleurs. Si elles doivent se ranger en formation pour combattre au corps à corps (Anakonda, Colibri et Piranha doivent être positionnées au premier rang).
+**Amulette Brillante** (*) – 15 pts  
+*Enchantement :* Sauvegarde Invulnérable (6+).
 
-**Native de Lustrie** : Les Amazones sont natives de Lustrie et la jungle ne représente aucun péril pour elles. Lors de l'utilisation des règles de jungle (comme dans WFB6 Warhammer Realms : Lustria), elles sont immunisées aux mêmes Rencontres que les Hommes-Lézards.
+---
+
+## OBJETS ENCHANTÉS
+
+**Tambour de Guerre Sacré** – 40 pts  
+*Enchantement :* Les unités amies à 12" peuvent effectuer des marches forcées même à 8" ou moins des ennemis. De plus, les unités tentant de se rallier dans cette zone gagnent +1 Commandement.
+
+**Cape à Plumes** – 35 pts  
+*Enchantement :* Le porteur gagne Vol (8).
+
+**Statuette Sacrificielle** – 30 pts  
+*Enchantement :* Sort lié (Niveau de Puissance 5). Ciblez un personnage ennemi à 18". Il doit réussir un test d’Endurance ou perdre 1 PV sans sauvegarde d’armure. En cas d’échec, répétez jusqu’à ce qu’il réussisse ou meure. Une seule utilisation.
+
+**Charme du Frère‑Jaguar** – 25 pts  
+*Enchantement :* Sort lié (Niveau de Puissance 5). Le porteur peut se déplacer de 10" dans n’importe quelle direction (comme en volant), en ignorant terrain et unités. Ne peut pas être utilisé pour charger.
+
+**Pendentif de Féroce** – 25 pts  
+*Enchantement :* Dès que le porteur inflige sa première blessure non sauvegardée, il gagne Frénésie pour le reste de la bataille.
+
+**Venin de Grenouille‑Luciole** (*) – 20 pts  
+*Enchantement :* Les attaques de mêlée non magiques du porteur deviennent Magiques **et** Empoisonnées.
+
+---
+
+## OBJETS ARCANES
+
+**Main des Anciens** – 50 pts  
+*Enchantement :* Une fois par bataille, vous pouvez forcer un Sorcier ennemi ayant subi un Incident de Sorcellerie à en subir un second sur 2+.
+
+**Cube des Ténèbres** (*) – 45 pts  
+*Enchantement :* Une seule utilisation. Parchemin de dissipation qui, sur 4+, met fin immédiatement à la phase de Magie et dissipe tous les sorts Persistants (amis et ennemis).
+
+**Bâton de Sorcellerie** – 40 pts  
+*Enchantement :* Le porteur gagne +1 à tous les jets de Dissipation.
+
+**Diadème de Puissance** – 30 pts  
+*Enchantement :* Au début de la phase de Magie adverse, vous pouvez convertir jusqu’à 2 dés de Canalisation en dés de Dissipation.
+
+**Bâton d’Orage** – 25 pts  
+*Enchantement :* Sort lié (Niveau de Puissance 6). Projectile Magique. Portée 24", Force 6, Perforant (1). Une seule utilisation.
+
+**Vers de Pouvoir** (*) – 25 pts  
+*Enchantement :* Une seule utilisation. Ajoutez +3 au résultat lors du lancement d’un sort (annoncé avant de lancer les dés).
+
+---
+
+## ÉTENDARDS MAGIQUES
+
+**Bannière d’Effroi** – 50 pts  
+*Enchantement :* L’unité cause la Peur.
+
+**Bannière de Domination** – 50 pts  
+*Enchantement :* Tous les Sorciers ennemis à 12" de cette bannière doivent réussir un test de Stupidité au début de chaque phase de Magie.
+
+**Totem Aveuglant** – 45 pts  
+*Enchantement :* Les attaques de tir ciblant cette unité subissent -1 pour toucher à longue portée, et -2 à courte portée.
+
+**Bannière de Guerre** (*) – 25 pts  
+*Enchantement :* L’unité gagne +1 Résultat de Combat.
 
 
+---
+
+## Règles Spéciales des Amazones (Adaptation TOW)
+
+### Lames des Anciens  
+*Ces armes, vestiges d’une ère oubliée, sont des artefacts technologiques d’origine inconnue — des reliques de l’Âge Élevé, selon les rumeurs. Les gemmes incrustées dans la garde brûlent d’un feu stellaire captif, offrant à la fois protection et puissance destructrice.*
+
+Dans **The Old World**, les *Lames des Anciens* comptent à la fois comme une arme de mêlée et une arme de tir avec le profil suivant :
+
+### **Profil d’Arme : Lame des Anciens**
+
+| Arme | Portée | F | PA | Règles spéciales |
+|:---|:---:|:---:|:---:|:---|
+| **Mêlée** | Combat | F+1 | -1 | Attaques Magiques, Champ de Force, Nécessite Deux Mains* |
+| **Tir (Feu Solaire)** | 12" | 3 | - | Attaques Magiques, Tir Rapide, Vue Solaire |
+
+### **Règles spéciales de l’arme :**
+
+- **Champ de Force :** Un modèle équipé de cette arme bénéficie d’une **Sauvegarde Invulnérable (6+)** contre les blessures subies dans n’importe quelle phase.  
+- **Vue Solaire :** Lorsqu’elle est utilisée au tir, le porteur ignore les modificateurs de **Longue Portée** et de **Couvert** (partiel ou total).  
+- **Tir Rapide :** Le porteur ne subit pas le malus habituel de -1 pour Avoir Bougé et Tirer.
+
+
+---
+
+### Natives de la Lustrie  
+*Les Amazones sont nées dans l’enfer vert de la Lustrie. Là où les autres voient un terrain infranchissable et la mort, elles voient un foyer.*
+
+### **Règle spéciale d’unité :**
+
+Les modèles avec cette règle bénéficient des effets suivants :
+
+- **Déplacement à travers les Couverts :** Pas de tests de **Terrain Dangereux** en traversant Forêts, Jungles, Marais ou Eaux.  
+- **Camouflage Naturel :** Si l’unité est majoritairement dans une Forêt ou Jungle, les ennemis subissent un **-1 supplémentaire** pour la toucher au tir (cumulatif avec les modificateurs habituels).  
+- **Traqueuses de la Jungle :** Lors de la détermination du Premier Tour ou du choix des zones de déploiement dans un scénario de type Jungle/Lustrie, les Amazones gagnent **+1 au jet**.
+
+
+---
+
+# Savoir du Serpent
+
+> "Dans les profondeurs de la jungle, où la lumière peine à toucher le sol et où les ruines murmurent des âges oubliés, les Prêtresses du Serpent communient avec des forces plus anciennes que les Anciens eux-mêmes…"  
+> — *Enseignements de la Première Encolure, Codex des Prêtresses‑Serpents*
+
+---
+
+## 0. Baiser du Serpent (SORT SIGNATURE)
+
+*D’un murmure, la prêtresse invoque l’essence primale du serpent. Les crocs scintillent d’un venin surnaturel…*
+
+**Type :** Augmentation  
+**Valeur de lancement :** 4+  
+**Portée :** 12"
+
+**Effet :**  
+L’unité amie ciblée gagne **Attaques Empoisonnées** jusqu’au début de la prochaine phase de Magie du lanceur.
+
+---
+
+## 1. Rapidité du Serpent
+
+*Une bénédiction de réflexes fulgurants, héritée de la vipère de jungle.*
+
+**Type :** Augmentation  
+**Valeur de lancement :** 5+  
+**Portée :** 12"
+
+**Effet :**
+- **+1 Initiative**  
+- **+1 Mouvement**  
+- Peut **relancer les tests d’Initiative ratés** (Terrain Dangereux, Frappe en Premier, etc.)
+
+---
+
+## 2. Sang‑Venin
+
+*Le sang des guerrières devient aussi toxique que celui des créatures sacrées.*
+
+**Type :** Augmentation  
+**Valeur de lancement :** 7+  
+**Portée :** 18"
+
+**Effets :**
+- Toutes les attaques de mêlée gagnent **Attaques Empoisonnées**  
+- Les ennemis blessés subissent un **test d’Endurance** ; en cas d’échec, ils prennent **1 blessure supplémentaire** sans sauvegarde d’armure (les invulnérables s’appliquent)
+
+*Une fois par modèle et par phase.*
+
+---
+
+## 3. Anneaux du Constricteur
+
+*Des serpents spectraux enserrent l’ennemi jusqu’à l’étouffer.*
+
+**Type :** Dégâts Directs  
+**Valeur de lancement :** 8+  
+**Portée :** 24"
+
+**Effet :**
+- Inflige **2D6 touches de Force 4**, PA (1)  
+- Si au moins une blessure non sauvegardée est infligée :
+  - L’unité compte comme étant en **Terrain Difficile**  
+  - **-1 pour toucher** au corps à corps
+
+Jusqu’au début de la prochaine phase de Magie du lanceur.
+
+---
+
+## 4. Regard du Basilic
+
+*Un regard pétrifiant qui fige le sang.*
+
+**Type :** Malédiction  
+**Valeur de lancement :** 9+  
+**Portée :** 18"
+
+**Effet :**  
+L’unité ennemie doit réussir un **test de Commandement**.
+
+**Si échec :**
+- **-1 CC**
+- **-1 CT**
+- **-1 Initiative**
+- **-2 Mouvement**
+- Ne peut pas **Marcher**
+
+**Si réussite sur un 10+ naturel :**
+- Immune au sort pour le reste de la bataille.
+
+---
+
+## 5. Nuée d’Engeances Serpentines
+
+*Une nuée vivante répond à l’appel de la prêtresse.*
+
+**Type :** Invocation  
+**Valeur de lancement :** 10+  
+**Portée :** 12"
+
+**Effet :**  
+Invoquez immédiatement une unité de **Nuée Serpentine** dans la portée et la ligne de vue, à plus de 1" des ennemis.  
+Disparaît si la prêtresse meurt.
+
+### Profil de la Nuée Serpentine
+
+| M | CC | CT | F | E | PV | I | A | Cd |
+|---|----|----|---|---|---|---|---|---|
+| 5 | 3  | -  | 2 | 2 | 3 | 4 | 5 | 5 |
+
+**Taille d’unité :** 3 socles de nuées  
+**Type :** Nuée  
+**Taille de socle :** 40 × 40 mm  
+
+### Règles spéciales :
+- **Attaques Empoisonnées**  
+- **Tirailleurs**  
+- **Nuée** (Instable, IàP, etc.)  
+- **Avancée Serpentine :** Ignore les pénalités de terrain en forêt/jungle  
+- **Frappe du Viperon :** Frappe Toujours en Premier  
+- **Sauvegarde d’armure :** 6+
+
+**Ne compte pas pour les limites d’armée et ne donne pas de Points de Victoire (sauf règles spécifiques).**
+
+---
+
+## 6. Apothéose des Écailles
+
+*La bénédiction ultime transforme les guerrières en hybrides sacrées.*
+
+**Type :** Augmentation  
+**Valeur de lancement :** 12+  
+**Portée :** 18" ou lanceur
+
+### Effets :
+
+**Défensifs :**
+- **+1 Endurance**
+- **Peau Écailleuse (5+)**  
+  (ou améliore une sauvegarde existante de +1, max 2+)
+
+**Offensifs :**
+- **Attaques Empoisonnées**  
+- **Frappe Serpentine :** Frappe à **Initiative 6** (fixe)
+
+**Psychologiques :**
+- **Cause la Peur**
+
+### Restrictions :
+- Ne peut pas cibler les unités **MI/Monstres/Chars**  
+- Une seule unité affectée à la fois (si relancé, l’ancien effet se dissipe)
 
