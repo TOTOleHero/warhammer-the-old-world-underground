@@ -939,18 +939,329 @@ Au début d’un tour Amazon :
 
 # amazons Magic Items
 
-The pages that follow detail magic items unique to Lizardmen armies. These can be purchased by models within a Lizardmen army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
+The pages that follow detail magic items unique to Amazon Kingdoms armies. These can be purchased by models within an Amazon Kingdoms army in exactly the same way as Common magic items, as described in the Warhammer: The Old World rulebook.
 
 Extremely Common Magic Items: Any magic item marked with an asterisk (*) is considered to be extremely common, as described in the Warhammer: the Old World rulebook.
 
+## MAGIC WEAPONS
+
+**Blade of Realities** - 75pts
+*Enchantment:* Unsaved wounds caused by this weapon force the target to pass a Leadership test or be slain outright (characters may use their own Leadership).
+
+**Resplendent Scimitar** - 50pts
+*Enchantment:* The bearer gains +2 Attacks.
+
+**Piranha Sword** - 40pts
+*Enchantment:* Unsaved wounds caused by this weapon inflict 2 Wounds instead of 1.
+
+**Grand Solar Staff** (*)- 35pts
+*Enchantment:* Shooting weapon. Range 24", Strength 5, Armour Piercing (1), Quick Shot. Requires both hands.
+
+**Sacrificial Sword** - 30pts
+*Enchantment:* The bearer gains the Killing Blow special rule.
+
+**Hornet Sword** (*)- 25pts
+*Enchantment:* The bearer gains Always Strikes First.
+
+## MAGIC ARMOUR
+
+**Grand Matriarch Helm** - 50pts
+*Enchantment:* Heavy armour. The bearer improves their armour save by +1 and gains +1 Leadership.
+
+**Mirror Shield** - 35pts
+*Enchantment:* Shield. On a roll of 2+, Magic Missiles targeting the bearer are reflected back at the caster.
+
+**Shield of Mutilation** - 30pts
+*Enchantment:* Shield. The bearer gains +1 Attack (this attack counts as magical).
+
+**Enchanted Shield** (*)- 15pts
+*Enchantment:* Shield that confers an armour save of 5+ (or improves the existing armour save by +1, bearer's choice at the start of each round of combat).
+
+## TALISMANS
+
+**Lunar Amulet** - 50pts
+*Enchantment:* Ward Save (4+).
+
+**Aura of Dispersion** - 40pts
+*Enchantment:* Enemies suffer -1 To Hit the bearer in close combat.
+
+**Shield Amulet** - 30pts
+*Enchantment:* One use only. Ward Save (2+) against the first wound allocated to the bearer.
+
+**Brilliant Amulet** (*)- 15pts
+*Enchantment:* Ward Save (6+).
+
+## ENCHANTED ITEMS
+
+**Sacred War Drum** - 40pts
+*Enchantment:* Friendly units within 12" may make March moves even when 8" or less from the enemy. In addition, units attempting to rally within this range gain +1 Leadership.
+
+**Feathered Cloak** - 35pts
+*Enchantment:* The bearer gains Fly (8).
+
+**Sacrificial Statuette** - 30pts
+*Enchantment:* Bound Spell (Power Level 5). Target an enemy character within 18". The target must pass a Toughness test or lose 1 Wound with no armour save allowed. If the test is failed, repeat the process until the target succeeds or is slain. One use per battle.
+
+**Jaguar Brother Charm** - 25pts
+*Enchantment:* Bound Spell (Power Level 5). The bearer may move 10" in any direction (as if flying), ignoring terrain and units. Cannot be used to charge.
+
+**Pendant of Ferocity** - 25pts
+*Enchantment:* As soon as the bearer inflicts their first unsaved wound, they gain Frenzy for the rest of the battle.
+
+**Firefly Frog Venom** (*)- 20pts
+*Enchantment:* The bearer's non-magical melee weapon attacks become Magical Attacks and Poisoned Attacks.
+
+## ARCANE ITEMS
+
+**Hand of the Ancients** - 50pts
+*Enchantment:* Once per battle, you may force an enemy Wizard who has suffered a Miscast to suffer the effects of a second Miscast on a roll of 2+.
+
+**Cube of Darkness** (*)- 45pts
+*Enchantment:* One use only. Dispel Scroll that, on a roll of 4+, immediately ends the Magic phase and dispels all active Remains in Play spells (friendly and enemy).
+
+**Staff of Sorcery** - 40pts
+*Enchantment:* The bearer gains +1 to all Dispel rolls.
+
+**Diadem of Power** - 30pts
+*Enchantment:* At the start of the opponent's Magic phase, you may convert up to 2 Channelling dice into Dispel dice.
+
+**Storm Staff** - 25pts
+*Enchantment:* Bound Spell (Power Level 6). Magic Missile. Range 24", Strength 6, Armour Piercing (1). One use per battle.
+
+**Power Grubs** (*)- 25pts
+*Enchantment:* One use only. Add +3 to the total when casting a spell (declared before rolling dice).
+
+## MAGIC STANDARDS
+
+**Banner of Dread** - 50pts
+*Enchantment:* The unit causes Fear.
+
+**Banner of Domination** - 50pts
+*Enchantment:* All enemy Wizards within 12" of this banner must pass a Stupidity test at the start of each Magic phase.
+
+**Dazzling Totem** - 45pts
+*Enchantment:* Shooting attacks targeting this unit suffer -1 To Hit at long range, and -2 at short range.
+
+**War Banner** (*)- 25pts
+*Enchantment:* The unit gains +1 Combat Result.
+
+
+
 # Amazons special rules
 
+Here is the translation of the previously adapted rules for **Warhammer: The Old World**.
 
-**Blades of the ancients** : The Amazons carry a special kind of weapon of unknown origin, wich they call the Blades of the Ancients. These weapons are rumoured to be rare and mush sought after High Age artefacts. Despite their vast age they are still powerful, the gems set within them said blaze with the captures fires of a falling star.
+These rules have been formatted to fit the terminology (Keywords, Weapon Profiles) found in the current rulebook.
 
-The blades give the amazons +1 Strength in close combat. Furthermore, they projects a shield or arcane energy around the wearer, granting her a 6+ Ward save.
+---
 
-In addition the Amazons can point the baldes at the enemy and unleash the very flames of the sun itself in the shooting phase. This grants each Amazon a missile attack with a range of 12'' wich causes a Strength 3 hit, No penalities from range  or movement apply whene the amazons use this attack.
+## Amazons Special Rules (TOW Adaptation)
+
+### Blades of the Ancients
+*These weapons, remnants of a forgotten era, are technological artefacts of unknown origin—rumoured to be much sought-after High Age relics. The gems set within the hilt blaze with the captive fires of a falling star, offering both protection and offensive power.*
+
+In **The Old World**, the *Blades of the Ancients* count as both a melee weapon and a missile weapon with the following profile:
+
+**Weapon Profile: Blade of the Ancients**
+
+| Weapon | Range | S | AP | Special Rules |
+|:---|:---:|:---:|:---:|:---|
+| **Melee** | Combat | S+1 | -1 | Magical Attacks, Force Field, Requires Two Hands* |
+| **Shooting (Sunfire)** | 12" | 3 | - | Magical Attacks, Quick Shot, Solar Sight |
+
+**Weapon Special Rules:**
+
+*   **Force Field:** A model equipped with this weapon has a **6+ Ward Save** against wounds suffered during any phase.
+*   **Solar Sight:** When this weapon is used during the Shooting phase, the wielder ignores To Hit modifiers for **Long Range** and **Cover** (partial or full).
+*   **Quick Shot:** The wielder does not suffer the usual -1 To Hit penalty for Moving and Shooting.
+
+*> Adaptation Note: "AP -1" was added to the melee profile to reflect the high status of "High Age" artefacts in the current meta. "Requires Two Hands" suggests the weapon projects its own shield, replacing the need for a physical shield.*
+
+---
+
+### Native of Lustria
+*The Amazons are born into the green hell of Lustria. Where others see impenetrable terrain and death, they see a home.*
+
+**Unit Special Rule:**
+
+Models with this special rule are subject to the following effects:
+
+*   **Move Through Cover:** Models with this rule do not roll **Dangerous Terrain** tests when moving through terrain features classified as Forest, Jungle, Marsh, or Water.
+*   **Natural Camouflage:** If the unit is predominantly within a Forest or Jungle terrain feature, enemies suffer an additional -1 modifier when rolling To Hit against them during the Shooting phase (this stacks with the usual Cover modifiers).
+*   **Jungle Stalkers:** When determining who takes the First Turn or choosing deployment zones in a scenario set in a Jungle/Lustria biome (or using specific Lustria rules), the Amazons gain +1 to their roll.
+
+*> Adaptation Note: The original mention of being "immune to Encounters" referred to old random event tables. In The Old World, this is best represented by the "Move Through Cover" keyword, allowing them to traverse difficult terrain without the risk of checking for Dangerous Terrain.*
 
 
-**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules they are immune to the same Encounters as the Lizardmen.
+# Lore of the Serpent
+
+"In the depths of the jungle, where sunlight barely penetrates the canopy and ancient ruins whisper of forgotten ages, the Serpent Priestesses commune with powers older than the Old Ones themselves. Theirs is not the crude magic of beast-tamers or the calculated sorcery of the Slann, but something primal and deadly - the magic of venom and fang, of coils that crush and eyes that mesmerize. They are the bridge between the civilized Amazons and the savage jungle, channeling the predatory essence of the great serpents that ruled these lands before even the Amazons' arrival."
+"To learn the Lore of the Serpent is to embrace transformation - not merely of flesh, but of spirit. The Priestesses shed their human frailty as a serpent sheds its skin, becoming vessels for an ancient, reptilian consciousness. Their magic does not conquer nature; it becomes nature, adopting the patience of the python, the speed of the viper, and the inevitability of venom coursing through veins."
+— Teachings of the First Coil, Serpent Priestess Codex
+
+
+## 0. Serpent's Kiss (SIGNATURE SPELL)
+
+*With a whispered prayer, the priestess invokes the primal essence of the serpent. Fangs glisten with supernatural venom as warriors feel their weapons infused with the killing touch of the jungle's most deadly predators.*
+
+**Type:** Augment  
+**Casting Value:** 4+  
+**Range:** 12"
+
+**Effect:**
+
+Target friendly unit within range gains **Poisoned Attacks**. This effect lasts until the start of the caster's next Magic phase.
+
+---
+
+## 1. Serpent's Swiftness
+
+*The priestess channels the lightning-fast reflexes of the jungle viper, blessing her warriors with supernatural speed and reaction time.*
+
+**Type:** Augment  
+**Casting Value:** 5+  
+**Range:** 12"
+
+**Effect:**
+
+Target friendly unit within range gains the following bonuses until the start of the caster's next Magic phase:
+
+- **+1 Initiative**
+- **+1 Movement**
+- May **re-roll failed Initiative tests** (for Dangerous Terrain, Strike First, etc.)
+
+---
+
+## 2. Venom Blood
+
+*The priestess invokes the sacred serpent's curse, transforming the blood of her warriors into deadly poison that seeps from every wound they inflict.*
+
+**Type:** Augment  
+**Casting Value:** 7+  
+**Range:** 18"
+
+**Effect:**
+
+Target friendly unit within range gains the following abilities until the start of the caster's next Magic phase:
+
+- All close combat attacks gain **Poisoned Attacks** (wound on 6s regardless of Toughness, or use normal roll if better)
+- Any enemy model that suffers one or more unsaved wounds from this unit must pass a **Toughness test** at the end of the Combat phase or suffer **1 additional wound** with no armour save allowed (ward saves apply)
+
+**Note:** The additional wound only triggers once per enemy model per phase, regardless of how many wounds were initially caused.
+
+---
+
+## 3. Coils of the Constrictor
+
+*Spectral serpents materialize from thin air, wrapping around the enemy with crushing force, squeezing the life from their victims as pythons do their prey.*
+
+**Type:** Direct Damage  
+**Casting Value:** 8+  
+**Range:** 24"
+
+**Effect:**
+
+Nominate one enemy unit within range and line of sight. The unit immediately suffers **2D6 Strength 4 hits** with **Armour Piercing (1)**.
+
+Additionally, if the unit suffers one or more unsaved wounds, it suffers the following penalties until the start of the caster's next Magic phase:
+
+- The unit counts as being in **Difficult Terrain**
+- The unit suffers **-1 To Hit** in close combat (representing constriction hampering movement)
+
+---
+
+## 4. Gaze of the Basilisk
+
+*The priestess channels the petrifying stare of the legendary basilisk, a creature so deadly that its very gaze turns flesh to stone. Warriors caught in this mystical gaze feel their limbs growing heavy, their skin hardening, their will crumbling.*
+
+**Type:** Hex  
+**Casting Value:** 9+  
+**Range:** 18"
+
+**Effect:**
+
+Target enemy unit within range and line of sight must immediately pass a **Leadership test**.
+
+**If the test is failed:**
+
+The unit suffers the following penalties until the start of the caster's next Magic phase:
+- **-1 Weapon Skill**
+- **-1 Ballistic Skill**
+- **-1 Initiative**
+- **-2 Movement**
+- May **not make March moves**
+
+**If the test is passed on a natural roll of 10 or more:**
+
+The unit is **immune** to this spell for the remainder of the battle.
+
+**Note:** If a character is present in the unit, the unit may use the character's Leadership value for this test.
+
+---
+
+## 5. Serpent Spawn Swarm
+
+*The priestess calls forth countless venomous serpents from the jungle depths - vipers, cobras, and other deadly creatures that heed the Serpent Priestess's command.*
+
+**Type:** Summoning  
+**Casting Value:** 10+  
+**Range:** 12"
+
+**Effect:**
+
+You may immediately place a unit of **Serpent Swarm** on the battlefield within range of the caster and within the caster's line of sight. The unit must be placed more than 1" from any enemy units.
+
+The Serpent Swarm remains in play until it is destroyed or until the caster is slain, at which point it is immediately removed from play as a casualty.
+
+### Serpent Swarm Profile
+
+| M | WS | BS | S | T | W | I | A | Ld |
+|---|----|----|---|---|---|---|---|---|
+| 5 | 3  | -  | 2 | 2 | 3 | 4 | 5 | 5  |
+
+**Unit Size:** 3 swarm bases  
+**Troop Type:** Swarm  
+**Base Size:** 40mm x 40mm
+
+**Special Rules:**
+- **Poisoned Attacks:** All attacks wound on 6s regardless of Toughness
+- **Skirmishers**
+- **Swarm:** Follows all Swarm special rules (Unstable, Immune to Psychology, cannot be Stomped, etc.)
+- **Slithering Advance:** Ignores Difficult Terrain penalties in jungle/forest terrain
+- **Viper Strike:** Always strikes first in close combat (ignore Initiative order)
+
+**Armour Save:** 6+
+
+**Note:** The summoned unit does not count toward army composition limits and does not give up Victory Points if destroyed (unless the scenario specifies otherwise).
+
+---
+
+## 6. Apotheosis of Scales
+
+*The ultimate blessing of the Serpent Goddess, this spell transforms warriors into hybrid serpent-beings - their skin hardens into scales, their eyes become slitted and golden, their movements gain serpentine fluidity, and their strikes carry deadly venom.*
+
+**Type:** Augment  
+**Casting Value:** 12+  
+**Range:** Self or one friendly unit within 18"
+
+**Effect:**
+
+Target unit undergoes a sacred transformation and gains the following bonuses until the start of the caster's next Magic phase:
+
+**Defensive:**
+- **+1 Toughness**
+- **Scaly Skin (5+):** Grants a 5+ armour save if the unit has no armour, or improves existing armour save by 1 (to a maximum of 2+)
+
+**Offensive:**
+- **Poisoned Attacks:** All close combat attacks wound on 6s regardless of Toughness
+- **Serpentine Strike:** Unit always strikes at **Initiative 6** in close combat (regardless of their normal Initiative)
+
+**Psychological:**
+- Unit **causes Fear**
+
+**Restrictions:**
+- This spell cannot be cast on units that are already **Monstrous Infantry, Monsters, or Chariots**
+- Only **one unit** may benefit from this spell at a time. If cast again, the previous effect ends immediately.
+
+
+
