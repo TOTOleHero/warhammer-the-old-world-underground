@@ -83,7 +83,9 @@ Up to 25% of your army's points value may be spent on a single allied contingent
 | Amazon War Leader | 4 | 5 | 4 | 4 | 3 | 2 | 5 | 3 | 8 | 65 |
 
 **Troop Type:** Regular infantry (character)
+
 **Base Size:** 25 x 25 mm
+
 **Unit Size:** 1
 
 **Equipment**
@@ -156,7 +158,9 @@ At the start of any friendly turn, an Amazon War Leader may trigger a War Cry. A
 | Serpent Priestess | 4 | 4 | 3 | 3 | 3 | 2 | 4 | 1 | 7 | 50 |
 
 **Troop Type:** Regular infantry (character)
+
 **Base Size:** 25 x 25 mm
+
 **Unit Size:** 1
 
 **Equipment**
