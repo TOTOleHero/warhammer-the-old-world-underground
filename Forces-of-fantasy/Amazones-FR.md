@@ -879,6 +879,9 @@ Un Stegadon (ou Ancien) peut servir de monture à un héros Amazone / Mère de l
 
 ## Canon Slann Feu‑Stellaire
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/373f807c-0799-48a9-8212-b56b95eb2d8e" />
+
+
 |                        | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |------------------------|---|----|----|---|---|---|---|---|----|--------|
 | Canon Feu‑Stellaire    | - | -  | -  | - | 7 | 5 | - | - | -  | 125    |
@@ -917,6 +920,87 @@ Un Stegadon (ou Ancien) peut servir de monture à un héros Amazone / Mère de l
 **Restrictions :**  
 - Nécessite Mère de la Sororité  
 - 0–1 (0–2 si la Mère est Général)
+
+---
+
+### Avatar de Rigg  
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5db0fb38-6c67-4f38-bf6c-aefa88472f30" />
+
+
+**M | WS | BS | S | T | W | I | A | Ld | points**  
+6 | 6 | 5 | 5 | 5 | 4 | 7 | 4 | 9 | 275  
+
+**Type d’Unité :** Monstrous Infantry (1 figurine)  
+**Taille de socle :** 50 x 75 mm  
+
+**Équipement :**
+
+- **Griffes de la Mère-Serpent**  
+  Armes naturelles, Magical Attacks  
+- **Écailles Sacrées**  
+  Armour Save 4+ (non modifiable par équipement)
+
+
+
+**Règles Spéciales**
+
+**Avatar de la Déesse**  
+L’Avatar de Rigg est une manifestation divine. Elle bénéficie de :  
+- Magical Attacks  
+- Magic Resistance (2)  
+- Terror  
+- Unstable (comme les Daemons – perd 1W par point perdu en combat)  
+- **Mother's Blessing**  
+  - Toutes les unités *Amazon Core* et *Special* dans un rayon de 12" gagnent **Stubborn**.  
+  - Les *Serpent Priestesses* dans ce rayon gagnent **+1 aux jets de dissipation**.
+
+
+
+**Divine Wrath**  
+Au début de chaque tour de combat, l’Avatar choisit un des effets suivants :
+
+ **Vengeance de Rigg**  
+Tous les ennemis en contact socle-à-socle doivent réussir un test de Leadership ou subissent **-1 WS** jusqu’à la fin du tour.
+
+ **Fureur du Serpent**  
+L’Avatar gagne **+D3 Attaques** pour ce tour.
+
+ **Bouclier d’Écailles**  
+L’Avatar et toutes les unités alliées dans un rayon de 6" gagnent **Ward Save (5+)** jusqu’au début du prochain tour.
+
+
+
+** Serpent's Gaze (1 fois par partie)  **
+Au début d’un tour Amazon :
+
+- Choisissez une unité ennemie à 18" ou moins.  
+- Elle doit réussir un test de Leadership ou devient **Stupefied** jusqu'au début du prochain tour Amazon.
+
+**Unités Stupefied :**  
+- -2 Movement  
+- Ne peuvent pas marcher  
+- Ne peuvent pas charger  
+- Ne peuvent pas tirer  
+
+---
+
+** Options**
+
+ Upgrades (0–1 au choix)
+
+- **Coils of Binding (+30 pts)** — L’Avatar gagne **ASF (Always Strikes First)**  
+- **Obsidian Heart (+25 pts)** — L’Avatar devient **Unbreakable**, mais perd **Unstable**  
+- **Sacred Venom (+20 pts)** — Les attaques de l’Avatar gagnent **Poisoned Attacks**
+
+---
+
+**Restrictions**
+
+- 0–1 par armée  
+- Ne peut pas rejoindre d’unités  
+- Ne peut pas être le General  
+
 
 ---
 
