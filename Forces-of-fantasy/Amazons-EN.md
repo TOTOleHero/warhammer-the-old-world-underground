@@ -75,221 +75,159 @@ Up to 25% of your army's points value may be spent on a single allied contingent
 
 --- 
 
-# Mother of Sisterhood
+## MOTHER OF SISTERHOOD / AMAZON WAR LEADER
 
-## Background
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|---|---|----|----|---|---|---|---|---|----|----|
+| Mother of Sisterhood | 4 | 6 | 5 | 4 | 4 | 3 | 6 | 4 | 9 | 140 |
+| Amazon War Leader | 4 | 5 | 4 | 4 | 3 | 2 | 5 | 3 | 8 | 65 |
 
-The Mothers of Sisterhood are the matriarchs and military leaders of the Amazon tribes of Lustria. Direct heirs to Slann knowledge, they are commanders, guardians of ancestral traditions, and spiritual figures of their people. Each Mother oversees a tribe or group of related tribes, maintaining social order and perpetuating the parthenogenic reproduction rituals that ensure their race's survival.
-
-Unlike Serpent Priestesses who channel magical energies, Mothers of Sisterhood excel in the art of war and tactical command. They carry the most ancient Blades of the Ancients, Slann artefacts passed down through generations, and are often accompanied by totem animals symbolizing their authority.
-
-
-| M | WS | BS | S | T | W | I | A | Ld | points |
-|---|----|----|---|---|---|---|---|----|--------|
-| 4 | 5  | 4  | 3 | 3 | 3 | 5 | 3 | 9  | 85     |
-
-**Troop Type:** Infantry (Hero)
+**Troop Type:** Regular infantry (character)
 **Base Size:** 25 x 25 mm
 **Unit Size:** 1
-## Equipment
-* Hand weapon
-* Blade of the Ancients
-* Light armour
-
-## Special Rules
-
-* **Blades of the Ancients** (see Amazons Army Special Rules)
-* **Inspiring Presence**
-* **Native of Lustria** (see Amazons Army Special Rules)
-* **Skirmisher** (if on foot only)
-* **Matriarch Authority**
-* **Ancient Wisdom**
-
-### Matriarch Authority
-
-The Mother of Sisterhood represents supreme authority in the Amazon hierarchy. Her command is absolute and her presence on the battlefield inspires her sisters to greater feats of martial prowess.
-
-Amazon Core units (Tribal Warriors, Anakonda Warriors, Totem Warriors, and Eagle Warriors) within 12" of one or more friendly models with this special rule may use that model's Leadership characteristic when taking Leadership tests.
-
-Once per battle, at the start of any phase during the Amazon player's turn, a model with this special rule may declare a **Sister's Command**. Until the end of that turn, all Amazon units within 18" of the model that declared the Sister's Command gain +1 to their Combat Resolution.
-
-### Ancient Wisdom
-
-Mothers of Sisterhood have preserved fragments of Slann knowledge concerning warfare and tactics, allowing them to outmaneuver their foes through superior strategic insight.
-
-If your army includes at least one model with this special rule, you may re-roll a single dice when rolling to determine who chooses deployment zones.
-
-In addition, if your army's General has this special rule, you may deploy one Core unit after the enemy has finished deploying their army (but before Scouts are deployed).
-
-Finally, Ancient Wisdom grants access to some technologies of the ancient Slann, technologies that no one in the Old World can claim to possess. These technologies seem to come from another era or another world. Ancient Wisdom unlocks: Slann Star-Fire Cannon
-
-
-## Options
-
-* May replace hand weapon with one of the following:
-  * Spear .......................................................................... free
-  * Great weapon ............................................................. +6 pts
-
-* May take one of the following:
-  * Shield .......................................................................... +2 pts
-  * Additional hand weapon ................................................ +3 pts
-
-* May replace light armour with:
-  * Heavy armour .............................................................. +3 pts
-
-* May take:
-  * Javelin ........................................................................ +2 pts
-
-### Mounts
-
-* May ride one of the following:
-  * Culchan (see Amazons Bestiary) .................................... +20 pts
-  * Cold One (see Amazons Bestiary) .................................. +30 pts
-  * Koalt (see Amazons Bestiary) ....................................... +210 pts (0-1 per army)
-
----
-
-
-## AMAZON WAR LEADER
-
-|                    | M | WS | BS | S | T | W | I | A | Ld | Points |
-|--------------------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon War Leader  | 4 | 4  | 4  | 3 | 3 | 2 | 5 | 2 | 8  | 55     |
-
-**Troop Type**: Infantry (Character)  
-**Base Size**: 25 x 25 mm
 
 **Equipment**
-
-**Standard Equipment**:
 - Hand weapon
-- Blades of the Ancients
+- Blade of the Ancients
 - Light armour
 
 **Options**
-
-**Weapons & Armour**:
-- May replace hand weapon with one of the following:
-  - Spear .......................................................................... free
-  - Great weapon ............................................................. +4 pts
+**Weapons and armour:**
 - May take one of the following:
-  - Shield .......................................................................... +2 pts
-  - Additional hand weapon ................................................ +2 pts
-- May replace light armour with:
-  - Heavy armour .............................................................. +3 pts
+  - Additional hand weapon .................................................................................. +3 points
+  - Great weapon ................................................................................................... +4 points
+  - Lance (if appropriately mounted) .................................................................... +4 points
 - May take:
-  - Javelin ........................................................................ +2 pts
+  - Javelin ............................................................................................................... +3 points
+- May take a shield ................................................................................................ +2 points
+- May replace light armour with:
+  - Heavy armour ................................................................................................... +3 points
 
-**Mounts**:
-- May ride one of the following:
-  - Culchan ...................................................................... +20 pts
-  - Cold One .................................................................... +30 pts
+**Mounts:**
+- May be mounted ......................................................................................... See page XX
 
-**Special Options**:
-- May be upgraded to:
-  - Battle Standard Bearer ................................................ +25 pts
+**A Mother of Sisterhood may:**
+- Purchase magic items up to a total of .......................................................... 100 points
 
-**Magic Items**:
-- May take magic items chosen from the Common and/or Amazons magic items lists with a total points value of up to ................................... 25 pts
+**An Amazon War Leader may:**
+- Be upgraded to Battle Standard Bearer .......................................................... +25 points
+- Purchase magic items up to a total of ............................................................ 50 points
 
-** Special Rules**
+**Battle Standard Bearer:** If the model has been upgraded to the army's Battle Standard Bearer, it may take a magic standard (this counts towards the model's magic item points total).
 
-- **Blades of the Ancients**
-- **Native of Lustria** 
-- **War Cry**
+**Special Rules**
+- Blades of the Ancients
+- Native of Lustria
+- Skirmisher (if on foot only)
+- Rallying Cry
+- Matriarch Authority (Mother of Sisterhood only)
+- Ancient Wisdom (Mother of Sisterhood only)
+- War Cry (Amazon War Leader only)
 
-**War Cry**: At the start of any friendly turn, an Amazon War Leader may unleash a War Cry. All friendly Amazon Core units within 6" of the War Leader may immediately re-roll failed Leadership tests until the start of the next friendly turn. If the War Leader is your army's Battle Standard Bearer, the range of this ability increases to 12".
+**Matriarch Authority** (Mother of Sisterhood only)
 
-**Battle Standard Bearer**: If the model has been upgraded to be the army's Battle Standard Bearer, it may take a magic standard (this is an exception to the normal rules for magic items). Note that a magic standard still counts towards this model's magic item points allowance.
+The Mother of Sisterhood represents the supreme authority within the Amazon hierarchy. Her command is absolute and her presence on the battlefield inspires her sisters to accomplish greater martial feats.
+
+Amazon Core units (Tribal Warriors, Anakonda Warriors, Totem Warriors, and Eagle Warriors) within 12" of one or more friendly models with this rule may use this model's Leadership characteristic when taking Leadership tests.
+
+Once per battle, at the start of any phase during the Amazon player's turn, a model with this rule may declare a Sister's Command. Until the end of that turn, all Amazon units within 18" of the model that declared the Sister's Command gain +1 to their Combat Resolution.
+
+**Ancient Wisdom** (Mother of Sisterhood only)
+
+Mothers of Sisterhood have preserved fragments of Slann knowledge concerning warfare and tactics, allowing them to outmaneuver their adversaries.
+
+If your army includes at least one model with this rule, you may re-roll one dice when determining deployment zones.
+
+If the General of your army has this rule, you may deploy one Core unit after the enemy has finished their deployment (but before Scouts).
+
+Ancient Wisdom unlocks: Slann Star-Fire Cannon
+
+**War Cry** (Amazon War Leader only)
+
+At the start of any friendly turn, an Amazon War Leader may trigger a War Cry. All friendly Amazon Core units within 6" may immediately re-roll failed Leadership tests until the start of the next friendly turn. If the War Leader is the army's Battle Standard Bearer, the range is increased to 12".
 
 ---
 
+## HIGH PRIESTESS OF THE SERPENT / SERPENT PRIESTESS
 
-### Serpent Priestess 
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|---|---|----|----|---|---|---|---|---|----|----|
+| High Priestess of the Serpent | 4 | 4 | 3 | 3 | 4 | 3 | 5 | 2 | 8 | 155 |
+| Serpent Priestess | 4 | 4 | 3 | 3 | 3 | 2 | 4 | 1 | 7 | 50 |
 
-|                    | M | WS | BS | S | T | W | I | A | Ld | Points |
-|--------------------|---|----|----|---|---|---|---|---|----|--------|
-| Serpent Priestess  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 50     |
+**Troop Type:** Regular infantry (character)
+**Base Size:** 25 x 25 mm
+**Unit Size:** 1
 
-**Troop Type**: Infantry (Character)  
-**Base Size**: 25 x 25 mm
+**Equipment**
+- Hand weapon
 
-## Updated Serpent Priestess Entry
+**Magic**
+A High Priestess of the Serpent is a Level 3 Wizard. A Serpent Priestess is a Level 1 Wizard.
 
-### Serpent Priestess - Wizard Level 1-4
+Every Priestess knows spells from one of the following Lores of Magic:
+- Lore of Beasts
+- Lore of Life
+- Lore of Serpents
 
-**Special Rules:**
+**Options**
+**Mounts:**
+- May be mounted ......................................................................................... See page XX
+
+**A High Priestess of the Serpent may:**
+- Be a Level 4 Wizard ............................................................................................... +35 points
+- Take the Ritual of the Scaled Servants (Level 3 or 4 only) ................................... +50 points
+- Purchase magic items up to a total of .......................................................... 100 points
+
+**A Serpent Priestess may:**
+- Be a Level 2 Wizard ............................................................................................... +35 points
+- Purchase magic items up to a total of ............................................................ 50 points
+
+**Special Rules**
 - Blades of the Ancients
 - Native of Lustria
-- Lore of Lustria (Wizards only)
+- Lore of Lustria
+- Rallying Cry
 
+**Ritual of the Scaled Servants** (High Priestess of the Serpent Level 3 or 4 only)
 
-**Magic:**
-A Serpent Priestess is a Level 1 Wizard who uses spells from the Lore of Lustria.
+The highest rank among the Serpent Priestesses, a High Priestess has mastered not only the magical arts of the Lore of Lustria but also the ancient rituals recorded on Slann stone tablets hidden deep within the ruins of temples. These forbidden rites allow her to awaken and command the great beasts that once served the Old Ones as guardians and war machines.
 
-A Serpent Priestess may be upgraded to:
-- Wizard Level 2 for +35 points
-- Wizard Level 3 for +70 points  
-- Wizard Level 4 for +105 points
-
-A Wizard Level 4 Serpent Priestess may be upgraded to a **High Priestess of the Serpent** (see below).
-
-**Lores of Magic:**
-Every Serpent Priestess knows spells from one of the following Lores of Magic:
-- Lore of Beasts
-- Lore of Life
-- Lore of Serpents
-
-
-### High Priestess of the Serpent - +50 points
-
-**Requirements:**
-- Only available to a Serpent Priestess (Hero) at Wizard Level 4
-- Must be included in a 2000+ point army
-
-**Magic:**
-A High Priestess of the Serpent is a Level 4 Wizard who uses spells from the Lore of Lustria.
-
-**Lores of Magic:**
-Every High Priestess of the Serpent knows spells from one of the following Lores of Magic:
-- Lore of Beasts
-- Lore of Life
-- Lore of Serpents
-
-**Background:**
-
-The highest rank among the Serpent Priestesses, a High Priestess has mastered not only the magical arts of the Lore of Lustria but also the ancient rituals recorded on Slann stone tablets hidden deep within the temple ruins. These forbidden rites allow her to awaken and command the great beasts that once served the Old Ones as guardians and war-engines.
-
-Through days of chanting and ritual preparation, a High Priestess can perform the **Ritual of the Scaled Servants**, calling forth the descendants of creatures that remember the time when the Slann ruled Lustria. These ancient beasts recognize the authority carried in the Priestess's words and temporarily submit to the Amazon warband, seeing in them echoes of their former masters.
-
-However, this power comes at great cost. The ritual drains the Priestess's spiritual energy and requires rare sacred herbs and offerings. For this reason, only the most desperate circumstances warrant summoning these primordial creatures to war.
-
-
-### Special Rule: Ritual of the Scaled Servants
-
-A High Priestess of the Serpent has performed the forbidden rituals to command the great scaled beasts that once served the Slann.
-
-If your army includes a High Priestess of the Serpent, you may include the following units in your army:
+If your army includes a High Priestess of the Serpent with this option, you may include the following units in your army:
 
 **Special Choices:**
-- **0-2 units of Amazon Cold One Riders** (in addition to any already allowed)
-- **0-1 unit of Amazon Terradon Riders** (see new unit entry below)
+- 0-2 units of Amazon Cold One Riders (in addition to those already permitted)
+- 0-1 unit of Amazon Terradon Riders
 
 **Rare Choices:**
-- **0-1 War Stegadon of the Ancients** (see new unit entry below)
+- 0-1 War Stegadon of the Ancients
 
-These units count as Amazon units for all purposes and gain the **Native of Lustria** special rule. However, they do **not** gain the **Cold-Blooded** special rule (they are commanded by the Priestess's will, not naturally disciplined like true Lizardmen beasts).
+These units count as Amazon units for all purposes and gain the Native of Lustria special rule. However, they do not gain the Cold-Blooded special rule (they are commanded by the Priestess's will, not naturally disciplined like true Lizardmen creatures).
 
-**Restriction:** If the High Priestess of the Serpent is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to **Stupidity** for the remainder of the game as the Priestess's control over the beasts weakens.
+**Restriction:** If the High Priestess of the Serpent is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to Stupidity for the rest of the game, as the Priestess's control over the creatures weakens.
 
-**Character Mounts**
+---
 
-A character that can be mounted may choose a mount from the following list. Some mounts are covered in detail on this page. Those that are not have their own dedicated entries later in this army list.
+### MOUNTS LIST (page XX)
 
-A General may be mounted on a:
- - Cold One ...............+18 points
- - Culchan ...............+18 points
- - Koalt ................ +210 pts
+A character that may be mounted can choose a mount from the following list:
+
+**A Mother of Sisterhood may be mounted on:**
+- Culchan .................................................................................................................. +20 points
+- Cold One ................................................................................................................ +30 points
+- Koalt .................................................................................................................... +210 points (0-1 per army)
+
+**An Amazon War Leader may be mounted on:**
+- Culchan .................................................................................................................. +20 points
+- Cold One ................................................................................................................ +30 points
+
+**A High Priestess of the Serpent may be mounted on:**
+- Culchan .................................................................................................................. +20 points
+- Cold One ................................................................................................................ +30 points
+
+**A Serpent Priestess may be mounted on:**
+- Culchan .................................................................................................................. +20 points
+- Cold One ................................................................................................................ +30 points
 
 ---
 
