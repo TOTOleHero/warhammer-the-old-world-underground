@@ -1043,7 +1043,7 @@ Les pages suivantes décrivent les objets magiques propres aux armées des Royau
 
 ---
 
-## Règles Spéciales des Amazones (Adaptation TOW)
+## Règles Spéciales des Amazones 
 
 ### Lames des Anciens  
 *Ces armes, vestiges d’une ère oubliée, sont des artefacts technologiques d’origine inconnue — des reliques de l’Âge Élevé, selon les rumeurs. Les gemmes incrustées dans la garde brûlent d’un feu stellaire captif, offrant à la fois protection et puissance destructrice.*
