@@ -70,7 +70,8 @@ Up to 20% of your army's points value may be spent on mercenaries.
 ## Allies
 Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
 - Any Lizardmen Grand Army composition list
-- Valkyrie unit (from Norsca only)
+- Valkyrie unit (from Norsca Army)
+- Any Sea elves Grand Army composition list
 
 --- 
 
@@ -158,14 +159,14 @@ Finally, Ancient Wisdom grants access to some technologies of the ancient Slann,
 **Troop Type**: Infantry (Character)  
 **Base Size**: 25 x 25 mm
 
-### Equipment
+**Equipment**
 
 **Standard Equipment**:
 - Hand weapon
 - Blades of the Ancients
 - Light armour
 
-### Options
+**Options**
 
 **Weapons & Armour**:
 - May replace hand weapon with one of the following:
@@ -191,7 +192,7 @@ Finally, Ancient Wisdom grants access to some technologies of the ancient Slann,
 **Magic Items**:
 - May take magic items chosen from the Common and/or Amazons magic items lists with a total points value of up to ................................... 25 pts
 
-### Special Rules
+** Special Rules**
 
 - **Blades of the Ancients**
 - **Native of Lustria** 
@@ -333,7 +334,7 @@ A General may be mounted on a:
 
 ---
 
-### Totem warriors
+## Totem warriors
 
 *These Amazons steeped in the mysteries of the Sisterhood are warriors initiated into the aspects of the Koka-Kalim. These women come from all corners of Amazon society and take on the aspect of their tribe's totem. Initiated at a young age and trained for years, these warriors are totally uncompromising.*
 
@@ -364,7 +365,7 @@ Any unit may:
 
 ---
 
-# Koka-Kalim Warriors
+## Koka-Kalim Warriors
 
 The Koka-Kalim are the fanatical elite of Amazonian warriors, a militant order tasked with protecting the temples and sanctuaries of the goddess Rigg. Their name derives from their constant consumption of koka, a narcotic drug extracted from local plants that allows them to go almost entirely without sleep or food. This dependency gives them an emaciated appearance and a disturbed gaze, but also exceptional martial capabilities. Impervious to pain and devoid of any natural aversion to blood and death, these fighters exist in a permanent state of nervous agitation that makes them unpredictable and irrational. The Sisterhood, holder of religious power in Amazonia, maintains an elite guard of Koka-Kalim called the Devouts, who protect the most sacred sanctuaries and are sometimes entrusted with ancestral Slann weapons: power swords and bolter guns, relics venerated as gifts from Rigg herself.
 
@@ -407,7 +408,7 @@ A model with this special rule has:
 
 ---
 
-### Jungle Swarms
+## Jungle Swarms
 
 |                | M | WS | BS | S | T | W | I | A | Ld | Points |
 |----------------|---|----|----|---|---|---|---|---|----|--------|
@@ -421,7 +422,7 @@ Special Rules: Cold Blooded, Immune to Psychology, Loner, Move through Cover, Po
 
 ---
 
-### Culchan Riders
+## Culchan Riders
 
 The Culchan is a huge, flightless, carnivorous bird that lives on the pampas grasslands of the Chulcan Plains of southern Lustria. 
 
@@ -455,7 +456,7 @@ Special Rules:  Close Order, Swiftstride, Fast Cavalry, Native of Lustria
 **Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like WFB6 Warhamer Realms: Lustria ) they are immune to the same Encounters as the Lizardmen.
 ---
 
-### Amazon Cold One Riders
+## Amazon Cold One Riders
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
@@ -489,7 +490,7 @@ Swiftstride
 
 ---
 
-### Jaguar Huntresses
+## Jaguar Huntresses
 
 |               | M | WS | BS | S | T | W | I | A | Ld | Points |
 |---------------|---|----|----|---|---|---|---|---|----|----|
@@ -520,7 +521,7 @@ Options
 
 ---
 
-### Amazon Terradon Riders
+## Amazon Terradon Riders
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
@@ -554,7 +555,7 @@ Options
 
 ---
 
-### Eagle Warrior 
+## Eagle Warrior 
 
 Much like their namesake, Eagle Warriors are swift and agile: ducking and weaving across the batlle field
 
@@ -584,7 +585,7 @@ Special Rules: Close Order, Immune to Psychology, Move through Cover
 
 ---
 
-### Jaguar Warrior
+## Jaguar Warrior
 
 **Strongest among the Amazons are the Jaguar Warriors; immensely powerful women that act as guardians of the Amazons’ most sacred sites by protecting them from any unwanted explorers or treasure hunters.**
 
@@ -612,7 +613,7 @@ Special Rules: Close Order, Immune to Psychology, Move through Cover
 
 ---
 
-### Python Warrior
+## Python Warrior
 
 Python Warriors spend years studying the snakes from which they draw their name, learning the art of patience and to find the best moment to strike.
 
@@ -654,7 +655,7 @@ Python Warriors spend years studying the snakes from which they draw their name,
 
 ---
 
-### Piranha Warrior 
+## Piranha Warrior 
 
 Emulating the ferocious river predator, from where they draw their name, Piranha Warriors strike with a series of lightning fast blows before quickly evading any counterattacks.
 
@@ -696,7 +697,7 @@ In battle, Piranha Warrior perform the special attacks :
 
 ---
 
-### Stegadon
+## Stegadon
 
 |                  | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------|---|----|----|---|---|---|---|---|----|--------|
@@ -823,7 +824,7 @@ When taken as a character mount:
 
 ---
 
-### Koalt
+## Koalt
 
 |                  | M | WS | BS | S | T    | W    | I | A | Ld | Points |
 |------------------|---|----|----|---|------|----- |---|---|----|--------|
@@ -862,7 +863,7 @@ a character’s mount. Its points are added to that of its rider.
 
 ---
 
-### Slann Star-Fire Cannon
+## Slann Star-Fire Cannon
 
 |                        | M | WS | BS | S | T | W | I | A | Ld | Points |
 |------------------------|---|----|----|---|---|---|---|---|----|--------|
@@ -879,43 +880,43 @@ a character’s mount. Its points are added to that of its rider.
 - Move or Fire
 - Catastrophic Overload (see below)
 
-#### Shooting Profile
+**Shooting Profile**
 
 | Weapon               | R   | S | AP | Special Rules                          |
 |----------------------|-----|---|----|----------------------------------------|
 | Slann Star-Fire Cannon | 36" | 7 | 3  | Multiple Wounds (D3), Anti-Gravity Weapon |
 
-#### Anti-Gravity Weapon
+**Anti-Gravity Weapon**
 
 - **Vs T5+ models**: Strength counts as 8
 - **Vs W3+ models**: Multiple Wounds becomes (D3+1)
 - **Vs Monsters, War Machines, Chariots**: Automatic Wounds (still apply AP3)
 - **Shockwave Effect**: If this attack kills a Monster or causes 3+ Wounds to a single model, place Small Blast Template (3") centered on target. Models under template suffer S4 hit with no armour save.
 
-#### Move or Fire
+**Move or Fire**
 
 If machine or crew moves, cannot fire. Standard war machine restriction.
 
-#### Catastrophic Overload
+**Catastrophic Overload**
 
 When machine is reduced to 0 Wounds, roll D6:
 - **1**: Graviton Implosion - All models within 3" suffer S5 AP2 hit
 - **2-6**: Controlled Shutdown - No additional effect
 
-#### Options
+**Options**
 
 - **Shields for crew**: +1 pt/model
 - **Graviton Anchor** (+15 pts): Ignore Move or Fire, but Range reduced to 30"
 - **Crystalline Shielding** (+20 pts): Machine gains 5+ Ward vs Shooting
 
-#### Restrictions
+**Restrictions**
 
 - Requires Mother of Sisterhood
 - 0-1 per army (0-2 if Mother is Army General)
 
 ---
 
-### **Avatar of Rigg**
+## **Avatar of Rigg**
 
 | M | WS | BS | S | T | W | I | A | Ld | points |
 |---|----|----|---|---|---|---|---|----|--------|
@@ -994,13 +995,13 @@ Au début d’un tour Amazon :
 ---
 
 
-## amazons Magic Items
+# amazons Magic Items
 
 The pages that follow detail magic items unique to Lizardmen armies. These can be purchased by models within a Lizardmen army in exactly the same way as Common magic items, as described in the Warhammer: the Old World rulebook.
 
 Extremely Common Magic Items: Any magic item marked with an asterisk (*) is considered to be extremely common, as described in the Warhammer: the Old World rulebook.
 
-## Amazons special rules
+# Amazons special rules
 
 
 **Blades of the ancients** : The Amazons carry a special kind of weapon of unknown origin, wich they call the Blades of the Ancients. These weapons are rumoured to be rare and mush sought after High Age artefacts. Despite their vast age they are still powerful, the gems set within them said blaze with the captures fires of a falling star.
@@ -1009,6 +1010,5 @@ The blades give the amazons +1 Strength in close combat. Furthermore, they proje
 
 In addition the Amazons can point the baldes at the enemy and unleash the very flames of the sun itself in the shooting phase. This grants each Amazon a missile attack with a range of 12'' wich causes a Strength 3 hit, No penalities from range  or movement apply whene the amazons use this attack.
 
-**skirmishers** : Amazons are well accustomed to jungle warfare and as such they are regarded as skirmishers. Should they required to rank un in order to fight in a melee. (Anakonda, Humming Bird,and Pirrana must be positioned in the front of rank)
 
-**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like WFB6 Warhamer Realms: Lustria ) they are immune to the same Encounters as the Lizardmen.
+**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules they are immune to the same Encounters as the Lizardmen.
