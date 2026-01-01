@@ -1049,13 +1049,6 @@ Extremely Common Magic Items: Any magic item marked with an asterisk (*) is cons
 
 # Amazons special rules
 
-Here is the translation of the previously adapted rules for **Warhammer: The Old World**.
-
-These rules have been formatted to fit the terminology (Keywords, Weapon Profiles) found in the current rulebook.
-
----
-
-## Amazons Special Rules (TOW Adaptation)
 
 ### Blades of the Ancients
 *These weapons, remnants of a forgotten era, are technological artefacts of unknown origin—rumoured to be much sought-after High Age relics. The gems set within the hilt blaze with the captive fires of a falling star, offering both protection and offensive power.*
@@ -1075,7 +1068,6 @@ In **The Old World**, the *Blades of the Ancients* count as both a melee weapon 
 *   **Solar Sight:** When this weapon is used during the Shooting phase, the wielder ignores To Hit modifiers for **Long Range** and **Cover** (partial or full).
 *   **Quick Shot:** The wielder does not suffer the usual -1 To Hit penalty for Moving and Shooting.
 
-*> Adaptation Note: "AP -1" was added to the melee profile to reflect the high status of "High Age" artefacts in the current meta. "Requires Two Hands" suggests the weapon projects its own shield, replacing the need for a physical shield.*
 
 ---
 
@@ -1089,8 +1081,6 @@ Models with this special rule are subject to the following effects:
 *   **Move Through Cover:** Models with this rule do not roll **Dangerous Terrain** tests when moving through terrain features classified as Forest, Jungle, Marsh, or Water.
 *   **Natural Camouflage:** If the unit is predominantly within a Forest or Jungle terrain feature, enemies suffer an additional -1 modifier when rolling To Hit against them during the Shooting phase (this stacks with the usual Cover modifiers).
 *   **Jungle Stalkers:** When determining who takes the First Turn or choosing deployment zones in a scenario set in a Jungle/Lustria biome (or using specific Lustria rules), the Amazons gain +1 to their roll.
-
-*> Adaptation Note: The original mention of being "immune to Encounters" referred to old random event tables. In The Old World, this is best represented by the "Move Through Cover" keyword, allowing them to traverse difficult terrain without the risk of checking for Dangerous Terrain.*
 
 
 # Lore of the Serpent
