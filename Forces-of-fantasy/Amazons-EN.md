@@ -79,7 +79,7 @@ Up to 25% of your army's points value may be spent on a single allied contingent
 
 | | M | WS | BS | S | T | W | I | A | Ld | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
-| Mother of Sisterhood | 4 | 6 | 5 | 4 | 4 | 3 | 6 | 4 | 9 | 140 |
+| Mother of Sisterhood | 4 | 6 | 5 | 4 | 4 | 3 | 6 | 4 | 9 | 126 |
 | Amazon War Leader | 4 | 5 | 4 | 4 | 3 | 2 | 5 | 3 | 8 | 65 |
 
 **Troop Type:** Regular infantry (character)
@@ -154,7 +154,7 @@ At the start of any friendly turn, an Amazon War Leader may trigger a War Cry. A
 
 | | M | WS | BS | S | T | W | I | A | Ld | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
-| High Priestess of the Serpent | 4 | 4 | 3 | 3 | 4 | 3 | 5 | 2 | 8 | 155 |
+| High Priestess of the Serpent | 4 | 4 | 3 | 3 | 4 | 3 | 5 | 2 | 8 | 160 |
 | Serpent Priestess | 4 | 4 | 3 | 3 | 3 | 2 | 4 | 1 | 7 | 50 |
 
 **Troop Type:** Regular infantry (character)
@@ -180,7 +180,7 @@ Every Priestess knows spells from one of the following Lores of Magic:
 
 **A High Priestess of the Serpent may:**
 - Be a Level 4 Wizard ............................................................................................... +35 points
-- Take the Ritual of the Scaled Servants (Level 3 or 4 only) ................................... +50 points
+- Take the Ritual of the Scaled Servants (Level 3 or 4 only) ................................... +60 points
 - Purchase magic items up to a total of .......................................................... 100 points
 
 **A Serpent Priestess may:**
