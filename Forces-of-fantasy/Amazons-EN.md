@@ -71,6 +71,7 @@ Up to 20% of your army's points value may be spent on mercenaries.
 Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
 - Any Lizardmen Grand Army composition list
 - Valkyrie unit (from Norsca Army)
+- Ice gard unit (from Kislev Army)
 - Any Sea elves Grand Army composition list
 
 --- 
