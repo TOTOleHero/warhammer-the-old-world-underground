@@ -68,7 +68,8 @@ Jusqu’à 20 % de la valeur en points de votre armée peut être dépensée en 
 ## Alliés
 Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en un seul contingent allié choisi parmi :
 - Toute liste de composition de Grande Armée des Hommes‑Lézards  
-- Unité de Valkyries (armée de Norsca)  
+- Unité de Valkyries (armée de Norsca)
+- Unité de la Garde de glace (armée de Kislev)  
 - Toute liste de composition de Grande Armée des Elfes des Mers
 
 --- 
