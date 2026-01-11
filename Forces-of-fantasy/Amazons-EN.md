@@ -207,7 +207,7 @@ If your army includes a High Priestess of the Serpent with this option, you may 
 **Rare Choices:**
 - 0-1 War Stegadon of the Ancients
 
-These units count as Amazon units for all purposes and gain the Native of Lustria special rule. However, they do not gain the Cold-Blooded special rule (they are commanded by the Priestess's will, not naturally disciplined like true Amazons creatures).
+These units count as Amazon units for all purposes and gain the Native of Lustria special rule. However, they do not gain the Cold-Blooded special rule (they are commanded by the Priestess's will, not naturally disciplined like true Lizardmen creatures).
 
 **Restriction:** If the High Priestess of the Serpent is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to Stupidity for the rest of the game, as the Priestess's control over the creatures weakens.
 
@@ -396,7 +396,7 @@ Options:
 Special Rules:  Close Order, Swiftstride, Fast Cavalry, Native of Lustria 
 
 
-**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like WFB6 Warhamer Realms: Lustria ) they are immune to the same Encounters as the Amazons.
+**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules they are immune to the same Encounters as the Lizardmen.
 ---
 
 ## Amazon Cold One Riders
