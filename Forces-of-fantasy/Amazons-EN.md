@@ -16,10 +16,10 @@ Amazons are unique in that their race has no males—reproduction takes place by
 
 This document contains the following information:
 
-**Grand Army Composition List**: The default army composition list for the Lizardmen.
-**Profiles**: Every model available to the Lizardmen has a profile. Here, you will find that model’s characteristics, its equipment, its points value, details of any special rules unique to it and more.
-**Magic Items**: As well as the Common magic items detailed in the Warhammer: the Old World rulebook, this army list includes a number of magic items unique to the Lizardmen.
-**Special Rules**: This section covers rules unique to the Lizardmen.
+**Grand Army Composition List**: The default army composition list for the Amazons.
+**Profiles**: Every model available to the Amazons has a profile. Here, you will find that model’s characteristics, its equipment, its points value, details of any special rules unique to it and more.
+**Magic Items**: As well as the Common magic items detailed in the Warhammer: the Old World rulebook, this army list includes a number of magic items unique to the Amazons.
+**Special Rules**: This section covers rules unique to the Amazons.
 **The Lore of…**: Unique spells used in conjunction with the Lores of Magic found in the Warhammer: the Old World rulebook.
 
 
@@ -69,7 +69,7 @@ Up to 20% of your army's points value may be spent on mercenaries.
 
 ## Allies
 Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
-- Any Lizardmen Grand Army composition list
+- Any Amazons Grand Army composition list
 - Valkyrie unit (from Norsca Army)
 - Ice gard unit (from Kislev Army)
 - Any Sea elves Grand Army composition list
@@ -207,7 +207,7 @@ If your army includes a High Priestess of the Serpent with this option, you may 
 **Rare Choices:**
 - 0-1 War Stegadon of the Ancients
 
-These units count as Amazon units for all purposes and gain the Native of Lustria special rule. However, they do not gain the Cold-Blooded special rule (they are commanded by the Priestess's will, not naturally disciplined like true Lizardmen creatures).
+These units count as Amazon units for all purposes and gain the Native of Lustria special rule. However, they do not gain the Cold-Blooded special rule (they are commanded by the Priestess's will, not naturally disciplined like true Amazons creatures).
 
 **Restriction:** If the High Priestess of the Serpent is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to Stupidity for the rest of the game, as the Priestess's control over the creatures weakens.
 
@@ -396,7 +396,7 @@ Options:
 Special Rules:  Close Order, Swiftstride, Fast Cavalry, Native of Lustria 
 
 
-**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like WFB6 Warhamer Realms: Lustria ) they are immune to the same Encounters as the Lizardmen.
+**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules (like WFB6 Warhamer Realms: Lustria ) they are immune to the same Encounters as the Amazons.
 ---
 
 ## Amazon Cold One Riders
