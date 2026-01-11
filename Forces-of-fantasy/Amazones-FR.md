@@ -14,10 +14,10 @@ Les Amazones sont uniques en ce que leur race ne possède aucun mâle — la rep
 
 Ce document contient les informations suivantes :
 
-**Liste de composition de la Grande Armée** : La liste de composition d’armée par défaut pour les Hommes‑Lézards.  
-**Profils** : Chaque figurine disponible pour les Hommes‑Lézards possède un profil. Ici, vous trouverez les caractéristiques de cette figurine, son équipement, sa valeur en points, les détails de ses règles spéciales et plus encore.  
-**Objets magiques** : En plus des objets magiques communs décrits dans le livre de règles de Warhammer : The Old World, cette liste d’armée inclut un certain nombre d’objets magiques propres aux Hommes‑Lézards.  
-**Règles spéciales** : Cette section couvre les règles propres aux Hommes‑Lézards.  
+**Liste de composition de la Grande Armée** : La liste de composition d’armée par défaut pour les Amazones.  
+**Profils** : Chaque figurine disponible pour les Amazones possède un profil. Ici, vous trouverez les caractéristiques de cette figurine, son équipement, sa valeur en points, les détails de ses règles spéciales et plus encore.  
+**Objets magiques** : En plus des objets magiques communs décrits dans le livre de règles de Warhammer : The Old World, cette liste d’armée inclut un certain nombre d’objets magiques propres aux Amazones.  
+**Règles spéciales** : Cette section couvre les règles propres aux Amazones.  
 **Le Savoir de…** : Des sorts uniques utilisés en complément des Savoirs de la Magie trouvés dans le livre de règles de Warhammer : The Old World.
 
 ---
@@ -67,7 +67,7 @@ Jusqu’à 20 % de la valeur en points de votre armée peut être dépensée en 
 
 ## Alliés
 Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en un seul contingent allié choisi parmi :
-- Toute liste de composition de Grande Armée des Hommes‑Lézards  
+- Toute liste de composition de Grande Armée des Amazones  
 - Unité de Valkyries (armée de Norsca)
 - Unité de la Garde de glace (armée de Kislev)  
 - Toute liste de composition de Grande Armée des Elfes des Mers
@@ -280,7 +280,7 @@ Si votre armée inclut une Grande Prêtresse du Serpent avec cette option, vous 
 **Choix Rares :**
 - 0‑1 Stégadon de Guerre des Anciens
 
-Ces unités comptent comme des unités amazones à tous égards et gagnent la règle spéciale Native de Lustrie. Cependant, elles ne gagnent pas la règle Sang‑Froid (elles sont commandées par la volonté de la Prêtresse, pas naturellement disciplinées comme les véritables créatures des Hommes‑Lézards).
+Ces unités comptent comme des unités amazones à tous égards et gagnent la règle spéciale Native de Lustrie. Cependant, elles ne gagnent pas la règle Sang‑Froid (elles sont commandées par la volonté de la Prêtresse, pas naturellement disciplinées comme les véritables créatures des Amazones).
 
 **Restriction :** Si la Grande Prêtresse du Serpent est tuée durant la bataille, toutes les unités débloquées par cette règle doivent immédiatement effectuer un test de Commandement au début de chaque tour ami suivant. En cas d’échec, l’unité devient sujette à la Stupidité pour le reste de la partie, la volonté de la Prêtresse s’affaiblissant.
 
@@ -473,7 +473,7 @@ Le Culchan est un immense oiseau carnivore incapable de voler, vivant dans les p
 
 **Règles spéciales :** Formation Serrée, Ruée Implacable, Cavalerie Légère, Native de Lustrie  
 
-**Native de Lustrie** : Les Amazones sont natives de la Lustrie et la jungle ne leur présente aucun danger. Lors de l’utilisation de règles de jungle (comme *WFB6 Warhammer Realms: Lustria*), elles sont immunisées aux mêmes Rencontres que les Hommes‑Lézards.
+**Native de Lustrie** : Les Amazones sont natives de la Lustrie et la jungle ne leur présente aucun danger. Lors de l’utilisation de règles de jungle (comme *WFB6 Warhammer Realms: Lustria*), elles sont immunisées aux mêmes Rencontres que les Amazones.
 
 ---
 
