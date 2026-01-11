@@ -114,8 +114,6 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 - Être améliorée en Porte‑étendard de Bataille ..................................................... +25 points  
 - Acheter des objets magiques pour un total de .................................................... 50 points
 
-**Porte‑étendard de Bataille :** Si le modèle a été amélioré en Porte‑étendard de Bataille de l’armée, il peut prendre une bannière magique (elle compte dans son total de points d’objets magiques).
-
 **Règles spéciales**
 - Lames des Anciens  
 - Native de Lustrie  
