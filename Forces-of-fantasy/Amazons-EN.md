@@ -116,8 +116,6 @@ Up to 25% of your army's points value may be spent on a single allied contingent
 - Be upgraded to Battle Standard Bearer .......................................................... +25 points
 - Purchase magic items up to a total of ............................................................ 50 points
 
-**Battle Standard Bearer:** If the model has been upgraded to the army's Battle Standard Bearer, it may take a magic standard (this counts towards the model's magic item points total).
-
 **Special Rules**
 - Blades of the Ancients
 - Native of Lustria
