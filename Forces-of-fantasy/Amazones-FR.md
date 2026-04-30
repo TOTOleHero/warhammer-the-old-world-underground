@@ -78,7 +78,7 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
-| Mère de la Sororité | 4 | 6 | 5 | 4 | 4 | 3 | 6 | 4 | 9 | 126 |
+| Mère de la Sororité | 4 | 6 | 5 | 3 | 3 | 3 | 7 | 4 | 9 | 115 |
 | Cheffe de Guerre Amazone | 4 | 5 | 4 | 4 | 3 | 2 | 5 | 3 | 8 | 65 |
 
 **Type de troupe :** Infanterie régulière (personnage)
