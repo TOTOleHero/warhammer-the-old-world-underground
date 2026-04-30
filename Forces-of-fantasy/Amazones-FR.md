@@ -1142,16 +1142,20 @@ Les modèles avec cette règle bénéficient des effets suivants :
 
 ---
 
-## 0. Baiser du Serpent (SORT SIGNATURE)
+Voici la liste complète des sorts mis à jour avec les types corrects :
 
-*D’un murmure, la prêtresse invoque l’essence primale du serpent. Les crocs scintillent d’un venin surnaturel…*
+---
 
-**Type :** Augmentation  
-**Valeur de lancement :** 4+  
+## 0. Baiser du Serpent *(Sort Signature)*
+
+*D'un murmure, la prêtresse invoque l'essence primale du serpent. Les crocs scintillent d'un venin surnaturel…*
+
+**Type : Enchantement**
+**Valeur de lancement :** 4+
 **Portée :** 12"
 
-**Effet :**  
-L’unité amie ciblée gagne **Attaques Empoisonnées** jusqu’au début de la prochaine phase de Magie du lanceur.
+**Effet :**
+L'unité amie ciblée gagne la règle spéciale **Attaques Empoisonnées** jusqu'au début de la prochaine phase de Magie du lanceur.
 
 ---
 
@@ -1159,14 +1163,15 @@ L’unité amie ciblée gagne **Attaques Empoisonnées** jusqu’au début de la
 
 *Une bénédiction de réflexes fulgurants, héritée de la vipère de jungle.*
 
-**Type :** Augmentation  
-**Valeur de lancement :** 5+  
+**Type : Conveyance**
+**Valeur de lancement :** 5+
 **Portée :** 12"
 
 **Effet :**
-- **+1 Initiative**  
-- **+1 Mouvement**  
-- Peut **relancer les tests d’Initiative ratés** (Terrain Dangereux, Frappe en Premier, etc.)
+L'unité amie ciblée bénéficie des effets suivants jusqu'au début de la prochaine phase de Magie du lanceur :
+- **+1 Initiative**
+- **+1 Mouvement**
+- Peut relancer les tests d'Initiative ratés (Terrain Dangereux, Frappe en Premier, etc.)
 
 ---
 
@@ -1174,33 +1179,31 @@ L’unité amie ciblée gagne **Attaques Empoisonnées** jusqu’au début de la
 
 *Le sang des guerrières devient aussi toxique que celui des créatures sacrées.*
 
-**Type :** Augmentation  
-**Valeur de lancement :** 7+  
+**Type : Enchantement**
+**Valeur de lancement :** 7+
 **Portée :** 18"
 
-**Effets :**
-- Toutes les attaques de mêlée gagnent **Attaques Empoisonnées**  
-- Les ennemis blessés subissent un **test d’Endurance** ; en cas d’échec, ils prennent **1 blessure supplémentaire** sans sauvegarde d’armure (les invulnérables s’appliquent)
-
-*Une fois par modèle et par phase.*
+**Effet :**
+L'unité amie ciblée bénéficie des effets suivants jusqu'au début de la prochaine phase de Magie du lanceur :
+- Toutes les attaques de mêlée gagnent la règle spéciale **Attaques Empoisonnées**
+- Les ennemis blessés doivent réussir un test d'Endurance ; en cas d'échec, ils subissent 1 blessure supplémentaire sans sauvegarde d'armure (les sauvegardes invulnérables s'appliquent normalement)
+- Cet effet ne peut se déclencher qu'**une fois par modèle et par phase**
 
 ---
 
 ## 3. Anneaux du Constricteur
 
-*Des serpents spectraux enserrent l’ennemi jusqu’à l’étouffer.*
+*Des serpents spectraux enserrent l'ennemi jusqu'à l'étouffer.*
 
-**Type :** Dégâts Directs  
-**Valeur de lancement :** 8+  
+**Type : Magic Missile**
+**Valeur de lancement :** 8+
 **Portée :** 24"
 
 **Effet :**
-- Inflige **2D6 touches de Force 4**, PA (1)  
-- Si au moins une blessure non sauvegardée est infligée :
-  - L’unité compte comme étant en **Terrain Difficile**  
-  - **-1 pour toucher** au corps à corps
-
-Jusqu’au début de la prochaine phase de Magie du lanceur.
+L'unité ennemie ciblée subit **2D6 touches** de Force 4, PA (-1).
+Si au moins une blessure non sauvegardée est infligée, jusqu'au début de la prochaine phase de Magie du lanceur :
+- L'unité compte comme étant en **Terrain Difficile**
+- L'unité subit un **-1 pour toucher** au corps à corps
 
 ---
 
@@ -1208,34 +1211,33 @@ Jusqu’au début de la prochaine phase de Magie du lanceur.
 
 *Un regard pétrifiant qui fige le sang.*
 
-**Type :** Malédiction  
-**Valeur de lancement :** 9+  
+**Type : Hex**
+**Valeur de lancement :** 9+
 **Portée :** 18"
 
-**Effet :**  
-L’unité ennemie doit réussir un **test de Commandement**.
+**Effet :**
+L'unité ennemie ciblée doit réussir un test de Commandement.
 
-**Si échec :**
-- **-1 CC**
-- **-1 CT**
-- **-1 Initiative**
-- **-2 Mouvement**
-- Ne peut pas **Marcher**
+- **Si échec :** jusqu'au début de la prochaine phase de Magie du lanceur, l'unité subit :
+  - **-1 CC**
+  - **-1 CT**
+  - **-1 Initiative**
+  - **-2 Mouvement**
+  - Ne peut pas **Marcher au Pas**
 
-**Si réussite sur un 10+ naturel :**
-- Immune au sort pour le reste de la bataille.
+- **Si réussite sur un résultat naturel de 10+** : l'unité est immunisée à ce sort pour le reste de la bataille.
 
 ---
 
-## Nuée d'Engeances Serpentines *(Sort de Convocation)*
+## 5. Nuée d'Engeances Serpentines
 
+*La Prêtresse invoque une nuée de serpents sacrés qui surgissent des profondeurs de la jungle pour engloutir les ennemis de Rigg.*
+
+**Type : Convocation**
 **Valeur de lancement :** 10+
 **Portée :** 18"
-**Type :** Convocation
 
-La Prêtresse invoque une nuée de serpents sacrés qui surgissent des profondeurs de la jungle pour engloutir les ennemis de Rigg.
-
-Lorsque ce sort est lancé avec succès, placez une unité de **Nuée de Serpents Sacrés** (voir profil ci-dessous) en respectant les conditions suivantes :
+Lorsque ce sort est lancé avec succès, placez une unité de **Nuée de Serpents Sacrés** en respectant les conditions suivantes :
 
 - L'unité est placée entièrement dans un rayon de **12 pouces** de la Prêtresse
 - L'unité ne peut pas être placée en contact socle à socle avec une unité ennemie
@@ -1247,8 +1249,6 @@ L'unité invoquée est traitée comme une unité alliée à part entière pour l
 Si la Prêtresse est retirée comme perte avant la fin de la partie, l'unité invoquée **reste en jeu** et continue d'agir normalement jusqu'à la fin de la partie.
 
 Ce sort ne peut être lancé **qu'une seule fois par partie**.
-
----
 
 ### Profil — Nuée de Serpents Sacrés
 
@@ -1262,7 +1262,7 @@ Ce sort ne peut être lancé **qu'une seule fois par partie**.
 
 **Règles spéciales :** Attaques Empoisonnées, Attaques Magiques, Indémoralisable, Nuée, Terrain Difficile (Ignoré)
 
-**Ne compte pas pour les limites d’armée et ne donne pas de Points de Victoire (sauf règles spécifiques).**
+*Ne compte pas pour les limites d'armée et ne donne pas de Points de Victoire.*
 
 ---
 
@@ -1270,25 +1270,24 @@ Ce sort ne peut être lancé **qu'une seule fois par partie**.
 
 *La bénédiction ultime transforme les guerrières en hybrides sacrées.*
 
-**Type :** Augmentation  
-**Valeur de lancement :** 12+  
-**Portée :** 18" ou lanceur
+**Type : Enchantement**
+**Valeur de lancement :** 12+
+**Portée :** 18"
 
-### Effets :
+**Effet :**
+L'unité amie ciblée bénéficie des effets suivants jusqu'au début de la prochaine phase de Magie du lanceur :
 
 **Défensifs :**
 - **+1 Endurance**
-- **Peau Écailleuse (5+)**  
-  (ou améliore une sauvegarde existante de +1, max 2+)
+- **Peau Écailleuse (5+)** (ou améliore une sauvegarde existante de +1, maximum 2+)
 
 **Offensifs :**
-- **Attaques Empoisonnées**  
-- **Frappe Serpentine :** Frappe à **Initiative 6** (fixe)
+- **Attaques Empoisonnées**
+- **Frappe Serpentine :** l'unité frappe à Initiative fixe **6**
 
 **Psychologiques :**
-- **Cause la Peur**
+- L'unité **Cause la Peur**
 
-### Restrictions :
-- Ne peut pas cibler les unités **MI/Monstres/Chars**  
-- Une seule unité affectée à la fois (si relancé, l’ancien effet se dissipe)
-
+**Restrictions :**
+- Ne peut pas cibler les unités de type Infanterie Monstrueuse, Monstres ou Chars
+- Une seule unité peut être affectée à la fois. Si le sort est relancé sur une nouvelle cible, l'effet sur l'ancienne unité se dissipe immédiatement
