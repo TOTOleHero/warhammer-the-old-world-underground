@@ -1227,35 +1227,40 @@ L’unité ennemie doit réussir un **test de Commandement**.
 
 ---
 
-## 5. Nuée d’Engeances Serpentines
+## Nuée d'Engeances Serpentines *(Sort de Convocation)*
 
-*Une nuée vivante répond à l’appel de la prêtresse.*
+**Valeur de lancement :** 10+
+**Portée :** 18"
+**Type :** Convocation
 
-**Type :** Invocation  
-**Valeur de lancement :** 10+  
-**Portée :** 12"
+La Prêtresse invoque une nuée de serpents sacrés qui surgissent des profondeurs de la jungle pour engloutir les ennemis de Rigg.
 
-**Effet :**  
-Invoquez immédiatement une unité de **Nuée Serpentine** dans la portée et la ligne de vue, à plus de 1" des ennemis.  
-Disparaît si la prêtresse meurt.
+Lorsque ce sort est lancé avec succès, placez une unité de **Nuée de Serpents Sacrés** (voir profil ci-dessous) en respectant les conditions suivantes :
 
-### Profil de la Nuée Serpentine
+- L'unité est placée entièrement dans un rayon de **12 pouces** de la Prêtresse
+- L'unité ne peut pas être placée en contact socle à socle avec une unité ennemie
+- L'unité doit être placée en terrain franchissable
+- L'unité ne peut **pas se déplacer, charger, tirer ni agir** lors du tour où elle est invoquée. Elle agit normalement à partir du tour suivant.
+
+L'unité invoquée est traitée comme une unité alliée à part entière pour le reste de la partie. Elle ne compte pas dans les limites de sélection de l'armée.
+
+Si la Prêtresse est retirée comme perte avant la fin de la partie, l'unité invoquée **reste en jeu** et continue d'agir normalement jusqu'à la fin de la partie.
+
+Ce sort ne peut être lancé **qu'une seule fois par partie**.
+
+---
+
+### Profil — Nuée de Serpents Sacrés
+
+**Type de troupe :** Nuée
+**Taille de socle :** 40 x 40 mm
+**Taille d'unité :** D3+1 socles
 
 | M | CC | CT | F | E | PV | I | A | Cd |
-|---|----|----|---|---|---|---|---|---|
-| 5 | 3  | -  | 2 | 2 | 3 | 4 | 5 | 5 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 | 3 | — | 3 | 2 | 3 | 4 | 5 | 6 |
 
-**Taille d’unité :** 3 socles de nuées  
-**Type :** Nuée  
-**Taille de socle :** 40 × 40 mm  
-
-### Règles spéciales :
-- **Attaques Empoisonnées**  
-- **Tirailleurs**  
-- **Nuée** (Instable, IàP, etc.)  
-- **Avancée Serpentine :** Ignore les pénalités de terrain en forêt/jungle  
-- **Frappe du Viperon :** Frappe Toujours en Premier  
-- **Sauvegarde d’armure :** 6+
+**Règles spéciales :** Attaques Empoisonnées, Attaques Magiques, Indémoralisable, Nuée, Terrain Difficile (Ignoré)
 
 **Ne compte pas pour les limites d’armée et ne donne pas de Points de Victoire (sauf règles spécifiques).**
 
