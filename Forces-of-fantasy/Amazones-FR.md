@@ -1151,11 +1151,12 @@ Voici la liste complète des sorts mis à jour avec les types corrects :
 *D'un murmure, la prêtresse invoque l'essence primale du serpent. Les crocs scintillent d'un venin surnaturel…*
 
 **Type : Enchantement**
-**Valeur de lancement :** 4+
-**Portée :** 12"
 
-**Effet :**
-L'unité amie ciblée gagne la règle spéciale **Attaques Empoisonnées** jusqu'au début de la prochaine phase de Magie du lanceur.
+**Valeur de lancement :** 4+
+
+**Portée :** 12" 
+
+**Effet :** L'unité amie ciblée gagne la règle spéciale **Attaques Empoisonnées** jusqu'au début de la prochaine phase de Magie du lanceur.
 
 ---
 
@@ -1164,7 +1165,9 @@ L'unité amie ciblée gagne la règle spéciale **Attaques Empoisonnées** jusqu
 *Une bénédiction de réflexes fulgurants, héritée de la vipère de jungle.*
 
 **Type : Conveyance**
+
 **Valeur de lancement :** 5+
+
 **Portée :** 12"
 
 **Effet :**
@@ -1180,7 +1183,9 @@ L'unité amie ciblée bénéficie des effets suivants jusqu'au début de la proc
 *Le sang des guerrières devient aussi toxique que celui des créatures sacrées.*
 
 **Type : Enchantement**
+
 **Valeur de lancement :** 7+
+
 **Portée :** 18"
 
 **Effet :**
@@ -1196,7 +1201,9 @@ L'unité amie ciblée bénéficie des effets suivants jusqu'au début de la proc
 *Des serpents spectraux enserrent l'ennemi jusqu'à l'étouffer.*
 
 **Type : Magic Missile**
+
 **Valeur de lancement :** 8+
+
 **Portée :** 24"
 
 **Effet :**
@@ -1212,7 +1219,9 @@ Si au moins une blessure non sauvegardée est infligée, jusqu'au début de la p
 *Un regard pétrifiant qui fige le sang.*
 
 **Type : Hex**
+
 **Valeur de lancement :** 9+
+
 **Portée :** 18"
 
 **Effet :**
@@ -1234,7 +1243,9 @@ L'unité ennemie ciblée doit réussir un test de Commandement.
 *La Prêtresse invoque une nuée de serpents sacrés qui surgissent des profondeurs de la jungle pour engloutir les ennemis de Rigg.*
 
 **Type : Convocation**
+
 **Valeur de lancement :** 10+
+
 **Portée :** 18"
 
 Lorsque ce sort est lancé avec succès, placez une unité de **Nuée de Serpents Sacrés** en respectant les conditions suivantes :
@@ -1253,7 +1264,9 @@ Ce sort ne peut être lancé **qu'une seule fois par partie**.
 ### Profil — Nuée de Serpents Sacrés
 
 **Type de troupe :** Nuée
+
 **Taille de socle :** 40 x 40 mm
+
 **Taille d'unité :** D3+1 socles
 
 | M | CC | CT | F | E | PV | I | A | Cd |
@@ -1271,23 +1284,29 @@ Ce sort ne peut être lancé **qu'une seule fois par partie**.
 *La bénédiction ultime transforme les guerrières en hybrides sacrées.*
 
 **Type : Enchantement**
+
 **Valeur de lancement :** 12+
+
 **Portée :** 18"
 
 **Effet :**
 L'unité amie ciblée bénéficie des effets suivants jusqu'au début de la prochaine phase de Magie du lanceur :
 
 **Défensifs :**
+
 - **+1 Endurance**
 - **Peau Écailleuse (5+)** (ou améliore une sauvegarde existante de +1, maximum 2+)
 
 **Offensifs :**
+
 - **Attaques Empoisonnées**
 - **Frappe Serpentine :** l'unité frappe à Initiative fixe **6**
 
 **Psychologiques :**
+
 - L'unité **Cause la Peur**
 
 **Restrictions :**
+
 - Ne peut pas cibler les unités de type Infanterie Monstrueuse, Monstres ou Chars
 - Une seule unité peut être affectée à la fois. Si le sort est relancé sur une nouvelle cible, l'effet sur l'ancienne unité se dissipe immédiatement
