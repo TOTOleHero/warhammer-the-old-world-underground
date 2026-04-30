@@ -89,7 +89,6 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 
 **Équipement**
 - Arme de base  
-- Lame des Anciens  
 - Armure légère
 
 **Options**  
@@ -316,7 +315,7 @@ Les Koka‑Kalim sont l’élite fanatique des guerrières amazones, un ordre mi
 **Taille d’unité :** 10+  
 **Équipement :**  
 - Arme de base  
-- **Lame des Anciens**  
+
 - Armure légère
 
 **Options :**  
@@ -1053,26 +1052,6 @@ Les pages suivantes décrivent les objets magiques propres aux armées des Royau
 
 ## Règles Spéciales des Amazones 
 
-### Lames des Anciens  
-*Ces armes, vestiges d’une ère oubliée, sont des artefacts technologiques d’origine inconnue — des reliques de l’Âge Élevé, selon les rumeurs. Les gemmes incrustées dans la garde brûlent d’un feu stellaire captif, offrant à la fois protection et puissance destructrice.*
-
-Dans **The Old World**, les *Lames des Anciens* comptent à la fois comme une arme de mêlée et une arme de tir avec le profil suivant :
-
-### **Profil d’Arme : Lame des Anciens**
-
-| Arme | Portée | F | PA | Règles spéciales |
-|:---|:---:|:---:|:---:|:---|
-| **Mêlée** | Combat | F+1 | -1 | Attaques Magiques, Champ de Force, Nécessite Deux Mains* |
-| **Tir (Feu Solaire)** | 12" | 3 | - | Attaques Magiques, Tir Rapide, Vue Solaire |
-
-### **Règles spéciales de l’arme :**
-
-- **Champ de Force :** Un modèle équipé de cette arme bénéficie d’une **Sauvegarde Invulnérable (6+)** contre les blessures subies dans n’importe quelle phase.  
-- **Vue Solaire :** Lorsqu’elle est utilisée au tir, le porteur ignore les modificateurs de **Longue Portée** et de **Couvert** (partiel ou total).  
-- **Tir Rapide :** Le porteur ne subit pas le malus habituel de -1 pour Avoir Bougé et Tirer.
-
-
----
 
 ### Natives de la Lustrie  
 *Les Amazones sont nées dans l’enfer vert de la Lustrie. Là où les autres voient un terrain infranchissable et la mort, elles voient un foyer.*
