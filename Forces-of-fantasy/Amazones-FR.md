@@ -331,13 +331,21 @@ Les Koka‑Kalim sont l’élite fanatique des guerrières amazones, un ordre mi
 - **Furie Sacrée** (voir ci‑dessous)  
 - **Inébranlable**
 
-**Furie Sacrée**
+Furie Sacrée
+Les Amazones entrent en bataille dans un état de transe mystique, leur furie sacrée les rendant imperméables à la douleur là où d'autres s'effondreraient. Plus le coup est violent, plus leur transe s'approfondit.
+Les modèles avec cette règle bénéficient des sauvegardes suivantes :
 
-Les guerrières ayant subi le rituel Koka‑Kalim et consommant constamment la drogue narcotique ressentent moins la douleur et combattent avec une vigueur surnaturelle au corps à corps. Privées de leurs sensations normales, elles surmontent des souffrances extrêmes et n’ont aucune aversion pour la mort, continuant de se battre malgré des blessures mortelles.
+|Condition|Sauvegarde|
+|-|-|
+|Contre toutes les attaques|6+|
+|Contre les attaques de Force 5 ou plus|5+|
+|Contre les attaques de Force 7 ou plus|4+|
 
-Un modèle avec cette règle possède :
-- Une sauvegarde invulnérable de 6+ contre toute blessure causée par une attaque ennemie non magique.  
-- Une sauvegarde invulnérable de 5+ contre toute blessure causée par une attaque ennemie non magique de Force 5 ou plus.
+Restrictions :
+
+- Ces sauvegardes sont des sauvegardes invulnérables (les sauvegardes d'armure normales s'appliquent séparément)
+- Ces sauvegardes ne se cumulent pas avec d'autres sauvegardes invulnérables
+- Utilisez la meilleure sauvegarde disponible si plusieurs s'appliquent
 
 ---
 
@@ -759,44 +767,51 @@ Un Stegadon (ou Ancien) peut servir de monture à un héros Amazone / Mère de l
 
 ## Koalt
 
-|        | M | CC | CT | F | E    | PV   | I | A | Cd | Points |
-|--------|---|----|----|---|------|------|---|---|----|--------|
-| Koalt  | 6 | 6  | -  | 7 | (+3) | (+6) | 4 | 3 | -  | +210   |
+|        | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|--------|---|----|----|---|---|----|---|---|----|--------|
+| Koalt  | 7 | 3  | 0  | 4 | 5 | 3  | 2 | 2 | 5  | +210   |
+
+Le cavalier monté sur un Koalt ajoute au profil combiné : +2 Endurance | +2 Points de Vie
 
 **Type de troupe :** Béhémoth  
 **Taille de socle :** 60 x 100 mm  
 **Taille d’unité :** 1  
 
-**Équipement :**  
-- Gueule dentelée (voir ci‑dessous)  
-- Souffle soporifique (voir ci‑dessous)  
-- Écailles draconiques (compte comme armure de plates)
+## Équipement
 
-**Règles spéciales :**  
-- Formation Serrée  
-- Vol (10)  
-- Grande Cible  
-- Piétinement (D6)  
-- Ruée Implacable  
-- Terreur  
+### Gueule Dentelée
 
+| Portée  | F | PA | Règles spéciales                         |
+|--------|---|----|------------------------------------------|
+| Combat | F | —  | Perce-Armure (2), Blessures Multiples (2) |
 
+> Le Koalt doit effectuer **au moins une attaque** avec cette arme à chaque phase de combat.
 
-### **Gueule dentelée**
+---
 
-| Portée | F | PA | Règles |
-|--------|---|----|--------|
-| Combat | F | -  | Perce‑Armure (2), Blessures Multiples (2) |
+### Souffle Soporifique
 
-*Doit effectuer au moins une attaque avec cette arme à chaque phase de combat.*
+| Portée  | F | PA | Règles spéciales                          |
+|--------|---|----|-------------------------------------------|
+| Contact | 2 | —  | Arme de Souffle, Pas de sauvegarde d'armure |
 
-### **Souffle soporifique**
+> Aucune sauvegarde d'armure n'est permise contre ces blessures.  
+> Les sauvegardes invulnérables et la régénération s'appliquent normalement.
 
-| Portée | F | PA  | Règles        |
-|--------|---|-----|----------------|
-| N/A    | 2 | N/A | Arme de Souffle |
+---
 
-*Pas de sauvegarde d’armure permise contre ces blessures (invus et régénération autorisées).*
+## Règles spéciales
+
+- **Sang-Froid :**  
+  Le Koalt est immunisé à la règle *Peur*.  
+  Son cavalier bénéficie d'un bonus de **+1** à ses tests de *Terreur*.
+
+- **Cuir Épais :**  
+  Le Koalt confère à son cavalier une sauvegarde d'armure améliorée de **+1**, en plus de l'armure portée.
+
+- **Attaques Terrifiantes :**  
+  Toute unité ennemie en contact socle à socle avec le Koalt doit effectuer un test de *Peur* au début de chaque phase de combat si elle ne l'a pas déjà réussi.
+
 
 ---
 
@@ -846,85 +861,106 @@ Un Stegadon (ou Ancien) peut servir de monture à un héros Amazone / Mère de l
 
 ---
 
-### Avatar de Rigg  
+# Avatar de Rigg
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5db0fb38-6c67-4f38-bf6c-aefa88472f30" />
-
-
-**M | WS | BS | S | T | W | I | A | Ld | points**  
-6 | 6 | 5 | 5 | 5 | 4 | 7 | 4 | 9 | 275  
-
-**Type d’Unité :** Monstrous Infantry (1 figurine)  
+**Type de troupe :** Infanterie Monstrueuse (personnage)  
 **Taille de socle :** 50 x 75 mm  
-
-**Équipement :**
-
-- **Griffes de la Mère-Serpent**  
-  Armes naturelles, Magical Attacks  
-- **Écailles Sacrées**  
-  Armour Save 4+ (non modifiable par équipement)
-
-
-
-**Règles Spéciales**
-
-**Avatar de la Déesse**  
-L’Avatar de Rigg est une manifestation divine. Elle bénéficie de :  
-- Magical Attacks  
-- Magic Resistance (2)  
-- Terror  
-- Unstable (comme les Daemons – perd 1W par point perdu en combat)  
-- **Mother's Blessing**  
-  - Toutes les unités *Amazon Core* et *Special* dans un rayon de 12" gagnent **Stubborn**.  
-  - Les *Serpent Priestesses* dans ce rayon gagnent **+1 aux jets de dissipation**.
-
-
-
-**Divine Wrath**  
-Au début de chaque tour de combat, l’Avatar choisit un des effets suivants :
-
- **Vengeance de Rigg**  
-Tous les ennemis en contact socle-à-socle doivent réussir un test de Leadership ou subissent **-1 WS** jusqu’à la fin du tour.
-
- **Fureur du Serpent**  
-L’Avatar gagne **+D3 Attaques** pour ce tour.
-
- **Bouclier d’Écailles**  
-L’Avatar et toutes les unités alliées dans un rayon de 6" gagnent **Ward Save (5+)** jusqu’au début du prochain tour.
-
-
-
-** Serpent's Gaze (1 fois par partie)  **
-Au début d’un tour Amazon :
-
-- Choisissez une unité ennemie à 18" ou moins.  
-- Elle doit réussir un test de Leadership ou devient **Stupefied** jusqu'au début du prochain tour Amazon.
-
-**Unités Stupefied :**  
-- -2 Movement  
-- Ne peuvent pas marcher  
-- Ne peuvent pas charger  
-- Ne peuvent pas tirer  
+**Taille d'unité :** 1  
 
 ---
 
-** Options**
+## Profil
 
- Upgrades (0–1 au choix)
-
-- **Coils of Binding (+30 pts)** — L’Avatar gagne **ASF (Always Strikes First)**  
-- **Obsidian Heart (+25 pts)** — L’Avatar devient **Unbreakable**, mais perd **Unstable**  
-- **Sacred Venom (+20 pts)** — Les attaques de l’Avatar gagnent **Poisoned Attacks**
+| M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 6 | 6 | 5 | 5 | 5 | 4 | 7 | 4 | 9 | 275 |
 
 ---
 
-**Restrictions**
+## Équipement
 
-- 0–1 par armée  
-- Ne peut pas rejoindre d’unités  
-- Ne peut pas être le General  
+### Griffes de la Mère-Serpent
 
+| Portée | F | PA | Règles spéciales |
+|:--|:-:|:-:|:--|
+| Combat | F | -1 | Attaques Magiques |
 
+### Écailles Sacrées
+Sauvegarde d'armure **4+**. Cette sauvegarde ne peut être ni améliorée ni dégradée par quelque source que ce soit.
+
+---
+
+## Règles spéciales
+
+**Attaques Magiques, Résistance à la Magie (2), Terreur, Instable**
+
+---
+
+### Avatar de la Déesse
+
+L'Avatar de Rigg est une manifestation physique de Rigg, déesse-serpent des Amazones. Elle bénéficie des effets permanents suivants :
+
+- Toutes les unités Amazones *Core* et *Spéciales* dans un rayon de **12"** gagnent la règle *Opiniâtre*.
+- Toutes les Prêtresses du Serpent dans un rayon de **12"** bénéficient d'un modificateur de **+1** à leurs jets de dissipation.
+
+---
+
+### Instable
+
+Si l'Avatar de Rigg perd un combat, elle subit automatiquement un nombre de blessures égal au nombre de points de combat perdus, **sans sauvegarde d'aucune sorte permise**.  
+Elle ne peut jamais fuir un combat.
+
+---
+
+### Courroux Divin
+
+Au début de chaque phase de combat, avant de déclarer les attaques, l'Avatar de Rigg choisit l'un des trois effets suivants. Cet effet dure jusqu'à la fin de la phase de combat en cours :
+
+#### Vengeance de Rigg
+Toutes les unités ennemies en contact socle à socle avec l'Avatar doivent réussir un test de Commandement.  
+En cas d'échec, elles subissent un modificateur de **-1 CC** jusqu'à la fin de la phase.
+
+#### Fureur du Serpent
+L'Avatar gagne **+D3 Attaques** supplémentaires pour cette phase.  
+Lancez le dé immédiatement après avoir choisi cet effet.
+
+#### Bouclier d'Écailles
+L'Avatar et toutes les unités alliées dans un rayon de **6"** bénéficient d'une **Sauvegarde Invulnérable (5+)** jusqu'au début de votre prochain tour.
+
+---
+
+### Regard du Serpent *(une fois par partie)*
+
+Au début de votre phase de magie, désignez une unité ennemie visible à **18"** ou moins.  
+Cette unité doit réussir un test de Commandement ou être affectée par *Hébétement* jusqu'au début de votre prochain tour.
+
+#### Hébétement
+Une unité affectée subit les effets suivants :
+
+- **-2 Mouvement** (minimum 1)
+- Ne peut pas effectuer de **Marche Forcée**
+- Ne peut pas déclarer de **Charge**
+- Ne peut pas effectuer d'**attaques de tir**
+
+*Cette règle est distincte de la Stupidité et ne se cumule pas avec elle.*
+
+---
+
+## Options *(0–1 au choix)*
+
+| Option | Coût | Effet |
+|:--|:-:|:--|
+| Anneaux du Lien | +30 pts | Gagne *Frappe en Premier* |
+| Cœur d'Obsidienne | +25 pts | Gagne *Inébranlable* et perd *Instable* |
+| Venin Sacré | +20 pts | Gagne *Attaques Empoisonnées* |
+
+---
+
+## Restrictions
+
+- **0–1** par armée  
+- Ne peut **pas rejoindre d'unités**  
+- Ne peut **pas être désignée comme Général**  
 ---
 
 # Objets Magiques des Amazones
