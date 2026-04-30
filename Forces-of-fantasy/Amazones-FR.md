@@ -303,50 +303,78 @@ Toute unité peut :
 
 ## Guerrières Koka‑Kalim
 
-Les Koka‑Kalim sont l’élite fanatique des guerrières amazones, un ordre militaire chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom vient de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque totalement de nourriture ou de sommeil. Cette dépendance leur donne une apparence émaciée et un regard halluciné, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues d’aversion naturelle pour le sang et la mort, ces combattantes vivent dans un état d’excitation nerveuse permanent qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, entretient une garde d’élite de Koka‑Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et reçoivent parfois des armes Slann ancestrales : épées énergétiques et fusils‑bolters, des reliques vénérées comme des dons de Rigg elle‑même.
+Les Koka‑Kalim sont l'élite fanatique des guerrières amazones, un ordre militaire chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom vient de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque totalement de nourriture ou de sommeil. Cette dépendance leur donne une apparence émaciée et un regard halluciné, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues d'aversion naturelle pour le sang et la mort, ces combattantes vivent dans un état d'excitation nerveuse permanent qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, entretient une garde d'élite de Koka‑Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et reçoivent parfois des armes Slann ancestrales : épées énergétiques et fusils‑bolters, des reliques vénérées comme des dons de Rigg elle‑même.
 
-|                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Koka‑Kalim       | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 10     |
-| Furie Koka‑Kalim | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 3 | 7  | +10    |
+---
+
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Koka‑Kalim | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | 12 |
+| Furie Koka‑Kalim | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 3 | 7 | +10 |
 
 **Type de troupe :** Infanterie régulière  
 **Taille de socle :** 25 x 25 mm  
-**Taille d’unité :** 10+  
-**Équipement :**  
-- Arme de base  
+**Taille d'unité :** 10+  
 
-- Armure légère
+**Équipement :**
+- Arme de base
+- *Aucune armure — les Koka‑Kalim combattent émaciées, leur corps marqué par la drogue, sans protection autre que leur transe*
 
-**Options :**  
-- Peut remplacer l’arme de base par une lance gratuitement  
-- Peut prendre des javelots (12", F3, Attaques Empoisonnées) pour +1 pt/modèle  
-- Un modèle peut être amélioré en **Furie Koka‑Kalim** pour +10 pts
+---
 
-**Règles spéciales :**  
-- **Lames des Anciens**  
-- **Immunisée à la Psychologie**  
-- **Impétueuse**  
-- **Native de Lustrie**  
-- **Furie Sacrée** (voir ci‑dessous)  
-- **Inébranlable**
+**Options :**
+- Peut remplacer l'arme de base par une lance .................................................................Gratuit
+- Peut prendre des javelots (12", F3, Attaques Empoisonnées) ...................+1 pt/modèle
+- Peut prendre les **Lames des Anciens** ............................................................................+1 pt/modèle
+- Un modèle peut être amélioré en **Furie Koka‑Kalim** (champion) ......................+10 pts
+- Un modèle peut être amélioré en porte-étendard .......................................................+8 pts
+- Un modèle peut être amélioré en musicienne ................................................................+8 pts
 
-Furie Sacrée
-Les Amazones entrent en bataille dans un état de transe mystique, leur furie sacrée les rendant imperméables à la douleur là où d'autres s'effondreraient. Plus le coup est violent, plus leur transe s'approfondit.
-Les modèles avec cette règle bénéficient des sauvegardes suivantes :
+---
 
-|Condition|Sauvegarde|
-|-|-|
-|Contre toutes les attaques|6+|
-|Contre les attaques de Force 5 ou plus|5+|
-|Contre les attaques de Force 7 ou plus|4+|
+**Règles spéciales :**
+- **Immunisée à la Psychologie**
+- **Impétueuse**
+- **Native de Lustrie**
+- **Insensibles à la Douleur**
+- **Furie Sacrée**
 
-Restrictions :
+---
 
-- Ces sauvegardes sont des sauvegardes invulnérables (les sauvegardes d'armure normales s'appliquent séparément)
-- Ces sauvegardes ne se cumulent pas avec d'autres sauvegardes invulnérables
+### Insensibles à la Douleur
+*Les Koka‑Kalim ignorent les blessures qui mettraient à terre n'importe quel autre combattant. La drogue qui coule dans leurs veines transforme chaque coup reçu en carburant pour leur frénésie.*
+
+Un modèle avec cette règle peut **relancer les jets de sauvegarde invulnérable de 1**.
+
+---
+
+### Furie Sacrée
+*Les Koka‑Kalim entrent en bataille dans un état de transe mystique. Plus le combat s'intensifie, plus leur transe s'approfondit, les rendant imperméables à la douleur.*
+
+Les modèles avec cette règle bénéficient des sauvegardes invulnérables suivantes :
+
+| Condition | Sauvegarde |
+|---|---|
+| Contre toutes les attaques | 6+ |
+| Contre toutes les attaques, si l'unité a chargé ce tour | 5+ |
+
+**Restrictions :**
+- Ces sauvegardes sont des **sauvegardes invulnérables**
+- Les sauvegardes d'armure normales s'appliquent séparément *(aucune ici)*
+- Ces sauvegardes **ne se cumulent pas** avec d'autres sauvegardes invulnérables
 - Utilisez la meilleure sauvegarde disponible si plusieurs s'appliquent
 
+---
+
+### Lames des Anciens *(option)*
+*Reliques sacrées transmises par les Dévotes, ces lames énergétiques Slann brûlent d'une lumière dorée.*
+
+| Arme | Portée | F | PA | Règles spéciales |
+|---|---|---|---|---|
+| **Mêlée** | Combat | Util.+1 | -1 | Attaques Magiques, Instable |
+| **Tir (Feu Solaire)** | 12" | 3 | — | Attaques Magiques, Tir Rapide, Instable |
+
+> **Instable :** À chaque tour de tir ou de combat où ce modèle utilise sa Lame des Anciens, lancez 1D6. Sur un résultat de **1**, l'arme s'emballe : le modèle subit automatiquement 1 blessure sans sauvegarde d'aucune sorte.
 ---
 
 ## Nuées de la Jungle
