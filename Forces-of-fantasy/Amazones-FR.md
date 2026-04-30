@@ -815,49 +815,81 @@ Le cavalier monté sur un Koalt ajoute au profil combiné : +2 Endurance | +2 Po
 
 ---
 
-## Canon Slann Feu‑Stellaire
+# Canon Slann Feu-Stellaire
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/373f807c-0799-48a9-8212-b56b95eb2d8e" />
+**Type de troupe :** Machine de Guerre
+**Taille de socle :** 60 x 100 mm
 
 
-|                        | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------------|---|----|----|---|---|---|---|---|----|--------|
-| Canon Feu‑Stellaire    | - | -  | -  | - | 7 | 5 | - | - | -  | 125    |
-| Équipage (3 Amazones)  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | -      |
+## Profil
 
-**Type de troupe :** Machine de guerre  
-**Taille de socle :** 60 x 100 mm  
-**Sauvegarde d’armure :** 5+  
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Canon Feu-Stellaire | — | — | — | — | 7 | 5 | — | — | — | 125 |
+| Équipage (3 Amazones) | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | — |
 
-**Règles spéciales :**  
-- Attaques Magiques  
-- Ne peut pas tirer en se déplaçant  
-- Surcharge Catastrophique
+**Sauvegarde d'armure :** 5+
 
-### Profil de Tir
 
-| Arme                    | Portée | F | PA | Règles |
-|-------------------------|--------|---|----|--------|
-| Canon Feu‑Stellaire     | 36"    | 7 | -3 | Blessures Multiples (D3), Arme Antigravité |
+## Profil de tir
 
-**Arme Antigravité :**  
-- Vs E5+ : F8  
-- Vs 3+ PV : (D3+1)  
-- Vs Monstres / Machines / Chars : blessure auto  
-- Si tue un Monstre → gabarit 3" (F4, pas de sauvegarde)
+| Arme | Portée | F | PA | Règles spéciales |
+|:---|:---:|:---:|:---:|:---|
+| Canon Feu-Stellaire | 36" | 7 | -3 | Attaques Magiques, Blessures Multiples (D3), Arme Antigravité |
 
-**Surcharge Catastrophique :**  
-- 1 : Implosion  
-- 2–6 : Arrêt
 
-**Options :**  
-- Boucliers d’équipage : +1 pt/modèle  
-- **Ancre Gravitationnelle** : +15 pts (peut tirer en bougeant, portée 30")  
-- **Blindage Cristallin** : +20 pts (invulnérable 5+ vs tir)
+## Règles spéciales
 
-**Restrictions :**  
-- Nécessite Mère de la Sororité  
-- 0–1 (0–2 si la Mère est Général)
+**Attaques Magiques**
+
+**Ne peut pas tirer en se déplaçant**
+Ce modèle ne peut effectuer aucune attaque de tir lors d'un tour où il s'est déplacé.
+
+
+**Arme Antigravité**
+
+Le Canon Feu-Stellaire projette des charges gravitationnelles capables de déchirer les armures les plus épaisses et de désintégrer les créatures les plus massives. Lorsque ce canon tire, les règles suivantes s'appliquent en remplacement ou en complément des règles de tir normales :
+
+> **Vs Endurance 5+**
+> La Force du Canon est portée à **8** contre toute cible ayant une caractéristique d'Endurance de 5 ou plus. Utilisez cette valeur à la place de la Force indiquée dans le profil de tir pour tous les jets pour blesser.
+
+> **Vs cibles ayant 3 Points de Vie ou plus**
+> Le Canon inflige **D3+1** blessures par touche non sauvegardée au lieu de D3. Déterminez le nombre de blessures séparément pour chaque touche non sauvegardée.
+
+> **Vs Monstres, Machines de Guerre et Chars**
+> Toute touche inflige automatiquement une blessure, sans qu'aucun jet pour blesser ne soit nécessaire. Les sauvegardes d'armure, invulnérables et de régénération s'appliquent normalement.
+
+> **Explosion Gravitationnelle**
+> Si une ou plusieurs blessures non sauvegardées infligées par le Canon Feu-Stellaire réduisent un Monstre à zéro Point de Vie, placez immédiatement un gabarit de 3 pouces centré sur le socle du Monstre avant de le retirer comme perte. Résolvez les touches sous ce gabarit comme décrit à la page 145 du livre de règles. Chaque modèle touché subit une touche de Force 4. Aucune sauvegarde d'armure n'est permise contre ces touches. Les sauvegardes invulnérables et de régénération s'appliquent normalement.
+
+> **Explosion Gravitationnelle**
+> Si le Canon Feu-Stellaire tue un Monstre, placez immédiatement un gabarit de 3 pouces centré sur le dernier emplacement du socle du Monstre. Toute unité, amie ou ennemie, partiellement ou entièrement sous le gabarit subit D6 touches de Force 4. Aucune sauvegarde d'armure n'est permise contre ces touches. Les sauvegardes invulnérables et de régénération s'appliquent normalement.
+
+
+**Surcharge Catastrophique**
+
+Lorsque le Canon Feu-Stellaire obtient un résultat de *Raté* sur le dé d'artillerie, lancez un D6 et consultez le tableau suivant :
+
+| D6 | Résultat |
+|:---:|:---|
+| 1 | **Implosion —** Le canon est détruit par ses propres forces gravitationnelles. Retirez immédiatement le modèle du jeu. Toutes les unités, amies ou ennemies, dans un rayon de 3 pouces subissent D6 touches de Force 5 avec un PA de -2. Aucune sauvegarde d'armure n'est permise. Les sauvegardes invulnérables et de régénération s'appliquent normalement. |
+| 2–6 | **Arrêt —** Le mécanisme de tir se bloque. Le canon ne peut pas tirer ce tour. L'équipage passe son action à effectuer les réparations nécessaires. |
+
+
+## Options
+
+| Option | Coût | Effet |
+|:---|:---:|:---|
+| Boucliers d'équipage | +1 pt/modèle | L'équipage bénéficie d'une sauvegarde d'armure améliorée de +1 |
+| Ancre Gravitationnelle | +15 pts | Le Canon peut tirer en se déplaçant. Sa portée est réduite à 30" lorsqu'il tire après s'être déplacé |
+| Blindage Cristallin | +20 pts | Le Canon bénéficie d'une Sauvegarde Invulnérable (5+) contre les attaques de tir ennemies |
+
+---
+
+## Restrictions
+
+- Nécessite la présence d'une **Mère de la Sororité** dans l'armée
+- **0–1** par armée *(0–2 si la Mère de la Sororité est désignée comme Général)*
 
 ---
 
