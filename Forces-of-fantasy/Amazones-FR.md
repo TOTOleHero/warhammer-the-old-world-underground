@@ -658,7 +658,6 @@ Imitant le féroce prédateur fluvial dont elles tirent leur nom, les Guerrière
 - Formation Ouverte  
 - Tirailleurs  
 - Frappe en Premier  
-- Avant‑garde  
 - Attaques Empoisonnées (tir uniquement)
 
 **Options :**  
@@ -669,7 +668,7 @@ Imitant le féroce prédateur fluvial dont elles tirent leur nom, les Guerrière
  **Sang du fleuve**  
 Au combat, les Guerrières Piranha effectuent des attaques spéciales :
 **• Dents tranchantes :**  
-Jusqu’à la fin de cette phase de Combat, cette unité gagne la règle **Attaques Supplémentaires (+1)**.
+Durant un tour où cette unité a chargé, elle gagne Attaques Supplémentaires (+1) jusqu'à la fin de la phase de Combat.
 
 ---
 
