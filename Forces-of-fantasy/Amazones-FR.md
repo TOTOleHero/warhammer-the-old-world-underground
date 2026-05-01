@@ -124,11 +124,11 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 
 **Autorité Matriarcale** (Mère de la Sororité uniquement)
 
-La Mère de la Sororité représente l’autorité suprême au sein de la hiérarchie amazone. Son commandement est absolu et sa présence sur le champ de bataille inspire ses sœurs à accomplir de plus grands exploits martiaux.
+La Mère de la Sororité représente l'autorité suprême au sein de la hiérarchie amazone. Son commandement est absolu et sa présence sur le champ de bataille inspire ses sœurs à accomplir de plus grands exploits martiaux.
 
-Les unités de Base amazones (Guerrières Tribales, Guerrières Anakonda, Guerrières Totem et Guerrières Aigle) situées à 12" ou moins d’un ou plusieurs modèles amis ayant cette règle peuvent utiliser la valeur de Commandement de ce modèle lors des tests de Commandement.
+Les unités de Base amazones situées à 12" ou moins d'un modèle ami ayant cette règle peuvent utiliser la valeur de Commandement de ce modèle lors des tests de Commandement.
 
-Une fois par bataille, au début de n’importe quelle phase durant le tour du joueur amazone, un modèle avec cette règle peut déclarer un Commandement Sororal. Jusqu’à la fin de ce tour, toutes les unités amazones à 18" ou moins du modèle gagnent +1 à leur Résolution de Combat.
+Une fois par bataille, au début de n'importe quelle phase durant le tour du joueur amazone, ce modèle peut déclarer un Commandement Sororal. Jusqu'à la fin de ce tour, toutes les unités amazones à 8" ou moins du modèle gagnent +1 à leur Résolution de Combat.
 
 **Sagesse Antique** (Mère de la Sororité uniquement)
 
