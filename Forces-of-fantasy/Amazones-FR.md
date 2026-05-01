@@ -1308,32 +1308,20 @@ Ce sort ne peut être lancé **qu'une seule fois par partie**.
 
 ## 6. Apothéose des Écailles
 
-*La bénédiction ultime transforme les guerrières en hybrides sacrées.*
+La bénédiction ultime transforme les guerrières en hybrides sacrées.
 
 **Type : Enchantement**
 
-**Valeur de lancement :** 12+
+**Valeur de lancement : 12+**
 
-**Portée :** 18"
+**Portée : 18"**
 
-**Effet :**
+**Effet** :
 L'unité amie ciblée bénéficie des effets suivants jusqu'au début de la prochaine phase de Magie du lanceur :
 
-**Défensifs :**
++1 Endurance, Peau Écailleuse (6+) (ou améliore une sauvegarde existante de +1, maximum 2+), Attaques Empoisonnées
 
-- **+1 Endurance**
-- **Peau Écailleuse (5+)** (ou améliore une sauvegarde existante de +1, maximum 2+)
-
-**Offensifs :**
-
-- **Attaques Empoisonnées**
-- **Frappe Serpentine :** l'unité frappe à Initiative fixe **6**
-
-**Psychologiques :**
-
-- L'unité **Cause la Peur**
-
-**Restrictions :**
+**Restrictions** :
 
 - Ne peut pas cibler les unités de type Infanterie Monstrueuse, Monstres ou Chars
 - Une seule unité peut être affectée à la fois. Si le sort est relancé sur une nouvelle cible, l'effet sur l'ancienne unité se dissipe immédiatement
