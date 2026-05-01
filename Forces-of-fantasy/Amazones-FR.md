@@ -984,7 +984,7 @@ L'Avatar gagne **+D3 Attaques** supplémentaires pour cette phase.
 Lancez le dé immédiatement après avoir choisi cet effet.
 
 #### Bouclier d'Écailles
-L'Avatar et toutes les unités alliées dans un rayon de **6"** bénéficient d'une **Sauvegarde Invulnérable (5+)** jusqu'au début de votre prochain tour.
+L'Avatar et toutes les unités alliées dans un rayon de 6" bénéficient d'une Sauvegarde Invulnérable (6+) jusqu'à la fin de cette phase de combat.
 
 ---
 
