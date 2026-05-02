@@ -200,7 +200,7 @@ Si votre armée inclut une Grande Prêtresse du Serpent avec cette option, vous 
 - 0‑1 unité de Cavalières Amazones sur Terradon
 
 **Choix Rares :**
-- 0‑1 Stégadon de Guerre des Anciens
+- 0‑1 Stégadon ou Ancien Stégadon de Guerre des Anciens
 
 Ces unités comptent comme des unités amazones à tous égards et gagnent la règle spéciale Native de Lustrie. Cependant, elles ne gagnent pas la règle Sang‑Froid (elles sont commandées par la volonté de la Prêtresse, pas naturellement disciplinées comme les véritables créatures des Hommes Lézards).
 
