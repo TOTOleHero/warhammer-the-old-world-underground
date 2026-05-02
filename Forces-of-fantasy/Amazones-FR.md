@@ -592,41 +592,44 @@ Anciennes armes façonnées à partir d’os de bêtes primordiales, capables de
 
 ---
 
-## Guerrières Python
+# Guerrières Python
 
-Les Guerrières Python passent des années à étudier les serpents dont elles tirent leur nom, apprenant la patience et le moment parfait pour frapper.
+*Les Guerrières Python passent des années à étudier les serpents dont elles tirent leur nom, apprenant la patience et le moment parfait pour frapper.*
 
-|                     | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|---------------------|---|----|----|---|---|---|---|---|----|--------|
-| Guerrière Python    | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | 13     |
-| Matriarche Serpent  | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | +10    |
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Guerrière Python | 4 | 3 | 4 | 4 | 3 | 1 | 4 | 1 | 7 | 13 |
+| Matriarche Serpent | 4 | 3 | 4 | 4 | 3 | 1 | 4 | 2 | 7 | +10 |
 
-**Type de troupe :** Infanterie régulière  
-**Taille de socle :** 25 x 25 mm  
-**Taille d’unité :** 5+  
+**Type de troupe :** Infanterie régulière
+**Taille de socle :** 25 x 25 mm
+**Taille d'unité :** 5+
 
-**Équipement :**  
-- Arme de base  
-- **Flèches Python**  
+**Équipement :**
+- Arme de base
+- Flèches Python *(voir profil de tir)*
 - Armure légère
 
-|                     | Portée | F | PA | Règles spéciales        |
-|---------------------|--------|---|----|--------------------------|
-| Flèches Python      | 24"    | 3 | -1 | Attaques Empoisonnées   |
+**Options :**
+- Remplacer les Flèches Python par des javelots .................. Gratuit
+- Prendre un bouclier .................. +1 pt/modèle
+- Améliorer une Guerrière Python en Matriarche Serpent (champion) .................. +10 pts
+- Ajouter un Porte-étendard .................. +10 pts
+- Ajouter un Musicien .................. +5 pts
 
-**Règles spéciales :**  
-- Formation Serrée  
-- Attaques Empoisonnées (Tir)  
-- Chasseuses de la Jungle :  
-  - Traitent les forêts et jungles comme du terrain *ouvert* pour le mouvement (mais subissent toujours les tests de terrain dangereux éventuels).  
-  - Les ennemis ne bénéficient pas de Couvert Léger contre leurs tirs si le seul couvert provient d’une forêt ou jungle.
+**Profil de tir**
 
-**Options :**  
-- Remplacer l’arc par des javelots (12", F3, Attaques Empoisonnées) gratuitement  
-- Prendre un bouclier pour +1 pt/modèle  
-- Améliorer une Guerrière Python en **Matriarche Serpent** pour +10 pts  
-- Ajouter un **Porte‑étendard** pour +10 pts  
-- Ajouter un **Musicien** pour +5 pts  
+| Arme | Portée | F | PA | Règles spéciales |
+|:---|:-:|:-:|:-:|:---|
+| Flèches Python | 24" | 3 | -1 | Attaques Empoisonnées |
+| Javelot | 12" | 3 | — | Attaques Empoisonnées |
+
+**Règles spéciales**
+
+**Formation Serrée, Attaques Empoisonnées *(tir uniquement)*, Native de Lustrie**
+
+**Chasseuses de la Jungle**
+Cette unité traite les forêts et zones de jungle comme du terrain ouvert pour le mouvement. De plus, les ennemis ne bénéficient pas du modificateur de Couvert Léger contre les tirs de cette unité si ce couvert provient uniquement d'une forêt ou d'une zone de jungle.
 
 ---
 
