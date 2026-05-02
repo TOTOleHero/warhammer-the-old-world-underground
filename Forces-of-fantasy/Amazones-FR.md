@@ -672,173 +672,157 @@ Durant un tour où cette unité a chargé, elle gagne Attaques Supplémentaires 
 
 ---
 
-## Stegadon
+# Stegadon
 
-|                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Stegadon         | 6 | 3  | -  | 5 | 6 | 5 | 2 | 4 | -  | 215    |
-| Ancien Stegadon  | 6 | 4  | -  | 6 | 6 | 5 | 1 | 3 | -  | 230    |
-| Équipage Amazon (x5) | - | 3  | 3  | 3 | - | - | 4 | 1 | 7  | -      |
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Stegadon | 6 | 3 | — | 5 | 6 | 5 | 2 | 4 | — | 230 |
+| Ancien Stegadon | 6 | 4 | — | 6 | 6 | 5 | 1 | 3 | — | 250 |
+| Équipage Amazone (×5) | 4 | 3 | 3 | 3 | — | — | 4 | 1 | 7 | — |
 
-**Type de troupe :** Béhémoth  
-**Taille de socle :** 60 x 100 mm  
-**Taille d’unité :** 1  
-**Sauvegarde d’armure :** 4+
-
-**Équipement :**  
-- Stegadon / Ancien Stegadon : Grandes cornes (voir ci‑dessous)  
-- Équipage Amazone : armes de base, javelots, arcs
+**Type de troupe :** Béhémoth
+**Taille de socle :** 60 x 100 mm
+**Taille d'unité :** 1
+**Sauvegarde d'armure :** 4+
 
 
 
- **Options**
+## Équipement
 
-• Un Stegadon peut recevoir :  
-- Plateforme de Combat (Équipage avec arcs et javelots) .................................... Inclus
-
-• Un Ancien Stegadon peut recevoir :  
-- Plateforme de Combat (Équipage avec arcs et javelots) .................................... Inclus  
-- **Plateforme de Canon Slann Feu‑Stellaire** (nécessite une Mère de la Sororité) .... +60 pts  
-* Peut ajouter jusqu’à +3 membres d’équipage ................................................ +8 pts/modèle
+- **Stegadon / Ancien Stegadon :** Grandes cornes (voir ci-dessous)
+- **Équipage Amazone :** Armes de base, javelots, arcs
 
 
 
- **Règles spéciales**
+## Options
 
-**Formation Serrée, Sang‑Froid, Howdah, Immunisé à la Psychologie,  
-Touches d’Impact (D3+1), Grande Cible, Attaques Empoisonnées (javelots uniquement),  
-Piétinement (D3+2), Tenace, Terreur, Lames des Anciens (Équipage uniquement),  
-Native de Lustrie (Équipage uniquement)**
+**Stegadon**
+- Plateforme de Combat (équipage avec arcs et javelots) .................. Inclus
 
-
-
- **Plateforme de Combat**
-
-Le howdah sert de plateforme de tir mobile. L’équipage peut tirer à 360°.
-
- **Profil de Tir (Plateforme standard)**
-
-**Arcs :**
-
-| Portée | Force | PA | Règles |
-|--------|--------|----|--------|
-| 24"    | 3      | -  | Tir de Salve |
-
-**Javelots :**
-
-| Portée | Force | PA | Règles               |
-|--------|--------|----|----------------------|
-| 8"     | 3      | -  | Attaques Empoisonnées |
+**Ancien Stegadon**
+- Plateforme de Combat (équipage avec arcs et javelots) .................. Inclus
+- **Plateforme de Canon Slann Feu-Stellaire** *(nécessite une Mère de la Sororité)* .... +60 pts
+  - Peut ajouter jusqu'à +3 membres d'équipage supplémentaires .... +8 pts/modèle
 
 
 
- **Plateforme de Canon Slann Feu‑Stellaire**  
-*(Nécessite Mère de la Sororité)*
+## Règles spéciales
 
-Un Ancien Stegadon peut remplacer sa plateforme par un Canon Feu‑Stellaire.
+**Ordre Serré, Sang-Froid, Howdah, Immunisé à la Psychologie,
+Touches d'Impact (D3+1), Grande Cible, Attaques Empoisonnées *(javelots uniquement)*,
+Piétinement (D6), Tenace, Terreur**
 
-- L’équipage devient **3 Amazones**  
-- Elles perdent arcs et javelots  
-- Le Stegadon peut **bouger et tirer**  
-- Utilise CT 3  
-- Conserve : Attaques magiques, Arme Antigravité, Surcharge Catastrophique  
-- Même profil que le Canon Slann standard
-
-Profil de Tir
-
-**Portée :** 36"  
-**Force :** 7  
-**PA :** -3  
-**Règles :** Attaques Magiques, Blessures Multiples (D3), Anti‑Gravité
-
-**Anti‑Gravité :**  
-- Vs Endurance 5+ : Force 8  
-- Vs 3+ PV : Blessures Multiples (D3+1)  
-- Vs Machines, Monstres, Chars : touche = blessure automatique  
-- Tirs à 360°
-
-**Surcharge Catastrophique**
-
-Si l’Ancien Stegadon est détruit :
-
-- **1-2 : Implosion Gravitique**  
-- **3-4 : Arrêt contrôlé**  
-- **5-6 : Fragmentation Cristalline**
-
-(identique au texte anglais)
-
-**Restrictions**  
-- Nécessite une **Mère de la Sororité**  
-- Compte pour la limite 0‑1  
-- Mutuellement exclusif avec la version au sol  
-- Réservé aux **Anciens Stegadons**
+**Lames des Anciens** *(Équipage uniquement)*
+**Native de Lustrie** *(Équipage uniquement)*
 
 
 
-**Grandes cornes**
+### Howdah
+Le howdah fixé sur le dos du Stegadon sert de plateforme de tir mobile. L'équipage peut tirer à 360°. Un personnage embarqué dans le howdah combat et tire depuis cette plateforme selon les règles de Plateforme de Combat.
 
-| Portée | Force | PA  | Règles |
-|--------|--------|-----|--------|
-| Combat | Util. | -3  | -      |
+### Sang-Froid
+Le Stegadon est immunisé à la règle *Peur*. Son équipage bénéficie d'un modificateur de **+1** à ses tests de *Terreur*.
+
+### Lames des Anciens
+Les Amazones qui montent un Stegadon sont des guerrières aguerries, portant des lames cérémoniales trempées dans les eaux sacrées de Lustrie. Leurs armes de base comptent comme des armes à deux mains mais ne subissent pas le malus d'Initiative habituel.
+
+### Native de Lustrie
+L'équipage ignore les règles de Terrain Difficile et Terrain Dangereux causées par les zones de jungle ou de marécage.
 
 
-**Monture de personnage**
 
-Un Stegadon (ou Ancien) peut servir de monture à un héros Amazone / Mère de la Sororité.
+## Profil de tir — Plateforme standard
 
-- Remplace un membre d’équipage  
-- Peut combattre/tirer depuis la plateforme  
-- Considéré comme un **char** (règle Howdah)
+**Arcs**
+
+| Portée | F | PA | Règles spéciales |
+|:---|:-:|:-:|:---|
+| 24" | 3 | — | Tir en Rafale |
+
+**Javelots**
+
+| Portée | F | PA | Règles spéciales |
+|:---|:-:|:-:|:---|
+| 8" | 3 | — | Attaques Empoisonnées |
+
+
+
+## Plateforme de Canon Slann Feu-Stellaire
+*(Ancien Stegadon uniquement — nécessite une Mère de la Sororité)*
+
+Un Ancien Stegadon peut remplacer sa Plateforme de Combat standard par un Canon Slann Feu-Stellaire monté sur howdah. Appliquez les règles suivantes :
+
+- L'équipage est réduit à **3 Amazones** ; elles perdent leurs arcs et javelots.
+- Utilisez le profil de tir et toutes les règles spéciales du **Canon Slann Feu-Stellaire** (voir son entrée), avec les modifications suivantes :
+  - La restriction **"Ne peut pas tirer en se déplaçant"** est **ignorée** : le Stegadon peut se déplacer et tirer normalement.
+  - En cas de **Surcharge Catastrophique**, si le résultat est **Implosion**, les touches s'appliquent également à l'Ancien Stegadon lui-même.
+  - L'équipage utilise la **CT 3** du profil Amazone plutôt que celle indiquée dans le profil du Canon.
+- Cette option est **0–1** par armée et mutuellement exclusive avec le Canon Slann Feu-Stellaire en version au sol.
+
+
+
+## Profil des armes
+
+### Grandes Cornes
+
+| Portée | F | PA | Règles spéciales |
+|:---|:-:|:-:|:---|
+| Combat | Util. | -3 | — |
+
+
+## Monture de personnage
+
+Un Stegadon ou Ancien Stegadon peut servir de monture à un héros Amazone ou à une Mère de la Sororité. Le personnage remplace un membre d'équipage et combat ou tire depuis le howdah selon les règles de Plateforme de Combat.
+
 
 ---
 
 ## Koalt
 
-|        | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|--------|---|----|----|---|---|----|---|---|----|--------|
-| Koalt  | 7 | 3  | 0  | 4 | 5 | 3  | 2 | 2 | 5  | +210   |
+| M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 7 | 3 | 0 | 4 | 5 | 3 | 2 | 2 | 5 | +210 |
 
-Le cavalier monté sur un Koalt ajoute au profil combiné : +2 Endurance | +2 Points de Vie
+*Note : Un cavalier monté sur un Koalt bénéficie de +2 Endurance et +2 Points de Vie.*
 
-**Type de troupe :** Béhémoth  
-**Taille de socle :** 60 x 100 mm  
-**Taille d’unité :** 1  
+**Type de troupe :** Béhémoth
+**Taille de socle :** 60 x 100 mm
+**Taille d'unité :** 1
+
 
 ## Équipement
 
+**Écailles Draconiques** — compte comme armure de plates (sauvegarde d'armure 3+)
+
 ### Gueule Dentelée
 
-| Portée  | F | PA | Règles spéciales                         |
-|--------|---|----|------------------------------------------|
-| Combat | F | —  | Perce-Armure (2), Blessures Multiples (2) |
+| Portée | F | PA | Règles spéciales |
+|:--|:-:|:-:|:--|
+| Combat | F | — | Perce-Armure (2), Blessures Multiples (2) |
 
-> Le Koalt doit effectuer **au moins une attaque** avec cette arme à chaque phase de combat.
-
----
+Le Koalt doit effectuer **au moins une attaque** avec cette arme à chaque phase de combat.
 
 ### Souffle Soporifique
 
-| Portée  | F | PA | Règles spéciales                          |
-|--------|---|----|-------------------------------------------|
-| Contact | 2 | —  | Arme de Souffle, Pas de sauvegarde d'armure |
+| Portée | F | PA | Règles spéciales |
+|:--|:-:|:-:|:--|
+| Contact | 2 | — | Arme de Souffle |
 
-> Aucune sauvegarde d'armure n'est permise contre ces blessures.  
-> Les sauvegardes invulnérables et la régénération s'appliquent normalement.
+Aucune sauvegarde d'armure n'est permise contre ces blessures. Les sauvegardes invulnérables et la régénération s'appliquent normalement.
 
----
 
 ## Règles spéciales
 
-- **Sang-Froid :**  
-  Le Koalt est immunisé à la règle *Peur*.  
-  Son cavalier bénéficie d'un bonus de **+1** à ses tests de *Terreur*.
+**Ordre Serré, Vol (10), Grande Cible, Piétinement (D6), Terreur**
 
-- **Cuir Épais :**  
-  Le Koalt confère à son cavalier une sauvegarde d'armure améliorée de **+1**, en plus de l'armure portée.
 
-- **Attaques Terrifiantes :**  
-  Toute unité ennemie en contact socle à socle avec le Koalt doit effectuer un test de *Peur* au début de chaque phase de combat si elle ne l'a pas déjà réussi.
+### Sang-Froid
+Le Koalt est immunisé à la règle *Peur*. Son cavalier bénéficie d'un modificateur de **+1** à ses tests de *Terreur*.
 
+### Cuir Épais
+Le Koalt confère à son cavalier un modificateur de **+1** à sa sauvegarde d'armure, en plus de l'armure portée par ce dernier.
+
+**Monture de Personnage :** Un Koalt ne peut être inclus dans votre armée qu'en tant que monture de personnage. Ses points s'ajoutent à ceux de son cavalier.
 
 ---
 
@@ -911,7 +895,6 @@ Lorsque le Canon Feu-Stellaire obtient un résultat de *Raté* sur le dé d'arti
 | Ancre Gravitationnelle | +15 pts | Le Canon peut tirer en se déplaçant. Sa portée est réduite à 30" lorsqu'il tire après s'être déplacé |
 | Blindage Cristallin | +20 pts | Le Canon bénéficie d'une Sauvegarde Invulnérable (5+) contre les attaques de tir ennemies |
 
----
 
 ## Restrictions
 
@@ -926,7 +909,7 @@ Lorsque le Canon Feu-Stellaire obtient un résultat de *Raté* sur le dé d'arti
 **Taille de socle :** 50 x 75 mm  
 **Taille d'unité :** 1  
 
----
+
 
 ## Profil
 
@@ -934,7 +917,7 @@ Lorsque le Canon Feu-Stellaire obtient un résultat de *Raté* sur le dé d'arti
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 6 | 6 | 5 | 5 | 5 | 4 | 7 | 4 | 9 | 300 |
 
----
+
 
 ## Équipement
 
@@ -947,13 +930,13 @@ Lorsque le Canon Feu-Stellaire obtient un résultat de *Raté* sur le dé d'arti
 ### Écailles Sacrées
 Sauvegarde d'armure **4+**. Cette sauvegarde ne peut être ni améliorée ni dégradée par quelque source que ce soit.
 
----
+
 
 ## Règles spéciales
 
 **Attaques Magiques, Résistance à la Magie (2), Terreur, Instable**
 
----
+
 
 ### Avatar de la Déesse
 
@@ -962,14 +945,14 @@ L'Avatar de Rigg est une manifestation physique de Rigg, déesse-serpent des Ama
 - Toutes les unités Amazones *Core* et *Spéciales* dans un rayon de **12"** gagnent la règle *Opiniâtre*.
 - Toutes les Prêtresses du Serpent dans un rayon de **12"** bénéficient d'un modificateur de **+1** à leurs jets de dissipation.
 
----
+
 
 ### Instable
 
 Si l'Avatar de Rigg perd un combat, elle subit automatiquement un nombre de blessures égal au nombre de points de combat perdus, **sans sauvegarde d'aucune sorte permise**.  
 Elle ne peut jamais fuir un combat.
 
----
+
 
 ### Courroux Divin
 
@@ -987,11 +970,8 @@ Lancez le dé immédiatement après avoir choisi cet effet.
 L'Avatar et toutes les unités alliées dans un rayon de 6" bénéficient d'une Sauvegarde Invulnérable (6+) jusqu'à la fin de cette phase de combat.
 
 
----
-
-A chaque phase de conjuration l'Avatar peut tenter de lancer le sort **Regard du Serpent**.  Si le sort est déjà en jeu il n'est pas possible de le lancer une seconde fois.
-
 **Regard du Serpent**
+A chaque phase de conjuration l'Avatar peut tenter de lancer le sort **Regard du Serpent**.  Si le sort est déjà en jeu il n'est pas possible de le lancer une seconde fois.
 
 *Type : Maléfice*
 
@@ -1006,7 +986,7 @@ L'unité ennemie ciblée doit réussir un test de Commandement. En cas d'échec,
 
 Il peut être dissiper normalement.
 
----
+
 
 ## Options *(0–1 au choix)*
 
@@ -1016,13 +996,13 @@ Il peut être dissiper normalement.
 | Cœur d'Obsidienne | +25 pts | Gagne *Inébranlable* et perd *Instable* |
 | Venin Sacré | +20 pts | Gagne *Attaques Empoisonnées* |
 
----
-
 ## Restrictions
 
 - **0–1** par armée  
 - Ne peut **pas rejoindre d'unités**  
-- Ne peut **pas être désignée comme Général**  
+- Ne peut **pas être désignée comme Général**
+
+
 ---
 
 # Objets Magiques des Amazones
