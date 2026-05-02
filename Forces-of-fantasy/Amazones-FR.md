@@ -630,45 +630,43 @@ Les Guerrières Python passent des années à étudier les serpents dont elles t
 
 ---
 
-## Guerrière Piranha
+# Guerrière Piranha
 
-Imitant le féroce prédateur fluvial dont elles tirent leur nom, les Guerrières Piranha frappent d’une série de coups extrêmement rapides avant d’esquiver toute contre‑attaque.
+*Imitant le féroce prédateur fluvial dont elles tirent leur nom, les Guerrières Piranha frappent d'une série de coups extrêmement rapides avant d'esquiver toute contre-attaque.*
 
-|                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Guerrière Piranha | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 18     |
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Guerrière Piranha | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | 18 |
 
-**Type de troupe :** Infanterie régulière  
-**Taille de socle :** 25 x 25 mm  
-**Taille d’unité :** 5+
+**Type de troupe :** Infanterie régulière
+**Taille de socle :** 25 x 25 mm
+**Taille d'unité :** 5+
 
-**Équipement :**  
-- Deux armes de base  
-- Javelots (12", F3, Attaques Empoisonnées)  
+**Équipement :**
+- Deux armes de base
+- Javelots *(voir profil de tir)*
 - Armure légère
 
-**Règles spéciales :**  
-- Sang du fleuve  
-- Évasive  
-- Charge Furieuse  
-- Immunisée à la Psychologie  
-- Solitaire  
-- Bande Bigarrée  
-- Déplacement à travers les couverts  
-- Formation Ouverte  
-- Tirailleurs  
-- Frappe en Premier  
-- Attaques Empoisonnées (tir uniquement)
+**Options :**
+- Remplacer les deux armes de base par une lance .................. Gratuit
+- Prendre un bouclier .................. +1 pt/modèle
 
-**Options :**  
-- Toute unité peut :  
-  - Remplacer les deux armes de base par une lance gratuitement  
-  - Prendre un bouclier pour +1 pt/modèle  
+**Profil de tir**
 
- **Sang du fleuve**  
-Au combat, les Guerrières Piranha effectuent des attaques spéciales :
-**• Dents tranchantes :**  
-Durant un tour où cette unité a chargé, elle gagne Attaques Supplémentaires (+1) jusqu'à la fin de la phase de Combat.
+| Arme | Portée | F | PA | Règles spéciales |
+|:---|:-:|:-:|:-:|:---|
+| Javelot | 12" | 3 | — | Attaques Empoisonnées |
+
+**Règles spéciales**
+
+**Formation Ouverte, Tirailleurs, Évasive, Déplacement à travers les Couverts,
+Charge Furieuse, Frappe en Premier, Attaques Empoisonnées *(tir uniquement)***
+
+**Sang du Fleuve**
+Au cours de tout tour où cette unité a chargé, chaque modèle gagne **+1 Attaque** jusqu'à la fin de la phase de Combat.
+
+**Native de Lustrie** 
+
 
 ---
 
