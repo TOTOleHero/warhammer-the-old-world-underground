@@ -932,7 +932,7 @@ Lorsque le Canon Feu-Stellaire obtient un résultat de *Raté* sur le dé d'arti
 
 | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 6 | 6 | 5 | 5 | 5 | 4 | 7 | 4 | 9 | 275 |
+| 6 | 6 | 5 | 5 | 5 | 4 | 7 | 4 | 9 | 300 |
 
 ---
 
@@ -986,22 +986,25 @@ Lancez le dé immédiatement après avoir choisi cet effet.
 #### Bouclier d'Écailles
 L'Avatar et toutes les unités alliées dans un rayon de 6" bénéficient d'une Sauvegarde Invulnérable (6+) jusqu'à la fin de cette phase de combat.
 
+
 ---
 
-### Regard du Serpent *(une fois par partie)*
+A chaque phase de conjuration l'Avatar peut tenter de lancer le sort **Regard du Serpent**.  Si le sort est déjà en jeu il n'est pas possible de le lancer une seconde fois.
 
-Au début de votre phase de magie, désignez une unité ennemie visible à **18"** ou moins.  
-Cette unité doit réussir un test de Commandement ou être affectée par *Hébétement* jusqu'au début de votre prochain tour.
+**Regard du Serpent**
 
-#### Hébétement
-Une unité affectée subit les effets suivants :
+*Type : Maléfice*
 
-- **-2 Mouvement** (minimum 1)
-- Ne peut pas effectuer de **Marche Forcée**
-- Ne peut pas déclarer de **Charge**
-- Ne peut pas effectuer d'**attaques de tir**
+**Valeur de lancement :** 13+
+**Portée :** 18"
 
-*Cette règle est distincte de la Stupidité et ne se cumule pas avec elle.*
+**Effet : Reste en Jeu**
+L'unité ennemie ciblée doit réussir un test de Commandement. En cas d'échec, tant que ce sort **Reste en Jeu**, elle subit :
+- **-2 Mouvement** *(minimum 1)*
+- **Ne peut pas Marcher**
+- **Ne peut pas Charger**
+
+Il peut être dissiper normalement.
 
 ---
 
@@ -1245,7 +1248,7 @@ Si au moins une blessure non sauvegardée est infligée, jusqu'au prochain sous-
 **Effet :**
 L'unité ennemie ciblée doit réussir un test de Commandement.
 
-- **Si échec :** jusqu'au prochain sous-tour **Début de Tour** du lanceur, l'unité subit :
+- **Si le test est un échec :** jusqu'au prochain phase de  **Conjuration** du lanceur, l'unité subit :
   - **-1 CC**
   - **-1 CT**
   - **-1 Initiative**
