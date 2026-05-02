@@ -660,12 +660,10 @@ Les Guerrières Python passent des années à étudier les serpents dont elles t
 **Règles spéciales**
 
 **Formation Ouverte, Tirailleurs, Évasive, Déplacement à travers les Couverts,
-Charge Furieuse, Frappe en Premier, Attaques Empoisonnées *(tir uniquement)***
+Charge Furieuse, Frappe en Premier, Attaques Empoisonnées *(tir uniquement)*, Native de Lustrie**
 
 **Sang du Fleuve**
 Au cours de tout tour où cette unité a chargé, chaque modèle gagne **+1 Attaque** jusqu'à la fin de la phase de Combat.
-
-**Native de Lustrie** 
 
 
 ---
@@ -688,7 +686,7 @@ Au cours de tout tour où cette unité a chargé, chaque modèle gagne **+1 Atta
 ## Équipement
 
 - **Stegadon / Ancien Stegadon :** Grandes cornes (voir ci-dessous)
-- **Équipage Amazone :** Armes de base, javelots, arcs
+- **Équipage Amazone :** Armes de base, javelots, arcs, 
 
 
 
@@ -708,10 +706,7 @@ Au cours de tout tour où cette unité a chargé, chaque modèle gagne **+1 Atta
 
 **Ordre Serré, Sang-Froid, Howdah, Immunisé à la Psychologie,
 Touches d'Impact (D3+1), Grande Cible, Attaques Empoisonnées *(javelots uniquement)*,
-Piétinement (D6), Tenace, Terreur**
-
-**Lames des Anciens** *(Équipage uniquement)*
-**Native de Lustrie** *(Équipage uniquement)*
+Piétinement (D6), Tenace, Terreur, Native de Lustrie *(Équipage uniquement)***
 
 
 
