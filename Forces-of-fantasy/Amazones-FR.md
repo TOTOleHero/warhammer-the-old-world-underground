@@ -512,7 +512,8 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 # Cavalières Terradon Amazones
 
-*Montées sur les redoutables Terradons de Lustrie, ces guerrières amazones fondent du ciel sur leurs ennemies, lâchant une pluie de rochers avant de s'écraser dans les rangs ennemis.*
+*Dans les cieux étouffants de Lustrie, là où les hommes ordinaires ne lèvent jamais les yeux, planent les Cavalières Terradon. Choisies parmi les plus audacieuses des sœurs amazoniennes, elles ont su lier leur destin aux grands reptiles ailés qui nichent dans les cimes oubliées des temples en ruine — ces Terradons dont le crissement perce les nuages et annonce une mort venue d’en haut. Bénies par les vénérables Slann qui jadis offrirent l’immortalité à leurs ancêtres, ces guerrières manient leur monture non comme une bête soumise, mais comme une alliée sauvage investie d’une même fureur sacrée. Surgissant du soleil avec un cri perçant, chaque escadron déverse d’abord une pluie de rocs tranchants sur les lignes ennemies, fracassant crânes et armures avant même que l’ombre des ailes n’effleure le sol. Puis, dans le tumulte des charges aériennes, elles s’abattent en piqué au cœur des rangs, portées par une violence que seule la jungle primordiale peut engendrer : serres déchiquetant les chairs, lances amazoniennes perçant les boucliers, tandis que la terre tremble sous l’impact de leurs terribles plongeons.*
+
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
