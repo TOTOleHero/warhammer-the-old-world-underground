@@ -233,6 +233,8 @@ Un personnage pouvant être monté peut choisir une monture dans la liste suivan
 
 ### Guerrières Tribales
 
+*Les Guerrières Tribales forment le cœur des tribus amazoniennes de la jungle de Lustrie. Armées d'épées et d'arcs, elles surgissent de la végétation pour frapper avec une rapidité surnaturelle. Leurs armures de cuir ornées de bronze, de peintures rituelles et de totems protecteurs leur permettent de se fondre dans le décor comme des prédateurs de la jungle.*
+
 |          | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |----------|---|----|----|---|---|---|---|---|----|--------|
 | Amazone  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 11     |
@@ -303,7 +305,7 @@ Toute unité peut :
 
 ## Guerrières Koka‑Kalim
 
-Les Koka‑Kalim sont l'élite fanatique des guerrières amazones, un ordre militaire chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom vient de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque totalement de nourriture ou de sommeil. Cette dépendance leur donne une apparence émaciée et un regard halluciné, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues d'aversion naturelle pour le sang et la mort, ces combattantes vivent dans un état d'excitation nerveuse permanent qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, entretient une garde d'élite de Koka‑Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et reçoivent parfois des armes Slann ancestrales : épées énergétiques et fusils‑bolters, des reliques vénérées comme des dons de Rigg elle‑même.
+*Les Koka‑Kalim sont l'élite fanatique des guerrières amazones, un ordre militaire chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom vient de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque totalement de nourriture ou de sommeil. Cette dépendance leur donne une apparence émaciée et un regard halluciné, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues d'aversion naturelle pour le sang et la mort, ces combattantes vivent dans un état d'excitation nerveuse permanent qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, entretient une garde d'élite de Koka‑Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et reçoivent parfois des armes Slann ancestrales : épées énergétiques et fusils‑bolters, des reliques vénérées comme des dons de Rigg elle‑même.*
 
 ---
 
@@ -402,6 +404,8 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 ## Cavalières sur Culchan
 
+*Dans les vastes pampas du sud de Lustrie, près de la cité-temple d'Oyxl, les Cavalières sur Culkan chevauchent d'énormes oiseaux carnivores incapables de voler. Ces montures sauvages, au plumage brun rehaussé de crêtes rouges ou bleues chez les mâles, possèdent un cou musclé, une tête de perroquet et un bec capable de fracasser un crâne humain. Dressées par les Amazones, elles chargent avec fureur, piétinant et mordant les ennemis dans un chaos de plumes et de crocs*
+
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Cavalière sur Culchan | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | 19 |
@@ -436,6 +440,8 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 ## Cavalières Amazones sur Sang‑Froid
 
+*les Amazones ont percé le secret du dressage des Sang-Froids, ces reptiles monstrueux tapis dans les cavernes de Lustrie. Mesurant plus de trois mètres de long, ces créatures à quatre pattes avancent d’une démarche pesante, leur queue-balancier fouettant l’air tandis que crocs acérés, griffes voraces et piétinements furieux ne songent qu’à déchiqueter toute chair. Par la force, une patience impitoyable et de sombres rituels ancestraux, les guerrières brisent leur volonté sans jamais recourir aux poisons débilitants des Elfes Noirs – ces toxiques qui affaiblissent le cavalier autant que la monture. Ainsi domptés, les Sang-Froids forment des meutes dévastatrices qui chargent en hurlant, semant une terreur viscérale parmi les créatures plus petite.*
+
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Cavalière | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | 22 |
@@ -464,6 +470,10 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 **Restriction :** Cette unité ne peut être incluse dans une armée que si celle-ci comprend au moins une **Grande Prêtresse du Serpent**. Si la Grande Prêtresse est retirée comme perte, cette unité doit réussir un test de Commandement au début de chaque tour ami ou subit la règle **Stupidité** pour ce tour en plus de toute autre règle en cours.
 
 ---
+
+## Chasseresses Jaguar
+
+*Dans les profondeurs étouffantes de la jungle de Lustrie, les Chasseresses Jaguar se meuvent comme des ombres, gardiennes farouches des tribus amazoniennes. Revêtues de la peau du félin sacré, elles ne font plus qu’une avec l’esprit du prédateur – leur démarche silencieuse épouse les murmures du feuillage, leur souffle se fond dans le bruissement des lianes. Inlassables traqueuses, elles vouent une haine implacable aux Skinks et aux Sauriens, ces ennemis abhorrés dont elles percent les moindres ruses. Tapi es dans la moiteur végétale, elles patientent, immobiles, jusqu’à l’instant précis où leur lame jaillit, libérant une férocité dévastatrice aussi soudaine que le bond du jaguar.*
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -550,7 +560,7 @@ Au début de n'importe quelle phase de Tir amie, une unité de Cavalières Terra
 
 # Guerrières Aigle
 
-*Comme leur nom l'indique, les Guerrières Aigle sont rapides et agiles, virevoltant sur le champ de bataille.*
+*Vétéranes endurcies par d'innombrables expéditions guerrières, les Guerrières Aigles ont délaissé le jaguar rampant pour s'élever vers les cieux. Sous l'égide du grand aigle, totem de puissance et de majesté, elles fondent sur l'ennemi avec la foudre pour alliée. Leurs coiffures exotiques, hérissées de plumes et de serres, sont forgées à partir de ces oiseaux sacrés que les Hommes-Lézards vénèrent comme des messagers des Anciens – un trophée qui proclame autant leur dévotion que leur indomptable férocité au combat.*
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
