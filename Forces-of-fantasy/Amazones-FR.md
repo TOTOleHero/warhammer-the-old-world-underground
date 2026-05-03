@@ -437,34 +437,32 @@ Le Culchan est un immense oiseau carnivore incapable de voler, vivant dans les p
 
 ## Cavalières Amazones sur Sang‑Froid
 
-|                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Nobles            | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 25     |
-| Cheffe            | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
-| Sang‑Froid        | 7 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Cavalière | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | 22 |
+| Cheffe | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | +10 |
+| Sang-Froid | 7 | 3 | — | 4 | 4 | 1 | 2 | 2 | — | — |
 
+**Type de troupe :** Cavalerie lourde
+**Taille de socle :** 25 x 50 mm
+**Taille d'unité :** 5+
 
-**Type de troupe :** Cavalerie lourde  
-**Taille de socle :** 30 x 60 mm  
-**Taille d’unité :** 5+  
+**Équipement :**
+- Cavalières : arme de base, lance de cavalerie et bouclier
+- Sang-Froid : griffes et dents *(compte comme arme de base)*
 
-**Équipement :**  
-- Cavalières : arme de base, lance, bouclier  
-- Sang‑Froid : Griffes et dents (arme de base)
+**Options :**
+- Remplacer la lance de cavalerie par une arme lourde .................. +2 pts/modèle
+- Prendre une armure lourde .................. +3 pts/modèle
+- Améliorer un modèle en Cheffe (champion) .................. +10 pts/unité
+- Ajouter un Porte-étendard .................. +7 pts/unité
+- Ajouter une Musicienne .................. +7 pts/unité
 
-**Options :**  
-- Toute unité peut :  
-  - Remplacer la lance par une arme lourde pour +2 pts/modèle  
-  - Prendre une armure lourde pour +3 pts/modèle  
-  - Améliorer un modèle en **Cheffe** (champion) pour +10 pts/unité  
-  - Améliorer un modèle en **Porte‑étendard** pour +7 pts/unité  
-  - Améliorer un modèle en **Musicienne** pour +7 pts/unité  
+**Règles spéciales**
 
-**Règles spéciales :** Brise‑Armure (1, Sang‑Froid uniquement), Endurance (1), Formation Serrée, Stupidité, Ruée Implacable  
+**Armure Naturelle (1) *(Sang-Froid uniquement)*, Charge Dévastatrice, Formation Serrée, Native de Lustrie, Stupidité**
 
-**Restrictions :**  
-Les Cavalières Amazones sur Sang‑Froid ne peuvent être incluses que dans une armée contenant une **Grande Prêtresse du Serpent**.  
-Si celle‑ci est tuée, l’unité doit effectuer un test de Commandement au début de chaque tour ami ; en cas d’échec, elle doit utiliser son mouvement pour se diriger vers le bord de table le plus proche. Si elle l’atteint, elle est retirée du jeu.
+**Restriction :** Cette unité ne peut être incluse dans une armée que si celle-ci comprend au moins une **Grande Prêtresse du Serpent**. Si la Grande Prêtresse est retirée comme perte, cette unité doit réussir un test de Commandement au début de chaque tour ami ou subit la règle **Stupidité** pour ce tour en plus de toute autre règle en cours.
 
 ---
 
