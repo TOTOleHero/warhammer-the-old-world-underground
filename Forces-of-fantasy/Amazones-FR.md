@@ -402,37 +402,36 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 ## Cavalières sur Culchan
 
-Le Culchan est un immense oiseau carnivore incapable de voler, vivant dans les pampas des Plaines Chulcan au sud de la Lustrie.  
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Cavalière sur Culchan | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | 19 |
+| Culchan-Ka | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | +10 |
+| Culchan | 9 | 3 | — | 4 | 4 | 1 | 2 | 2 | — | — |
 
-|                  | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Cavalières sur Culchan | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 25     |
-| Culchan‑Ka       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
-| Culchan          | 9 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
+**Type de troupe :** Cavalerie légère
+**Taille de socle :** 25 x 50 mm
+**Taille d'unité :** 5+
 
-**Type de troupe :** Cavalerie légère  
-**Taille de socle :** 25 x 50 mm  
-**Taille d’unité :** 5+  
+**Équipement :**
+- Cavalières : arme de base, javelots et armure légère
+- Culchan : griffes et bec *(compte comme arme de base)*
 
-**Équipement :**  
-- Cavalières sur Culchan :  
-  - Lames des Anciens  
-  - Armure légère  
-  - Bouclier  
-- Culchan : Griffes et bec (compte comme arme de base)
+**Options :**
+- Prendre des boucliers .................. +1 pt/modèle
+- Prendre une arme de base additionnelle .................. +1 pt/modèle
+- Améliorer un modèle en Culchan-Ka (champion) .................. +10 pts/unité
+- Ajouter un Porte-étendard .................. +5 pts/unité
+- Ajouter une Musicienne .................. +5 pts/unité
 
-**Options :**  
-• Toute unité peut :  
-- Remplacer la lance par des javelots gratuitement  
-- Prendre une arme de base additionnelle pour +1 pt/modèle  
-- Améliorer un modèle en **Culchan‑Ka** (champion) pour +10 pts/unité  
-- Améliorer un modèle en **Porte‑étendard** pour +5 pts/unité  
-- Améliorer un modèle en **Musicienne** pour +5 pts/unité  
+**Profil de tir**
 
-**Règles spéciales :** Formation Serrée, Ruée Implacable, Cavalerie Légère, Native de Lustrie  
+| Arme | Portée | F | PA | Règles spéciales |
+|:---|:-:|:-:|:-:|:---|
+| Javelot | 12" | 3 | — | Attaques Empoisonnées |
 
-**Native de Lustrie** : Les Amazones sont natives de la Lustrie et la jungle ne leur présente aucun danger. Lors de l’utilisation de règles de jungle, elles sont immunisées aux mêmes Rencontres que les Hommes Lézards.
+**Règles spéciales**
 
+**Cavalerie Légère, Charge Dévastatrice, Native de Lustrie, Ordre Ouvert, Vif-Argent**
 ---
 
 ## Cavalières Amazones sur Sang‑Froid
