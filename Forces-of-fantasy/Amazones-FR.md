@@ -468,34 +468,38 @@ Si celle‑ci est tuée, l’unité doit effectuer un test de Commandement au d�
 
 ---
 
-## Chasseresses Jaguar
+| | M | CC | CT | F | E | PV | I | A | Cd | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Chasseresse | 4 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 | 44 |
+| Maîtresse de Meute | 4 | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 8 | +12 |
+| Jaguar de Guerre | 8 | 4 | — | 4 | 4 | 2 | 4 | 3 | 5 | — |
 
-|               | M | CC | CT | F | E | PV | I | A | Cd | Points |
-|---------------|---|----|----|---|---|---|---|---|----|--------|
-| Chasseresse   | 4 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 | 55 |
-| Maîtresse de Meute | 4 | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 8 | +15 |
-| Jaguar de Guerre | 8 | 4 | 0 | 4 | 4 | 2 | 4 | 3 | 5 | - |
+**Type de troupe :** Cavalerie monstrueuse
+**Taille de socle :** 50 x 75 mm
+**Taille d'unité :** 3+
 
-**Type de troupe :** Cavalerie monstrueuse  
-**Taille de socle :** 30 x 60 mm  
-**Taille d’unité :** 3–6 modèles  
+**Équipement :**
+- Cavalières : arme de base, javelots et armure légère
+- Jaguar de Guerre : griffes et crocs *(compte comme arme de base)*
 
-**Équipement :**  
-- Javelot (Portée 8", Combat en Rang Supplémentaire)  
-- Arme de base  
-- Armure légère  
-- Bouclier
+**Options :**
+- Prendre des boucliers .................. +1 pt/modèle
+- Remplacer les javelots par des lances de chasse *(Perforant (1))* .................. Gratuit
+- Améliorer une Chasseresse en Maîtresse de Meute (champion) .................. +12 pts
+- Ajouter un Porte-étendard .................. +10 pts
+- Ajouter une Musicienne .................. +5 pts
 
-**Options :**  
-- Toute unité peut remplacer les javelots par des lances de chasse (+2 pts/modèle)  
-  (Lance de chasse : Perforant (1) au tour où elles chargent)  
-- Un modèle peut être amélioré en **Maîtresse de Meute** (+15 pts)  
-- Peut inclure un **Porte‑étendard** (+10 pts)  
-- Peut inclure un **Musicien** (+10 pts)
+**Profil de tir**
 
-**Règles spéciales :** Avant‑garde, Native de Lustrie, Charge Dévastatrice, Tir de Salve, Chasseresse Silencieuse
+| Arme | Portée | F | PA | Règles spéciales |
+|:---|:-:|:-:|:-:|:---|
+| Javelot | 12" | 3 | — | Attaques Empoisonnées |
 
-**Chasseresse Silencieuse** : L’unité peut utiliser le déploiement *Éclaireur* si elle ne porte aucune bannière magique.
+**Règles spéciales**
+
+**Avant-garde, Charge Dévastatrice, Native de Lustrie, Éclaireurs\***
+
+*\* Cette unité possède la règle Éclaireurs uniquement si elle ne porte aucune bannière magique.*
 
 ---
 
