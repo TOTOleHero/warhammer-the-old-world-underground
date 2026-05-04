@@ -74,7 +74,7 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 
 ---
 
-## MÈRE DE LA SORORITÉ / CHEFFE DE GUERRE AMAZONE
+##  Mère de la Sororité / Cheffe de Guerre Amazone
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
@@ -146,7 +146,11 @@ Au début de n’importe quel tour ami, une Cheffe de Guerre Amazone peut décle
 
 ---
 
-## GRANDE PRÊTRESSE DU SERPENT / PRÊTRESSE DU SERPENT
+## Grande Prêtresse du Serpent et Prêtresse du Serpent 
+
+*Au cœur des cités perdues de Lustrie, là où les racines des temples anciens enlacent les tablettes de pierre oubliées, règne la sororité des Prêtresses du Serpent. Point d’oracle sans leur souffle, point de guerre sans leur murmure : c’est à elles qu’échoit la charge de guider la nation amazone, liant le visible à l’invisible, la lame à l’éternité. Initiées sous la tutelle silencieuse des Slann, ces mages-prêtres titanesques dont la pensée pure se figea jadis en hiéroglyphes sacrés, elles ont recueilli un legs que le Vieux Monde n’a jamais soupçonné — une magie née avant les dieux des hommes, avant même le souvenir de la terre.
+Le serpent, pour elles, n’est pas une idole taillée dans l’argile ; il est le fil ondoyant qui relie le sang des vivantes à la mémoire des Anciens. Paré des plumes irisées du Quetzalcoatl, il se love dans leurs incantations, se glisse dans leurs songes, et confère à leurs voix l’autorité des tempêtes primordiales. Ainsi, lorsque Dekala à la peau pâle ou la souveraine Anaconda conduisent l’embuscade sous la canopée, chaque geste de ces prêtresses devient un écho de la création première. Elles portent sur elles des artefacts frémissants de puissance captive, murmurent des syllabes qui font frémir les feuillages, et transforment le champ de bataille en sanctuaire.
+Guerrières-mystiques aux doigts tachés de pigments rituels, elles ne sont pas de simples sources de magie, mais les fibres mêmes du destin amazone. C’est par leur sacrifice murmuré, par leur accord avec des forces qui dépassent l’entendement humain, que les créatures ailées des cimes répondent à l’appel, que les rochers pleuvent en tempêtes, et que les rangs ennemis se découvrent vulnérables, l’espace d’un instant suspendu entre deux éclairs de lance. Alors, dans le fracas des charges et le sifflement des plumes, les Prêtresses du Serpent incarnent l’âme entière d’un peuple : antédiluvienne, implacable, et tout entière vouée à la survie.*
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
@@ -162,12 +166,10 @@ Au début de n’importe quel tour ami, une Cheffe de Guerre Amazone peut décle
 **Équipement**
 - Arme de base
 
-**Magie**
-Une Grande Prêtresse du Serpent est une Sorcière de Niveau 3. Une Prêtresse du Serpent est une Sorcière de Niveau 1.
+**Magie :** Une Grande Prêtresse du Serpent est une Sorcière de Niveau 3. Une Prêtresse du Serpent est une Sorcière de Niveau 1. Chaque Prêtresse du Serpent connaît des sorts issus de l'un des Savoirs de Magie suivants :
 
-Chaque Prêtresse connaît des sorts issus de l’un des Savoirs de Magie suivants :
-- Savoir des Bêtes  
-- Savoir de la Vie  
+- Élémentalisme
+- Magie de Bataille
 - Savoir des Serpents
 
 **Options**  
