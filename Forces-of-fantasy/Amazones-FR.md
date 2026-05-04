@@ -887,6 +887,11 @@ Le Coatl confère à son cavalier un modificateur de **+1** à sa sauvegarde d'a
 
 # Canon Slann Feu-Stellaire
 
+*« Quand le Canon tonna pour la première fois depuis des millénaires, les Guerrières crurent que les Anciens étaient revenus. La lumière qui jaillit n’appartenait pas à ce monde — elle était le feu figé des étoiles que les Slann nommaient autrefois Tz’arkan Sotek. Et ce jour-là, la jungle retint son souffle. »
+— Chroniques orales des Amazones de Lustrie
+Forgé quand le ciel touchait encore la terre et que les Mages-Prêtres pliaient la lumière elle-même en artillerie, le Canon Feu-Stellaire n’est ni arme ni autel : c’est un débris d’âge primordial, une relique que la jungle avait avalée avant que les Amazones ne la réveillent. Taillé d’un jade si sombre qu’il boit le jour, parcouru de filaments d’or qui ne s’allument qu’au chant des Prêtresses, il ouvre en son cœur un hexagone de vide absolu — une fenêtre sur l’étoffe même des astres.
+On ne le charge pas, on l’éveille. Une Prêtresse pose les mains sur les glyphes, prononce les syllabes arrachées aux tablettes de pensée pure, et le canon se met à bourdonner comme une ruche d’étoiles. Il puise dans les vents de magie alentour, lentement, inexorablement, jusqu’à ce que sa gueule hexagonale s’embrase d’une lumière blême insoutenable. Alors il ne tire pas : il impose un silence, une absence tonitruante. Un éclair de néant pur fuse en ligne droite, et là où frappe ce feu qui n’est pas de ce monde ne demeurent qu’une pierre vitrifiée, une ombre gravée et le souvenir ébloui d’une étoile qui s’est donnée un instant à la terre.*
+
 **Type de troupe :** Machine de Guerre
 **Taille de socle :** 60 x 100 mm
 
