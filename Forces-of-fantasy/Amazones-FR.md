@@ -74,7 +74,7 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 
 ---
 
-##  Mère de la Sororité / Cheffe de Guerre Amazone
+##  Cheffe de Guerre Amazone et Mère de la Sororité
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
@@ -146,7 +146,7 @@ Au début de n’importe quel tour ami, une Cheffe de Guerre Amazone peut décle
 
 ---
 
-## Grande Prêtresse du Serpent et Prêtresse du Serpent 
+## Prêtresse du Serpent et Grande Prêtresse du Serpent  
 
 *Au cœur des cités perdues de Lustrie, là où les racines des temples anciens enlacent les tablettes de pierre oubliées, règne la sororité des Prêtresses du Serpent. Point d’oracle sans leur souffle, point de guerre sans leur murmure : c’est à elles qu’échoit la charge de guider la nation amazone, liant le visible à l’invisible, la lame à l’éternité. Initiées sous la tutelle silencieuse des Slann, ces mages-prêtres titanesques dont la pensée pure se figea jadis en hiéroglyphes sacrés, elles ont recueilli un legs que le Vieux Monde n’a jamais soupçonné — une magie née avant les dieux des hommes, avant même le souvenir de la terre.
 Le serpent, pour elles, n’est pas une idole taillée dans l’argile ; il est le fil ondoyant qui relie le sang des vivantes à la mémoire des Anciens. Paré des plumes irisées du Quetzalcoatl, il se love dans leurs incantations, se glisse dans leurs songes, et confère à leurs voix l’autorité des tempêtes primordiales. Ainsi, lorsque Dekala à la peau pâle ou la souveraine Anaconda conduisent l’embuscade sous la canopée, chaque geste de ces prêtresses devient un écho de la création première. Elles portent sur elles des artefacts frémissants de puissance captive, murmurent des syllabes qui font frémir les feuillages, et transforment le champ de bataille en sanctuaire.
