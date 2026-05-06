@@ -76,8 +76,8 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 
 ##  Cheffe de Guerre Amazone et Mère de la Sororité
 
-*Avant même que les armées du Vieux Monde aient appris à forger le fer, les Amazones de Lustrie combattaient déjà à l'ombre des pyramides de leurs maîtres Slann, gardiennes d'un savoir aussi vieux que les étoiles elles-mêmes. Au sommet de cette hiérarchie de sang et de volonté se dressent les Mères de la Sororité — femmes de guerre dont l'autorité n'est jamais disputée, dont la parole vaut loi au cœur de la jungle comme sur le champ de bataille. Façonnées par des générations de combats contre les prédateurs de Lustrie et les envahisseurs venus de la mer, elles portent en elles la mémoire des grands rituels de guerre, les tactiques codifiées dans les glyphes des anciens temples, et la froide certitude de celles qui ont survécu là où tant d'autres ont péri. Leur regard ne trahit ni peur ni doute — seulement la résolution absolue de celles à qui l'on a confié la survie de tout un peuple.
-Aux côtés des Mères chevauchent les Cheffes de Guerre Amazones, lames acérées de leur sororité, aussi impétueuses que leurs aînées sont calculées. Là où la Mère ordonne, la Cheffe de Guerre frappe — son cri de guerre déchirant l'air chaud et humide de la canopée, électrisant ses sœurs d'armes d'une ardeur farouche qui fait chanceler les lignes ennemies avant même que le premier sang ne coule. Ces guerrières ne connaissent pas la retraite ; elles connaissent la victoire, ou elles connaissent la mort — et dans un cas comme dans l'autre, elles avancent.*
+> Avant même que les armées du Vieux Monde aient appris à forger le fer, les Amazones de Lustrie combattaient déjà à l'ombre des pyramides de leurs maîtres Slann, gardiennes d'un savoir aussi vieux que les étoiles elles-mêmes. Au sommet de cette hiérarchie de sang et de volonté se dressent les Mères de la Sororité — femmes de guerre dont l'autorité n'est jamais disputée, dont la parole vaut loi au cœur de la jungle comme sur le champ de bataille. Façonnées par des générations de combats contre les prédateurs de Lustrie et les envahisseurs venus de la mer, elles portent en elles la mémoire des grands rituels de guerre, les tactiques codifiées dans les glyphes des anciens temples, et la froide certitude de celles qui ont survécu là où tant d'autres ont péri. Leur regard ne trahit ni peur ni doute — seulement la résolution absolue de celles à qui l'on a confié la survie de tout un peuple.
+> Aux côtés des Mères chevauchent les Cheffes de Guerre Amazones, lames acérées de leur sororité, aussi impétueuses que leurs aînées sont calculées. Là où la Mère ordonne, la Cheffe de Guerre frappe — son cri de guerre déchirant l'air chaud et humide de la canopée, électrisant ses sœurs d'armes d'une ardeur farouche qui fait chanceler les lignes ennemies avant même que le premier sang ne coule. Ces guerrières ne connaissent pas la retraite ; elles connaissent la victoire, ou elles connaissent la mort — et dans un cas comme dans l'autre, elles avancent.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
@@ -151,9 +151,9 @@ Au début de n’importe quel tour ami, une Cheffe de Guerre Amazone peut décle
 
 ## Prêtresse du Serpent et Grande Prêtresse du Serpent  
 
-*Au cœur des cités perdues de Lustrie, là où les racines des temples anciens enlacent les tablettes de pierre oubliées, règne la sororité des Prêtresses du Serpent. Point d’oracle sans leur souffle, point de guerre sans leur murmure : c’est à elles qu’échoit la charge de guider la nation amazone, liant le visible à l’invisible, la lame à l’éternité. Initiées sous la tutelle silencieuse des Slann, ces mages-prêtres titanesques dont la pensée pure se figea jadis en hiéroglyphes sacrés, elles ont recueilli un legs que le Vieux Monde n’a jamais soupçonné — une magie née avant les dieux des hommes, avant même le souvenir de la terre.
-Le serpent, pour elles, n’est pas une idole taillée dans l’argile ; il est le fil ondoyant qui relie le sang des vivantes à la mémoire des Anciens. Paré des plumes irisées du Quetzalcoatl, il se love dans leurs incantations, se glisse dans leurs songes, et confère à leurs voix l’autorité des tempêtes primordiales. Ainsi, lorsque Dekala à la peau pâle ou la souveraine Anaconda conduisent l’embuscade sous la canopée, chaque geste de ces prêtresses devient un écho de la création première. Elles portent sur elles des artefacts frémissants de puissance captive, murmurent des syllabes qui font frémir les feuillages, et transforment le champ de bataille en sanctuaire.
-Guerrières-mystiques aux doigts tachés de pigments rituels, elles ne sont pas de simples sources de magie, mais les fibres mêmes du destin amazone. C’est par leur sacrifice murmuré, par leur accord avec des forces qui dépassent l’entendement humain, que les créatures ailées des cimes répondent à l’appel, que les rochers pleuvent en tempêtes, et que les rangs ennemis se découvrent vulnérables, l’espace d’un instant suspendu entre deux éclairs de lance. Alors, dans le fracas des charges et le sifflement des plumes, les Prêtresses du Serpent incarnent l’âme entière d’un peuple : antédiluvienne, implacable, et tout entière vouée à la survie.*
+> Au cœur des cités perdues de Lustrie, là où les racines des temples anciens enlacent les tablettes de pierre oubliées, règne la sororité des Prêtresses du Serpent. Point d’oracle sans leur souffle, point de guerre sans leur murmure : c’est à elles qu’échoit la charge de guider la nation amazone, liant le visible à l’invisible, la lame à l’éternité. Initiées sous la tutelle silencieuse des Slann, ces mages-prêtres titanesques dont la pensée pure se figea jadis en hiéroglyphes sacrés, elles ont recueilli un legs que le Vieux Monde n’a jamais soupçonné — une magie née avant les dieux des hommes, avant même le souvenir de la terre.
+> Le serpent, pour elles, n’est pas une idole taillée dans l’argile ; il est le fil ondoyant qui relie le sang des vivantes à la mémoire des Anciens. Paré des plumes irisées du Quetzalcoatl, il se love dans leurs incantations, se glisse dans leurs songes, et confère à leurs voix l’autorité des tempêtes primordiales. Ainsi, lorsque Dekala à la peau pâle ou la souveraine Anaconda conduisent l’embuscade sous la canopée, chaque geste de ces prêtresses devient un écho de la création première. Elles portent sur elles des artefacts frémissants de puissance captive, murmurent des syllabes qui font frémir les feuillages, et transforment le champ de bataille en sanctuaire.
+> Guerrières-mystiques aux doigts tachés de pigments rituels, elles ne sont pas de simples sources de magie, mais les fibres mêmes du destin amazone. C’est par leur sacrifice murmuré, par leur accord avec des forces qui dépassent l’entendement humain, que les créatures ailées des cimes répondent à l’appel, que les rochers pleuvent en tempêtes, et que les rangs ennemis se découvrent vulnérables, l’espace d’un instant suspendu entre deux éclairs de lance. Alors, dans le fracas des charges et le sifflement des plumes, les Prêtresses du Serpent incarnent l’âme entière d’un peuple : antédiluvienne, implacable, et tout entière vouée à la survie.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
@@ -249,7 +249,7 @@ Une Prêtresse du Serpent peut être montée sur :
 
 ### Guerrières Tribales
 
-*Les Guerrières Tribales forment le cœur des tribus amazoniennes de la jungle de Lustrie. Armées d'épées et d'arcs, elles surgissent de la végétation pour frapper avec une rapidité surnaturelle. Leurs armures de cuir ornées de bronze, de peintures rituelles et de totems protecteurs leur permettent de se fondre dans le décor comme des prédateurs de la jungle.*
+> Les Guerrières Tribales forment le cœur des tribus amazoniennes de la jungle de Lustrie. Armées d'épées et d'arcs, elles surgissent de la végétation pour frapper avec une rapidité surnaturelle. Leurs armures de cuir ornées de bronze, de peintures rituelles et de totems protecteurs leur permettent de se fondre dans le décor comme des prédateurs de la jungle.
 
 |          | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |----------|---|----|----|---|---|---|---|---|----|--------|
@@ -291,7 +291,7 @@ Une Prêtresse du Serpent peut être montée sur :
 
 ## Guerrières Totem
 
-*Ces Amazones immergées dans les mystères de la Sororité sont des guerrières initiées aux aspects du Koka‑Kalim. Issues de tous les horizons de la société amazone, elles incarnent l’aspect du totem de leur tribu. Initiées dès leur plus jeune âge et entraînées pendant des années, ces guerrières sont totalement intransigeantes.*
+> Ces Amazones immergées dans les mystères de la Sororité sont des guerrières initiées aux aspects du Koka‑Kalim. Issues de tous les horizons de la société amazone, elles incarnent l’aspect du totem de leur tribu. Initiées dès leur plus jeune âge et entraînées pendant des années, ces guerrières sont totalement intransigeantes.
 
 |                       | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |-----------------------|---|----|----|---|---|---|---|---|----|--------|
@@ -321,7 +321,7 @@ Toute unité peut :
 
 ## Guerrières Koka‑Kalim
 
-*Les Koka‑Kalim sont l'élite fanatique des guerrières amazones, un ordre militaire chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom vient de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque totalement de nourriture ou de sommeil. Cette dépendance leur donne une apparence émaciée et un regard halluciné, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues d'aversion naturelle pour le sang et la mort, ces combattantes vivent dans un état d'excitation nerveuse permanent qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, entretient une garde d'élite de Koka‑Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et reçoivent parfois des armes Slann ancestrales : épées énergétiques et fusils‑bolters, des reliques vénérées comme des dons de Rigg elle‑même.*
+> Les Koka‑Kalim sont l'élite fanatique des guerrières amazones, un ordre militaire chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom vient de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque totalement de nourriture ou de sommeil. Cette dépendance leur donne une apparence émaciée et un regard halluciné, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues d'aversion naturelle pour le sang et la mort, ces combattantes vivent dans un état d'excitation nerveuse permanent qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, entretient une garde d'élite de Koka‑Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et reçoivent parfois des armes Slann ancestrales : épées énergétiques et fusils‑bolters, des reliques vénérées comme des dons de Rigg elle‑même.
 
 ---
 
@@ -397,7 +397,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 ## Nuées de la Jungle
 
-*Les Prêtresses du Serpent ont reçu en partage le don de commander aux créatures rampantes de la jungle. Par elles, la volonté de la Grande Mère s'incarne dans chaque écaille, chaque goutte de venin — les serpents sacrés deviennent l'instrument de sa vengeance et l'assouvissement de sa faim éternelle. Au combat, cette masse grouillante progresse aux côtés des guerrières Amazones, guidée par le chant psalmodié des officiantes, inlassablement tendue vers la tiédeur du sang à verser. Les Nuées de la Jungle rassemblent toutes les espèces venimeuses de Lustrie, des serpents lovés aux lézards cracheurs, un tapis vivant qui n'a qu'une seule loi : mordre, brûler, dévorer.*
+> Les Prêtresses du Serpent ont reçu en partage le don de commander aux créatures rampantes de la jungle. Par elles, la volonté de la Grande Mère s'incarne dans chaque écaille, chaque goutte de venin — les serpents sacrés deviennent l'instrument de sa vengeance et l'assouvissement de sa faim éternelle. Au combat, cette masse grouillante progresse aux côtés des guerrières Amazones, guidée par le chant psalmodié des officiantes, inlassablement tendue vers la tiédeur du sang à verser. Les Nuées de la Jungle rassemblent toutes les espèces venimeuses de Lustrie, des serpents lovés aux lézards cracheurs, un tapis vivant qui n'a qu'une seule loi : mordre, brûler, dévorer.
 
 |                | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |----------------|---|----|----|---|---|---|---|---|----|--------|
@@ -422,7 +422,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 ## Cavalières sur Culkan
 
-*Dans les vastes pampas du sud de Lustrie, près de la cité-temple d'Oyxl, les Cavalières sur Culkan chevauchent d'énormes oiseaux carnivores incapables de voler. Ces montures sauvages, au plumage brun rehaussé de crêtes rouges ou bleues chez les mâles, possèdent un cou musclé, une tête de perroquet et un bec capable de fracasser un crâne humain. Dressées par les Amazones, elles chargent avec fureur, piétinant et mordant les ennemis dans un chaos de plumes et de crocs*
+> Dans les vastes pampas du sud de Lustrie, près de la cité-temple d'Oyxl, les Cavalières sur Culkan chevauchent d'énormes oiseaux carnivores incapables de voler. Ces montures sauvages, au plumage brun rehaussé de crêtes rouges ou bleues chez les mâles, possèdent un cou musclé, une tête de perroquet et un bec capable de fracasser un crâne humain. Dressées par les Amazones, elles chargent avec fureur, piétinant et mordant les ennemis dans un chaos de plumes et de crocs
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -458,7 +458,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 ## Cavalières Amazones sur Sang‑Froid
 
-*les Amazones ont percé le secret du dressage des Sang-Froids, ces reptiles monstrueux tapis dans les cavernes de Lustrie. Mesurant plus de trois mètres de long, ces créatures à quatre pattes avancent d’une démarche pesante, leur queue-balancier fouettant l’air tandis que crocs acérés, griffes voraces et piétinements furieux ne songent qu’à déchiqueter toute chair. Par la force, une patience impitoyable et de sombres rituels ancestraux, les guerrières brisent leur volonté sans jamais recourir aux poisons débilitants des Elfes Noirs – ces toxiques qui affaiblissent le cavalier autant que la monture. Ainsi domptés, les Sang-Froids forment des meutes dévastatrices qui chargent en hurlant, semant une terreur viscérale parmi les créatures plus petite.*
+> les Amazones ont percé le secret du dressage des Sang-Froids, ces reptiles monstrueux tapis dans les cavernes de Lustrie. Mesurant plus de trois mètres de long, ces créatures à quatre pattes avancent d’une démarche pesante, leur queue-balancier fouettant l’air tandis que crocs acérés, griffes voraces et piétinements furieux ne songent qu’à déchiqueter toute chair. Par la force, une patience impitoyable et de sombres rituels ancestraux, les guerrières brisent leur volonté sans jamais recourir aux poisons débilitants des Elfes Noirs – ces toxiques qui affaiblissent le cavalier autant que la monture. Ainsi domptés, les Sang-Froids forment des meutes dévastatrices qui chargent en hurlant, semant une terreur viscérale parmi les créatures plus petite.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -491,7 +491,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 ## Chasseresses Jaguar
 
-*Dans les profondeurs étouffantes de la jungle de Lustrie, les Chasseresses Jaguar se meuvent comme des ombres, gardiennes farouches des tribus amazoniennes. Revêtues de la peau du félin sacré, elles ne font plus qu’une avec l’esprit du prédateur – leur démarche silencieuse épouse les murmures du feuillage, leur souffle se fond dans le bruissement des lianes. Inlassables traqueuses, elles vouent une haine implacable aux Skinks et aux Sauriens, ces ennemis abhorrés dont elles percent les moindres ruses. Tapi es dans la moiteur végétale, elles patientent, immobiles, jusqu’à l’instant précis où leur lame jaillit, libérant une férocité dévastatrice aussi soudaine que le bond du jaguar.*
+> Dans les profondeurs étouffantes de la jungle de Lustrie, les Chasseresses Jaguar se meuvent comme des ombres, gardiennes farouches des tribus amazoniennes. Revêtues de la peau du félin sacré, elles ne font plus qu’une avec l’esprit du prédateur – leur démarche silencieuse épouse les murmures du feuillage, leur souffle se fond dans le bruissement des lianes. Inlassables traqueuses, elles vouent une haine implacable aux Skinks et aux Sauriens, ces ennemis abhorrés dont elles percent les moindres ruses. Tapi es dans la moiteur végétale, elles patientent, immobiles, jusqu’à l’instant précis où leur lame jaillit, libérant une férocité dévastatrice aussi soudaine que le bond du jaguar.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -530,7 +530,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 # Cavalières Terradon Amazones
 
-*Dans les cieux étouffants de Lustrie, là où les hommes ordinaires ne lèvent jamais les yeux, planent les Cavalières Terradon. Choisies parmi les plus audacieuses des sœurs amazoniennes, elles ont su lier leur destin aux grands reptiles ailés qui nichent dans les cimes oubliées des temples en ruine — ces Terradons dont le crissement perce les nuages et annonce une mort venue d’en haut. Bénies par les vénérables Slann qui jadis offrirent l’immortalité à leurs ancêtres, ces guerrières manient leur monture non comme une bête soumise, mais comme une alliée sauvage investie d’une même fureur sacrée. Surgissant du soleil avec un cri perçant, chaque escadron déverse d’abord une pluie de rocs tranchants sur les lignes ennemies, fracassant crânes et armures avant même que l’ombre des ailes n’effleure le sol. Puis, dans le tumulte des charges aériennes, elles s’abattent en piqué au cœur des rangs, portées par une violence que seule la jungle primordiale peut engendrer : serres déchiquetant les chairs, lances amazoniennes perçant les boucliers, tandis que la terre tremble sous l’impact de leurs terribles plongeons.*
+> Dans les cieux étouffants de Lustrie, là où les hommes ordinaires ne lèvent jamais les yeux, planent les Cavalières Terradon. Choisies parmi les plus audacieuses des sœurs amazoniennes, elles ont su lier leur destin aux grands reptiles ailés qui nichent dans les cimes oubliées des temples en ruine — ces Terradons dont le crissement perce les nuages et annonce une mort venue d’en haut. Bénies par les vénérables Slann qui jadis offrirent l’immortalité à leurs ancêtres, ces guerrières manient leur monture non comme une bête soumise, mais comme une alliée sauvage investie d’une même fureur sacrée. Surgissant du soleil avec un cri perçant, chaque escadron déverse d’abord une pluie de rocs tranchants sur les lignes ennemies, fracassant crânes et armures avant même que l’ombre des ailes n’effleure le sol. Puis, dans le tumulte des charges aériennes, elles s’abattent en piqué au cœur des rangs, portées par une violence que seule la jungle primordiale peut engendrer : serres déchiquetant les chairs, lances amazoniennes perçant les boucliers, tandis que la terre tremble sous l’impact de leurs terribles plongeons.
 
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
@@ -579,7 +579,7 @@ Au début de n'importe quelle phase de Tir amie, une unité de Cavalières Terra
 
 # Guerrières Aigle
 
-*Vétéranes endurcies par d'innombrables expéditions guerrières, les Guerrières Aigles ont délaissé le jaguar rampant pour s'élever vers les cieux. Sous l'égide du grand aigle, totem de puissance et de majesté, elles fondent sur l'ennemi avec la foudre pour alliée. Leurs coiffures exotiques, hérissées de plumes et de serres, sont forgées à partir de ces oiseaux sacrés que les Hommes-Lézards vénèrent comme des messagers des Anciens – un trophée qui proclame autant leur dévotion que leur indomptable férocité au combat.*
+> Vétéranes endurcies par d'innombrables expéditions guerrières, les Guerrières Aigles ont délaissé le jaguar rampant pour s'élever vers les cieux. Sous l'égide du grand aigle, totem de puissance et de majesté, elles fondent sur l'ennemi avec la foudre pour alliée. Leurs coiffures exotiques, hérissées de plumes et de serres, sont forgées à partir de ces oiseaux sacrés que les Hommes-Lézards vénèrent comme des messagers des Anciens – un trophée qui proclame autant leur dévotion que leur indomptable férocité au combat.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -618,8 +618,8 @@ Au début de n'importe quelle phase de Tir amie, une unité de Cavalières Terra
 
 # Guerrières Jaguar
 
-*Parmi toutes les sœurs de Lustrie, nulles ne sont plus redoutables que les Guerrières Jaguar. Elles sont le rempart vivant des sanctuaires sacrés, la colère à l'affût derrière les fougères géantes, et le dernier visage que contemplent les pilleurs assez fous pour profaner les pierres anciennes. Mais nul ne naît Jaguar : il faut s'en montrer digne dans le sang et la souffrance. Seules les guerrières ayant fait leurs preuves au combat sont admises à tenter les épreuves initiatiques, conduites loin, très loin, là où la jungle devient si profonde que même les Slann se taisent. On dit que peu en reviennent, et que celles qui survivent n'ont plus tout à fait un cœur de femme.
-Elles se drapent dans la dépouille du grand félin — pelage d'ombre tacheté d'or, crâne porté en heaume — et dans cette seconde peau, c'est l'esprit même du jaguar qui les habite. Une légende murmure que les premiers Slann, dans leur sagesse inhumaine, bénirent les premières d'entre elles, leur insufflant une endurance que la chair ne devrait pas connaître, une force capable de briser un homme comme un fétu. Vraie ou non, la légende se vérifie à chaque bataille. Car là où les flèches pleuvent et où les lames mordent, les Guerrières Jaguar ne reculent jamais. Elles se dressent comme un bouclier de chair et de volonté entre la mort et leurs sœurs, encaissant les coups les plus féroces sans un cri, sans un pli de faiblesse. Leurs yeux, seuls visibles sous le crâne sacré, brillent de cette même lueur froide et implacable que le jaguar pose sur sa proie avant de bondir — une promesse silencieuse de fin brutale au cœur de la moiteur verte.*
+> Parmi toutes les sœurs de Lustrie, nulles ne sont plus redoutables que les Guerrières Jaguar. Elles sont le rempart vivant des sanctuaires sacrés, la colère à l'affût derrière les fougères géantes, et le dernier visage que contemplent les pilleurs assez fous pour profaner les pierres anciennes. Mais nul ne naît Jaguar : il faut s'en montrer digne dans le sang et la souffrance. Seules les guerrières ayant fait leurs preuves au combat sont admises à tenter les épreuves initiatiques, conduites loin, très loin, là où la jungle devient si profonde que même les Slann se taisent. On dit que peu en reviennent, et que celles qui survivent n'ont plus tout à fait un cœur de femme.
+Elles se drapent dans la dépouille du grand félin — pelage d'ombre tacheté d'or, crâne porté en heaume — et dans cette seconde peau, c'est l'esprit même du jaguar qui les habite. Une légende murmure que les premiers Slann, dans leur sagesse inhumaine, bénirent les premières d'entre elles, leur insufflant une endurance que la chair ne devrait pas connaître, une force capable de briser un homme comme un fétu. Vraie ou non, la légende se vérifie à chaque bataille. Car là où les flèches pleuvent et où les lames mordent, les Guerrières Jaguar ne reculent jamais. Elles se dressent comme un bouclier de chair et de volonté entre la mort et leurs sœurs, encaissant les coups les plus féroces sans un cri, sans un pli de faiblesse. Leurs yeux, seuls visibles sous le crâne sacré, brillent de cette même lueur froide et implacable que le jaguar pose sur sa proie avant de bondir — une promesse silencieuse de fin brutale au cœur de la moiteur verte.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -658,9 +658,9 @@ Anciennes armes façonnées à partir d'os de bêtes primordiales, capables de d
 
 # Guerrières Python
 
-*À l'opposé des Guerrières Jaguars et de leur force tumultueuse, les Guerrières Python cultivent une puissance plus silencieuse, faite d'attente et de précision. Elles ont appris du grand serpent que la patience est une arme, et que le moment choisi pour frapper vaut toutes les charges impétueuses.
-Leur initiation est une longue solitude. Des semaines durant, la novice vit dans la jungle, à l'affût, observant les pythons se fondre dans l'ombre, sentir la chaleur d'une proie et ne bondir qu'à l'instant décisif. Certaines en reviennent le regard changé, capables d'encaisser les coups sans jamais rompre leur concentration. D'autres disparaissent sans laisser de trace.
-Au combat, cette discipline les rend redoutables. Immobiles sous les assauts, elles guettent le défaut dans l'armure, la faille dans la garde, puis frappent d'une lame aussi précise qu'un crochet venimeux, s'insinuant là où nul ne les attend. Les Prêtresses du Serpent voient en elles leurs protectrices naturelles : quand leurs forces se mêlent, le venin de la magie répond à la piqûre de l'acier, et l'ennemi succombe dans un étau sans recours.*
+> À l'opposé des Guerrières Jaguars et de leur force tumultueuse, les Guerrières Python cultivent une puissance plus silencieuse, faite d'attente et de précision. Elles ont appris du grand serpent que la patience est une arme, et que le moment choisi pour frapper vaut toutes les charges impétueuses.
+> Leur initiation est une longue solitude. Des semaines durant, la novice vit dans la jungle, à l'affût, observant les pythons se fondre dans l'ombre, sentir la chaleur d'une proie et ne bondir qu'à l'instant décisif. Certaines en reviennent le regard changé, capables d'encaisser les coups sans jamais rompre leur concentration. D'autres disparaissent sans laisser de trace.
+> Au combat, cette discipline les rend redoutables. Immobiles sous les assauts, elles guettent le défaut dans l'armure, la faille dans la garde, puis frappent d'une lame aussi précise qu'un crochet venimeux, s'insinuant là où nul ne les attend. Les Prêtresses du Serpent voient en elles leurs protectrices naturelles : quand leurs forces se mêlent, le venin de la magie répond à la piqûre de l'acier, et l'ennemi succombe dans un étau sans recours.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -701,9 +701,9 @@ Cette unité traite les forêts et zones de jungle comme du terrain ouvert pour 
 
 # Guerrière Piranha
 
-*Lentes sont les Python, endurantes les Jaguar ; les Guerrières Piranha n'ont foi qu'en la vitesse. Leur nom leur vient du prédateur fluvial dont elles imitent la frénésie : une grêle de coups si rapide que l'ennemi ne voit rien venir, et déjà elles sont ailleurs.
-Leur apprentissage se fait dans les eaux troubles, au milieu des bancs affamés qu'il faut traverser sans une plaie. Chaque mouvement doit être juste, chaque geste économe — une école de survie qui affine les corps et aiguise l'instinct jusqu'à sentir le danger avant qu'il ne morde. Elles en rapportent une leçon essentielle : une seule morsure est négligeable, mais cent portées en un instant noient la proie.
-Au combat, légères et insaisissables, elles tourbillonnent sur les flancs adverses, leurs lames courtes lacérant les formations les plus strictes. Leurs adversaires frappent le vide ; elles frappent le sang. Elles ne tiennent pas la ligne, elles ne l'affrontent pas — elles la vident, coup après coup, jusqu'à ce que l'ennemi s'effondre, vidé de sa substance.*
+> Lentes sont les Python, endurantes les Jaguar ; les Guerrières Piranha n'ont foi qu'en la vitesse. Leur nom leur vient du prédateur fluvial dont elles imitent la frénésie : une grêle de coups si rapide que l'ennemi ne voit rien venir, et déjà elles sont ailleurs.
+> Leur apprentissage se fait dans les eaux troubles, au milieu des bancs affamés qu'il faut traverser sans une plaie. Chaque mouvement doit être juste, chaque geste économe — une école de survie qui affine les corps et aiguise l'instinct jusqu'à sentir le danger avant qu'il ne morde. Elles en rapportent une leçon essentielle : une seule morsure est négligeable, mais cent portées en un instant noient la proie.
+> Au combat, légères et insaisissables, elles tourbillonnent sur les flancs adverses, leurs lames courtes lacérant les formations les plus strictes. Leurs adversaires frappent le vide ; elles frappent le sang. Elles ne tiennent pas la ligne, elles ne l'affrontent pas — elles la vident, coup après coup, jusqu'à ce que l'ennemi s'effondre, vidé de sa substance.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -741,10 +741,10 @@ Au cours de tout tour où cette unité a chargé, chaque modèle gagne **+1 Atta
 
 # Stegadon
 
-*Dans l’immensité verte de Lustrie où rôdent des colosses venus d’un autre âge, le Stégadon est une montagne vivante : une armure d’écailles et de cornes, une charge qui fend la terre, un cri assez grave pour ébranler les murailles. Les Amazones le tiennent peut-être des Slann eux-mêmes, un don ancien scellé dans la fidélité à la Grande Œuvre.
-Point de Skinks pour le conduire : ici, les Prêtresses du Serpent élèvent et lient ces bêtes par la confiance, non par la force. Une dresseuse partage des années avec son Stégadon, le nourrit, devine ses humeurs, tisse avec lui un pacte où la volonté n’est pas brisée mais accordée.
-Au combat, il devient forteresse mouvante — un howdah chargé d’élites qui criblent l’ennemi de traits. Mais le vrai péril, c’est sa charge : des tonnes de fureur lancées contre les lignes, qui pulvérisent formations et chars comme fétus de paille.
-Les plus vieux, les Kuraq, portent sur leurs écailles les cicatrices des siècles et sur leurs cornes les offrandes de vénération. Leur seule ombre sur le champ de bataille galvanise les guerrières et glace l’ennemi jusqu’à l’os.*
+> Dans l’immensité verte de Lustrie où rôdent des colosses venus d’un autre âge, le Stégadon est une montagne vivante : une armure d’écailles et de cornes, une charge qui fend la terre, un cri assez grave pour ébranler les murailles. Les Amazones le tiennent peut-être des Slann eux-mêmes, un don ancien scellé dans la fidélité à la Grande Œuvre.
+> Point de Skinks pour le conduire : ici, les Prêtresses du Serpent élèvent et lient ces bêtes par la confiance, non par la force. Une dresseuse partage des années avec son Stégadon, le nourrit, devine ses humeurs, tisse avec lui un pacte où la volonté n’est pas brisée mais accordée.
+> Au combat, il devient forteresse mouvante — un howdah chargé d’élites qui criblent l’ennemi de traits. Mais le vrai péril, c’est sa charge : des tonnes de fureur lancées contre les lignes, qui pulvérisent formations et chars comme fétus de paille.
+> Les plus vieux, les Kuraq, portent sur leurs écailles les cicatrices des siècles et sur leurs cornes les offrandes de vénération. Leur seule ombre sur le champ de bataille galvanise les guerrières et glace l’ennemi jusqu’à l’os.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -848,9 +848,9 @@ Un Stegadon ou Ancien Stegadon peut servir de monture à un héros Amazone ou à
 
 ## Coatl
 
-*Dans la canopée où la lumière se brise en lames, glisse un arc-en-ciel vivant — le Coatl. Ses écailles moirent l’air de reflets mouvants, plumes vert et or frémissant comme un souvenir d’oiseau sacré. Autour de lui, les vents de magie se courbent, aimantés par une présence plus ancienne que les temples, plus silencieuse que les dieux.
-Nul ne le convoque. Il descend quand il le veut, et son regard, dit-on, pèse les âmes. Certains explorateurs, épargnés par miracle, racontent une chaleur curieuse au fond de la poitrine — l’impression d’être lu jusqu’à l’os, puis rendu au monde avec une indifférence écrasante. Face à lui, le sortilège le mieux tissé s’effiloche comme brume au soleil ; une décharge pure embrase l’air, et ce qui était armure n’est plus que cendre.
-Les Amazones y voient le dieu même, descendu parmi les lianes, et les Prêtresses du Serpent usent leur vie à en deviner le dessein dans les glyphes ruinés. Quand un Coatl choisit de se poser au-dessus d’une armée, le temps se suspend : chacune sait que la bataille à venir n’est plus une affaire de flèches ou de lames, mais un arrêt du destin, une ligne écrite dans l’ordre du monde. Alors la troupe entière s’ordonne comme un seul corps, habitée par une volonté qui la dépasse — celle d’un serpent céleste venu peser dans la balance des Anciens.*
+> Dans la canopée où la lumière se brise en lames, glisse un arc-en-ciel vivant — le Coatl. Ses écailles moirent l’air de reflets mouvants, plumes vert et or frémissant comme un souvenir d’oiseau sacré. Autour de lui, les vents de magie se courbent, aimantés par une présence plus ancienne que les temples, plus silencieuse que les dieux.
+> Nul ne le convoque. Il descend quand il le veut, et son regard, dit-on, pèse les âmes. Certains explorateurs, épargnés par miracle, racontent une chaleur curieuse au fond de la poitrine — l’impression d’être lu jusqu’à l’os, puis rendu au monde avec une indifférence écrasante. Face à lui, le sortilège le mieux tissé s’effiloche comme brume au soleil ; une décharge pure embrase l’air, et ce qui était armure n’est plus que cendre.
+> Les Amazones y voient le dieu même, descendu parmi les lianes, et les Prêtresses du Serpent usent leur vie à en deviner le dessein dans les glyphes ruinés. Quand un Coatl choisit de se poser au-dessus d’une armée, le temps se suspend : chacune sait que la bataille à venir n’est plus une affaire de flèches ou de lames, mais un arrêt du destin, une ligne écrite dans l’ordre du monde. Alors la troupe entière s’ordonne comme un seul corps, habitée par une volonté qui la dépasse — celle d’un serpent céleste venu peser dans la balance des Anciens.
 
 || M | CC | CT | F | E | PV | I | A | Cd | Points |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -901,10 +901,10 @@ Le Coatl confère à son cavalier un modificateur de **+1** à sa sauvegarde d'a
 
 # Canon Slann Feu-Stellaire
 
-*« Quand le Canon tonna pour la première fois depuis des millénaires, les Guerrières crurent que les Anciens étaient revenus. La lumière qui jaillit n’appartenait pas à ce monde — elle était le feu figé des étoiles que les Slann nommaient autrefois Tz’arkan Sotek. Et ce jour-là, la jungle retint son souffle. »
-— Chroniques orales des Amazones de Lustrie
-Forgé quand le ciel touchait encore la terre et que les Mages-Prêtres pliaient la lumière elle-même en artillerie, le Canon Feu-Stellaire n’est ni arme ni autel : c’est un débris d’âge primordial, une relique que la jungle avait avalée avant que les Amazones ne la réveillent. Taillé d’un jade si sombre qu’il boit le jour, parcouru de filaments d’or qui ne s’allument qu’au chant des Prêtresses, il ouvre en son cœur un hexagone de vide absolu — une fenêtre sur l’étoffe même des astres.
-On ne le charge pas, on l’éveille. Une Prêtresse pose les mains sur les glyphes, prononce les syllabes arrachées aux tablettes de pensée pure, et le canon se met à bourdonner comme une ruche d’étoiles. Il puise dans les vents de magie alentour, lentement, inexorablement, jusqu’à ce que sa gueule hexagonale s’embrase d’une lumière blême insoutenable. Alors il ne tire pas : il impose un silence, une absence tonitruante. Un éclair de néant pur fuse en ligne droite, et là où frappe ce feu qui n’est pas de ce monde ne demeurent qu’une pierre vitrifiée, une ombre gravée et le souvenir ébloui d’une étoile qui s’est donnée un instant à la terre.*
+> « Quand le Canon tonna pour la première fois depuis des millénaires, les Guerrières crurent que les Anciens étaient revenus. La lumière qui jaillit n’appartenait pas à ce monde — elle était le feu figé des étoiles que les Slann nommaient autrefois Tz’arkan Sotek. Et ce jour-là, la jungle retint son souffle. »
+> — Chroniques orales des Amazones de Lustrie
+> Forgé quand le ciel touchait encore la terre et que les Mages-Prêtres pliaient la lumière elle-même en artillerie, le Canon Feu-Stellaire n’est ni arme ni autel : c’est un débris d’âge primordial, une relique que la jungle avait avalée avant que les Amazones ne la réveillent. Taillé d’un jade si sombre qu’il boit le jour, parcouru de filaments d’or qui ne s’allument qu’au chant des Prêtresses, il ouvre en son cœur un hexagone de vide absolu — une fenêtre sur l’étoffe même des astres.
+> On ne le charge pas, on l’éveille. Une Prêtresse pose les mains sur les glyphes, prononce les syllabes arrachées aux tablettes de pensée pure, et le canon se met à bourdonner comme une ruche d’étoiles. Il puise dans les vents de magie alentour, lentement, inexorablement, jusqu’à ce que sa gueule hexagonale s’embrase d’une lumière blême insoutenable. Alors il ne tire pas : il impose un silence, une absence tonitruante. Un éclair de néant pur fuse en ligne droite, et là où frappe ce feu qui n’est pas de ce monde ne demeurent qu’une pierre vitrifiée, une ombre gravée et le souvenir ébloui d’une étoile qui s’est donnée un instant à la terre.
 
 **Type de troupe :** Machine de Guerre
 **Taille de socle :** 60 x 100 mm
@@ -1094,27 +1094,27 @@ Les pages suivantes décrivent les objets magiques propres aux armées des Royau
 ## ARMES MAGIQUES
 
 **Lame des Réalités** – 75 pts
-*Forgée dans les profondeurs des temples anciens, cette lame semble capable de trancher le voile entre les mondes.*
+> Forgée dans les profondeurs des temples anciens, cette lame semble capable de trancher le voile entre les mondes.
 Les blessures non sauvegardées causées par cette arme obligent la cible à réussir un test de Commandement ou être tuée sur le coup. Les personnages peuvent utiliser leur propre valeur de Commandement pour ce test.
 
 **Cimeterre Resplendissant** – 60 pts
-*Cette lame incurvée étincelle d'un éclat doré qui accélère les gestes de celle qui la manie.*
+> Cette lame incurvée étincelle d'un éclat doré qui accélère les gestes de celle qui la manie.
 Le porteur gagne +2 Attaques.
 
 **Épée Piranha** – 40 pts
-*Enchantée à l'image du poisson dont elle porte le nom, cette lame déchiquète les chairs avec une férocité redoutable.*
+> Enchantée à l'image du poisson dont elle porte le nom, cette lame déchiquète les chairs avec une férocité redoutable.
 Les blessures non sauvegardées causées par cette arme infligent 2 Points de vie au lieu de 1.
 
 **Grand Bâton Solaire** – 45 pts
-*Taillé dans un bois sacré et serti de cristaux solaires, ce bâton projette des éclairs de lumière brûlante.*
+*Taillé dans un bois sacré et serti de cristaux solaires, ce bâton projette des éclairs de lumière brûlante.
 Arme de tir. Portée 24", Force 5, Perforant (1), Tir Rapide. Nécessite les deux mains.
 
 **Épée Sacrificielle** – 30 pts
-*Consacrée lors de rituels anciens, cette lame porte la bénédiction des dieux amazones qui réclament les âmes des puissants.*
+> Consacrée lors de rituels anciens, cette lame porte la bénédiction des dieux amazones qui réclament les âmes des puissants.
 Le porteur gagne la règle spéciale Coups Fatals.
 
 **Épée-Frelon** (*) – 25 pts
-*Légère et d'une précision redoutable, cette épée frappe aussi vite que l'insecte dont elle porte le nom.*
+> Légère et d'une précision redoutable, cette épée frappe aussi vite que l'insecte dont elle porte le nom.
 Le porteur gagne la règle spéciale Frappe Toujours en Premier.
 
 ---
@@ -1122,19 +1122,19 @@ Le porteur gagne la règle spéciale Frappe Toujours en Premier.
 ## ARMURES MAGIQUES
 
 **Heaume de la Grande Matriarche** – 50 pts
-*Coiffure cérémonielle des plus grandes guerrières amazones, ce heaume confère à son porteur une autorité naturelle sur le champ de bataille.*
+> Coiffure cérémonielle des plus grandes guerrières amazones, ce heaume confère à son porteur une autorité naturelle sur le champ de bataille.
 Armure lourde. Le porteur améliore sa sauvegarde d'armure de +1 et gagne un modificateur de +1 à sa caractéristique de Commandement.
 
 **Bouclier-Miroir** – 45 pts
-*Sa surface polie comme un miroir renvoie la lumière et les énergies magiques avec une précision déstabilisante.*
+> Sa surface polie comme un miroir renvoie la lumière et les énergies magiques avec une précision déstabilisante.
 Bouclier. Sur un jet de 4+, tout Projectile Magique ciblant le porteur est renvoyé vers le lanceur, qui devient alors la cible de son propre sort. Le lanceur peut tenter une dissipation normale.
 
 **Bouclier de Mutilation** – 30 pts
-*Orné de lames et de pointes acérées, ce bouclier est autant une arme qu'une protection.*
+> Orné de lames et de pointes acérées, ce bouclier est autant une arme qu'une protection.
 Bouclier. Le porteur gagne +1 Attaque. Cette attaque supplémentaire est considérée comme magique.
 
 **Bouclier Enchanté** (*) – 20 pts
-*Forgé et béni par les prêtresses du soleil, ce bouclier offre une protection accrue à celle qui le porte.*
+> Forgé et béni par les prêtresses du soleil, ce bouclier offre une protection accrue à celle qui le porte.
 Bouclier. Le porteur gagne une sauvegarde d'armure de 5+. Si le porteur dispose déjà d'une sauvegarde d'armure, celle-ci est améliorée de +1 à la place.
 
 ---
@@ -1142,19 +1142,19 @@ Bouclier. Le porteur gagne une sauvegarde d'armure de 5+. Si le porteur dispose 
 ## TALISMANS
 
 **Amulette Lunaire** – 50 pts
-*Façonnée à la pleine lune par les prêtresses de la déesse-lune, cette amulette baigne son porteur d'une lumière protectrice argentée.*
+> Façonnée à la pleine lune par les prêtresses de la déesse-lune, cette amulette baigne son porteur d'une lumière protectrice argentée.
 Le porteur gagne une sauvegarde invulnérable de 4+.
 
 **Aura de Dispersion** – 40 pts
-*Une énergie trouble émane en permanence de ce talisman, perturbant les sens et les réflexes des adversaires au combat.*
+> Une énergie trouble émane en permanence de ce talisman, perturbant les sens et les réflexes des adversaires au combat.
 Les ennemis subissent un modificateur de -1 pour toucher le porteur lors des attaques au corps à corps.
 
 **Amulette-Bouclier** – 30 pts
-*Ce médaillon massif pulse d'une énergie protectrice qui se libère d'un coup face au danger.*
+> Ce médaillon massif pulse d'une énergie protectrice qui se libère d'un coup face au danger.
 Usage unique. Le porteur gagne une sauvegarde invulnérable de 2+ contre la première blessure qu'il subit durant la bataille.
 
 **Amulette Brillante** (*) – 15 pts
-*Cette petite amulette de résine sacrée brille faiblement, absorbant une part des coups qui atteignent son porteur.*
+> Cette petite amulette de résine sacrée brille faiblement, absorbant une part des coups qui atteignent son porteur.
 Le porteur gagne une sauvegarde invulnérable de 6+.
 
 ---
@@ -1162,27 +1162,27 @@ Le porteur gagne une sauvegarde invulnérable de 6+.
 ## OBJETS ENCHANTÉS
 
 **Tambour de Guerre Sacré** – 40 pts
-*Le battement puissant et régulier de ce tambour sacré galvanise les guerrières amazones, leur insufflant courage et détermination.*
+> Le battement puissant et régulier de ce tambour sacré galvanise les guerrières amazones, leur insufflant courage et détermination.
 Les unités amies à 12" du porteur peuvent effectuer des marches forcées même si elles se trouvent à 8" ou moins d'une unité ennemie. De plus, les unités amies qui tentent de se rallier dans cette même zone gagnent un modificateur de +1 à leur Commandement pour ce test.
 
 **Cape à Plumes** – 40 pts
-*Tissée de milliers de plumes d'oiseaux sacrés, cette cape permet à son porteur de s'élever dans les airs avec une grâce naturelle.*
+> Tissée de milliers de plumes d'oiseaux sacrés, cette cape permet à son porteur de s'élever dans les airs avec une grâce naturelle.
 Le porteur gagne la règle spéciale Vol (8).
 
 **Statuette Sacrificielle** – 30 pts
-*Cette figurine taillée à l'image d'un ennemi concentre une magie ancienne et redoutable qui s'en prend directement à la vitalité de la cible.*
+> Cette figurine taillée à l'image d'un ennemi concentre une magie ancienne et redoutable qui s'en prend directement à la vitalité de la cible.
 Sort lié (Niveau de Puissance 5). Usage unique. Ciblez un personnage ennemi à 18". Il doit réussir un test d'Endurance ou perdre 1 Point de vie, sans sauvegarde d'armure possible. En cas d'échec, répétez le test jusqu'à ce que la cible réussisse ou soit tuée.
 
 **Charme du Frère-Jaguar** – 25 pts
-*Ce charme canin permet à son porteur de se déplacer avec la vitesse et la fluidité du jaguar, bondissant par-dessus les obstacles.*
+> Ce charme canin permet à son porteur de se déplacer avec la vitesse et la fluidité du jaguar, bondissant par-dessus les obstacles.
 Sort lié (Niveau de Puissance 5). Le porteur peut se déplacer de 10" dans n'importe quelle direction en ignorant les terrains et les unités, comme s'il volait. Ce déplacement ne peut pas être utilisé pour déclarer une charge.
 
 **Pendentif de Féroce** – 25 pts
-*Ce pendentif s'imbibe du sang de son porteur au premier combat, éveillant en lui une rage guerrière incontrôlable.*
+> Ce pendentif s'imbibe du sang de son porteur au premier combat, éveillant en lui une rage guerrière incontrôlable.
 Dès que le porteur inflige sa première blessure non sauvegardée, il gagne la règle spéciale Frénésie pour le reste de la bataille.
 
 **Venin de Grenouille-Luciole** (*) – 25 pts
-*Ce poison extrait d'une grenouille bioluminescente rare est enduit sur les armes des guerrières amazones, rendant leurs coups imprévisibles et mortels.*
+> Ce poison extrait d'une grenouille bioluminescente rare est enduit sur les armes des guerrières amazones, rendant leurs coups imprévisibles et mortels.
 Toutes les attaques de corps à corps non magiques du porteur deviennent à la fois Magiques et Empoisonnées.
 
 ---
@@ -1190,27 +1190,27 @@ Toutes les attaques de corps à corps non magiques du porteur deviennent à la f
 ## OBJETS ARCANES
 
 **Main des Anciens** – 60 pts
-*Relique sacrée des chamans amazones, cette main momifiée canalisait jadis une puissance magique colossale. Elle suffit encore à déchaîner des turbulences dans les sorts ennemis.*
+> Relique sacrée des chamans amazones, cette main momifiée canalisait jadis une puissance magique colossale. Elle suffit encore à déchaîner des turbulences dans les sorts ennemis.
 Usage unique. Une fois par bataille, vous pouvez forcer un Sorcier ennemi ayant subi un Incident de Sorcellerie à en subir immédiatement un second sur un jet de 2+.
 
 **Cube des Ténèbres** – 50 pts
-*Ce cube d'obsidienne sculptée absorbe et dissipe les énergies magiques environnantes avec une efficacité redoutable.*
+> Ce cube d'obsidienne sculptée absorbe et dissipe les énergies magiques environnantes avec une efficacité redoutable.
 Usage unique. Le porteur peut utiliser cet objet à la place d'une tentative de dissipation normale. Sur un jet de 4+, la phase de Magie prend immédiatement fin et tous les sorts Persistants actifs, amis comme ennemis, sont dissipés.
 
 **Bâton de Sorcellerie** – 40 pts
-*Ce bâton sculpté de runes protectrices amplifie la résistance magique de celle qui le manie.*
+> Ce bâton sculpté de runes protectrices amplifie la résistance magique de celle qui le manie.
 Le porteur gagne un modificateur de +1 à tous ses jets de Dissipation.
 
 **Diadème de Puissance** – 30 pts
-*Ce diadème de jade capte les flux de magie ambiante et les redirige vers la défense.*
+> Ce diadème de jade capte les flux de magie ambiante et les redirige vers la défense.
 Au début de chaque phase de Magie adverse, le porteur peut convertir jusqu'à 2 dés de Canalisation en dés de Dissipation.
 
 **Bâton d'Orage** – 25 pts
-*Chargé d'énergie tempétueuse, ce bâton libère un puissant éclair qui ravage les rangs ennemis.*
+> Chargé d'énergie tempétueuse, ce bâton libère un puissant éclair qui ravage les rangs ennemis.
 Sort lié (Niveau de Puissance 6). Usage unique. Projectile Magique. Portée 24", Force 6, Perforant (1).
 
 **Vers de Pouvoir** (*) – 25 pts
-*Ces symboles runiques tracés sur un morceau d'écorce sacrée libèrent une bouffée d'énergie magique supplémentaire au moment voulu.*
+> Ces symboles runiques tracés sur un morceau d'écorce sacrée libèrent une bouffée d'énergie magique supplémentaire au moment voulu.
 Usage unique. Le porteur peut utiliser cet objet avant de lancer les dés pour un sort. Le résultat du jet de lancement est amélioré de +3.
 
 ---
@@ -1218,19 +1218,19 @@ Usage unique. Le porteur peut utiliser cet objet avant de lancer les dés pour u
 ## ÉTENDARDS MAGIQUES
 
 **Bannière d'Effroi** – 50 pts
-*Ornée de crânes et de trophées de guerre, cette bannière répand une aura de terreur sur le champ de bataille.*
+> Ornée de crânes et de trophées de guerre, cette bannière répand une aura de terreur sur le champ de bataille.
 L'unité qui porte cette bannière cause la règle spéciale Peur.
 
 **Bannière de Domination** – 60 pts
-*Tissée de fils d'or et de plumes de l'oiseau-tonnerre, cette bannière rayonne d'une énergie perturbatrice qui sème la confusion dans l'esprit des Sorciers ennemis.*
+> Tissée de fils d'or et de plumes de l'oiseau-tonnerre, cette bannière rayonne d'une énergie perturbatrice qui sème la confusion dans l'esprit des Sorciers ennemis.
 Tous les Sorciers ennemis à 8" de cette bannière doivent réussir un test de Stupidité au début de chaque phase de Magie ennemie. Les Sorciers qui échouent ne peuvent pas lancer de sorts durant cette phase.
 
 **Totem Aveuglant** – 45 pts
-*Ce totem orné de miroirs et de cristaux scintillants aveugle les tireurs ennemis, rendant leurs tirs imprécis.*
+> Ce totem orné de miroirs et de cristaux scintillants aveugle les tireurs ennemis, rendant leurs tirs imprécis.
 Les attaques de tir ciblant l'unité qui porte ce totem subissent un modificateur de -1 pour toucher à longue portée, et un modificateur de -2 pour toucher à courte portée.
 
 **Bannière de Guerre** (*) – 25 pts
-*Cette bannière aux couleurs vives galvanise les guerrières qui combattent sous ses couleurs, les poussant à redoubler d'ardeur.*
+> Cette bannière aux couleurs vives galvanise les guerrières qui combattent sous ses couleurs, les poussant à redoubler d'ardeur.
 L'unité qui porte cette bannière gagne un bonus de +1 au Résultat de Combat.
 
 ---
@@ -1258,7 +1258,7 @@ Les modèles avec cette règle bénéficient des effets suivants :
 
 ## 0. Baiser du Serpent *(Sort Signature)*
 
-*D'un murmure, la prêtresse invoque l'essence primale du serpent. Les crocs scintillent d'un venin surnaturel…*
+> D'un murmure, la prêtresse invoque l'essence primale du serpent. Les crocs scintillent d'un venin surnaturel…
 
 **Type : Enchantement**
 **Valeur de lancement :** 4+
@@ -1271,7 +1271,7 @@ L'unité amie ciblée gagne la règle spéciale **Attaques Empoisonnées** jusqu
 
 ## 1. Rapidité du Serpent
 
-*Une bénédiction de réflexes fulgurants, héritée de la vipère de jungle.*
+> Une bénédiction de réflexes fulgurants, héritée de la vipère de jungle.
 
 **Type : Enchantement**
 **Valeur de lancement :** 5+
@@ -1287,7 +1287,7 @@ L'unité amie ciblée bénéficie des effets suivants jusqu'au prochain sous-tou
 
 ## 2. Sang‑Venin
 
-*Le sang des guerrières devient aussi toxique que celui des créatures sacrées.*
+> Le sang des guerrières devient aussi toxique que celui des créatures sacrées.
 
 **Type : Enchantement**
 **Valeur de lancement :** 7+
@@ -1303,7 +1303,7 @@ L'unité amie ciblée bénéficie des effets suivants jusqu'au prochain sous-tou
 
 ## 3. Anneaux du Constricteur
 
-*Des serpents spectraux enserrent l'ennemi jusqu'à l'étouffer.*
+> Des serpents spectraux enserrent l'ennemi jusqu'à l'étouffer.
 
 **Type : Projectile Magique**
 **Valeur de lancement :** 8+
@@ -1319,7 +1319,7 @@ Si au moins une blessure non sauvegardée est infligée, jusqu'au prochain sous-
 
 ## 4. Regard du Basilic
 
-*Un regard pétrifiant qui fige le sang.*
+> Un regard pétrifiant qui fige le sang.
 
 **Type : Maléfice**
 **Valeur de lancement :** 9+
@@ -1341,7 +1341,7 @@ L'unité ennemie ciblée doit réussir un test de Commandement.
 
 ## 5. Nuée d'Engeances Serpentines
 
-*La Prêtresse invoque une nuée de serpents sacrés qui surgissent des profondeurs de la jungle pour engloutir les ennemis de Rigg.*
+> La Prêtresse invoque une nuée de serpents sacrés qui surgissent des profondeurs de la jungle pour engloutir les ennemis de Rigg.
 
 **Type : Convocation**
 **Valeur de lancement :** 10+
@@ -1374,7 +1374,7 @@ Ce sort ne peut être lancé **qu'une seule fois par partie**.
 
 ## 6. Apothéose des Écailles
 
-*La bénédiction ultime transforme les guerrières en hybrides sacrées.*
+> La bénédiction ultime transforme les guerrières en hybrides sacrées.
 
 **Type : Enchantement**
 **Valeur de lancement :** 12+
