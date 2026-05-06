@@ -77,6 +77,7 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 ##  Cheffe de Guerre Amazone et Mère de la Sororité
 
 > Avant même que les armées du Vieux Monde aient appris à forger le fer, les Amazones de Lustrie combattaient déjà à l'ombre des pyramides de leurs maîtres Slann, gardiennes d'un savoir aussi vieux que les étoiles elles-mêmes. Au sommet de cette hiérarchie de sang et de volonté se dressent les Mères de la Sororité — femmes de guerre dont l'autorité n'est jamais disputée, dont la parole vaut loi au cœur de la jungle comme sur le champ de bataille. Façonnées par des générations de combats contre les prédateurs de Lustrie et les envahisseurs venus de la mer, elles portent en elles la mémoire des grands rituels de guerre, les tactiques codifiées dans les glyphes des anciens temples, et la froide certitude de celles qui ont survécu là où tant d'autres ont péri. Leur regard ne trahit ni peur ni doute — seulement la résolution absolue de celles à qui l'on a confié la survie de tout un peuple.
+> 
 > Aux côtés des Mères chevauchent les Cheffes de Guerre Amazones, lames acérées de leur sororité, aussi impétueuses que leurs aînées sont calculées. Là où la Mère ordonne, la Cheffe de Guerre frappe — son cri de guerre déchirant l'air chaud et humide de la canopée, électrisant ses sœurs d'armes d'une ardeur farouche qui fait chanceler les lignes ennemies avant même que le premier sang ne coule. Ces guerrières ne connaissent pas la retraite ; elles connaissent la victoire, ou elles connaissent la mort — et dans un cas comme dans l'autre, elles avancent.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
@@ -152,7 +153,9 @@ Au début de n’importe quel tour ami, une Cheffe de Guerre Amazone peut décle
 ## Prêtresse du Serpent et Grande Prêtresse du Serpent  
 
 > Au cœur des cités perdues de Lustrie, là où les racines des temples anciens enlacent les tablettes de pierre oubliées, règne la sororité des Prêtresses du Serpent. Point d’oracle sans leur souffle, point de guerre sans leur murmure : c’est à elles qu’échoit la charge de guider la nation amazone, liant le visible à l’invisible, la lame à l’éternité. Initiées sous la tutelle silencieuse des Slann, ces mages-prêtres titanesques dont la pensée pure se figea jadis en hiéroglyphes sacrés, elles ont recueilli un legs que le Vieux Monde n’a jamais soupçonné — une magie née avant les dieux des hommes, avant même le souvenir de la terre.
+> 
 > Le serpent, pour elles, n’est pas une idole taillée dans l’argile ; il est le fil ondoyant qui relie le sang des vivantes à la mémoire des Anciens. Paré des plumes irisées du Quetzalcoatl, il se love dans leurs incantations, se glisse dans leurs songes, et confère à leurs voix l’autorité des tempêtes primordiales. Ainsi, lorsque Dekala à la peau pâle ou la souveraine Anaconda conduisent l’embuscade sous la canopée, chaque geste de ces prêtresses devient un écho de la création première. Elles portent sur elles des artefacts frémissants de puissance captive, murmurent des syllabes qui font frémir les feuillages, et transforment le champ de bataille en sanctuaire.
+> 
 > Guerrières-mystiques aux doigts tachés de pigments rituels, elles ne sont pas de simples sources de magie, mais les fibres mêmes du destin amazone. C’est par leur sacrifice murmuré, par leur accord avec des forces qui dépassent l’entendement humain, que les créatures ailées des cimes répondent à l’appel, que les rochers pleuvent en tempêtes, et que les rangs ennemis se découvrent vulnérables, l’espace d’un instant suspendu entre deux éclairs de lance. Alors, dans le fracas des charges et le sifflement des plumes, les Prêtresses du Serpent incarnent l’âme entière d’un peuple : antédiluvienne, implacable, et tout entière vouée à la survie.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
@@ -388,7 +391,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 | **Mêlée** | Combat | Util.+1 | -1 | Attaques Magiques, Instable |
 | **Tir (Feu Solaire)** | 12" | 3 | — | Attaques Magiques, Tir Rapide, Instable |
 
-> **Instable :** À chaque tour de tir ou de combat où ce modèle utilise sa Lame des Anciens, lancez 1D6. Sur un résultat de **1**, l'arme s'emballe : le modèle subit automatiquement 1 blessure sans sauvegarde d'aucune sorte.
+**Instable :** À chaque tour de tir ou de combat où ce modèle utilise sa Lame des Anciens, lancez 1D6. Sur un résultat de **1**, l'arme s'emballe : le modèle subit automatiquement 1 blessure sans sauvegarde d'aucune sorte.
 ---
 
 ## Nuées de la Jungle
@@ -655,7 +658,9 @@ Anciennes armes façonnées à partir d'os de bêtes primordiales, capables de d
 # Guerrières Python
 
 > À l'opposé des Guerrières Jaguars et de leur force tumultueuse, les Guerrières Python cultivent une puissance plus silencieuse, faite d'attente et de précision. Elles ont appris du grand serpent que la patience est une arme, et que le moment choisi pour frapper vaut toutes les charges impétueuses.
+> 
 > Leur initiation est une longue solitude. Des semaines durant, la novice vit dans la jungle, à l'affût, observant les pythons se fondre dans l'ombre, sentir la chaleur d'une proie et ne bondir qu'à l'instant décisif. Certaines en reviennent le regard changé, capables d'encaisser les coups sans jamais rompre leur concentration. D'autres disparaissent sans laisser de trace.
+> 
 > Au combat, cette discipline les rend redoutables. Immobiles sous les assauts, elles guettent le défaut dans l'armure, la faille dans la garde, puis frappent d'une lame aussi précise qu'un crochet venimeux, s'insinuant là où nul ne les attend. Les Prêtresses du Serpent voient en elles leurs protectrices naturelles : quand leurs forces se mêlent, le venin de la magie répond à la piqûre de l'acier, et l'ennemi succombe dans un étau sans recours.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
@@ -698,7 +703,9 @@ Cette unité traite les forêts et zones de jungle comme du terrain ouvert pour 
 # Guerrière Piranha
 
 > Lentes sont les Python, endurantes les Jaguar ; les Guerrières Piranha n'ont foi qu'en la vitesse. Leur nom leur vient du prédateur fluvial dont elles imitent la frénésie : une grêle de coups si rapide que l'ennemi ne voit rien venir, et déjà elles sont ailleurs.
+> 
 > Leur apprentissage se fait dans les eaux troubles, au milieu des bancs affamés qu'il faut traverser sans une plaie. Chaque mouvement doit être juste, chaque geste économe — une école de survie qui affine les corps et aiguise l'instinct jusqu'à sentir le danger avant qu'il ne morde. Elles en rapportent une leçon essentielle : une seule morsure est négligeable, mais cent portées en un instant noient la proie.
+> 
 > Au combat, légères et insaisissables, elles tourbillonnent sur les flancs adverses, leurs lames courtes lacérant les formations les plus strictes. Leurs adversaires frappent le vide ; elles frappent le sang. Elles ne tiennent pas la ligne, elles ne l'affrontent pas — elles la vident, coup après coup, jusqu'à ce que l'ennemi s'effondre, vidé de sa substance.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
@@ -738,8 +745,11 @@ Au cours de tout tour où cette unité a chargé, chaque modèle gagne **+1 Atta
 # Stegadon
 
 > Dans l’immensité verte de Lustrie où rôdent des colosses venus d’un autre âge, le Stégadon est une montagne vivante : une armure d’écailles et de cornes, une charge qui fend la terre, un cri assez grave pour ébranler les murailles. Les Amazones le tiennent peut-être des Slann eux-mêmes, un don ancien scellé dans la fidélité à la Grande Œuvre.
+> 
 > Point de Skinks pour le conduire : ici, les Prêtresses du Serpent élèvent et lient ces bêtes par la confiance, non par la force. Une dresseuse partage des années avec son Stégadon, le nourrit, devine ses humeurs, tisse avec lui un pacte où la volonté n’est pas brisée mais accordée.
+> 
 > Au combat, il devient forteresse mouvante — un howdah chargé d’élites qui criblent l’ennemi de traits. Mais le vrai péril, c’est sa charge : des tonnes de fureur lancées contre les lignes, qui pulvérisent formations et chars comme fétus de paille.
+> 
 > Les plus vieux, les Kuraq, portent sur leurs écailles les cicatrices des siècles et sur leurs cornes les offrandes de vénération. Leur seule ombre sur le champ de bataille galvanise les guerrières et glace l’ennemi jusqu’à l’os.
 
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
@@ -845,7 +855,9 @@ Un Stegadon ou Ancien Stegadon peut servir de monture à un héros Amazone ou à
 ## Coatl
 
 > Dans la canopée où la lumière se brise en lames, glisse un arc-en-ciel vivant — le Coatl. Ses écailles moirent l’air de reflets mouvants, plumes vert et or frémissant comme un souvenir d’oiseau sacré. Autour de lui, les vents de magie se courbent, aimantés par une présence plus ancienne que les temples, plus silencieuse que les dieux.
+> 
 > Nul ne le convoque. Il descend quand il le veut, et son regard, dit-on, pèse les âmes. Certains explorateurs, épargnés par miracle, racontent une chaleur curieuse au fond de la poitrine — l’impression d’être lu jusqu’à l’os, puis rendu au monde avec une indifférence écrasante. Face à lui, le sortilège le mieux tissé s’effiloche comme brume au soleil ; une décharge pure embrase l’air, et ce qui était armure n’est plus que cendre.
+> 
 > Les Amazones y voient le dieu même, descendu parmi les lianes, et les Prêtresses du Serpent usent leur vie à en deviner le dessein dans les glyphes ruinés. Quand un Coatl choisit de se poser au-dessus d’une armée, le temps se suspend : chacune sait que la bataille à venir n’est plus une affaire de flèches ou de lames, mais un arrêt du destin, une ligne écrite dans l’ordre du monde. Alors la troupe entière s’ordonne comme un seul corps, habitée par une volonté qui la dépasse — celle d’un serpent céleste venu peser dans la balance des Anciens.
 
 || M | CC | CT | F | E | PV | I | A | Cd | Points |
@@ -899,7 +911,9 @@ Le Coatl confère à son cavalier un modificateur de **+1** à sa sauvegarde d'a
 
 > « Quand le Canon tonna pour la première fois depuis des millénaires, les Guerrières crurent que les Anciens étaient revenus. La lumière qui jaillit n’appartenait pas à ce monde — elle était le feu figé des étoiles que les Slann nommaient autrefois Tz’arkan Sotek. Et ce jour-là, la jungle retint son souffle. »
 > — Chroniques orales des Amazones de Lustrie
+> 
 > Forgé quand le ciel touchait encore la terre et que les Mages-Prêtres pliaient la lumière elle-même en artillerie, le Canon Feu-Stellaire n’est ni arme ni autel : c’est un débris d’âge primordial, une relique que la jungle avait avalée avant que les Amazones ne la réveillent. Taillé d’un jade si sombre qu’il boit le jour, parcouru de filaments d’or qui ne s’allument qu’au chant des Prêtresses, il ouvre en son cœur un hexagone de vide absolu — une fenêtre sur l’étoffe même des astres.
+> 
 > On ne le charge pas, on l’éveille. Une Prêtresse pose les mains sur les glyphes, prononce les syllabes arrachées aux tablettes de pensée pure, et le canon se met à bourdonner comme une ruche d’étoiles. Il puise dans les vents de magie alentour, lentement, inexorablement, jusqu’à ce que sa gueule hexagonale s’embrase d’une lumière blême insoutenable. Alors il ne tire pas : il impose un silence, une absence tonitruante. Un éclair de néant pur fuse en ligne droite, et là où frappe ce feu qui n’est pas de ce monde ne demeurent qu’une pierre vitrifiée, une ombre gravée et le souvenir ébloui d’une étoile qui s’est donnée un instant à la terre.
 
 **Type de troupe :** Machine de Guerre
