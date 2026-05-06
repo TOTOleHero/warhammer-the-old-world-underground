@@ -31,7 +31,7 @@ Une seule Cheffe de Guerre Amazone de votre armée peut être améliorée pour d
 
 ## Personnages
 Jusqu’à 50 % de la valeur en points de votre armée peut être dépensée en :
-- 0‑1 Mère de la Sororité par armée  
+- 0‑1 Mère de la Sororité par tranche de 1000 points
 - Prêtresses du Serpent et Grandes Prêtresses du Serpent  
 - Cheffes de Guerre Amazones
 
