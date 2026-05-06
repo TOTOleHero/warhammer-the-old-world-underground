@@ -1071,125 +1071,153 @@ Il peut être dissiper normalement.
 
 # Objets Magiques des Amazones
 
-Les pages suivantes décrivent les objets magiques propres aux armées des Royaumes Amazoniens. Ils peuvent être achetés par les figurines d’une armée amazone exactement de la même manière que les objets magiques communs, comme décrit dans le livre de règles de *Warhammer: The Old World*.
+Les pages suivantes décrivent les objets magiques propres aux armées des Royaumes Amazoniens. Ils peuvent être achetés par les figurines d'une armée amazone exactement de la même manière que les objets magiques communs, comme décrit dans le livre de règles de *Warhammer: The Old World*.
 
-**Objets Magiques Extrêmement Courants :** Tout objet magique marqué d’un astérisque (*) est considéré comme extrêmement courant, comme expliqué dans le livre de règles de *Warhammer: The Old World*.
+**Objets Magiques Extrêmement Courants :** Tout objet magique marqué d'un astérisque (*) est considéré comme extrêmement courant, comme expliqué dans le livre de règles de *Warhammer: The Old World*.
 
 ---
 
 ## ARMES MAGIQUES
 
-**Lame des Réalités** – 75 pts  
-*Enchantement :* Les blessures non sauvegardées causées par cette arme obligent la cible à réussir un test de Commandement ou être tuée sur le coup (les personnages peuvent utiliser leur propre Commandement).
+**Lame des Réalités** – 75 pts
+*Forgée dans les profondeurs des temples anciens, cette lame semble capable de trancher le voile entre les mondes.*
+Les blessures non sauvegardées causées par cette arme obligent la cible à réussir un test de Commandement ou être tuée sur le coup. Les personnages peuvent utiliser leur propre valeur de Commandement pour ce test.
 
-**Cimeterre Resplendissant** – 50 pts  
-*Enchantement :* Le porteur gagne +2 Attaques.
+**Cimeterre Resplendissant** – 60 pts
+*Cette lame incurvée étincelle d'un éclat doré qui accélère les gestes de celle qui la manie.*
+Le porteur gagne +2 Attaques.
 
-**Épée Piranha** – 40 pts  
-*Enchantement :* Les blessures non sauvegardées causées par cette arme infligent 2 Points de vie au lieu de 1.
+**Épée Piranha** – 40 pts
+*Enchantée à l'image du poisson dont elle porte le nom, cette lame déchiquète les chairs avec une férocité redoutable.*
+Les blessures non sauvegardées causées par cette arme infligent 2 Points de vie au lieu de 1.
 
-**Grand Bâton Solaire** (*) – 35 pts  
-*Enchantement :* Arme de tir. Portée 24", Force 5, Perforant (1), Tir Rapide. Nécessite les deux mains.
+**Grand Bâton Solaire** – 45 pts
+*Taillé dans un bois sacré et serti de cristaux solaires, ce bâton projette des éclairs de lumière brûlante.*
+Arme de tir. Portée 24", Force 5, Perforant (1), Tir Rapide. Nécessite les deux mains.
 
-**Épée Sacrificielle** – 30 pts  
-*Enchantement :* Le porteur gagne la règle Coups Fatals.
+**Épée Sacrificielle** – 30 pts
+*Consacrée lors de rituels anciens, cette lame porte la bénédiction des dieux amazones qui réclament les âmes des puissants.*
+Le porteur gagne la règle spéciale Coups Fatals.
 
-**Épée-Frelon** (*) – 25 pts  
-*Enchantement :* Le porteur gagne Frappe Toujours en Premier.
+**Épée-Frelon** (*) – 25 pts
+*Légère et d'une précision redoutable, cette épée frappe aussi vite que l'insecte dont elle porte le nom.*
+Le porteur gagne la règle spéciale Frappe Toujours en Premier.
 
 ---
 
 ## ARMURES MAGIQUES
 
-**Heaume de la Grande Matriarche** – 50 pts  
-*Enchantement :* Armure lourde. Le porteur améliore sa sauvegarde d’armure de +1 et gagne +1 Commandement.
+**Heaume de la Grande Matriarche** – 50 pts
+*Coiffure cérémonielle des plus grandes guerrières amazones, ce heaume confère à son porteur une autorité naturelle sur le champ de bataille.*
+Armure lourde. Le porteur améliore sa sauvegarde d'armure de +1 et gagne un modificateur de +1 à sa caractéristique de Commandement.
 
-**Bouclier-Miroir** – 35 pts  
-*Enchantement :* Bouclier. Sur 2+, les Projectiles Magiques ciblant le porteur sont renvoyés vers le lanceur.
+**Bouclier-Miroir** – 45 pts
+*Sa surface polie comme un miroir renvoie la lumière et les énergies magiques avec une précision déstabilisante.*
+Bouclier. Sur un jet de 4+, tout Projectile Magique ciblant le porteur est renvoyé vers le lanceur, qui devient alors la cible de son propre sort. Le lanceur peut tenter une dissipation normale.
 
-**Bouclier de Mutilation** – 30 pts  
-*Enchantement :* Bouclier. Le porteur gagne +1 Attaque (cette attaque est magique).
+**Bouclier de Mutilation** – 30 pts
+*Orné de lames et de pointes acérées, ce bouclier est autant une arme qu'une protection.*
+Bouclier. Le porteur gagne +1 Attaque. Cette attaque supplémentaire est considérée comme magique.
 
-**Bouclier Enchanté** (*) – 15 pts  
-*Enchantement :* Bouclier conférant une sauvegarde d’armure de 5+ (ou améliore la sauvegarde existante de +1, au choix du porteur au début de chaque round de combat).
+**Bouclier Enchanté** (*) – 20 pts
+*Forgé et béni par les prêtresses du soleil, ce bouclier offre une protection accrue à celle qui le porte.*
+Bouclier. Le porteur gagne une sauvegarde d'armure de 5+. Si le porteur dispose déjà d'une sauvegarde d'armure, celle-ci est améliorée de +1 à la place.
 
 ---
 
 ## TALISMANS
 
-**Amulette Lunaire** – 50 pts  
-*Enchantement :* Sauvegarde Invulnérable (4+).
+**Amulette Lunaire** – 50 pts
+*Façonnée à la pleine lune par les prêtresses de la déesse-lune, cette amulette baigne son porteur d'une lumière protectrice argentée.*
+Le porteur gagne une sauvegarde invulnérable de 4+.
 
-**Aura de Dispersion** – 40 pts  
-*Enchantement :* Les ennemis subissent -1 pour toucher le porteur au corps à corps.
+**Aura de Dispersion** – 40 pts
+*Une énergie trouble émane en permanence de ce talisman, perturbant les sens et les réflexes des adversaires au combat.*
+Les ennemis subissent un modificateur de -1 pour toucher le porteur lors des attaques au corps à corps.
 
-**Amulette‑Bouclier** – 30 pts  
-*Enchantement :* Une seule utilisation. Sauvegarde Invulnérable (2+) contre la première blessure reçue par le porteur.
+**Amulette-Bouclier** – 30 pts
+*Ce médaillon massif pulse d'une énergie protectrice qui se libère d'un coup face au danger.*
+Usage unique. Le porteur gagne une sauvegarde invulnérable de 2+ contre la première blessure qu'il subit durant la bataille.
 
-**Amulette Brillante** (*) – 15 pts  
-*Enchantement :* Sauvegarde Invulnérable (6+).
+**Amulette Brillante** (*) – 15 pts
+*Cette petite amulette de résine sacrée brille faiblement, absorbant une part des coups qui atteignent son porteur.*
+Le porteur gagne une sauvegarde invulnérable de 6+.
 
 ---
 
 ## OBJETS ENCHANTÉS
 
-**Tambour de Guerre Sacré** – 40 pts  
-*Enchantement :* Les unités amies à 12" peuvent effectuer des marches forcées même à 8" ou moins des ennemis. De plus, les unités tentant de se rallier dans cette zone gagnent +1 Commandement.
+**Tambour de Guerre Sacré** – 40 pts
+*Le battement puissant et régulier de ce tambour sacré galvanise les guerrières amazones, leur insufflant courage et détermination.*
+Les unités amies à 12" du porteur peuvent effectuer des marches forcées même si elles se trouvent à 8" ou moins d'une unité ennemie. De plus, les unités amies qui tentent de se rallier dans cette même zone gagnent un modificateur de +1 à leur Commandement pour ce test.
 
-**Cape à Plumes** – 35 pts  
-*Enchantement :* Le porteur gagne Vol (8).
+**Cape à Plumes** – 40 pts
+*Tissée de milliers de plumes d'oiseaux sacrés, cette cape permet à son porteur de s'élever dans les airs avec une grâce naturelle.*
+Le porteur gagne la règle spéciale Vol (8).
 
-**Statuette Sacrificielle** – 30 pts  
-*Enchantement :* Sort lié (Niveau de Puissance 5). Ciblez un personnage ennemi à 18". Il doit réussir un test d’Endurance ou perdre 1 PV sans sauvegarde d’armure. En cas d’échec, répétez jusqu’à ce qu’il réussisse ou meure. Une seule utilisation.
+**Statuette Sacrificielle** – 30 pts
+*Cette figurine taillée à l'image d'un ennemi concentre une magie ancienne et redoutable qui s'en prend directement à la vitalité de la cible.*
+Sort lié (Niveau de Puissance 5). Usage unique. Ciblez un personnage ennemi à 18". Il doit réussir un test d'Endurance ou perdre 1 Point de vie, sans sauvegarde d'armure possible. En cas d'échec, répétez le test jusqu'à ce que la cible réussisse ou soit tuée.
 
-**Charme du Frère‑Jaguar** – 25 pts  
-*Enchantement :* Sort lié (Niveau de Puissance 5). Le porteur peut se déplacer de 10" dans n’importe quelle direction (comme en volant), en ignorant terrain et unités. Ne peut pas être utilisé pour charger.
+**Charme du Frère-Jaguar** – 25 pts
+*Ce charme canin permet à son porteur de se déplacer avec la vitesse et la fluidité du jaguar, bondissant par-dessus les obstacles.*
+Sort lié (Niveau de Puissance 5). Le porteur peut se déplacer de 10" dans n'importe quelle direction en ignorant les terrains et les unités, comme s'il volait. Ce déplacement ne peut pas être utilisé pour déclarer une charge.
 
-**Pendentif de Féroce** – 25 pts  
-*Enchantement :* Dès que le porteur inflige sa première blessure non sauvegardée, il gagne Frénésie pour le reste de la bataille.
+**Pendentif de Féroce** – 25 pts
+*Ce pendentif s'imbibe du sang de son porteur au premier combat, éveillant en lui une rage guerrière incontrôlable.*
+Dès que le porteur inflige sa première blessure non sauvegardée, il gagne la règle spéciale Frénésie pour le reste de la bataille.
 
-**Venin de Grenouille‑Luciole** (*) – 20 pts  
-*Enchantement :* Les attaques de mêlée non magiques du porteur deviennent Magiques **et** Empoisonnées.
+**Venin de Grenouille-Luciole** (*) – 25 pts
+*Ce poison extrait d'une grenouille bioluminescente rare est enduit sur les armes des guerrières amazones, rendant leurs coups imprévisibles et mortels.*
+Toutes les attaques de corps à corps non magiques du porteur deviennent à la fois Magiques et Empoisonnées.
 
 ---
 
 ## OBJETS ARCANES
 
-**Main des Anciens** – 50 pts  
-*Enchantement :* Une fois par bataille, vous pouvez forcer un Sorcier ennemi ayant subi un Incident de Sorcellerie à en subir un second sur 2+.
+**Main des Anciens** – 60 pts
+*Relique sacrée des chamans amazones, cette main momifiée canalisait jadis une puissance magique colossale. Elle suffit encore à déchaîner des turbulences dans les sorts ennemis.*
+Usage unique. Une fois par bataille, vous pouvez forcer un Sorcier ennemi ayant subi un Incident de Sorcellerie à en subir immédiatement un second sur un jet de 2+.
 
-**Cube des Ténèbres** (*) – 45 pts  
-*Enchantement :* Une seule utilisation. Parchemin de dissipation qui, sur 4+, met fin immédiatement à la phase de Magie et dissipe tous les sorts Persistants (amis et ennemis).
+**Cube des Ténèbres** – 50 pts
+*Ce cube d'obsidienne sculptée absorbe et dissipe les énergies magiques environnantes avec une efficacité redoutable.*
+Usage unique. Le porteur peut utiliser cet objet à la place d'une tentative de dissipation normale. Sur un jet de 4+, la phase de Magie prend immédiatement fin et tous les sorts Persistants actifs, amis comme ennemis, sont dissipés.
 
-**Bâton de Sorcellerie** – 40 pts  
-*Enchantement :* Le porteur gagne +1 à tous les jets de Dissipation.
+**Bâton de Sorcellerie** – 40 pts
+*Ce bâton sculpté de runes protectrices amplifie la résistance magique de celle qui le manie.*
+Le porteur gagne un modificateur de +1 à tous ses jets de Dissipation.
 
-**Diadème de Puissance** – 30 pts  
-*Enchantement :* Au début de la phase de Magie adverse, vous pouvez convertir jusqu’à 2 dés de Canalisation en dés de Dissipation.
+**Diadème de Puissance** – 30 pts
+*Ce diadème de jade capte les flux de magie ambiante et les redirige vers la défense.*
+Au début de chaque phase de Magie adverse, le porteur peut convertir jusqu'à 2 dés de Canalisation en dés de Dissipation.
 
-**Bâton d’Orage** – 25 pts  
-*Enchantement :* Sort lié (Niveau de Puissance 6). Projectile Magique. Portée 24", Force 6, Perforant (1). Une seule utilisation.
+**Bâton d'Orage** – 25 pts
+*Chargé d'énergie tempétueuse, ce bâton libère un puissant éclair qui ravage les rangs ennemis.*
+Sort lié (Niveau de Puissance 6). Usage unique. Projectile Magique. Portée 24", Force 6, Perforant (1).
 
-**Vers de Pouvoir** (*) – 25 pts  
-*Enchantement :* Une seule utilisation. Ajoutez +3 au résultat lors du lancement d’un sort (annoncé avant de lancer les dés).
+**Vers de Pouvoir** (*) – 25 pts
+*Ces symboles runiques tracés sur un morceau d'écorce sacrée libèrent une bouffée d'énergie magique supplémentaire au moment voulu.*
+Usage unique. Le porteur peut utiliser cet objet avant de lancer les dés pour un sort. Le résultat du jet de lancement est amélioré de +3.
 
 ---
 
 ## ÉTENDARDS MAGIQUES
 
-**Bannière d’Effroi** – 50 pts  
-*Enchantement :* L’unité cause la Peur.
+**Bannière d'Effroi** – 50 pts
+*Ornée de crânes et de trophées de guerre, cette bannière répand une aura de terreur sur le champ de bataille.*
+L'unité qui porte cette bannière cause la règle spéciale Peur.
 
-**Bannière de Domination** – 50 pts  
-*Enchantement :* Tous les Sorciers ennemis à 12" de cette bannière doivent réussir un test de Stupidité au début de chaque phase de Magie.
+**Bannière de Domination** – 60 pts
+*Tissée de fils d'or et de plumes de l'oiseau-tonnerre, cette bannière rayonne d'une énergie perturbatrice qui sème la confusion dans l'esprit des Sorciers ennemis.*
+Tous les Sorciers ennemis à 8" de cette bannière doivent réussir un test de Stupidité au début de chaque phase de Magie ennemie. Les Sorciers qui échouent ne peuvent pas lancer de sorts durant cette phase.
 
-**Totem Aveuglant** – 45 pts  
-*Enchantement :* Les attaques de tir ciblant cette unité subissent -1 pour toucher à longue portée, et -2 à courte portée.
+**Totem Aveuglant** – 45 pts
+*Ce totem orné de miroirs et de cristaux scintillants aveugle les tireurs ennemis, rendant leurs tirs imprécis.*
+Les attaques de tir ciblant l'unité qui porte ce totem subissent un modificateur de -1 pour toucher à longue portée, et un modificateur de -2 pour toucher à courte portée.
 
-**Bannière de Guerre** (*) – 25 pts  
-*Enchantement :* L’unité gagne +1 Résultat de Combat.
-
-
+**Bannière de Guerre** (*) – 25 pts
+*Cette bannière aux couleurs vives galvanise les guerrières qui combattent sous ses couleurs, les poussant à redoubler d'ardeur.*
+L'unité qui porte cette bannière gagne un bonus de +1 au Résultat de Combat.
 ---
 
 ## Règles Spéciales des Amazones 
