@@ -76,6 +76,9 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 
 ##  Cheffe de Guerre Amazone et Mère de la Sororité
 
+*Avant même que les armées du Vieux Monde aient appris à forger le fer, les Amazones de Lustrie combattaient déjà à l'ombre des pyramides de leurs maîtres Slann, gardiennes d'un savoir aussi vieux que les étoiles elles-mêmes. Au sommet de cette hiérarchie de sang et de volonté se dressent les Mères de la Sororité — femmes de guerre dont l'autorité n'est jamais disputée, dont la parole vaut loi au cœur de la jungle comme sur le champ de bataille. Façonnées par des générations de combats contre les prédateurs de Lustrie et les envahisseurs venus de la mer, elles portent en elles la mémoire des grands rituels de guerre, les tactiques codifiées dans les glyphes des anciens temples, et la froide certitude de celles qui ont survécu là où tant d'autres ont péri. Leur regard ne trahit ni peur ni doute — seulement la résolution absolue de celles à qui l'on a confié la survie de tout un peuple.
+Aux côtés des Mères chevauchent les Cheffes de Guerre Amazones, lames acérées de leur sororité, aussi impétueuses que leurs aînées sont calculées. Là où la Mère ordonne, la Cheffe de Guerre frappe — son cri de guerre déchirant l'air chaud et humide de la canopée, électrisant ses sœurs d'armes d'une ardeur farouche qui fait chanceler les lignes ennemies avant même que le premier sang ne coule. Ces guerrières ne connaissent pas la retraite ; elles connaissent la victoire, ou elles connaissent la mort — et dans un cas comme dans l'autre, elles avancent.*
+
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
 | Mère de la Sororité | 4 | 6 | 5 | 3 | 3 | 3 | 7 | 4 | 9 | 115 |
