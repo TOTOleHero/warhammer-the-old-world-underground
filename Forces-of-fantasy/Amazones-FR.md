@@ -47,7 +47,7 @@ Jusqu’à 50 % de la valeur en points de votre armée peut être dépensée en 
 - Chasseresses Jaguar  
 - Guerrières Piranha  
 - Guerrières Python  
-- es de la Jungle  
+- Nuées de la Jungle  
 - Cavalières Amazones sur Sang‑Froid (disponibles avec le Rituel des Serviteurs Écailleux)  
 - Cavalières Amazones sur Terradon (disponibles avec le Rituel des Serviteurs Écailleux)
 
