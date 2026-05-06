@@ -213,10 +213,6 @@ Ces unités comptent comme des unités amazones à tous égards et gagnent la r�
 
 ---
 
-Voici la liste mise à jour :
-
----
-
 **LISTE DES MONTURES**
 
 Un personnage pouvant être monté peut choisir une monture dans la liste suivante :
