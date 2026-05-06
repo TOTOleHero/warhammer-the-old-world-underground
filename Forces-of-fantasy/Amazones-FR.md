@@ -247,13 +247,6 @@ Sang‑Froid ...................................................................
 
 ---
 
-### Notes sur les choix effectués :
-- L'**Ancien Stegadon** est réservé à la **Mère de la Sororité** car lui seul peut accueillir le Canon Slann Feu-Stellaire
-- Le **Stegadon standard** est accessible à la **Cheffe de Guerre Amazone** en tant que héros de combat
-- Les deux sont en **0-1 par armée** pour limiter leur impact sur l'équilibre
-- La mention "voir page XX" est à remplacer par le coût en points défini dans le profil du Stegadon
----
-
 ### Guerrières Tribales
 
 *Les Guerrières Tribales forment le cœur des tribus amazoniennes de la jungle de Lustrie. Armées d'épées et d'arcs, elles surgissent de la végétation pour frapper avec une rapidité surnaturelle. Leurs armures de cuir ornées de bronze, de peintures rituelles et de totems protecteurs leur permettent de se fondre dans le décor comme des prédateurs de la jungle.*
