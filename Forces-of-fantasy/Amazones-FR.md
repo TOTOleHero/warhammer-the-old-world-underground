@@ -1073,7 +1073,7 @@ Il peut être dissiper normalement.
 
 Les pages suivantes décrivent les objets magiques propres aux armées des Royaumes Amazoniens. Ils peuvent être achetés par les figurines d'une armée amazone exactement de la même manière que les objets magiques communs, comme décrit dans le livre de règles de *Warhammer: The Old World*.
 
-**Objets Magiques Extrêmement Courants :** Tout objet magique marqué d'un astérisque (*) est considéré comme extrêmement courant, comme expliqué dans le livre de règles de *Warhammer: The Old World*.
+**Objets Magiques Extrêmement Courants :** Tout objet magique marqué d'un astérisque (\*) est considéré comme extrêmement courant, comme expliqué dans le livre de règles de *Warhammer: The Old World*.
 
 ---
 
@@ -1099,7 +1099,7 @@ Arme de tir. Portée 24", Force 5, Perforant (1), Tir Rapide. Nécessite les deu
 *Consacrée lors de rituels anciens, cette lame porte la bénédiction des dieux amazones qui réclament les âmes des puissants.*
 Le porteur gagne la règle spéciale Coups Fatals.
 
-**Épée-Frelon** (*) – 25 pts
+**Épée-Frelon** (\*) – 25 pts
 *Légère et d'une précision redoutable, cette épée frappe aussi vite que l'insecte dont elle porte le nom.*
 Le porteur gagne la règle spéciale Frappe Toujours en Premier.
 
@@ -1119,7 +1119,7 @@ Bouclier. Sur un jet de 4+, tout Projectile Magique ciblant le porteur est renvo
 *Orné de lames et de pointes acérées, ce bouclier est autant une arme qu'une protection.*
 Bouclier. Le porteur gagne +1 Attaque. Cette attaque supplémentaire est considérée comme magique.
 
-**Bouclier Enchanté** (*) – 20 pts
+**Bouclier Enchanté** (\*) – 20 pts
 *Forgé et béni par les prêtresses du soleil, ce bouclier offre une protection accrue à celle qui le porte.*
 Bouclier. Le porteur gagne une sauvegarde d'armure de 5+. Si le porteur dispose déjà d'une sauvegarde d'armure, celle-ci est améliorée de +1 à la place.
 
@@ -1139,7 +1139,7 @@ Les ennemis subissent un modificateur de -1 pour toucher le porteur lors des att
 *Ce médaillon massif pulse d'une énergie protectrice qui se libère d'un coup face au danger.*
 Usage unique. Le porteur gagne une sauvegarde invulnérable de 2+ contre la première blessure qu'il subit durant la bataille.
 
-**Amulette Brillante** (*) – 15 pts
+**Amulette Brillante** (\*) – 15 pts
 *Cette petite amulette de résine sacrée brille faiblement, absorbant une part des coups qui atteignent son porteur.*
 Le porteur gagne une sauvegarde invulnérable de 6+.
 
@@ -1167,7 +1167,7 @@ Sort lié (Niveau de Puissance 5). Le porteur peut se déplacer de 10" dans n'im
 *Ce pendentif s'imbibe du sang de son porteur au premier combat, éveillant en lui une rage guerrière incontrôlable.*
 Dès que le porteur inflige sa première blessure non sauvegardée, il gagne la règle spéciale Frénésie pour le reste de la bataille.
 
-**Venin de Grenouille-Luciole** (*) – 25 pts
+**Venin de Grenouille-Luciole** (\*) – 25 pts
 *Ce poison extrait d'une grenouille bioluminescente rare est enduit sur les armes des guerrières amazones, rendant leurs coups imprévisibles et mortels.*
 Toutes les attaques de corps à corps non magiques du porteur deviennent à la fois Magiques et Empoisonnées.
 
@@ -1195,7 +1195,7 @@ Au début de chaque phase de Magie adverse, le porteur peut convertir jusqu'à 2
 *Chargé d'énergie tempétueuse, ce bâton libère un puissant éclair qui ravage les rangs ennemis.*
 Sort lié (Niveau de Puissance 6). Usage unique. Projectile Magique. Portée 24", Force 6, Perforant (1).
 
-**Vers de Pouvoir** (*) – 25 pts
+**Vers de Pouvoir** (\*) – 25 pts
 *Ces symboles runiques tracés sur un morceau d'écorce sacrée libèrent une bouffée d'énergie magique supplémentaire au moment voulu.*
 Usage unique. Le porteur peut utiliser cet objet avant de lancer les dés pour un sort. Le résultat du jet de lancement est amélioré de +3.
 
@@ -1215,7 +1215,7 @@ Tous les Sorciers ennemis à 8" de cette bannière doivent réussir un test de S
 *Ce totem orné de miroirs et de cristaux scintillants aveugle les tireurs ennemis, rendant leurs tirs imprécis.*
 Les attaques de tir ciblant l'unité qui porte ce totem subissent un modificateur de -1 pour toucher à longue portée, et un modificateur de -2 pour toucher à courte portée.
 
-**Bannière de Guerre** (*) – 25 pts
+**Bannière de Guerre** (\*) – 25 pts
 *Cette bannière aux couleurs vives galvanise les guerrières qui combattent sous ses couleurs, les poussant à redoubler d'ardeur.*
 L'unité qui porte cette bannière gagne un bonus de +1 au Résultat de Combat.
 ---
