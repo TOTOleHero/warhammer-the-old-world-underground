@@ -1256,12 +1256,6 @@ Les modèles avec cette règle bénéficient des effets suivants :
 > "Dans les profondeurs de la jungle, où la lumière peine à toucher le sol et où les ruines murmurent des âges oubliés, les Prêtresses du Serpent communient avec des forces plus anciennes que les Anciens eux-mêmes…"  
 > — *Enseignements de la Première Encolure, Codex des Prêtresses‑Serpents*
 
----
-
-## Liste complète — Sorts de Rigg, Déesse Serpent
-
----
-
 ## 0. Baiser du Serpent *(Sort Signature)*
 
 *D'un murmure, la prêtresse invoque l'essence primale du serpent. Les crocs scintillent d'un venin surnaturel…*
