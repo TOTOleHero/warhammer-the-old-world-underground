@@ -117,3 +117,7 @@
 ---
 
 ![Stegadon V2](stegadon%20V2.png)
+
+---
+
+![Stegadon V3](stegadon%20V3.png)
