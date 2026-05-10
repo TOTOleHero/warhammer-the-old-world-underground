@@ -224,7 +224,7 @@
 
 ---
 
-### Tribeswoman
+### Skavens vs Jaguars Warriors
 
 ![Skavens vs Jaguars Warriors](Skavens%20vs%20Jaguars%20Warriors.png)
 
