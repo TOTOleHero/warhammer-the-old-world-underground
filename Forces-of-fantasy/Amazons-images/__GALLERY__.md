@@ -1,232 +1,236 @@
 # 🖼️ Gallery
 
-### Amazon Culchan Rider
+### Amazon Culchan Rider.png
 
-![Amazon Culchan Rider](Amazon%20Culchan%20Rider.png)
-
-
----
-
-### army
-
-![army](army.jpg)
-
+![Amazon Culchan Rider.png](Amazon%20Culchan%20Rider.png)
 
 ---
 
-### attack beastman
+### Armes magiques.png
 
-![attack beastman](attack%20beastman.jpg)
-
-
----
-
-### attack beastman-transparency
-
-![attack beastman-transparency](attack%20beastman-transparency.png)
-
+![Armes magiques.png](Armes%20magiques.png)
 
 ---
 
-### Avatar of Rigg in battle - 2
+### Armures magique.png
 
-![Avatar of Rigg in battle - 2](Avatar%20of%20Rigg%20in%20battle%20-%202.png)
-
-
----
-
-### Avatar of Rigg in battle
-
-![Avatar of Rigg in battle](Avatar%20of%20Rigg%20in%20battle.png)
-
+![Armures magique.png](Armures%20magique.png)
 
 ---
 
-### Avatar of Rigg
+### army.jpg
 
-![Avatar of Rigg](Avatar%20of%20Rigg.jpg)
-
-
----
-
-### big army
-
-![big army](big%20army.png)
-
+![army.jpg](army.jpg)
 
 ---
 
-### big army-transparency
+### attack beastman.jpg
 
-![big army-transparency](big%20army-transparency.png)
-
-
----
-
-### Birth of an Amazon
-
-![Birth of an Amazon](Birth%20of%20an%20Amazon.png)
-
+![attack beastman.jpg](attack%20beastman.jpg)
 
 ---
 
-### blazon
+### attack beastman-transparency.png
 
-![blazon](blazon.jpg)
-
-
----
-
-### canon stellaire - 2
-
-![canon stellaire - 2](canon%20stellaire%20-%202.png)
-
+![attack beastman-transparency.png](attack%20beastman-transparency.png)
 
 ---
 
-### canon stellaire
+### Avatar of Rigg in battle - 2.png
 
-![canon stellaire](canon%20stellaire.png)
-
-
----
-
-### coalt and temple
-
-![coalt and temple](coalt%20and%20temple.jpg)
-
+![Avatar of Rigg in battle - 2.png](Avatar%20of%20Rigg%20in%20battle%20-%202.png)
 
 ---
 
-### Culchan
+### Avatar of Rigg in battle.png
 
-![Culchan](Culchan.jpg)
-
-
----
-
-### Culchan rider
-
-![Culchan rider](Culchan%20rider.png)
-
+![Avatar of Rigg in battle.png](Avatar%20of%20Rigg%20in%20battle.png)
 
 ---
 
-### Culchan-sepia
+### Avatar of Rigg.jpg
 
-![Culchan-sepia](Culchan-sepia.jpg)
-
-
----
-
-### Eagle warrior
-
-![Eagle warrior](Eagle%20warrior.jpg)
-
+![Avatar of Rigg.jpg](Avatar%20of%20Rigg.jpg)
 
 ---
 
-### in the jungle
+### Bannière.png
 
-![in the jungle](in%20the%20jungle.jpg)
-
-
----
-
-### JAguar warrior
-
-![JAguar warrior](JAguar%20warrior.jpg)
-
+![Bannière.png](Bannière.png)
 
 ---
 
-### Jaquar warrior
+### big army.png
 
-![Jaquar warrior](Jaquar%20warrior.jpg)
-
-
----
-
-### Koka-kalim
-
-![Koka-kalim](Koka-kalim.jpg)
-
+![big army.png](big%20army.png)
 
 ---
 
-### Piranhas
+### big army-transparency.png
 
-![Piranhas](Piranhas.jpg)
-
-
----
-
-### Piranha Warrior
-
-![Piranha Warrior](Piranha%20Warrior.jpg)
-
+![big army-transparency.png](big%20army-transparency.png)
 
 ---
 
-### shield
+### Birth of an Amazon.png
 
-![shield](shield.png)
-
-
----
-
-### Sister Hood Mage
-
-![Sister Hood Mage](Sister%20Hood%20Mage.jpg)
-
+![Birth of an Amazon.png](Birth%20of%20an%20Amazon.png)
 
 ---
 
-### Sister Hood Mage-transparency
+### blazon.jpg
 
-![Sister Hood Mage-transparency](Sister%20Hood%20Mage-transparency.png)
-
-
----
-
-### Stegadon V1
-
-![Stegadon V1](Stegadon%20V1.jpeg)
-
+![blazon.jpg](blazon.jpg)
 
 ---
 
-### stegadon V2
+### canon stellaire - 2.png
 
-![stegadon V2](stegadon%20V2.png)
-
-
----
-
-### stegadon V3
-
-![stegadon V3](stegadon%20V3.png)
-
+![canon stellaire - 2.png](canon%20stellaire%20-%202.png)
 
 ---
 
-### The Godess Rigg
+### canon stellaire.png
 
-![The Godess Rigg](The%20Godess%20Rigg.jpg)
-
-
----
-
-### Tribeswoman
-
-![Tribeswoman](Tribeswoman.jpg)
-
+![canon stellaire.png](canon%20stellaire.png)
 
 ---
 
-### Tribeswoman
+### coalt and temple.jpg
 
-![Skavens vs Jaguars Warriors](Skavens%20vs%20Jaguars%20Warriors.png)
-
+![coalt and temple.jpg](coalt%20and%20temple.jpg)
 
 ---
+
+### Culchan.jpg
+
+![Culchan.jpg](Culchan.jpg)
+
+---
+
+### Culchan rider.png
+
+![Culchan rider.png](Culchan%20rider.png)
+
+---
+
+### Culchan-sepia.jpg
+
+![Culchan-sepia.jpg](Culchan-sepia.jpg)
+
+---
+
+### Eagle warrior.jpg
+
+![Eagle warrior.jpg](Eagle%20warrior.jpg)
+
+---
+
+### in the jungle.jpg
+
+![in the jungle.jpg](in%20the%20jungle.jpg)
+
+---
+
+### JAguar warrior.jpg
+
+![JAguar warrior.jpg](JAguar%20warrior.jpg)
+
+---
+
+### Jaquar warrior.jpg
+
+![Jaquar warrior.jpg](Jaquar%20warrior.jpg)
+
+---
+
+### Koka-kalim.jpg
+
+![Koka-kalim.jpg](Koka-kalim.jpg)
+
+---
+
+### Objets arcane.png
+
+![Objets arcane.png](Objets%20arcane.png)
+
+---
+
+### Objets.png
+
+![Objets.png](Objets.png)
+
+---
+
+### Piranhas.jpg
+
+![Piranhas.jpg](Piranhas.jpg)
+
+---
+
+### Piranha Warrior.jpg
+
+![Piranha Warrior.jpg](Piranha%20Warrior.jpg)
+
+---
+
+### shield.png
+
+![shield.png](shield.png)
+
+---
+
+### Sister Hood Mage.jpg
+
+![Sister Hood Mage.jpg](Sister%20Hood%20Mage.jpg)
+
+---
+
+### Sister Hood Mage-transparency.png
+
+![Sister Hood Mage-transparency.png](Sister%20Hood%20Mage-transparency.png)
+
+---
+
+### Skavens vs Jaguars Warriors.png
+
+![Skavens vs Jaguars Warriors.png](Skavens%20vs%20Jaguars%20Warriors.png)
+
+---
+
+### Stegadon V1.jpeg
+
+![Stegadon V1.jpeg](Stegadon%20V1.jpeg)
+
+---
+
+### stegadon V2.png
+
+![stegadon V2.png](stegadon%20V2.png)
+
+---
+
+### stegadon V3.png
+
+![stegadon V3.png](stegadon%20V3.png)
+
+---
+
+### Talismans.png
+
+![Talismans.png](Talismans.png)
+
+---
+
+### The Godess Rigg.jpg
+
+![The Godess Rigg.jpg](The%20Godess%20Rigg.jpg)
+
+---
+
+### Tribeswoman.jpg
+
+![Tribeswoman.jpg](Tribeswoman.jpg)
+
+---
+
