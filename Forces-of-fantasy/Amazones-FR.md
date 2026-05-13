@@ -130,15 +130,15 @@ Jusqu’à 25 % de la valeur en points de votre armée peut être dépensée en 
 
 La Mère de la Sororité représente l'autorité suprême au sein de la hiérarchie amazone. Son commandement est absolu et sa présence sur le champ de bataille inspire ses sœurs à accomplir de plus grands exploits martiaux.
 
-Les unités de Base amazones situées à 12" ou moins d'un modèle ami ayant cette règle peuvent utiliser la valeur de Commandement de ce modèle lors des tests de Commandement.
+Les unités de Base amazones situées à 12" ou moins d'une figurine ami ayant cette règle peuvent utiliser la valeur de Commandement de cette figurine lors des tests de Commandement.
 
-Une fois par bataille, au début de n'importe quelle phase durant le tour du joueur amazone, ce modèle peut déclarer un Commandement Sororal. Jusqu'à la fin de ce tour, toutes les unités amazones à 8" ou moins du modèle gagnent +1 à leur Résolution de Combat.
+Une fois par bataille, au début de n'importe quelle phase durant le tour du joueur amazone, cette figurine peut déclarer un Commandement Sororal. Jusqu'à la fin de ce tour, toutes les unités amazones à 8" ou moins de la figurine gagnent +1 à leur Résolution de Combat.
 
 **Sagesse Antique** (Mère de la Sororité uniquement)
 
 Les Mères de la Sororité ont préservé des fragments du savoir Slann concernant la guerre et les tactiques, leur permettant de manœuvrer leurs adversaires.
 
-Si votre armée inclut au moins un modèle avec cette règle, vous pouvez relancer un dé lors de la détermination des zones de déploiement.
+Si votre armée inclut au moins une figurine avec cette règle, vous pouvez relancer un dé lors de la détermination des zones de déploiement.
 
 Si le Général de votre armée possède cette règle, vous pouvez déployer une unité de Base après que l’ennemi a terminé son déploiement (mais avant les Éclaireurs).
 
@@ -278,9 +278,9 @@ Une Prêtresse du Serpent peut être montée sur :
   - Améliorer une Amazone en **Musicienne** pour +5 pts  
   - Acheter une bannière magique valant jusqu’à 100 points  
   - Remplacer l’arc par une lance gratuitement  
-  - Prendre un bouclier pour +1 pt/modèle  
-  - Prendre une arme de base additionnelle pour +1 pt/modèle  
-  - Remplacer l’arc par des javelots (12", F3, Attaques Empoisonnées) pour +1 pt/modèle
+  - Prendre un bouclier pour +1 pt/figurine  
+  - Prendre une arme de base additionnelle pour +1 pt/figurine  
+  - Remplacer l’arc par des javelots (12", F3, Attaques Empoisonnées) pour +1 pt/figurine
 
 **Restrictions** :  
 - 0–3 unités de Guerrières Tribales par armée à 2 000 points ou moins  
@@ -306,9 +306,9 @@ Une Prêtresse du Serpent peut être montée sur :
 
 **Options :**  
 Toute unité peut :  
-- Améliorer un modèle en **Dévote Totem** (championne) ......................................... +10 pts/unité  
-- Améliorer un modèle en **Porte‑étendard** ...................................................... +10 pts/unité  
-- Améliorer un modèle en **Musicienne** ................................................................... +10 pts/unité
+- Améliorer une figurine en **Dévote Totem** (championne) ......................................... +10 pts/unité  
+- Améliorer une figurine en **Porte‑étendard** ...................................................... +10 pts/unité  
+- Améliorer une figurine en **Musicienne** ................................................................... +10 pts/unité
 
 **Règles spéciales :**  
 - Tirailleurs  
@@ -341,11 +341,11 @@ Toute unité peut :
 
 **Options :**
 - Peut remplacer l'arme de base par une lance .................................................................Gratuit
-- Peut prendre des javelots (12", F3, Attaques Empoisonnées) ...................+1 pt/modèle
-- Peut prendre les **Lames des Anciens** ............................................................................+1 pt/modèle
-- Un modèle peut être amélioré en **Furie Koka‑Kalim** (champion) ......................+10 pts
-- Un modèle peut être amélioré en porte-étendard .......................................................+8 pts
-- Un modèle peut être amélioré en musicienne ................................................................+8 pts
+- Peut prendre des javelots (12", F3, Attaques Empoisonnées) ...................+1 pt/figurine
+- Peut prendre les **Lames des Anciens** ............................................................................+1 pt/figurine
+- Une figurine peut être amélioré en **Furie Koka‑Kalim** (champion) ......................+10 pts
+- Une figurine peut être amélioré en porte-étendard .......................................................+8 pts
+- Une figurine peut être amélioré en musicienne ................................................................+8 pts
 
 ---
 
@@ -361,14 +361,14 @@ Toute unité peut :
 ### Insensibles à la Douleur
 *Les Koka‑Kalim ignorent les blessures qui mettraient à terre n'importe quel autre combattant. La drogue qui coule dans leurs veines transforme chaque coup reçu en carburant pour leur frénésie.*
 
-Un modèle avec cette règle peut **relancer les jets de sauvegarde invulnérable de 1**.
+La figurine avec cette règle peut **relancer les jets de sauvegarde invulnérable de 1**.
 
 ---
 
 ### Furie Sacrée
 *Les Koka‑Kalim entrent en bataille dans un état de transe mystique. Plus le combat s'intensifie, plus leur transe s'approfondit, les rendant imperméables à la douleur.*
 
-Les modèles avec cette règle bénéficient des sauvegardes invulnérables suivantes :
+Les figurines avec cette règle bénéficient des sauvegardes invulnérables suivantes :
 
 | Condition | Sauvegarde |
 |---|---|
@@ -391,7 +391,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 | **Mêlée** | Combat | Util.+1 | -1 | Attaques Magiques, Instable |
 | **Tir (Feu Solaire)** | 12" | 3 | — | Attaques Magiques, Tir Rapide, Instable |
 
-**Instable :** À chaque tour de tir ou de combat où ce modèle utilise sa Lame des Anciens, lancez 1D6. Sur un résultat de **1**, l'arme s'emballe : le modèle subit automatiquement 1 blessure sans sauvegarde d'aucune sorte.
+**Instable :** À chaque tour de tir ou de combat où cette figurine utilise sa Lame des Anciens, lancez 1D6. Sur un résultat de **1**, l'arme s'emballe : la figurine subit automatiquement 1 blessure sans sauvegarde d'aucune sorte.
 ---
 
 ## Nuées de la Jungle
@@ -438,9 +438,9 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 - Culkan : griffes et bec *(compte comme arme de base)*
 
 **Options :**
-- Prendre des boucliers .................. +1 pt/modèle
-- Prendre une arme de base additionnelle .................. +1 pt/modèle
-- Améliorer un modèle en Culkan-Ka (champion) .................. +10 pts/unité
+- Prendre des boucliers .................. +1 pt/figurine
+- Prendre une arme de base additionnelle .................. +1 pt/figurine
+- Améliorer une figunrine en Culkan-Ka (champion) .................. +10 pts/unité
 - Ajouter un Porte-étendard .................. +5 pts/unité
 - Ajouter une Musicienne .................. +5 pts/unité
 
@@ -474,9 +474,9 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 - Sang-Froid : griffes et dents *(compte comme arme de base)*
 
 **Options :**
-- Remplacer la lance de cavalerie par une arme lourde .................. +2 pts/modèle
-- Prendre une armure lourde .................. +3 pts/modèle
-- Améliorer un modèle en Cheffe (champion) .................. +10 pts/unité
+- Remplacer la lance de cavalerie par une arme lourde .................. +2 pts/figurine
+- Prendre une armure lourde .................. +3 pts/figurine
+- Améliorer une figurine en Cheffe (champion) .................. +10 pts/unité
 - Ajouter un Porte-étendard .................. +7 pts/unité
 - Ajouter une Musicienne .................. +7 pts/unité
 
@@ -507,7 +507,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 - Jaguar de Guerre : griffes et crocs *(compte comme arme de base)*
 
 **Options :**
-- Prendre des boucliers .................. +1 pt/modèle
+- Prendre des boucliers .................. +1 pt/figurine
 - Remplacer les javelots par des lances de chasse *(Perforant (1))* .................. Gratuit
 - Améliorer une Chasseresse en Maîtresse de Meute (champion) .................. +12 pts
 - Ajouter un Porte-étendard .................. +10 pts
@@ -549,7 +549,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 - Terradon : griffes et bec *(compte comme arme de base)*
 
 **Options :**
-- Prendre des boucliers .................. +1 pt/modèle
+- Prendre des boucliers .................. +1 pt/figurine
 - Améliorer une Cavalière en Chasseresse Céleste (champion) .................. +10 pts
 - Ajouter un Porte-étendard .................. +10 pts
 - Ajouter une Musicienne .................. +5 pts
@@ -568,7 +568,7 @@ Les modèles avec cette règle bénéficient des sauvegardes invulnérables suiv
 
 **Largage de Rochers**
 
-Au début de n'importe quelle phase de Tir amie, une unité de Cavalières Terradon qui a effectué un mouvement de Vol lors de la phase de Mouvement précédente peut choisir de larguer des rochers plutôt que de tirer normalement. Choisissez une unité ennemie que cette unité a survolée lors de ce mouvement : elle subit D3 touches de Force 4, PA —, par modèle de cette unité qui l'a survolée. Ces touches sont distribuées comme des tirs normaux. Une unité qui largue des rochers ne peut effectuer aucun autre tir lors de cette phase.
+Au début de n'importe quelle phase de Tir amie, une unité de Cavalières Terradon qui a effectué un mouvement de Vol lors de la phase de Mouvement précédente peut choisir de larguer des rochers plutôt que de tirer normalement. Choisissez une unité ennemie que cette unité a survolée lors de ce mouvement : elle subit D3 touches de Force 4, PA —, par figurine de cette unité qui l'a survolée. Ces touches sont distribuées comme des tirs normaux. Une unité qui largue des rochers ne peut effectuer aucun autre tir lors de cette phase.
 
 ---
 
@@ -596,7 +596,7 @@ Au début de n'importe quelle phase de Tir amie, une unité de Cavalières Terra
 
 **Options :**
 - Remplacer le Pistolet de l'Âge Antique par un arc long .................. Gratuit
-- Prendre un bouclier .................. +1 pt/modèle
+- Prendre un bouclier .................. +1 pt/figurine
 - Améliorer une Guerrière Aigle en Talonnière Aigle (champion) .................. +10 pts
 - Ajouter un Porte-étendard .................. +10 pts
 - Ajouter un Musicien .................. +5 pts
@@ -634,7 +634,7 @@ Elles se drapent dans la dépouille du grand félin — pelage d'ombre tacheté 
 - Armure légère
 
 **Options :**
-- Prendre un bouclier .................. +1 pt/modèle
+- Prendre un bouclier .................. +1 pt/figurine
 - Améliorer une Guerrière Jaguar en Chasseresse Jaguar (champion) .................. +10 pts
 - Ajouter un Porte-étendard .................. +10 pts
 - Ajouter un Musicien .................. +5 pts
@@ -650,7 +650,7 @@ Elles se drapent dans la dépouille du grand félin — pelage d'ombre tacheté 
 **Formation Serrée, Tenace, Native de Lustrie**
 
 **Griffe des Anciens**
-Anciennes armes façonnées à partir d'os de bêtes primordiales, capables de déchirer les protections les plus solides. Un modèle portant la Griffe des Anciens gagne **+1 Attaque** durant tout tour où il a chargé.
+Anciennes armes façonnées à partir d'os de bêtes primordiales, capables de déchirer les protections les plus solides. Une figurine portant la Griffe des Anciens gagne **+1 Attaque** durant tout tour où il a chargé.
 
 
 ---
@@ -679,7 +679,7 @@ Anciennes armes façonnées à partir d'os de bêtes primordiales, capables de d
 
 **Options :**
 - Remplacer les Flèches Python par des javelots .................. Gratuit
-- Prendre un bouclier .................. +1 pt/modèle
+- Prendre un bouclier .................. +1 pt/figurine
 - Améliorer une Guerrière Python en Matriarche Serpent (champion) .................. +10 pts
 - Ajouter un Porte-étendard .................. +10 pts
 - Ajouter un Musicien .................. +5 pts
@@ -723,7 +723,7 @@ Cette unité traite les forêts et zones de jungle comme du terrain ouvert pour 
 
 **Options :**
 - Remplacer les deux armes de base par une lance .................. Gratuit
-- Prendre un bouclier .................. +1 pt/modèle
+- Prendre un bouclier .................. +1 pt/figurine
 
 **Profil de tir**
 
@@ -737,7 +737,7 @@ Cette unité traite les forêts et zones de jungle comme du terrain ouvert pour 
 Charge Furieuse, Frappe en Premier, Attaques Empoisonnées *(tir uniquement)*, Native de Lustrie**
 
 **Sang du Fleuve**
-Au cours de tout tour où cette unité a chargé, chaque modèle gagne **+1 Attaque** jusqu'à la fin de la phase de Combat.
+Au cours de tout tour où cette unité a chargé, chaque figurine gagne **+1 Attaque** jusqu'à la fin de la phase de Combat.
 
 
 ---
@@ -780,7 +780,7 @@ Au cours de tout tour où cette unité a chargé, chaque modèle gagne **+1 Atta
 **Ancien Stegadon**
 - Plateforme de Combat (équipage avec arcs et javelots) .................. Inclus
 - **Plateforme de Canon Slann Feu-Stellaire** *(nécessite une Mère de la Sororité)* .... +60 pts
-  - Peut ajouter jusqu'à +3 membres d'équipage supplémentaires .... +8 pts/modèle
+  - Peut ajouter jusqu'à +3 membres d'équipage supplémentaires .... +8 pts/figurine
 
 
 
@@ -942,7 +942,7 @@ Le Coatl confère à son cavalier un modificateur de **+1** à sa sauvegarde d'a
 **Attaques Magiques**
 
 **Ne peut pas tirer en se déplaçant**
-Ce modèle ne peut effectuer aucune attaque de tir lors d'un tour où il s'est déplacé.
+Cette figurine ne peut effectuer aucune attaque de tir lors d'un tour où il s'est déplacé.
 
 
 **Arme Antigravité**
@@ -959,7 +959,7 @@ Le Canon Feu-Stellaire projette des charges gravitationnelles capables de déchi
 > Toute touche inflige automatiquement une blessure, sans qu'aucun jet pour blesser ne soit nécessaire. Les sauvegardes d'armure, invulnérables et de régénération s'appliquent normalement.
 
 > **Explosion Gravitationnelle**
-> Si une ou plusieurs blessures non sauvegardées infligées par le Canon Feu-Stellaire réduisent un Monstre à zéro Point de Vie, placez immédiatement un gabarit de 3 pouces centré sur le socle du Monstre avant de le retirer comme perte. Résolvez les touches sous ce gabarit comme décrit à la page 145 du livre de règles. Chaque modèle touché subit une touche de Force 4. Aucune sauvegarde d'armure n'est permise contre ces touches. Les sauvegardes invulnérables et de régénération s'appliquent normalement.
+> Si une ou plusieurs blessures non sauvegardées infligées par le Canon Feu-Stellaire réduisent un Monstre à zéro Point de Vie, placez immédiatement un gabarit de 3 pouces centré sur le socle du Monstre avant de le retirer comme perte. Résolvez les touches sous ce gabarit comme décrit à la page 145 du livre de règles. Chaque figurine touchée subit une touche de Force 4. Aucune sauvegarde d'armure n'est permise contre ces touches. Les sauvegardes invulnérables et de régénération s'appliquent normalement.
 
 > **Explosion Gravitationnelle**
 > Si le Canon Feu-Stellaire tue un Monstre, placez immédiatement un gabarit de 3 pouces centré sur le dernier emplacement du socle du Monstre. Toute unité, amie ou ennemie, partiellement ou entièrement sous le gabarit subit D6 touches de Force 4. Aucune sauvegarde d'armure n'est permise contre ces touches. Les sauvegardes invulnérables et de régénération s'appliquent normalement.
@@ -971,7 +971,7 @@ Lorsque le Canon Feu-Stellaire obtient un résultat de *Raté* sur le dé d'arti
 
 | D6 | Résultat |
 |:---:|:---|
-| 1 | **Implosion —** Le canon est détruit par ses propres forces gravitationnelles. Retirez immédiatement le modèle du jeu. Toutes les unités, amies ou ennemies, dans un rayon de 3 pouces subissent D6 touches de Force 5 avec un PA de -2. Aucune sauvegarde d'armure n'est permise. Les sauvegardes invulnérables et de régénération s'appliquent normalement. |
+| 1 | **Implosion —** Le canon est détruit par ses propres forces gravitationnelles. Retirez immédiatement la figurine du jeu. Toutes les unités, amies ou ennemies, dans un rayon de 3 pouces subissent D6 touches de Force 5 avec un PA de -2. Aucune sauvegarde d'armure n'est permise. Les sauvegardes invulnérables et de régénération s'appliquent normalement. |
 | 2–6 | **Arrêt —** Le mécanisme de tir se bloque. Le canon ne peut pas tirer ce tour. L'équipage passe son action à effectuer les réparations nécessaires. |
 
 
@@ -979,7 +979,7 @@ Lorsque le Canon Feu-Stellaire obtient un résultat de *Raté* sur le dé d'arti
 
 | Option | Coût | Effet |
 |:---|:---:|:---|
-| Boucliers d'équipage | +1 pt/modèle | L'équipage bénéficie d'une sauvegarde d'armure améliorée de +1 |
+| Boucliers d'équipage | +1 pt/figurine | L'équipage bénéficie d'une sauvegarde d'armure améliorée de +1 |
 | Ancre Gravitationnelle | +15 pts | Le Canon peut tirer en se déplaçant. Sa portée est réduite à 30" lorsqu'il tire après s'être déplacé |
 | Blindage Cristallin | +20 pts | Le Canon bénéficie d'une Sauvegarde Invulnérable (5+) contre les attaques de tir ennemies |
 
@@ -1284,7 +1284,7 @@ L'unité qui porte cette bannière gagne un bonus de +1 au Résultat de Combat.
 
 ### **Règle spéciale d’unité :**
 
-Les modèles avec cette règle bénéficient des effets suivants :
+Les figurines avec cette règle bénéficient des effets suivants :
 
 - **Déplacement à travers les Couverts :** Pas de tests de **Terrain Dangereux** en traversant Forêts, Jungles, Marais ou Eaux.  
 - **Camouflage Naturel :** Si l’unité est majoritairement dans une Forêt ou Jungle, les ennemis subissent un **-1 supplémentaire** pour la toucher au tir (cumulatif avec les modificateurs habituels).  
@@ -1338,7 +1338,7 @@ L'unité amie ciblée bénéficie des effets suivants jusqu'au prochain sous-tou
 L'unité amie ciblée bénéficie des effets suivants jusqu'au prochain sous-tour **Début de Tour** du lanceur :
 - Toutes les attaques de mêlée gagnent la règle spéciale **Attaques Empoisonnées**
 - Les ennemis blessés doivent réussir un test d'Endurance ; en cas d'échec, ils subissent 1 blessure supplémentaire sans sauvegarde d'armure (les sauvegardes invulnérables s'appliquent normalement)
-- Cet effet ne peut se déclencher qu'**une fois par modèle et par phase de Corps à Corps**
+- Cet effet ne peut se déclencher qu'**une fois par figurine et par phase de Corps à Corps**
 
 ---
 
