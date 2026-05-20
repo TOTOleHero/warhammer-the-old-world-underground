@@ -1,52 +1,48 @@
 # Amazons
 
-Unofficial Community Legacy army List
+Unofficial Community Army List (Legacy)
 
+For use with the rules of Warhammer: The Old World
+This document allows you to field an Amazon army from the Warhammer Fantasy Battles range in games using the rules of Warhammer: The Old World. To use the content of this document, you will need a copy of the Warhammer: The Old World rulebook.
 
-For Use With Warhammer: The Old World Rules
-This document allows you to play a Amazons Army from the Warhammer Fantasy Battles range in games using the rules from Warhammer: The Old World. To use the contents of this document, you will need a copy of the Warhammer: The Old World rulebook.
-
-The rules contained within this document allow players the opportunity to try out the Warhammer: The Old World rules using models they may have in their collection. They are not intended for use in matched play events and will not be updated in line with any future Warhammer: the Old World publications.
+The rules contained in this document give players the opportunity to try out the rules of Warhammer: The Old World using miniatures they may already have in their collection. They are not intended for use at competitive events and will not be updated in response to future Warhammer: The Old World publications.
 
 
 # amazons
 
-Amazons are unique in that their race has no males—reproduction takes place by parthenogenic reaction controlled by drugs. When the Slann ruled the world, Amazons were created to undertake many mundane tasks and labor. When the warp-gates collapsed, the Amazons already shared the high civilization of the Slann, serving as technicians and helpmates. As a result, their history has been one of slow degeneration under the shadow of the Slann's heritage, preserving many of the higher sciences lost to the Slann themselves.
-
+The Amazons are unique in that their race has no males — reproduction occurs through parthenogenetic reaction controlled by drugs. When the Slann ruled the world, the Amazons were created to perform many tasks and everyday duties. When the warp gates collapsed, the Amazons already shared in the high civilisation of the Slann, serving as technicians and assistants. As a result, their history is one of slow degeneration in the shadow of the Slann's legacy, preserving many of the advanced sciences that the Slann themselves have since lost.
 
 This document contains the following information:
 
 **Grand Army Composition List**: The default army composition list for the Amazons.
-**Profiles**: Every model available to the Amazons has a profile. Here, you will find that model’s characteristics, its equipment, its points value, details of any special rules unique to it and more.
-**Magic Items**: As well as the Common magic items detailed in the Warhammer: the Old World rulebook, this army list includes a number of magic items unique to the Amazons.
-**Special Rules**: This section covers rules unique to the Amazons.
-**The Lore of…**: Unique spells used in conjunction with the Lores of Magic found in the Warhammer: the Old World rulebook.
+**Profiles**: Every miniature available to the Amazons has a profile. Here you will find that miniature's characteristics, equipment, points value, details of its special rules, and more.
+**Magic Items**: In addition to the common magic items described in the Warhammer: The Old World rulebook, this army list includes a number of magic items unique to the Amazons.
+**Special Rules**: This section covers the rules specific to the Amazons.
+**The Lore of…**: Unique spells used alongside the Lores of Magic found in the Warhammer: The Old World rulebook.
+---
+## AMAZON ARMY LIST
 
-
-
-
-## AMAZONS ARMY LIST
-
-This page details the Grand Army composition list for the Amazons. This is the default army composition list for this faction. Using this army composition list to write your muster list will give you the widest variety of units to choose from and create a broad and balanced force.
+This page details the army composition list for the Grand Army of the Amazons. This is the default army composition list for this faction. Using this list to write your muster list will give you the greatest variety of units and allow you to create a broad and balanced force.
 
 ## Battle Standard Bearer
-A single Amazon War Leader in your army may be upgraded to be your Battle Standard Bearer for +25 points. In addition to their usual allowance of points to spend on magic items, a Battle Standard Bearer can purchase a single magic standard with no points limit.
+A single Amazon War Chief in your army may be upgraded to become your Battle Standard Bearer for +25 points. In addition to her usual allowance of points to spend on magic items, a Battle Standard Bearer may purchase a single magic banner with no points limit.
 
 ## Characters
 Up to 50% of your army's points value may be spent on:
-- 0-1 Mother of Sisterhood per army
-- Serpent Priestesses and High Priestesses of the Serpent
-- Amazon War Leaders
+- 0‑1 Mother Superior of the Sisterhood per 1,000 points
+- Serpent Priestesses and High Serpent Priestesses
+- Amazon War Chiefs
 
 ## Core
 At least 25% of your army's points value must be spent on:
 - Tribal Warriors
-- Anakonda Warriors
+- Anaconda Warriors
 - Eagle Warriors
 
 ## Special
 Up to 50% of your army's points value may be spent on:
-- Amazon Culchan Riders
+- Amazonian Culkan Riders
+- Jaguar Huntresses
 - Piranha Warriors
 - Python Warriors
 - Jungle Swarms
@@ -56,34 +52,36 @@ Up to 50% of your army's points value may be spent on:
 ## Rare
 Up to 25% of your army's points value may be spent on:
 - Totem Warriors
-- Koka-Kalim
+- Koka‑Kalim
 - Jaguar Warriors
 - Stegadons (available with the Ritual of the Scaled Servants)
 - Ancient Stegadons (available with the Ritual of the Scaled Servants)
-- Koalts (character mount only)
-- 0-1 Slann Star-Fire Cannon (available only with Mother of Sisterhood)
-- Avatar of Rigg
+- Coatls (character mount only)
+- 0‑1 Slann Sunfire Cannon (available only with a Mother Superior of the Sisterhood)
+- Rigg's Avatar
 
 ## Mercenaries
 Up to 20% of your army's points value may be spent on mercenaries.
 
 ## Allies
-Up to 25% of your army's points value may be spent on a single allied contingent drawn from:
-- Any Amazons Grand Army composition list
-- Valkyrie unit (from Norsca Army)
-- Ice gard unit (from Kislev Army)
-- Any Sea elves Grand Army composition list
+Up to 25% of your army's points value may be spent on a single allied contingent chosen from:
+- Any Grand Army of the Lizardmen composition list
+- Valkyrie unit (Norsca army)
+- Ice Guard unit (Kislev army)
+- Any Grand Army of the Sea Elves composition list
+---
+##  Amazon War Chief and Mother Superior of the Sisterhood
 
---- 
-
-## MOTHER OF SISTERHOOD / AMAZON WAR LEADER
+> Before the armies of the Old World had learned to forge iron, the Amazons of Lustria were already fighting in the shadow of their Slann masters' pyramids, guardians of a knowledge as old as the stars themselves. At the apex of this hierarchy of blood and will stand the Mothers Superior of the Sisterhood — women of war whose authority is never contested, whose word is law in the heart of the jungle as much as on the field of battle. Forged by generations of combat against Lustria's predators and invaders from the sea, they carry within them the memory of the great war rituals, the tactics codified in the glyphs of ancient temples, and the cold certainty of those who have survived where so many others have perished. Their gaze betrays neither fear nor doubt — only the absolute resolve of those entrusted with the survival of an entire people.
+>
+> Riding alongside the Mothers are the Amazon War Chiefs, the razor-edged blades of their sisterhood, as impetuous as their elders are calculated. Where the Mother commands, the War Chief strikes — her war cry tearing through the hot, humid canopy air, igniting her sisters-in-arms with a fierce ardour that sends enemy lines wavering before the first blood is even drawn. These warriors do not know retreat; they know victory, or they know death — and in either case, they advance.
 
 | | M | WS | BS | S | T | W | I | A | Ld | Points |
-|---|---|----|----|---|---|---|---|---|----|----|
-| Mother of Sisterhood | 4 | 6 | 5 | 4 | 4 | 3 | 6 | 4 | 9 | 126 |
-| Amazon War Leader | 4 | 5 | 4 | 4 | 3 | 2 | 5 | 3 | 8 | 65 |
+|---|---|----|----|---|---|---|---|---|----|------|
+| Mother Superior of the Sisterhood | 4 | 6 | 5 | 3 | 3 | 3 | 7 | 4 | 9 | 115 |
+| Amazon War Chief | 4 | 5 | 4 | 4 | 3 | 2 | 5 | 3 | 8 | 65 |
 
-**Troop Type:** Regular infantry (character)
+**Unit Type:** Infantry (character)
 
 **Base Size:** 25 x 25 mm
 
@@ -91,72 +89,75 @@ Up to 25% of your army's points value may be spent on a single allied contingent
 
 **Equipment**
 - Hand weapon
-- Blade of the Ancients
 - Light armour
 
 **Options**
 **Weapons and armour:**
 - May take one of the following:
-  - Additional hand weapon .................................................................................. +3 points
-  - Great weapon ................................................................................................... +4 points
-  - Lance (if appropriately mounted) .................................................................... +4 points
+  - Additional hand weapon ................................................................................. +3 points
+  - Great weapon ................................................................................................. +4 points
+  - Spear (if appropriately mounted) ................................................................... +4 points
 - May take:
-  - Javelin ............................................................................................................... +3 points
+  - Javelin .............................................................................................................. +3 points
 - May take a shield ................................................................................................ +2 points
 - May replace light armour with:
-  - Heavy armour ................................................................................................... +3 points
+  - Heavy armour .................................................................................................. +3 points
 
 **Mounts:**
-- May be mounted ......................................................................................... See page XX
+- May be mounted ..................................................................................... See page XX
 
-**A Mother of Sisterhood may:**
-- Purchase magic items up to a total of .......................................................... 100 points
+**A Mother Superior of the Sisterhood may:**
+- Purchase magic items up to a total of .............................................................. 100 points
 
-**An Amazon War Leader may:**
-- Be upgraded to Battle Standard Bearer .......................................................... +25 points
-- Purchase magic items up to a total of ............................................................ 50 points
+**An Amazon War Chief may:**
+- Be upgraded to Battle Standard Bearer ............................................................. +25 points
+- Purchase magic items up to a total of ................................................................ 50 points
 
 **Special Rules**
 - Blades of the Ancients
 - Native of Lustria
-- Skirmisher (if on foot only)
-- Rallying Cry
-- Matriarch Authority (Mother of Sisterhood only)
-- Ancient Wisdom (Mother of Sisterhood only)
-- War Cry (Amazon War Leader only)
+- Skirmishers (on foot only)
+- Rally Cry
+- Matriarchal Authority (Mother Superior of the Sisterhood only)
+- Ancient Wisdom (Mother Superior of the Sisterhood only)
+- War Cry (Amazon War Chief only)
 
-**Matriarch Authority** (Mother of Sisterhood only)
+**Matriarchal Authority** *(Mother Superior of the Sisterhood only)*
 
-The Mother of Sisterhood represents the supreme authority within the Amazon hierarchy. Her command is absolute and her presence on the battlefield inspires her sisters to accomplish greater martial feats.
+The Mother Superior of the Sisterhood represents the supreme authority within the Amazon hierarchy. Her command is absolute, and her presence on the field of battle inspires her sisters to greater martial feats.
 
-Amazon Core units (Tribal Warriors, Anakonda Warriors, Totem Warriors, and Eagle Warriors) within 12" of one or more friendly models with this rule may use this model's Leadership characteristic when taking Leadership tests.
+Amazon Core units within 12" of a friendly model with this rule may use that model's Leadership value when making Leadership tests.
 
-Once per battle, at the start of any phase during the Amazon player's turn, a model with this rule may declare a Sister's Command. Until the end of that turn, all Amazon units within 18" of the model that declared the Sister's Command gain +1 to their Combat Resolution.
+Once per battle, at the start of any phase during the Amazon player's turn, this model may declare a Sororal Command. Until the end of that turn, all Amazon units within 8" of the model gain +1 to their Combat Resolution.
 
-**Ancient Wisdom** (Mother of Sisterhood only)
+**Ancient Wisdom** *(Mother Superior of the Sisterhood only)*
 
-Mothers of Sisterhood have preserved fragments of Slann knowledge concerning warfare and tactics, allowing them to outmaneuver their adversaries.
+Mothers Superior of the Sisterhood have preserved fragments of Slann knowledge concerning warfare and tactics, allowing them to outmanoeuvre their opponents.
 
-If your army includes at least one model with this rule, you may re-roll one dice when determining deployment zones.
+If your army includes at least one model with this rule, you may re-roll one die when determining deployment zones.
 
-If the General of your army has this rule, you may deploy one Core unit after the enemy has finished their deployment (but before Scouts).
+If the General of your army has this rule, you may deploy one Core unit after the enemy has finished deploying (but before Scouts).
 
-Ancient Wisdom unlocks: Slann Star-Fire Cannon
+Ancient Wisdom unlocks: Slann Star-fire Cannon
 
-**War Cry** (Amazon War Leader only)
+**War Cry** *(Amazon War Chief only)*
 
-At the start of any friendly turn, an Amazon War Leader may trigger a War Cry. All friendly Amazon Core units within 6" may immediately re-roll failed Leadership tests until the start of the next friendly turn. If the War Leader is the army's Battle Standard Bearer, the range is increased to 12".
-
+At the start of any friendly turn, an Amazon War Chief may unleash a War Cry. All Amazon Core units within 6" may immediately re-roll failed Leadership tests until the start of the next friendly turn. If the War Chief is the Battle Standard Bearer, the range increases to 12".
 ---
+## Serpent Priestess and High Serpent Priestess
 
-## HIGH PRIESTESS OF THE SERPENT / SERPENT PRIESTESS
+> At the heart of Lustria's lost cities, where the roots of ancient temples entwine forgotten stone tablets, reigns the sisterhood of the Serpent Priestesses. No oracle speaks without their breath, no war is waged without their whisper: it falls to them to guide the Amazon nation, binding the visible to the invisible, the blade to eternity. Initiated under the silent tutelage of the Slann — those titanic mage-priests whose pure thought was once fixed into sacred hieroglyphs — they have inherited a legacy the Old World never suspected: a magic born before the gods of men, before even the memory of the earth itself.
+>
+> For them, the serpent is no idol carved from clay; it is the sinuous thread that binds the blood of the living to the memory of the Ancients. Adorned with the iridescent plumes of the Quetzalcoatl, it coils within their incantations, slips into their dreams, and lends their voices the authority of primordial storms. Thus, when pale-skinned Dekala or the sovereign Anaconda lead an ambush beneath the canopy, every gesture of these priestesses becomes an echo of the first creation. They carry upon them artefacts trembling with captive power, murmur syllables that set the foliage trembling, and transform the battlefield into a sanctuary.
+>
+> Mystic-warriors with fingers stained by ritual pigments, they are not mere sources of magic but the very fibres of Amazon destiny. It is through their whispered sacrifice, through their accord with forces beyond human comprehension, that the winged creatures of the heights answer the call, that rocks fall in raging storms, and that enemy ranks find themselves vulnerable in the space of a single suspended moment between two flashes of spear-light. Then, in the thunder of charges and the hiss of feathers, the Serpent Priestesses embody the entire soul of a people: antediluvian, implacable, and wholly devoted to survival.
 
 | | M | WS | BS | S | T | W | I | A | Ld | Points |
 |---|---|----|----|---|---|---|---|---|----|----|
-| High Priestess of the Serpent | 4 | 4 | 3 | 3 | 4 | 3 | 5 | 2 | 8 | 160 |
+| High Serpent Priestess | 4 | 4 | 3 | 3 | 4 | 3 | 5 | 2 | 8 | 160 |
 | Serpent Priestess | 4 | 4 | 3 | 3 | 3 | 2 | 4 | 1 | 7 | 50 |
 
-**Troop Type:** Regular infantry (character)
+**Unit Type:** Infantry (character)
 
 **Base Size:** 25 x 25 mm
 
@@ -165,76 +166,79 @@ At the start of any friendly turn, an Amazon War Leader may trigger a War Cry. A
 **Equipment**
 - Hand weapon
 
-**Magic**
-A High Priestess of the Serpent is a Level 3 Wizard. A Serpent Priestess is a Level 1 Wizard.
+**Magic:** A High Serpent Priestess is a Level 3 Wizard. A Serpent Priestess is a Level 1 Wizard. Each Serpent Priestess knows spells drawn from one of the following Lores of Magic:
 
-Every Priestess knows spells from one of the following Lores of Magic:
-- Lore of Beasts
-- Lore of Life
-- Lore of Serpents
+- Elementalism
+- Battle Magic
+- Lore of the Serpents
 
 **Options**
 **Mounts:**
-- May be mounted ......................................................................................... See page XX
+- May be mounted ........................................................................................ See page XX
 
-**A High Priestess of the Serpent may:**
-- Be a Level 4 Wizard ............................................................................................... +35 points
-- Take the Ritual of the Scaled Servants (Level 3 or 4 only) ................................... +60 points
-- Purchase magic items up to a total of .......................................................... 100 points
+**A High Serpent Priestess may:**
+- Be a Level 4 Wizard ............................................................................. +35 points
+- Take the Ritual of the Scaled Servants (Level 3 or 4 only) .............. +60 points
+- Purchase magic items up to a total of ................................................... 100 points
 
 **A Serpent Priestess may:**
-- Be a Level 2 Wizard ............................................................................................... +35 points
-- Purchase magic items up to a total of ............................................................ 50 points
+- Be a Level 2 Wizard ............................................................................. +35 points
+- Purchase magic items up to a total of .................................................... 50 points
 
 **Special Rules**
 - Blades of the Ancients
 - Native of Lustria
 - Lore of Lustria
-- Rallying Cry
+- Rally Cry
 
-**Ritual of the Scaled Servants** (High Priestess of the Serpent Level 3 or 4 only)
+**Ritual of the Scaled Servants** (High Serpent Priestess Level 3 or 4 only)
 
-The highest rank among the Serpent Priestesses, a High Priestess has mastered not only the magical arts of the Lore of Lustria but also the ancient rituals recorded on Slann stone tablets hidden deep within the ruins of temples. These forbidden rites allow her to awaken and command the great beasts that once served the Old Ones as guardians and war machines.
+The highest rank among the Serpent Priestesses, a High Serpent Priestess has mastered not only the magical arts of the Lore of Lustria but also the ancient rituals inscribed upon Slann stone tablets hidden deep within ruined temples. These forbidden rites allow her to awaken and command the great beasts that once served the Ancients as guardians and engines of war.
 
-If your army includes a High Priestess of the Serpent with this option, you may include the following units in your army:
+If your army includes a High Serpent Priestess with this option, you may include the following units in your army:
 
 **Special Choices:**
-- 0-2 units of Amazon Cold One Riders (in addition to those already permitted)
-- 0-1 unit of Amazon Terradon Riders
+- 0‑2 units of Amazon Cold One Riders (in addition to any already permitted)
+- 0‑1 unit of Amazon Terradon Riders
 
 **Rare Choices:**
-- 0-1 War Stegadon of the Ancients
+- 0‑1 Stegadon or Ancient Stegadon of the Ancients
 
-These units count as Amazon units for all purposes and gain the Native of Lustria special rule. However, they do not gain the Cold-Blooded special rule (they are commanded by the Priestess's will, not naturally disciplined like true Lizardmen creatures).
+These units count as Amazon units in all respects and gain the Native of Lustria special rule. However, they do not gain the Cold One rule (they are commanded by the Priestess's will, not naturally disciplined as true Lizardmen creatures are).
 
-**Restriction:** If the High Priestess of the Serpent is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to Stupidity for the rest of the game, as the Priestess's control over the creatures weakens.
-
+**Restriction:** If the High Serpent Priestess is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to Stupidity for the remainder of the game, as the Priestess's will fades.
 ---
-
-### MOUNTS LIST (page XX)
+**MOUNT LIST**
 
 A character that may be mounted can choose a mount from the following list:
 
-**A Mother of Sisterhood may be mounted on:**
-- Culchan .................................................................................................................. +20 points
-- Cold One ................................................................................................................ +30 points
-- Koalt .................................................................................................................... +210 points (0-1 per army)
+A Mother Superior of the Sisterhood may be mounted on:
 
-**An Amazon War Leader may be mounted on:**
-- Culchan .................................................................................................................. +20 points
-- Cold One ................................................................................................................ +30 points
+ - Culkan ................................................................................................................. +20 points
+ - Cold One .............................................................................................................. +30 points
+ - Coatl .................................................................................................................... +210 points (0‑1 per army)
+ - Stegadon .............................................................................................................. see the Stegadon unit entry (0‑1 per army)
+ - Ancient Stegadon ................................................................................................. see the Stegadon unit entry (0‑1 per army)
 
-**A High Priestess of the Serpent may be mounted on:**
-- Culchan .................................................................................................................. +20 points
-- Cold One ................................................................................................................ +30 points
+An Amazon War Chief may be mounted on:
 
-**A Serpent Priestess may be mounted on:**
-- Culchan .................................................................................................................. +20 points
-- Cold One ................................................................................................................ +30 points
+ - Culkan ................................................................................................................. +20 points
+ - Cold One .............................................................................................................. +30 points
+ - Stegadon .............................................................................................................. see the Stegadon unit entry (0‑1 per army)
 
+A High Serpent Priestess may be mounted on:
+
+ - Culkan ................................................................................................................. +20 points
+ - Cold One .............................................................................................................. +30 points
+
+A Serpent Priestess may be mounted on:
+
+ - Culkan ................................................................................................................. +20 points
+ - Cold One .............................................................................................................. +30 points
 ---
-
 ### Tribal Warriors
+
+> Tribal Warriors form the core of the Amazonian tribes of the Lustrian jungle. Armed with swords and bows, they burst from the undergrowth to strike with supernatural speed. Their leather armour, adorned with bronze fittings, ritual warpaint and protective totems, allows them to blend into the environment like jungle predators.
 
 |          | M | WS | BS | S | T | W | I | A | Ld | Points |
 |----------|---|----|----|---|---|---|---|---|----|--------|
@@ -246,1017 +250,1094 @@ A character that may be mounted can choose a mount from the following list:
 **Unit Size**: 5+
 
 **Equipment**:  
-- Hand weapon  
+- Hand Weapon  
 - Bow
 
 **Special Rules**:  
 - Light Armour  
 - Skirmishers  
 - Scouts  
-- Move Through Cover
+- Move Through Cover  
 - Blades of the Ancients  
-- Native of Lustria  
+- Native of Lustria
 
-
-**Options**: 
+**Options**:
 - Any unit may:
-  - May upgrade one Amazon to a **Champion** (+1 Attack) for +10 pts  
-  - May upgrade one Amazon to a **Standard Bearer** for +10 pts  
-  - May upgrade one Amazon to a **Musician** for +5 pts  
-  - Purchase a magic standard worth up to 100 points
-  - May replace bow with a spear for free  
-  - May take a shield for +1 pt/model  
-  - May take an additional hand weapon for +1 pt/model  
-  - May replace bow with javelins (12", S3, Poisoned Attacks) for +1 pt/model 
+  - Upgrade one Amazon to **Champion** (+1 Attack) for +10 pts  
+  - Upgrade one Amazon to **Standard Bearer** for +10 pts  
+  - Upgrade one Amazon to **Musician** for +5 pts  
+  - Purchase a magic banner worth up to 100 points  
+  - Replace the bow with a spear for free  
+  - Take a shield for +1 pt/model  
+  - Take an additional hand weapon for +1 pt/model  
+  - Replace the bow with javelins (12", S3, Poisoned Attacks) for +1 pt/model
 
 **Restrictions**:  
-- 0–3 units of Tribal Warriors per army at 2,000 points or less (increase this limit by +1 for each additional full 1,000 points in the army)
-
-
+- 0–3 units of Tribal Warriors per army at 2,000 points or fewer  
+  (increase this limit by +1 for each additional full 1,000 points)
 ---
+## Totem Warriors
 
-## Totem warriors
+> These Amazons, immersed in the mysteries of the Sisterhood, are warriors initiated into the aspects of the Koka-Kalim. Drawn from all walks of Amazon society, they embody the aspect of their tribe's totem. Initiated from the youngest age and trained for years, these warriors are utterly uncompromising.
 
-*These Amazons steeped in the mysteries of the Sisterhood are warriors initiated into the aspects of the Koka-Kalim. These women come from all corners of Amazon society and take on the aspect of their tribe's totem. Initiated at a young age and trained for years, these warriors are totally uncompromising.*
+|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
+|------------------|---|----|----|---|---|---|---|---|----|--------|
+| Totem Warriors   | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 15     |
+| Totem Devotees   | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
 
-|                       | M | WS | BS | S | T | W | I | A | Ld | Points |
-|-----------------------|---|----|----|---|---|---|---|---|----|--------|
-| Totem warriors        | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 15     |
-| Totem warriors Devout | 5 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
+**Unit Type**: Regular Infantry  
+**Base Size**: 25 x 25 mm  
+**Unit Size**: 10+  
+**Equipment**:  
+- Two hand weapons  
+- Totem Mask (confers Fear)
 
+**Options:**  
+Any unit may:  
+- Upgrade one model to **Totem Devotee** (champion) ......................................... +10 pts/unit  
+- Upgrade one model to **Standard Bearer** ...................................................... +10 pts/unit  
+- Upgrade one model to **Musician** ................................................................... +10 pts/unit
 
-Troop Type: Regular infantry
-Base Size: 25 x 25 mm
-Unit Size: 10+
-Equipment: 
-- Two Hand Weapons
-- Totem Mask (grants Fear)
-
-**Options:**
-Any unit may:
-- Upgrade one model to a Totem warriors Devout (champion).........................................+10 points per unit
-- Upgrade one model to a standard bearer...................................................+10 points per unit
-- Upgrade one model to a musician ................................................................+10 points per unit
-
-**Special Rules:**
+**Special Rules:**  
 - Skirmishers  
 - Frenzy  
 - Poisoned Attacks (close combat)  
-- Fear (Totem Mask)  
-
+- Fear (Totem Mask)
 ---
-
 ## Koka-Kalim Warriors
 
-The Koka-Kalim are the fanatical elite of Amazonian warriors, a militant order tasked with protecting the temples and sanctuaries of the goddess Rigg. Their name derives from their constant consumption of koka, a narcotic drug extracted from local plants that allows them to go almost entirely without sleep or food. This dependency gives them an emaciated appearance and a disturbed gaze, but also exceptional martial capabilities. Impervious to pain and devoid of any natural aversion to blood and death, these fighters exist in a permanent state of nervous agitation that makes them unpredictable and irrational. The Sisterhood, holder of religious power in Amazonia, maintains an elite guard of Koka-Kalim called the Devouts, who protect the most sacred sanctuaries and are sometimes entrusted with ancestral Slann weapons: power swords and bolter guns, relics venerated as gifts from Rigg herself.
+> The Koka-Kalim are the fanatical elite of the Amazon warriors, a military order charged with protecting the temples and sanctuaries of the goddess Rigg. Their name derives from their constant consumption of koka, a narcotic drug extracted from local plants that allows them to forgo almost entirely the need for food or sleep. This dependency gives them a gaunt appearance and a wild, glazed look, yet also grants them exceptional martial abilities. Insensible to pain and devoid of any natural aversion to blood and death, these fighters exist in a permanent state of nervous excitement that renders them unpredictable and irrational. The Sisterhood, which holds religious authority in Amazonia, maintains an elite guard of Koka-Kalim known as the Devoted, who protect the most sacred sanctuaries and are sometimes entrusted with ancient Slann weapons — energy swords and bolt rifles — relics venerated as gifts from Rigg herself.
+---
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Koka‑Kalim | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | 12 |
+| Koka‑Kalim Frenzy | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 3 | 7 | +10 |
 
-
-|                  | M | WS | BS | S | T | W | I | A | Ld | points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Koka-Kalim       | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 10     |
-| Koka-Kalim Rager | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 3 | 7  | +10     |
-
-**Troop Type:** Regular infantry
+**Troop Type:** Regular Infantry
 **Base Size:** 25 x 25 mm
 **Unit Size:** 10+
-**Equipment:** 
- - Hand weapon
- - **Blade of the Ancients**
- - Light armour
 
-
-**Options:**
-- May replace hand weapon with a spear for free  
-- May take javelins (12", S3, Poisoned Attacks) for +1 pt/model  
-- One model may be upgraded to a Koka-Kalim Rager for +10 pts
-
-**Special Rules:**
-
-* **Blades of the Ancients** (see Amazons Army Special Rules)
-* **Immune to Psychology**
-* **Impetuous**
-* **Native of Lustria** (see Amazons Army Special Rules)
-* **Sacred Fury (see below)**
-* **Unbreakable**
-
-**Sacred Fury**
-
-Warriors who have undergone the Koka-Kalim ritual and constantly consume the narcotic drug feel reduced pain and fight with supernatural vigor in close combat. Deprived of their normal sensory functions by the effects of koka, they can overcome great suffering and have no aversion to death, continuing to fight despite wounds that would fell ordinary warriors.
-
-A model with this special rule has:
-- A 6+ Ward save against any wounds suffered that were caused by a non-magical enemy attack.
-- A 5+ Ward save against any wounds suffered that were caused by a non-magical enemy attack with a Strength 5 or higher.
-
+**Equipment:**
+- Hand weapon
+- *No armour — the Koka‑Kalim fight emaciated, their bodies marked by the drug, with no protection save their trance*
 ---
+**Options:**
+- May replace hand weapon with a spear .................................................................Free
+- May take javelins (12", S3, Poisoned Attacks) ...................+1 pt/model
+- May take **Blades of the Ancients** ............................................................................+1 pt/model
+- One model may be upgraded to **Koka-Kalim Fury** (champion) ......................+10 pts
+- One model may be upgraded to standard bearer .......................................................+8 pts
+- One model may be upgraded to musician ................................................................+8 pts
+---
+**Special Rules:**
+- **Immune to Psychology**
+- **Impetuous**
+- **Native of Lustria**
+- **Immune to Pain**
+- **Sacred Fury**
+---
+### Ignore Pain
+*The Koka-Kalim disregard wounds that would fell any other warrior. The drug coursing through their veins turns every blow they receive into fuel for their frenzy.*
 
+A model with this rule may **re-roll Invulnerable Save rolls of 1**.
+---
+### Sacred Fury
+*The Koka-Kalim enter battle in a state of mystic trance. The fiercer the fighting, the deeper their trance becomes, rendering them impervious to pain.*
+
+Models with this rule benefit from the following invulnerable saves:
+
+| Condition | Save |
+|---|---|
+| Against all attacks | 6+ |
+| Against all attacks, if the unit charged this turn | 5+ |
+
+**Restrictions:**
+- These saves are **invulnerable saves**
+- Normal armour saves apply separately *(none here)*
+- These saves **do not stack** with other invulnerable saves
+- Use the best available save if multiple apply
+---
+### Blades of the Ancients *(option)*
+*Sacred relics passed down by the Devotees, these Slann energy blades burn with a golden light.*
+
+| Weapon | Range | S | AP | Special Rules |
+|---|---|---|---|---|
+| **Melee** | Combat | User+1 | -1 | Magical Attacks, Unstable |
+| **Shooting (Solar Fire)** | 12" | 3 | — | Magical Attacks, Quick to Fire, Unstable |
+
+**Unstable:** Each shooting or combat phase in which this model uses its Blades of the Ancients, roll 1D6. On a result of **1**, the weapon runs out of control: the model automatically suffers 1 wound with no save of any kind allowed.
+---
 ## Jungle Swarms
+
+> The Serpent Priestesses have been granted the gift of commanding the crawling creatures of the jungle. Through them, the will of the Great Mother is made manifest in every scale, every drop of venom — the sacred serpents become the instrument of her vengeance and the fulfilment of her eternal hunger. In battle, this seething mass advances alongside the Amazon warriors, guided by the chanted incantations of the officiants, endlessly driven toward the warmth of blood yet to be shed. The Jungle Swarms gather every venomous species of Lustria, from coiled serpents to spitting lizards, a living carpet bound by a single law: bite, burn, devour.
 
 |                | M | WS | BS | S | T | W | I | A | Ld | Points |
 |----------------|---|----|----|---|---|---|---|---|----|--------|
-|Jungle Swarms   | 5 | 3  | 0  | 2 | 2 | 5 | 1 | 5 | 5  | 40     |
+| Jungle Swarms | 5 | 3 | 0 | 2 | 2 | 5 | 1 | 5 | 5 | 40 |
 
-Troop Type: Swarms
-Base Size: 40 x 40 mm
-Unit Size: 3+
-Equipment: Hand weapons
-Special Rules: Cold Blooded, Immune to Psychology, Loner, Move through Cover, Poisoned Attacks, Skirmishers, Unbreakable, Vanguard
+**Unit Type:** Swarms  
+**Base Size:** 40 x 40 mm  
+**Unit Size:** 3+  
+**Equipment:** Basic Weapons  
 
+**Special Rules:**  
+- Cold-Blooded  
+- Immune to Psychology  
+- Skirmish  
+- Move Through Cover  
+- Poisoned Attacks  
+- Skirmishers  
+- Unbreakable  
+- Vanguard
 ---
+## Culkan Riders
 
-## Culchan Riders
+> In the vast pampas of southern Lustria, near the temple-city of Oyxl, Culkan Riders mount enormous flightless carnivorous birds. These wild creatures, their brown plumage accented by red or blue crests in the males, possess a muscular neck, a parrot-like head, and a beak capable of crushing a human skull. Trained by the Amazons, they charge with savage fury, trampling and biting their enemies in a chaos of feathers and snapping jaws.
 
-The Culchan is a huge, flightless, carnivorous bird that lives on the pampas grasslands of the Chulcan Plains of southern Lustria. 
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Culkan Rider | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | 19 |
+| Culkan-Ka | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | +10 |
+| Culkan | 9 | 3 | — | 4 | 4 | 1 | 2 | 2 | — | — |
 
-|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Culchan Riders   | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 25     |
-| Culchan-Ka       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10    |
-| Culchan          | 9 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
-
-Troop Type: Light cavalry
-Base Size: 25 x 50 mm
-Unit Size: 5+
-Equipment:
- - Culchan Riders:
-   - Blades of the Ancients 
-   - Light armour  
-   - Shield
- - Cold Ones: Claws and teeth (counts as hand weapons)
-
-Options:
-• Any unit may:
-- May replace lance with javelins for free 
-- May take an additional hand weapon for +1 pt/model
-- Upgrade one model to a Culchan-Ka (champion) for +10 points per unit
-- Upgrade one model to a standard bearer for +5 points per unit
-- Upgrade one model to a musician for +5 points per unit
-
-Special Rules:  Close Order, Swiftstride, Fast Cavalry, Native of Lustria 
-
-
-**Native of Lustria** : The Amazons are native of Lustria and jungle hold no peril for them. When using the jungle rules they are immune to the same Encounters as the Lizardmen.
----
-
-## Amazon Cold One Riders
-
-|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Noblewomen       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 25     |
-| Headwomen        | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | +10     |
-| Cold One         | 7 | 3  | -  | 4 | - | - | 2 | 2 | -  | -      |
-
-
-Troop Type: Heavy cavalry
-Base Size: 30 x 60 mm
-Unit Size: 5+
-Equipment:
- - Amazons cold one riders: hand weapon, spear, shield
- - Cold Ones: Claws and teeth (counts as hand weapons)
-
-Options:
-- Any unit may:
-  - May replace lance with a great weapon for +2 pts/model  
-  - May take heavy armour for +3 pts/model
-  - Upgrade one model to a Headwomen (champion) for +10 points per unit
-  - Upgrade one model to a standard bearer................................................... +7 points per unit
-  - Upgrade one model to a musician ................................................................ +7 points per unit
-
-
-Special Rules: Armour Bane (1, Cold One only), Toughness (1), Close Order,Stupidity,
-Swiftstride
-
-**Restrictions:** Amazon Cold One Riders may only be included in an army that contains a High Priestess of the Serpent. If the High Priestess is slain, the unit must take a Leadership test at the start of each friendly turn. If failed, the unit must use its Fly movement to move towards the nearest table edge. If it reaches the table edge, it is removed from play. 
-
-
-
----
-
-## Jaguar Huntresses
-
-|               | M | WS | BS | S | T | W | I | A | Ld | Points |
-|---------------|---|----|----|---|---|---|---|---|----|----|
-| Huntress      | 4 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 | 55 |
-| Pack Mistress | 4 | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 8 | +15 |
-| War Jaguar    | 8 | 4 | 0 | 4 | 4 | 2 | 4 | 3 | 5 | - |
-
-Troop Type: Monstrous cavalry
-Base Size: 30 x 60 mm
-Unit Size: 3-6 models
-**Equipment**
-- Javelin (Range 8", Fight in Extra Ranks)
-- Hand weapon
-- Light armour
-- Shield
-
-Options
-
-- The entire unit may replace their javelins with hunting spears (+2 pts/model) (Hunting Spear: Armour Piercing (1) on the turn they charge)
-- One model may be upgraded to a Pack Mistress (+15 pts)
-- The unit may include a Standard Bearer (+10 pts)
-- The unit may include a Musician (+10 pts)
-
-
-**Special Rules:** : Vanguard, Native of Lustria, Devastating Charge, Volley Fire,Silent Hunter
-
-**Silent Hunter**: The unit may use Scout deployment if it does not include a magic standard.
-
----
-
-## Amazon Terradon Riders
-
-|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Amazon           | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 36     |
-| Sky Huntress     | 4 | 4  | 3  | 3 | 3 | 1 | 4 | 2 | 8  | +12    |
-| Terradon         | 2 | 3  | -  | 4 | 4 | 2 | 3 | 2 | -  | -      |
-
-**Troop Type:** Monstrous Cavalry (Skirmishers)
-
-**Base Size:** 40 x 40 mm (flying base)
-
-**Unit Size:** 3-6
-
-**Equipment:**
-- Amazon Terradon Riders: hand weapon, javelin, shield, light armour
-- Terradon: Claws and beak (counts as hand weapons)
-
-**Options:**
-• Any unit may:
-- Upgrade one model to a Sky Huntress (champion)................................. +10 points per unit
-- Upgrade one model to a standard bearer.................................................. +10 points per unit
-- Upgrade one model to a musician.............................................................. +10 points per unit
-- Replace javelins with bows......................................................................... +1 point per model
-- Replace javelins with spears...................................................................... at no additional cost
-
-**Special Rules:** Blades of the Ancients (rider only), Fly (10), Native of Lustria, Skirmishers, Dropping Rocks
-
-**Dropping Rocks:** Once per battle, at the start of any friendly Shooting phase, a unit of Amazon Terradon Riders may drop rocks instead of making normal shooting attacks. Choose one enemy unit that the Terradon Riders moved over during their previous Movement phase. That unit immediately suffers D6 Strength 4 hits with no Armour Save allowed, distributed as shooting hits.
-
-**Restrictions:** Amazon Terradon Riders may only be included in an army that contains a High Priestess of the Serpent. If the High Priestess is slain, the unit must take a Leadership test at the start of each friendly turn. If failed, the unit must use its Fly movement to move towards the nearest table edge. If it reaches the table edge, it is removed from play.  
-
----
-
-## Eagle Warrior 
-
-Much like their namesake, Eagle Warriors are swift and agile: ducking and weaving across the batlle field
-
-|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Eagle Warrior    | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 17     |
-
-Troop Type: Regular infantry
-Base Size: 25 x 25 mm
-Unit Size: 5+
-Equipment: 
- - High Age Weapons Pistol (see below)  
- - Hand weapon  
- - Light armour
-
-Options:  
-- Any unit may:
-  - May replace pistol with a longbow for free  
-  - May take a shield for +1 pt/model
-
-Special Rules: Close Order, Immune to Psychology, Move through Cover
-
-
-|                             | R      | S   | AP | Special Rules |
-|-----------------------------|--------|-----|----|---------------|
-| **High Age weapons pistol** | 12''   | 4   | -2 |               |
-
----
-
-## Jaguar Warrior
-
-**Strongest among the Amazons are the Jaguar Warriors; immensely powerful women that act as guardians of the Amazons’ most sacred sites by protecting them from any unwanted explorers or treasure hunters.**
-
-|                   | M | WS | BS | S | T | W | I | A | Ld | Points |
-|-------------------|---|----|----|---|---|---|---|---|----|--------|
-| Jaguar Warrior    | 4 | 3  | 3  | 4 | 3 | 1 | 4 | 1 | 7  | 14     |
-
-**Troop Type:** Regular infantry  
-**Base Size:** 25 x 25 mm  
-**Unit Size:** 5+  
-**Equipment:** 
- - Claw of the Old Ones (see below)  
- - Light armour
-
-**Special Rules:**
-- Stubborn  
-- Jaguar Strike (+1 Attack when charging)  
-- Armour Piercing (Claw)
-
-|                          | R      | S   | AP | Special Rules |
-|--------------------------|--------|-----|----|---------------|
-| **Claw of the old ones** | Combat | S+1 | -2 | **Armour Piercing**, **Jaguar Strike** |
-
-**Claw of the old ones:** These ancient claws, forged from the bones of primordial jungle beasts, rend flesh with savage precision. Models equipped with the **Claw of the old ones** gain the **Armour Piercing (AP -2)** rule, representing their ability to tear through defences. Additionally, they have the **Jaguar Strike** special rule: when this model charges, it gains +1 Attack on the turn it charges only, reflecting the ferocious ambush tactics of these elite guardians.
-
----
-
-## Python Warrior
-
-Python Warriors spend years studying the snakes from which they draw their name, learning the art of patience and to find the best moment to strike.
-
-|                     | M | WS | BS | S | T | W | I | A | Ld | Points |
-|---------------------|---|----|----|---|---|---|---|---|----|--------|
-| Python Warrior      | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | 13    |
-| Serpent Matriarch   | 4 | 3  | 4  | 4 | 3 | 1 | 4 | 1 | 7  | +10     |
-
-
-**Troop Type:** Regular Infantry  
-**Base Size:** 25 x 25 mm  
+**Troop Type:** Light Cavalry
+**Base Size:** 25 x 50 mm
 **Unit Size:** 5+
 
-**Equipment:**  
-- Hand weapon  
-- **Arrows of python**
-- Light armour
-
-|                  | R    | S | AP | Special Rules       |
-|------------------|------|---|----|---------------------|
-| Arrows of python | 24"  | 3 | -1 | Poisoned Attacks    |
-
-
-**Special Rules:**
-
-- **Close Order** (as per The Old World core rules).  
-- **Poisoned Attacks (Shooting)**: Attacks made with **Arrows of python** have Poisoned Attacks.  
-- **Jungle Hunters**:  
-  - The unit treats woods, jungle and similar terrain as *open ground* for the purposes of movement (they still suffer any dangerous terrain tests that might be required).   - Enemy units do not gain Soft Cover against shooting attacks from Python Warriors if the only source of cover is a wood or jungle they are in or that is between them and the Python Warriors.
-
+**Equipment:**
+- Riders: hand weapon, javelins and light armour
+- Culkan: talons and beak *(counts as hand weapon)*
 
 **Options:**
-- May replace bow with javelins (12", S3, Poisoned Attacks) for free  
-- May take a shield for +1 pt/model  
-- The unit may upgrade one Python Warrior to a **Serpent Matriarch** (Champion) for +10 pts  
-- The unit may include a **Standard Bearer** for +10 pts  
-- The unit may include a **Musician** for +5 pts  
-
-
----
-
-## Piranha Warrior 
-
-Emulating the ferocious river predator, from where they draw their name, Piranha Warriors strike with a series of lightning fast blows before quickly evading any counterattacks.
-
-|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Piranha Warrior  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 18     |
-
-Troop Type: Regular infantry
-Base Size: 25 x 25 mm
-Unit Size: 5+
-
-**Equipment:**
-- Two hand weapons  
-- Javelins (12", S3, Poisoned Attacks)  
-- Light armour
-
-**Special Rules:** 
-- Blood in the river
-- Evasive
-- Furious Charge 
-- Immune to Psychology
-- Loner
-- Motley Crew 
-- Move through Cover
-- Open Order
-- Skirmishers
-- Strike First
-- Vanguard
-- Poisoned Attacks (shooting only)
-
-Options:  
-- Any unit may:
-  - May replace two hand weapons with a spear for  free  
-  - May take a shield for +1 pt/model
-
-**Blood in the river**
-In battle, Piranha Warrior perform the special attacks :
- - Cutting teeth: Until the end of this Combat phase, this unit gains the Extra Attacks (+1) special rule.
-
----
-
-## Stegadon
-
-|                  | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------|---|----|----|---|---|---|---|---|----|--------|
-| Stegadon         | 6 | 3  | -  | 5 | 6 | 5 | 2 | 4 | -  | 215    |
-| Ancient Stegadon | 6 | 4  | -  | 6 | 6 | 5 | 1 | 3 | -  | 230    |
-| Amazon Crew (x5) | - | 3  | 3  | 3 | - | - | 4 | 1 | 7  | -      |
-
-**Troop Type:** Behemoth
-
-**Base Size:** 60 x 100 mm
-
-**Unit Size:** 1
-
-**Armour Save:** 4+
-
-**Equipment:**
-- Stegadon/Ancient Stegadon: Great horns (see below)
-- Amazon Crew: Hand weapons, javelins, and bows
-
-
-**Options**
-
-• A Stegadon may be equipped with:
-- Fighting Platform (Amazon Crew with javelins and bows)................................... Included in base cost
-• An Ancient Stegadon may be equipped with:
-- Fighting Platform (Amazon Crew with javelins and bows)................................... Included in base cost
-- **Slann Star-Fire Cannon Platform** (Requires Mother of Sisterhood)................... +60 points
-* May add up to +3 additional Amazon Crew to the Fighting Platform ............... +8 points per model
----
-
-**Special Rules**
-
-**Close Order, Cold Blooded, Howdah, Immune to Psychology, Impact Hits (D3+1), Large Target, Poisoned Attacks (javelins only), Stomp Attacks (D3+2), Stubborn, Terror, Blades of the Ancients (Amazon Crew only), Native of Lustria (Amazon Crew only)**
-
-
-
-**Fighting Platform**
-
-The Stegadon's howdah serves as a mobile fighting platform for Amazon warriors. The crew may shoot their bows or javelins in the Shooting phase, targeting any enemy unit within range and line of sight.
-
-**Shooting Profile (Fighting Platform)**
-
-**Bows:**
-
-| Range | Strength | AP | Special Rules |
-|-------|----------|----|---------------|
-| 24"   | 3        | -  | Volley Fire   |
-
-**Javelins:**
-
-| Range | Strength | AP | Special Rules     |
-|-------|----------|----|-------------------|
-| 8"    | 3        | -  | Poisoned Attacks  |
-
-The Amazon Crew fires with BS 3 and may shoot 360° (the howdah allows firing in all directions).
-
-
-** Slann Star-Fire Cannon Platform** (Requires Mother of Sisterhood)
-
-An Ancient Stegadon may replace its standard Fighting Platform with a Slann Star-Fire Cannon mounted upon its howdah. This ancient relic of the Old Ones has been adapted by the Mothers of Sisterhood to be carried into battle atop these massive beasts, combining devastating firepower with battlefield mobility.
-
- Mounted Star-Fire Configuration
-
-When a Slann Star-Fire Cannon is mounted on an Ancient Stegadon:
-
-- The Amazon Crew is reduced to **3 crew members** (instead of 5) who operate the cannon
-- The crew **loses** their bows and javelins (they operate the cannon instead)
-- The Ancient Stegadon **may move and fire** the Star-Fire Cannon in the same turn (ignoring the normal Move or Fire restriction)
-- The cannon uses the crew's **BS 3** to hit
-- The cannon retains all other special rules: **Anti-Gravity Weapon, Catastrophic Overload**
-- The cannon has the same profile as the standard Slann Star-Fire Cannon (see Slann Star-Fire Cannon entry)
-
-Shooting Profile (Star-Fire Cannon Platform)
-
-**Range:** 36"
-
-**Strength:** 7
-
-**Special Rules:** Armour Piercing (3), Magical Attacks, Multiple Wounds (D3), Anti-Gravity Weapon
-
-**Anti-Gravity Weapon:**
-- Against models with Toughness 5 or higher, the cannon's Strength counts as **Strength 8**
-- Against models with 3 or more Wounds on their profile, the Multiple Wounds effect increases to **(D3+1)**
-- Against War Machines, Stone Throwers, Chariots, and Monsters, successful hits wound automatically (still apply Armour Piercing 3)
-
-The cannon may fire 360° from the howdah platform.
-
-Catastrophic Overload (Mounted)
-
-If the Ancient Stegadon is reduced to 0 Wounds and has a mounted Slann Star-Fire Cannon, roll a D6:
-
-- **1-2:** **Gravitational Implosion** - All models (friend and foe) within 3D6" must take a Leadership test. If failed, they are pulled D3" directly towards the Stegadon's position. All models within 6" suffer a Strength 6 hit with Armour Piercing (2) and Multiple Wounds (D3).
-- **3-4:** **Controlled Shutdown** - The ancient safety protocols activate. No additional effects.
-- **5-6:** **Crystal Fragmentation** - All models (friend and foe) within 6" suffer a Strength 5 hit.
-
-Restrictions
-
-- **Requires Mother of Sisterhood:** The Slann Star-Fire Cannon (mounted or otherwise) may only be included in an army that contains at least one Mother of Sisterhood
-- This option counts toward your army's 0-1 Slann Star-Fire Cannon limitation
-- If you take a mounted Star-Fire Cannon, you cannot also take a static Star-Fire Cannon (and vice versa)
-- Only **Ancient Stegadons** may be equipped with the Star-Fire Cannon Platform (regular Stegadons cannot)
-
-
-
-
-**Great Horns**
-
-| Range  | Strength | AP  | Special Rules |
-|--------|----------|-----|---------------|
-| Combat | User     | -3  | -             |
-
-
-
-**Character Mount**
-
-A Stegadon or Ancient Stegadon may be included in your army as a character mount for an Amazon Hero or Mother of Sisterhood. Its cost is added to that of its rider.
-
-Note that, because it has the Howdah special rule, a Stegadon or Ancient Stegadon is considered a chariot rather than a mounted monster.
-
-When taken as a character mount:
-- The character replaces one of the Amazon Crew members
-- The character may fight in close combat and shoot with the platform's weapons (or operate the Star-Fire Cannon if equipped)
-- The character benefits from the howdah's protection
-
----
-
-## Koalt
-
-|                  | M | WS | BS | S | T    | W    | I | A | Ld | Points |
-|------------------|---|----|----|---|------|----- |---|---|----|--------|
-| Koalt            | 6 | 6  | -  | 7 | (+3) | (+6) | 4 | 3 | -  |  +210  |
-
-Troop Type: Behemoth
-Base Size: 60 x 100 mm
-Unit Size: 1
-Equipment: serrated maw (see below),
-soporific breath (see below) and
-draconic scales (counts as full plate armour)
-**Special Rules**: 
- - Close Order
- - Fly (10)
- - Large Target
- - Stomp Attacks (D6)
- - Swiftstride
- - Terror
-
-
-|                    | R      | S | AP | Special Rules                        |
-|--------------------|--------|---|----|--------------------------------------|
-| Serrated maw       | Combat | S | -  | Armour Bane (2), Multiple Wounds (2) |
-
-Notes: In combat, this model must make one of its attacks each turn with this weapon.
-
-|                    | R      | S | AP  | Special Rules                        |
-|--------------------|--------|---|-----|--------------------------------------|
-| Soporific breath   | N/A    | 2 | N/A | Breath Weapon                        |
-
-**Notes**: No armour save is permitted against wounds caused by soporific breath (Ward and
-Regeneration saves can be attempted as normal).
-
-**Character Mount**: Only one Koalt may only be included in your army as
-a character’s mount. Its points are added to that of its rider.
-
----
-
-## Slann Star-Fire Cannon
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0e3c2f70-7a54-439a-b7ef-d05fc434f228" />
-
-
-|                        | M | WS | BS | S | T | W | I | A | Ld | Points |
-|------------------------|---|----|----|---|---|---|---|---|----|--------|
-| Slann Star-Fire Cannon | - | -  | -  | - | 7 | 5 | - | - | -  | 125    |
-| Crew (3 Amazons)       | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | -      |
-
-**Troop Type**: War Machine
-**Base Size**: 60 x 100 mm (machine), 20 x 20 mm (crew)
-**Unit Size**: 1 machine + 3 crew
-**Armour Save**: 5+
-
-**Special Rules**:
-- Magical Attacks
-- Move or Fire
-- Catastrophic Overload (see below)
+- Take shields .................. +1 pt/model
+- Take an additional hand weapon .................. +1 pt/model
+- Upgrade one model to Culkan-Ka (champion) .................. +10 pts/unit
+- Add a Standard Bearer .................. +5 pts/unit
+- Add a Musician .................. +5 pts/unit
 
 **Shooting Profile**
 
-| Weapon               | R   | S | AP | Special Rules                          |
-|----------------------|-----|---|----|----------------------------------------|
-| Slann Star-Fire Cannon | 36" | 7 | 3  | Multiple Wounds (D3), Anti-Gravity Weapon |
+| Weapon | Range | S | AP | Special Rules |
+|:---|:-:|:-:|:-:|:---|
+| Javelin | 12" | 3 | — | Poisoned Attacks |
 
-**Anti-Gravity Weapon**
+**Special Rules**
 
-- **Vs T5+ models**: Strength counts as 8
-- **Vs W3+ models**: Multiple Wounds becomes (D3+1)
-- **Vs Monsters, War Machines, Chariots**: Automatic Wounds (still apply AP3)
-- **Shockwave Effect**: If this attack kills a Monster or causes 3+ Wounds to a single model, place Small Blast Template (3") centered on target. Models under template suffer S4 hit with no armour save.
-
-**Move or Fire**
-
-If machine or crew moves, cannot fire. Standard war machine restriction.
-
-**Catastrophic Overload**
-
-When machine is reduced to 0 Wounds, roll D6:
-- **1**: Graviton Implosion - All models within 3" suffer S5 AP2 hit
-- **2-6**: Controlled Shutdown - No additional effect
-
-**Options**
-
-- **Shields for crew**: +1 pt/model
-- **Graviton Anchor** (+15 pts): Ignore Move or Fire, but Range reduced to 30"
-- **Crystalline Shielding** (+20 pts): Machine gains 5+ Ward vs Shooting
-
-**Restrictions**
-
-- Requires Mother of Sisterhood
-- 0-1 per army (0-2 if Mother is Army General)
-
+**Light Cavalry, Devastating Charge, Native of Lustria, Skirmish, Quicksilver**
 ---
+## Amazon Cold One Riders
 
-## **Avatar of Rigg**
+> The Amazons have unlocked the secret of taming Cold Ones, those monstrous reptiles that lurk in the caverns of Lustria. Measuring over three metres in length, these four-legged creatures lumber forward with a ponderous gait, their pendulum tails whipping through the air as razor-sharp fangs, grasping claws and furious trampling seek only to tear flesh apart. Through force, merciless patience and dark ancestral rituals, the warriors break their will without ever resorting to the debilitating poisons favoured by the Dark Elves — toxins that weaken rider and mount alike. Thus broken, the Cold Ones form devastating packs that charge screaming into the foe, spreading visceral terror among smaller creatures.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4b0a0711-e54a-4c2f-940f-72e84bc45783" />
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Rider | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | 22 |
+| Chief | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | +10 |
+| Cold One | 7 | 3 | — | 4 | 4 | 1 | 2 | 2 | — | — |
 
+**Unit Type:** Heavy Cavalry
+**Base Size:** 25 x 50 mm
+**Unit Size:** 5+
 
-| M | WS | BS | S | T | W | I | A | Ld | points |
-|---|----|----|---|---|---|---|---|----|--------|
-| 6 | 6  | 5  | 5 | 5 | 4 | 7 | 4 | 9  | 275    |
+**Equipment:**
+- Riders: hand weapon, cavalry lance and shield
+- Cold Ones: claws and teeth *(counts as hand weapon)*
 
-**Type d’Unité :** Monstrous Infantry (1 model)  
-**base size :** 50 x 75 mm
-**Équipement :**
+**Options:**
+- Replace cavalry lance with great weapon .................. +2 pts/model
+- Take heavy armour .................. +3 pts/model
+- Upgrade one model to Chief (champion) .................. +10 pts/unit
+- Add a Standard Bearer .................. +7 pts/unit
+- Add a Musician .................. +7 pts/unit
 
-- **Claws of the Serpent Mother**  
-  Armes naturelles, Magical Attacks  
-- **Sacred Scales**  
-  Armour Save 4+ (non-modifiable par équipement)
+**Special Rules**
 
+**Natural Armour (1) *(Cold Ones only)*, Devastating Charge, Close Order, Native of Lustria, Stupidity**
 
-
- **Règles Spéciales**
-
- **Avatar of the Goddess**
-L’Avatar de Rigg est une manifestation divine. Elle bénéficie de :  
-- Magical Attacks  
-- Magic Resistance (2)  
-- Terror  
-- Unstable (comme les Daemons – perd 1W par point perdu en combat)
-
-
- **Mother's Blessing**
-- Toutes les unités Amazon **Core** et **Special** dans un rayon de **12"** gagnent *Stubborn*.  
-- Les **Serpent Priestesses** dans ce rayon gagnent **+1 aux jets de dissipation**.
-
-
-
- **Divine Wrath**
-Au début de chaque tour de combat, l’Avatar choisit *un* des effets suivants :
-
-- **Vengeance of Rigg**  
-  Tous les ennemis en contact socle-à-socle doivent réussir un test de Leadership ou subissent **-1 WS** jusqu’à la fin du tour.
-
-- **Fury of the Serpent**  
-  L’Avatar gagne **+D3 Attacks** pour ce tour.
-
-- **Shield of Scales**  
-  L’Avatar et toutes les unités alliées dans un rayon de **6"** gagnent **Ward Save (5+)** jusqu’au début du prochain tour.
-
-
-
- **Serpent's Gaze** *(1 fois par partie)*
-Au début d’un tour Amazon :
-
-- Choisissez une unité ennemie à **18"** ou moins.  
-- Elle doit réussir un test de Leadership ou devient **Stupefied** jusqu'au début du prochain tour Amazon.
-
-**Unités Stupefied :**
-- -2 Movement  
-- Ne peuvent pas marcher  
-- Ne peuvent pas charger  
-- Ne peuvent pas tirer  
-
-
-
-**Options**
-
-**Upgrades (0–1 au choix)**  
-- **Coils of Binding (+30 pts)** — L’Avatar gagne **ASF (Always Strikes First)**  
-- **Obsidian Heart (+25 pts)** — L’Avatar devient **Unbreakable**, mais perd **Unstable**  
-- **Sacred Venom (+20 pts)** — Les attaques de l’Avatar gagnent **Poisoned Attacks**
-
-
-
- **Restrictions**
-
-- 0–1 par armée  
-- Ne peut pas rejoindre d’unités  
-- Ne peut pas être le General  
-
+**Restriction:** This unit may only be included in an army that contains at least one **High Serpent Priestess**. If the High Serpent Priestess is removed as a casualty, this unit must pass a Leadership test at the start of each friendly turn or suffer the **Stupidity** rule for that turn in addition to any other rules currently in effect.
 ---
+## Jaguar Huntresses
+
+> In the suffocating depths of the Lustrian jungle, the Jaguar Huntresses move like shadows, fierce guardians of the Amazonian tribes. Clad in the hide of the sacred feline, they have become one with the spirit of the predator – their silent stride mirrors the whispers of the canopy, their breath blending into the rustling of the vines. Tireless trackers, they harbour an implacable hatred for Skinks and Saurians, those despised enemies whose every ruse they see through. Crouched within the damp undergrowth, they wait, motionless, until the precise moment their blade strikes, unleashing a devastating ferocity as sudden as a jaguar's leap.
+
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Huntress | 4 | 4 | 4 | 3 | 3 | 1 | 5 | 1 | 8 | 44 |
+| Pack Mistress | 4 | 5 | 4 | 3 | 3 | 1 | 5 | 2 | 8 | +12 |
+| War Jaguar | 8 | 4 | — | 4 | 4 | 2 | 4 | 3 | 5 | — |
+
+**Unit type:** Monstrous Cavalry
+**Base size:** 50 x 75 mm
+**Unit size:** 3+
+
+**Equipment:**
+- Riders: hand weapon, javelins and light armour
+- War Jaguar: claws and fangs *(counts as hand weapon)*
+
+**Options:**
+- Take shields .................. +1 pt/model
+- Replace javelins with hunting lances *(Armour Piercing (1))* .................. Free
+- Upgrade one Huntress to Pack Mistress (champion) .................. +12 pts
+- Add a Standard Bearer .................. +10 pts
+- Add a Musician .................. +5 pts
+
+**Shooting profile**
+
+| Weapon | Range | S | AP | Special Rules |
+|:---|:-:|:-:|:-:|:---|
+| Javelin | 12" | 3 | — | Poisoned Attacks |
+
+**Special Rules**
+
+**Vanguard, Devastating Charge, Native of Lustria, Scouts\***
+
+*\* This unit has the Scouts rule only if it carries no magic banner.*
+---
+# Amazon Terradon Riders
+
+> In the suffocating skies of Lustria, where ordinary men never think to raise their eyes, the Terradon Riders soar. Chosen from among the most daring of their Amazonian sisters, they have bound their fate to the great winged reptiles that nest in the forgotten summits of ruined temples — those Terradons whose piercing shrieks cut through the clouds and herald death from above. Blessed by the venerable Slann who once granted immortality to their ancestors, these warriors wield their mounts not as broken beasts, but as wild allies seized by that same Sacred Fury. Swooping out of the sun with a piercing cry, each squadron first unleashes a rain of razor-edged rocks upon the enemy lines, shattering skulls and armour before the shadow of a wing has even grazed the ground. Then, in the tumult of their aerial charges, they plunge into the heart of the ranks, borne upon a violence that only the primordial jungle can breed: talons shredding flesh, Amazonian spears punching through shields, as the earth shakes beneath the impact of their terrible dives.
 
 
-# amazons Magic Items
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Terradon Rider | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | 34 |
+| Sky Huntress | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | +10 |
+| Terradon | 2 | 3 | — | 4 | (+1) | (+1) | 3 | 2 | — | — |
 
-The pages that follow detail magic items unique to Amazon Kingdoms armies. These can be purchased by models within an Amazon Kingdoms army in exactly the same way as Common magic items, as described in the Warhammer: The Old World rulebook.
+*Note: A Terradon Rider mounted on a Terradon benefits from +1 Toughness and +1 Wound.*
 
-Extremely Common Magic Items: Any magic item marked with an asterisk (*) is considered to be extremely common, as described in the Warhammer: the Old World rulebook.
+**Unit type:** Monstrous Cavalry
+**Base size:** 40 x 40 mm
+**Unit size:** 3+
 
-## MAGIC WEAPONS
+**Equipment:**
+- Riders: hand weapon, javelins and light armour
+- Terradon: talons and beak *(counts as hand weapon)*
 
-**Blade of Realities** - 75pts
-*Enchantment:* Unsaved wounds caused by this weapon force the target to pass a Leadership test or be slain outright (characters may use their own Leadership).
+**Options:**
+- Take shields .................. +1 pt/model
+- Upgrade one Terradon Rider to Sky Huntress (champion) .................. +10 pts
+- Add a Standard Bearer .................. +10 pts
+- Add a Musician .................. +5 pts
 
-**Resplendent Scimitar** - 50pts
-*Enchantment:* The bearer gains +2 Attacks.
+**Shooting Profile**
 
-**Piranha Sword** - 40pts
-*Enchantment:* Unsaved wounds caused by this weapon inflict 2 Wounds instead of 1.
+| Weapon | Range | S | AP | Special Rules |
+|:---|:-:|:-:|:-:|:---|
+| Javelin | 12" | 3 | — | Poisoned Attacks |
 
-**Grand Solar Staff** (*)- 35pts
-*Enchantment:* Shooting weapon. Range 24", Strength 5, Armour Piercing (1), Quick Shot. Requires both hands.
+**Special Rules**
 
-**Sacrificial Sword** - 30pts
-*Enchantment:* The bearer gains the Killing Blow special rule.
+**Natural Armour (1) *(Terradon only)*, Light Cavalry, Skirmish, Fear, Fly (10), Quicksilver, Native of Lustria**
+---
+**Rock Drop**
 
-**Hornet Sword** (*)- 25pts
-*Enchantment:* The bearer gains Always Strikes First.
+At the start of any friendly Shooting phase, a unit of Terradon Riders that performed a Fly move during the previous Movement phase may choose to drop rocks instead of shooting normally. Choose an enemy unit that this unit flew over during that move: it suffers D3 Strength 4, AP —, hits per model in this unit that flew over it. These hits are distributed as normal shooting hits. A unit that drops rocks may not make any other shooting attacks during that phase.
+---
+**Restriction:** This unit may only be included in an army that contains at least one **High Serpent Priestess**.
+---
+# Eagle Warriors
 
-## MAGIC ARMOUR
+> Battle-hardened veterans of countless war expeditions, the Eagle Warriors have left the prowling jaguar behind to soar toward the skies. Under the aegis of the great eagle, totem of power and majesty, they swoop upon the enemy with lightning as their ally. Their exotic headdresses, bristling with feathers and talons, are crafted from those sacred birds the Lizardmen venerate as messengers of the Old Ones – a trophy that proclaims both their devotion and their indomitable ferocity in battle.
 
-**Grand Matriarch Helm** - 50pts
-*Enchantment:* Heavy armour. The bearer improves their armour save by +1 and gains +1 Leadership.
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Eagle Warrior | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | 12 |
+| Eagle Talon-Bearer | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | +10 |
 
-**Mirror Shield** - 35pts
-*Enchantment:* Shield. On a roll of 2+, Magic Missiles targeting the bearer are reflected back at the caster.
+**Unit Type:** Regular Infantry
+**Base Size:** 25 x 25 mm
+**Unit Size:** 5+
 
-**Shield of Mutilation** - 30pts
-*Enchantment:* Shield. The bearer gains +1 Attack (this attack counts as magical).
+**Equipment:**
+- Relic Pistol *(see shooting profile)*
+- Hand Weapon
+- Light Armour
 
-**Enchanted Shield** (*)- 15pts
-*Enchantment:* Shield that confers an armour save of 5+ (or improves the existing armour save by +1, bearer's choice at the start of each round of combat).
+**Options:**
+- Replace the Relic Pistol with a longbow .................. Free
+- Take a shield .................. +1 pt/model
+- Upgrade one Eagle Warrior to Eagle Talon-Bearer (champion) .................. +10 pts
+- Add a Standard Bearer .................. +10 pts
+- Add a Musician .................. +5 pts
 
-## TALISMANS
+**Shooting Profile**
 
-**Lunar Amulet** - 50pts
-*Enchantment:* Ward Save (4+).
+| Weapon | Range | S | AP | Special Rules |
+|:---|:-:|:-:|:-:|:---|
+| Relic Pistol | 12" | 4 | -2 | Shoot in Melee |
+| Longbow | 30" | 3 | -1 | — |
 
-**Aura of Dispersion** - 40pts
-*Enchantment:* Enemies suffer -1 To Hit the bearer in close combat.
+**Special Rules**
 
-**Shield Amulet** - 30pts
-*Enchantment:* One use only. Ward Save (2+) against the first wound allocated to the bearer.
+**Close Order, Immune to Psychology, Skirmisher, Native of Lustria**
+---
+# Jaguar Warriors
 
-**Brilliant Amulet** (*)- 15pts
-*Enchantment:* Ward Save (6+).
+> Among all the sisters of Lustria, none are more fearsome than the Jaguar Warriors. They are the living bulwark of the sacred shrines, the wrath lurking behind the giant ferns, and the last face beheld by raiders foolish enough to desecrate the ancient stones. But no one is born a Jaguar: one must prove herself worthy through blood and suffering. Only warriors who have proven themselves in battle are permitted to attempt the initiation trials, conducted far, far away, where the jungle grows so deep that even the Slann fall silent. It is said that few return, and that those who survive no longer possess quite a woman's heart.
+They drape themselves in the hide of the great feline — shadow-dark pelt dappled with gold, the skull worn as a helm — and within that second skin, it is the very spirit of the jaguar that inhabits them. A legend whispers that the first Slann, in their inhuman wisdom, blessed the earliest among them, breathing into them an endurance that flesh should not know, a strength capable of breaking a man like a reed. True or not, the legend proves itself anew with every battle. For where arrows rain down and blades bite deep, the Jaguar Warriors never retreat. They stand like a shield of flesh and will between death and their sisters, absorbing the most ferocious blows without a cry, without a single crack of weakness. Their eyes, the only thing visible beneath the sacred skull, burn with that same cold, implacable light the jaguar fixes upon its prey before it springs — a silent promise of brutal end in the heart of the green heat.
 
-## ENCHANTED ITEMS
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Jaguar Warrior | 4 | 3 | 3 | 4 | 3 | 1 | 4 | 1 | 7 | 13 |
+| Jaguar Huntress | 4 | 3 | 3 | 4 | 3 | 1 | 4 | 2 | 7 | +10 |
 
-**Sacred War Drum** - 40pts
-*Enchantment:* Friendly units within 12" may make March moves even when 8" or less from the enemy. In addition, units attempting to rally within this range gain +1 Leadership.
+**Troop Type:** Regular Infantry
+**Base Size:** 25 x 25 mm
+**Unit Size:** 5+
 
-**Feathered Cloak** - 35pts
-*Enchantment:* The bearer gains Fly (8).
+**Equipment:**
+- Claw of the Ancients *(see combat profile)*
+- Light armour
 
-**Sacrificial Statuette** - 30pts
-*Enchantment:* Bound Spell (Power Level 5). Target an enemy character within 18". The target must pass a Toughness test or lose 1 Wound with no armour save allowed. If the test is failed, repeat the process until the target succeeds or is slain. One use per battle.
+**Options:**
+- Take a shield .................. +1 pt/model
+- Upgrade one Jaguar Warrior to Jaguar Huntress (champion) .................. +10 pts
+- Add a Standard Bearer .................. +10 pts
+- Add a Musician .................. +5 pts
 
-**Jaguar Brother Charm** - 25pts
-*Enchantment:* Bound Spell (Power Level 5). The bearer may move 10" in any direction (as if flying), ignoring terrain and units. Cannot be used to charge.
+**Combat Profile**
 
-**Pendant of Ferocity** - 25pts
-*Enchantment:* As soon as the bearer inflicts their first unsaved wound, they gain Frenzy for the rest of the battle.
+| Weapon | Range | S | AP | Special Rules |
+|:---|:-:|:-:|:-:|:---|
+| Claw of the Ancients | Close Combat | S+1 | -2 | Requires two hands |
 
-**Firefly Frog Venom** (*)- 20pts
-*Enchantment:* The bearer's non-magical melee weapon attacks become Magical Attacks and Poisoned Attacks.
+**Special Rules**
 
-## ARCANE ITEMS
+**Close Order, Stubborn, Native of Lustria**
 
-**Hand of the Ancients** - 50pts
-*Enchantment:* Once per battle, you may force an enemy Wizard who has suffered a Miscast to suffer the effects of a second Miscast on a roll of 2+.
+**Claw of the Ancients**
+Ancient weapons fashioned from the bones of primordial beasts, capable of tearing through the most resilient protections. A model carrying the Claw of the Ancients gains **+1 Attack** during any turn in which it charged.
+---
+# Python Warriors
 
-**Cube of Darkness** (*)- 45pts
-*Enchantment:* One use only. Dispel Scroll that, on a roll of 4+, immediately ends the Magic phase and dispels all active Remains in Play spells (friendly and enemy).
+> Unlike the Jaguar Warriors and their tumultuous strength, the Python Warriors cultivate a quieter power — one of patience and precision. They have learned from the great serpent that patience is a weapon, and that the moment chosen to strike is worth more than any headlong charge.
+>
+> Their initiation is a long solitude. For weeks, the novice lives in the jungle, lying in wait, watching pythons melt into shadow, sensing the warmth of prey and striking only at the decisive instant. Some return with a changed look in their eyes, capable of absorbing blow after blow without ever breaking their focus. Others vanish without a trace.
+>
+> In battle, this discipline makes them fearsome. Motionless beneath the assault, they watch for the gap in the armour, the flaw in the guard, then strike with a blade as precise as a venomous fang, slipping through where none expect them. The Serpent Priestesses see in them their natural protectors: when their forces combine, the venom of magic answers the sting of steel, and the enemy succumbs within a vice from which there is no escape.
 
-**Staff of Sorcery** - 40pts
-*Enchantment:* The bearer gains +1 to all Dispel rolls.
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Python Warrior | 4 | 3 | 4 | 4 | 3 | 1 | 4 | 1 | 7 | 13 |
+| Serpent Matriarch | 4 | 3 | 4 | 4 | 3 | 1 | 4 | 2 | 7 | +10 |
 
-**Diadem of Power** - 30pts
-*Enchantment:* At the start of the opponent's Magic phase, you may convert up to 2 Channelling dice into Dispel dice.
+**Troop Type:** Infantry
+**Base Size:** 25 x 25 mm
+**Unit Size:** 5+
 
-**Storm Staff** - 25pts
-*Enchantment:* Bound Spell (Power Level 6). Magic Missile. Range 24", Strength 6, Armour Piercing (1). One use per battle.
+**Equipment:**
+- Hand weapon
+- Python Arrows *(see shooting profile)*
+- Light armour
 
-**Power Grubs** (*)- 25pts
-*Enchantment:* One use only. Add +3 to the total when casting a spell (declared before rolling dice).
+**Options:**
+- Replace Python Arrows with javelins .................. Free
+- Take a shield .................. +1 pt/model
+- Upgrade one Python Warrior to Serpent Matriarch (champion) .................. +10 pts
+- Add a Standard Bearer .................. +10 pts
+- Add a Musician .................. +5 pts
 
-## MAGIC STANDARDS
+**Shooting Profile**
 
-**Banner of Dread** - 50pts
-*Enchantment:* The unit causes Fear.
+| Weapon | Range | S | AP | Special Rules |
+|:---|:-:|:-:|:-:|:---|
+| Python Arrows | 24" | 3 | -1 | Poisoned Attacks |
+| Javelin | 12" | 3 | — | Poisoned Attacks |
 
-**Banner of Domination** - 50pts
-*Enchantment:* All enemy Wizards within 12" of this banner must pass a Stupidity test at the start of each Magic phase.
+**Special Rules**
 
-**Dazzling Totem** - 45pts
-*Enchantment:* Shooting attacks targeting this unit suffer -1 To Hit at long range, and -2 at short range.
+**Close Order, Poisoned Attacks *(shooting only)*, Native of Lustria**
 
-**War Banner** (*)- 25pts
-*Enchantment:* The unit gains +1 Combat Result.
+**Jungle Hunters**
+This unit treats forests and jungle terrain as open ground for the purposes of movement. In addition, enemies do not benefit from the Light Cover modifier against shooting from this unit if that cover is provided solely by a forest or jungle terrain piece.
+---
+# Piranha Warrior
+
+> Swift as the current, fleeter than thought — the Piranha Warriors place their faith in speed alone. Their name comes from the river predator whose frenzy they mirror: a storm of blows so rapid the enemy never sees it coming, and already they are gone.
+>
+> Their training takes place in murky waters, amid the hungry shoals they must cross without a wound. Every movement must be precise, every motion economical — a school of survival that hones the body and sharpens instinct until danger is felt before it strikes. From this they draw one essential lesson: a single bite means nothing, but a hundred delivered in an instant drown the prey.
+>
+> In battle, light and elusive, they whirl across the flanks of the foe, their short blades shredding the most disciplined formations. Their enemies strike at air; they strike at flesh. They do not hold the line, nor do they face it — they hollow it out, blow by blow, until the enemy collapses, emptied of substance.
+
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Piranha Warrior | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | 18 |
+
+**Unit Type:** Regular Infantry
+**Base Size:** 25 x 25 mm
+**Unit Size:** 5+
+
+**Equipment:**
+- Two hand weapons
+- Javelins *(see shooting profile)*
+- Light armour
+
+**Options:**
+- Replace both hand weapons with a spear .................. Free
+- Take a shield .................. +1 pt/model
+
+**Shooting Profile**
+
+| Weapon | Range | S | AP | Special Rules |
+|:---|:-:|:-:|:-:|:---|
+| Javelin | 12" | 3 | — | Poisoned Attacks |
+
+**Special Rules**
+
+**Open Order, Skirmishers, Evasive, Move through Cover,
+Frenzy, Strike First, Poisoned Attacks *(shooting only)*, Native of Lustria**
+
+**Blood of the River**
+During any turn in which this unit has charged, each model gains **+1 Attack** until the end of the Combat phase.
+---
+# Stegadon
+
+> In the vast green expanse of Lustria, where colossi from another age still roam, the Stegadon is a living mountain: a shell of scales and horns, a charge that splits the earth, a cry low enough to shake the mightiest walls. The Amazons may have received them from the Slann themselves — an ancient gift sealed in fidelity to the Great Work.
+>
+> No Skinks to drive them here: instead, the Serpent Priestesses raise and bond these beasts through trust, not force. A handler spends years with her Stegadon, feeding it, reading its moods, weaving a pact in which the creature's will is not broken but attuned.
+>
+> In battle, it becomes a moving fortress — a howdah laden with elite warriors who riddle the enemy with missiles. But the true danger is its charge: tonnes of fury hurled into the lines, shattering formations and chariots alike like wisps of straw.
+>
+> The eldest, the Kuraq, bear the scars of centuries upon their scales and the offerings of veneration upon their horns. Their very shadow on the battlefield galvanises the warriors and chills the enemy to the bone.
+
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Stegadon | 6 | 3 | — | 5 | 6 | 5 | 2 | 4 | — | 230 |
+| Ancient Stegadon | 6 | 4 | — | 6 | 6 | 5 | 1 | 3 | — | 250 |
+| Amazon Crew (×5) | 4 | 3 | 3 | 3 | — | — | 4 | 1 | 7 | — |
+
+**Unit Type:** Behemoth
+**Base Size:** 60 x 100 mm
+**Unit Size:** 1
+**Armour Save:** 4+
 
 
 
-# Amazons special rules
+## Equipment
 
+- **Stegadon / Ancient Stegadon:** Great Horns (see below)
+- **Amazon Crew:** Hand weapons, javelins, bows
+
+
+
+## Options
+
+**Stegadon**
+- Combat Platform (crew with bows and javelins) .................. Included
+
+**Ancient Stegadon**
+- Combat Platform (crew with bows and javelins) .................. Included
+- **Slann Star-Fire Cannon Platform** *(requires a Mother Superior of the Sisterhood)* .... +60 pts
+  - May add up to +3 additional crew members .... +8 pts/model
+
+
+
+## Special Rules
+
+**Close Order, Cold One, Howdah, Immune to Psychology,
+Impact Hits (D3+1), Large Target, Poisoned Attacks *(javelins only)*,
+Thunderstomp (D6), Stubborn, Terror, Native of Lustria *(Crew only)***
+
+
+
+### Howdah
+The howdah fixed upon the Stegadon's back serves as a mobile firing platform. The crew may shoot in 360°. A character embarked in the howdah fights and shoots from this platform following the Combat Platform rules.
+
+### Cold One
+The Stegadon is immune to the *Fear* rule. Its crew benefits from a **+1** modifier on *Terror* tests.
 
 ### Blades of the Ancients
-*These weapons, remnants of a forgotten era, are technological artefacts of unknown origin—rumoured to be much sought-after High Age relics. The gems set within the hilt blaze with the captive fires of a falling star, offering both protection and offensive power.*
+The Amazons who ride a Stegadon are veteran warriors, bearing ceremonial blades tempered in the sacred waters of Lustria. Their hand weapons count as great weapons but do not suffer the usual Initiative penalty.
 
-In **The Old World**, the *Blades of the Ancients* count as both a melee weapon and a missile weapon with the following profile:
+### Native of Lustria
+The crew ignores Difficult Terrain and Dangerous Terrain rules caused by jungle or swamp terrain.
 
-**Weapon Profile: Blade of the Ancients**
+
+
+## Shooting Profile — Standard Platform
+
+**Bows**
+
+| Range | S | AP | Special Rules |
+|:---|:-:|:-:|:---|
+| 24" | 3 | — | Volley Fire |
+
+**Javelins**
+
+| Range | S | AP | Special Rules |
+|:---|:-:|:-:|:---|
+| 8" | 3 | — | Poisoned Attacks |
+
+
+
+## Slann Star-Fire Cannon Platform
+*(Ancient Stegadon only — requires a Mother Superior of the Sisterhood)*
+
+An Ancient Stegadon may replace its standard Combat Platform with a Slann Star-Fire Cannon mounted on a howdah. Apply the following rules:
+
+- The crew is reduced to **3 Amazons**; they lose their bows and javelins.
+- Use the shooting profile and all special rules of the **Slann Star-Fire Cannon** (see its entry), with the following modifications:
+  - The **"Cannot shoot after moving"** restriction is **ignored**: the Stegadon may move and shoot normally.
+  - In the event of a **Catastrophic Overload**, if the result is **Implosion**, the hits are also applied to the Ancient Stegadon itself.
+  - The crew uses the **BS 3** from the Amazon profile rather than that listed in the Cannon's profile.
+- This option is **0–1** per army and is mutually exclusive with the ground-mounted version of the Slann Star-Fire Cannon.
+
+
+
+## Weapon Profile
+
+### Great Horns
+
+| Range | S | AP | Special Rules |
+|:---|:-:|:-:|:---|
+| Combat | User | -3 | — |
+
+
+## Character Mount
+
+A Stegadon or Ancient Stegadon may serve as a mount for an Amazon hero or a Mother Superior of the Sisterhood. The character replaces one crew member and fights or shoots from the howdah following the Combat Platform rules.
+---
+## Coatl
+
+> In the canopy where light fractures into blades, a living rainbow glides — the Coatl. Its scales shimmer the air with shifting reflections, green and gold feathers trembling like the memory of a sacred bird. Around it, the winds of magic bend, drawn by a presence older than the temples, more silent than the gods.
+>
+> None summon it. It descends when it wills, and its gaze, so they say, weighs souls. Some explorers, spared by miracle, speak of a curious warmth deep in the chest — the feeling of being read to the bone, then returned to the world with crushing indifference. Before it, the most carefully woven spell unravels like mist in sunlight; a pure discharge ignites the air, and what was once armour is nothing but ash.
+>
+> The Amazons see in it the god itself, descended among the vines, and the Serpent Priestesses spend their lives deciphering its design in ruined glyphs. When a Coatl chooses to settle above an army, time holds its breath: every warrior knows the battle ahead is no longer a matter of arrows or blades, but a decree of fate, a line written into the order of the world. Then the entire warband falls into rank like a single body, possessed by a will beyond its own — that of a celestial serpent come to tip the scales of the Ancients.
+
+|| M | WS | BS | S | T | W | I | A | Ld | Points |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Coatl| 7 | 3 | 0 | 4 | 5 | 3 | 2 | 2 | 5 | +210 |
+
+*Note: A rider mounted on a Coatl benefits from +2 Toughness and +2 Wounds.*
+
+**Unit Type:** Behemoth
+**Base Size:** 60 x 100 mm
+**Unit Size:** 1
+
+
+## Equipment
+
+**Draconic Scales** — counts as plate armour (armour save 3+)
+
+### Serrated Maw
+
+| Range | S | AP | Special Rules |
+|:--|:-:|:-:|:--|
+| Combat | S | — | Armour Piercing (2), Multiple Wounds (2) |
+
+The Coatl must make **at least one attack** with this weapon in each combat phase.
+
+### Soporific Breath
+
+| Range | S | AP | Special Rules |
+|:--|:-:|:-:|:--|
+| Contact | 2 | — | Breath Weapon |
+
+No armour save is permitted against these wounds. Ward saves and regeneration apply as normal.
+
+
+## Special Rules
+
+**Close Order, Fly (10), Large Target, Stomp (D6), Terror**
+
+
+### Cold-Blooded
+The Coatl is immune to the *Fear* rule. Its rider benefits from a **+1** modifier to *Terror* tests.
+
+### Thick-Skinned
+The Coatl grants its rider a **+1** modifier to their armour save, in addition to any armour worn by the rider.
+
+**Character Mount:** A Coatl may only be included in your army as a character mount. Its points are added to those of its rider.
+---
+# Starfire Slann Cannon
+
+> *"When the Cannon roared for the first time in millennia, the Warriors believed the Ancients had returned. The light that burst forth belonged not to this world — it was the frozen fire of the stars that the Slann once called Tz'arkan Sotek. And on that day, the jungle held its breath."*
+> — Oral Chronicles of the Amazons of Lustria
+>
+> Forged when the sky still touched the earth and the Mage-Priests bent light itself into artillery, the Starfire Cannon is neither weapon nor altar: it is a remnant of a primordial age, a relic the jungle had swallowed before the Amazons awakened it. Hewn from a jade so dark it drinks the daylight, threaded with filaments of gold that kindle only at the Priestesses' song, it opens at its heart a hexagonal void — a window into the very fabric of the stars.
+>
+> It is not loaded; it is awakened. A Priestess lays her hands upon the glyphs, speaks syllables torn from tablets of pure thought, and the cannon begins to hum like a hive of stars. It draws upon the winds of magic around it, slowly, inexorably, until its hexagonal maw blazes with an unbearable pale light. Then it does not fire — it imposes a silence, a thunderous absence. A bolt of pure nothingness streaks in a straight line, and where that fire from beyond this world strikes, nothing remains but vitrified stone, a scorched shadow, and the dazzled memory of a star that gave itself to the earth for one fleeting moment.
+
+**Unit Type:** War Machine
+**Base Size:** 60 x 100 mm
+
+
+## Profile
+
+| | M | WS | BS | S | T | W | I | A | Ld | Points |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Starfire Cannon | — | — | — | — | 7 | 5 | — | — | — | 125 |
+| Crew (3 Amazons) | 4 | 3 | 3 | 3 | 3 | 1 | 4 | 1 | 7 | — |
+
+**Armour Save:** 5+
+
+
+## Shooting Profile
 
 | Weapon | Range | S | AP | Special Rules |
 |:---|:---:|:---:|:---:|:---|
-| **Melee** | Combat | S+1 | -1 | Magical Attacks, Force Field, Requires Two Hands* |
-| **Shooting (Sunfire)** | 12" | 3 | - | Magical Attacks, Quick Shot, Solar Sight |
-
-**Weapon Special Rules:**
-
-*   **Force Field:** A model equipped with this weapon has a **6+ Ward Save** against wounds suffered during any phase.
-*   **Solar Sight:** When this weapon is used during the Shooting phase, the wielder ignores To Hit modifiers for **Long Range** and **Cover** (partial or full).
-*   **Quick Shot:** The wielder does not suffer the usual -1 To Hit penalty for Moving and Shooting.
+| Starfire Cannon | 36" | 7 | -3 | Magical Attacks, Multiple Wounds (D3), Gravitational Weapon |
 
 
+## Special Rules
+
+**Magical Attacks**
+
+**Cannot Fire When Moving**
+This model cannot make any shooting attacks during a turn in which it has moved.
+
+
+**Gravitational Weapon**
+
+The Starfire Cannon projects gravitational charges capable of rending the thickest armour and disintegrating the most massive of creatures. When this cannon fires, the following rules apply in place of or in addition to the normal shooting rules:
+
+> **Vs Toughness 5+**
+> The Cannon's Strength is raised to **8** against any target with a Toughness characteristic of 5 or more. Use this value in place of the Strength shown in the shooting profile for all to wound rolls.
+
+> **Vs targets with 3 or more Wounds**
+> The Cannon inflicts **D3+1** wounds per unsaved hit instead of D3. Determine the number of wounds separately for each unsaved hit.
+
+> **Vs Monsters, War Machines and Chariots**
+> Any hit automatically inflicts a wound, with no to wound roll required. Armour saves, ward saves and regeneration saves apply as normal.
+
+> **Gravitational Explosion**
+> If one or more unsaved wounds inflicted by the Starfire Cannon reduce a Monster to zero Wounds, immediately place a 3-inch template centred on the Monster's base before removing it as a casualty. Resolve hits under this template as described on page 145 of the rulebook. Each model under the template suffers a Strength 4 hit. No armour save is permitted against these hits. Ward saves and regeneration saves apply as normal.
+
+> **Gravitational Explosion**
+> If the Starfire Cannon slays a Monster, immediately place a 3-inch template centred on the Monster's last base position. Any unit, friendly or enemy, partially or wholly under the template suffers D6 Strength 4 hits. No armour save is permitted against these hits. Ward saves and regeneration saves apply as normal.
+
+
+**Catastrophic Overload**
+
+When the Starfire Cannon rolls a *Misfire* result on the artillery dice, roll a D6 and consult the following table:
+
+| D6 | Result |
+|:---:|:---|
+| 1 | **Implosion —** The cannon is destroyed by its own gravitational forces. Immediately remove the model from play. All units, friendly or enemy, within 3 inches suffer D6 Strength 5 hits with AP -2. No armour save is permitted. Ward saves and regeneration saves apply as normal. |
+| 2–6 | **Jam —** The firing mechanism seizes up. The cannon cannot fire this turn. The crew spends their action making the necessary repairs. |
+
+
+## Options
+
+| Option | Cost | Effect |
+|:---|:---:|:---|
+| Crew Shields | +1 pt/model | The crew benefits from a +1 improvement to their armour save |
+| Gravitational Anchor | +15 pts | The Cannon may fire when moving. Its range is reduced to 30" when firing after having moved |
+| Crystal Armour Plating | +20 pts | The Cannon benefits from a Ward Save (5+) against enemy shooting attacks |
+
+
+## Restrictions
+
+- Requires a **Mother Superior of the Sisterhood** to be present in the army
+- **0–1** per army *(0–2 if the Mother Superior of the Sisterhood is designated as General)*
 ---
+# Rigg's Avatar
 
-### Native of Lustria
-*The Amazons are born into the green hell of Lustria. Where others see impenetrable terrain and death, they see a home.*
-
-**Unit Special Rule:**
-
-Models with this special rule are subject to the following effects:
-
-*   **Move Through Cover:** Models with this rule do not roll **Dangerous Terrain** tests when moving through terrain features classified as Forest, Jungle, Marsh, or Water.
-*   **Natural Camouflage:** If the unit is predominantly within a Forest or Jungle terrain feature, enemies suffer an additional -1 modifier when rolling To Hit against them during the Shooting phase (this stacks with the usual Cover modifiers).
-*   **Jungle Stalkers:** When determining who takes the First Turn or choosing deployment zones in a scenario set in a Jungle/Lustria biome (or using specific Lustria rules), the Amazons gain +1 to their roll.
+**Unit Type:** Monstrous Infantry (character)
+**Base Size:** 50 x 75 mm
+**Unit Size:** 1
 
 
-# Lore of the Serpent
 
-"In the depths of the jungle, where sunlight barely penetrates the canopy and ancient ruins whisper of forgotten ages, the Serpent Priestesses commune with powers older than the Old Ones themselves. Theirs is not the crude magic of beast-tamers or the calculated sorcery of the Slann, but something primal and deadly - the magic of venom and fang, of coils that crush and eyes that mesmerize. They are the bridge between the civilized Amazons and the savage jungle, channeling the predatory essence of the great serpents that ruled these lands before even the Amazons' arrival."
-"To learn the Lore of the Serpent is to embrace transformation - not merely of flesh, but of spirit. The Priestesses shed their human frailty as a serpent sheds its skin, becoming vessels for an ancient, reptilian consciousness. Their magic does not conquer nature; it becomes nature, adopting the patience of the python, the speed of the viper, and the inevitability of venom coursing through veins."
-— Teachings of the First Coil, Serpent Priestess Codex
+## Profile
+
+| M | WS | BS | S | T | W | I | A | Ld | Points |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 6 | 6 | 5 | 5 | 5 | 4 | 7 | 4 | 9 | 300 |
 
 
-## 0. Serpent's Kiss (SIGNATURE SPELL)
 
-*With a whispered prayer, the priestess invokes the primal essence of the serpent. Fangs glisten with supernatural venom as warriors feel their weapons infused with the killing touch of the jungle's most deadly predators.*
+## Equipment
 
-**Type:** Augment  
-**Casting Value:** 4+  
+### Mother-Serpent's Claws
+
+| Range | S | AP | Special Rules |
+|:--|:-:|:-:|:--|
+| Combat | S | -1 | Magical Attacks |
+
+### Sacred Scales
+**4+** armour save. This save cannot be improved or degraded by any source whatsoever.
+
+
+
+## Special Rules
+
+**Magical Attacks, Magic Resistance (2), Terror, Unstable**
+
+
+
+### Avatar of the Goddess
+
+Rigg's Avatar is a physical manifestation of Rigg, the serpent-goddess of the Amazons. She permanently benefits from the following effects:
+
+- All Amazon *Core* and *Special* units within **12"** gain the *Stubborn* rule.
+- All Serpent Priestesses within **12"** benefit from a **+1** modifier to their dispel rolls.
+
+
+
+### Unstable
+
+If Rigg's Avatar loses a combat, she automatically suffers a number of wounds equal to the number of combat resolution points lost, **with no saves of any kind allowed**.
+She can never flee from combat.
+
+
+
+### Divine Wrath
+
+At the start of each combat phase, before declaring attacks, Rigg's Avatar chooses one of the following three effects. This effect lasts until the end of the current combat phase:
+
+#### Rigg's Vengeance
+All enemy units in base contact with the Avatar must pass a Leadership test.
+If failed, they suffer a **-1 WS** modifier until the end of the phase.
+
+#### Serpent's Fury
+The Avatar gains **+D3 additional Attacks** for this phase.
+Roll the die immediately after choosing this effect.
+
+#### Scale Shield
+The Avatar and all allied units within 6" benefit from a Ward Save (6+) until the end of this combat phase.
+
+
+**Serpent's Gaze**
+During each casting phase, the Avatar may attempt to cast the **Serpent's Gaze** spell. If the spell is already in play, it cannot be cast a second time.
+
+*Type: Hex*
+
+**Casting Value:** 13+
+**Range:** 18"
+
+**Effect: Remains in Play**
+The targeted enemy unit must pass a Leadership test. If failed, for as long as this spell **Remains in Play**, it suffers:
+- **-2 Movement** *(minimum 1)*
+- **Cannot March**
+- **Cannot Charge**
+
+It may be dispelled normally.
+
+
+
+## Options *(0–1, choose one)*
+
+| Option | Cost | Effect |
+|:--|:-:|:--|
+| Rings of Binding | +30 pts | Gains *Strike First* |
+| Obsidian Heart | +25 pts | Gains *Unbreakable* and loses *Unstable* |
+| Sacred Venom | +20 pts | Gains *Poisoned Attacks* |
+
+## Restrictions
+
+- **0–1** per army
+- May **not join units**
+- May **not be designated as the General**
+---
+# Amazon Magic Items
+
+The following pages describe the magic items unique to the armies of Amazonia. They may be purchased by models in an Amazon army in exactly the same way as common magic items, as described in the *Warhammer: The Old World* rulebook.
+
+**Very Common Magic Items:** Any magic item marked with an asterisk (*) is considered very common, as explained in the *Warhammer: The Old World* rulebook.
+---
+## MAGIC WEAPONS
+
+**Blade of Realities** – 75 pts
+> Forged in the depths of ancient temples, this blade seems capable of cutting through the veil between worlds.
+
+Unsaved wounds caused by this weapon force the target to pass a Leadership test or be slain outright. Characters may use their own Leadership value for this test.
+
+**Scintillant Scimitar** – 60 pts
+> This curved blade shimmers with a golden brilliance that quickens the movements of its wielder.
+
+The bearer gains +2 Attacks.
+
+**Piranha Blade** – 40 pts
+> Enchanted in the image of the fish whose name it bears, this blade tears through flesh with fearsome ferocity.
+
+Unsaved wounds caused by this weapon inflict 2 Wounds instead of 1.
+
+**Grand Solar Staff** – 45 pts
+> Carved from sacred wood and set with solar crystals, this staff projects bolts of searing light.
+
+Shooting weapon. Range 24", Strength 5, Armour Piercing (1), Rapid Fire. Requires two hands.
+
+**Sacrificial Blade** – 30 pts
+> Consecrated during ancient rituals, this blade carries the blessing of the Amazonian gods, who claim the souls of the mighty.
+
+The bearer gains the Killing Blow special rule.
+
+**Hornet Blade** (*) – 25 pts
+> Light and devastatingly precise, this sword strikes as swiftly as the insect whose name it bears.
+
+The bearer gains the Always Strikes First special rule.
+---
+## MAGIC ARMOUR
+
+**Helm of the Great Matriarch** – 50 pts
+> A ceremonial headdress worn by the greatest Amazon warriors, this helm grants its wearer a natural authority on the battlefield.
+
+Heavy armour. The wearer improves their armour save by +1 and gains a +1 modifier to their Leadership characteristic.
+
+**Mirror Shield** – 45 pts
+> Its mirror-polished surface reflects light and magical energies with unsettling precision.
+
+Shield. On a roll of 4+, any Magic Missile targeting the wearer is reflected back at the caster, who becomes the target of their own spell. The caster may attempt a normal dispel.
+
+**Mutilation Shield** – 30 pts
+> Adorned with sharp blades and spikes, this shield is as much a weapon as it is a protection.
+
+Shield. The wearer gains +1 Attack. This additional attack is considered magical.
+
+**Enchanted Shield** (*) – 20 pts
+> Forged and blessed by the sun priestesses, this shield offers enhanced protection to its bearer.
+
+Shield. The wearer gains a 5+ armour save. If the wearer already has an armour save, it is improved by +1 instead.
+---
+## TALISMANS
+
+**Lunar Amulet** – 50 pts
+> Crafted under the full moon by priestesses of the moon goddess, this amulet bathes its bearer in a protective silver light.
+
+The bearer gains a 4+ ward save.
+
+**Aura of Dispersion** – 40 pts
+> A murky energy permanently emanates from this talisman, disrupting the senses and reflexes of enemies in combat.
+
+Enemies suffer a -1 modifier to hit the bearer in close combat attacks.
+
+**Shield Amulet** – 30 pts
+> This massive medallion pulses with a protective energy that is released in a single burst when danger strikes.
+One use only. The bearer gains a 2+ ward save against the first wound suffered during the battle.
+
+
+**Shining Amulet** (*) – 15 pts
+> This small amulet of sacred resin glows faintly, absorbing a portion of the blows that strike its bearer.
+
+The bearer gains a 6+ ward save.
+---
+## ENCHANTED ITEMS
+
+**Sacred War Drum** – 40 pts
+> The powerful, steady beat of this sacred drum galvanises Amazon warriors, filling them with courage and determination.
+
+Friendly units within 12" of the bearer may perform forced marches even if they are within 8" or less of an enemy unit. In addition, friendly units that attempt to rally within this same area gain a +1 modifier to their Leadership for that test.
+
+**Feathered Cape** – 40 pts
+> Woven from thousands of feathers plucked from sacred birds, this cape allows its bearer to rise into the air with natural grace.
+
+The bearer gains the special rule Fly (8).
+
+**Sacrificial Statuette** – 30 pts
+> This figurine, carved in the likeness of an enemy, channels an ancient and formidable magic that strikes directly at the target's vitality.
+
+Bound Spell (Power Level 5). One use only. Target an enemy character within 18". They must pass a Toughness test or lose 1 Wound, with no armour save allowed. On a failure, repeat the test until the target passes or is slain.
+
+**Jaguar-Brother's Charm** – 25 pts
+> This feline charm allows its bearer to move with the speed and fluidity of a jaguar, leaping over obstacles with ease.
+
+Bound Spell (Power Level 5). The bearer may move 10" in any direction, ignoring terrain and units as if flying. This move may not be used to declare a charge.
+
+**Ferocity Pendant** – 25 pts
+> This pendant drinks in its bearer's blood upon their first combat, awakening within them an uncontrollable warrior's rage.
+
+The first time the bearer inflicts an unsaved wound, they gain the special rule Frenzy for the remainder of the battle.
+
+**Firefly Frog Venom** (*) – 25 pts
+> This poison, extracted from a rare bioluminescent frog, is coated onto the weapons of Amazon warriors, making their strikes unpredictable and lethal.
+
+All of the bearer's non-magical close combat attacks become both Magical and Poisoned.
+---
+## ARCANE ITEMS
+
+**Hand of the Ancients** – 60 pts
+> A sacred relic of the Amazon shamans, this mummified hand once channelled tremendous magical power. It remains potent enough to unleash turbulence within enemy spells.
+
+One use only. Once per battle, you may force an enemy Wizard who has suffered a Miscast to immediately suffer a second one on a roll of 2+.
+
+**Cube of Darkness** – 50 pts
+> This cube of sculpted obsidian absorbs and dispels surrounding magical energies with formidable efficiency.
+
+One use only. The bearer may use this item in place of a normal dispel attempt. On a roll of 4+, the Magic phase immediately ends and all active Remains in Play spells, both friendly and enemy, are dispelled.
+
+**Staff of Sorcery** – 40 pts
+> This staff, carved with protective runes, amplifies the magical resistance of whoever wields it.
+
+The bearer gains a +1 modifier to all Dispel rolls.
+
+**Diadem of Power** – 30 pts
+> This jade diadem captures the ambient flows of magic and redirects them toward defence.
+
+At the start of each enemy Magic phase, the bearer may convert up to 2 Channelling dice into Dispel dice.
+
+**Staff of the Storm** – 25 pts
+> Charged with tempestuous energy, this staff unleashes a powerful bolt of lightning that ravages enemy ranks.
+
+Bound Spell (Power Level 6). One use only. Magic Missile. Range 24", Strength 6, Armour Piercing (1).
+
+**Words of Power** (*) – 25 pts
+> These runic symbols inscribed upon a piece of sacred bark release a surge of additional magical energy at a critical moment.
+
+One use only. The bearer may use this item before rolling the dice for a spell. The casting roll result is improved by +3.
+---
+## MAGIC STANDARDS
+
+**Banner of Dread** – 50 pts
+> Adorned with skulls and war trophies, this banner spreads an aura of terror across the battlefield.
+
+The unit carrying this banner causes the Fear special rule.
+
+**Banner of Dominance** – 60 pts
+> Woven from golden threads and thunderbird feathers, this banner radiates a disruptive energy that sows confusion in the minds of enemy Wizards.
+
+All enemy Wizards within 8" of this banner must pass a Stupidity test at the start of each enemy Magic phase. Wizards who fail cannot cast spells during that phase.
+
+**Blinding Totem** – 45 pts
+> This totem, adorned with mirrors and shimmering crystals, blinds enemy shooters, making their shots imprecise.
+
+Shooting attacks targeting the unit carrying this totem suffer a -1 to hit modifier at long range, and a -2 to hit modifier at short range.
+
+**War Banner** (*) – 25 pts
+> This brightly coloured banner galvanises the warriors fighting beneath its colours, driving them to redouble their efforts.
+
+The unit carrying this banner gains a +1 bonus to its Combat Result.
+---
+## Amazon Special Rules
+
+
+### Natives of Lustria
+*The Amazons were born in the green hell of Lustria. Where others see impassable terrain and death, they see home.*
+
+### **Unit Special Rule:**
+
+Models with this rule benefit from the following effects:
+
+- **Movement through Cover:** No **Dangerous Terrain** tests when moving through Forests, Jungles, Marshes, or Water.
+- **Natural Camouflage:** If the unit is majority within a Forest or Jungle, enemies suffer an **additional -1** to hit with ranged attacks (cumulative with the usual modifiers).
+- **Jungle Stalkers:** When determining First Turn or choosing deployment zones in a Jungle/Lustria scenario, Amazons gain **+1 to the roll**.
+---
+# Lore of the Serpents
+
+> "In the depths of the jungle, where light struggles to reach the ground and ruins whisper of forgotten ages, the Serpent Priestesses commune with forces older than the Old Ones themselves…"
+> — *Teachings of the First Coil, Codex of the Serpent-Priestesses*
+
+## 0. Serpent's Kiss *(Signature Spell)*
+
+> With a whisper, the priestess calls upon the primal essence of the serpent. Fangs glisten with supernatural venom…
+
+**Type: Enchantment**
+**Casting Value:** 4+
 **Range:** 12"
 
 **Effect:**
-
-Target friendly unit within range gains **Poisoned Attacks**. This effect lasts until the start of the caster's next Magic phase.
-
+The targeted friendly unit gains the **Poisoned Attacks** special rule until the caster's next **Start of Turn** sub-phase.
 ---
-
 ## 1. Serpent's Swiftness
 
-*The priestess channels the lightning-fast reflexes of the jungle viper, blessing her warriors with supernatural speed and reaction time.*
+> A blessing of lightning-fast reflexes, inherited from the jungle viper.
 
-**Type:** Augment  
-**Casting Value:** 5+  
+**Type: Enchantment**
+**Casting Value:** 5+
 **Range:** 12"
 
 **Effect:**
-
-Target friendly unit within range gains the following bonuses until the start of the caster's next Magic phase:
-
+The targeted friendly unit benefits from the following effects until the caster's next **Start of Turn** sub-turn:
 - **+1 Initiative**
 - **+1 Movement**
-- May **re-roll failed Initiative tests** (for Dangerous Terrain, Strike First, etc.)
-
+- May re-roll failed Initiative tests (Dangerous Terrain, Strike First, etc.)
 ---
-
 ## 2. Venom Blood
 
-*The priestess invokes the sacred serpent's curse, transforming the blood of her warriors into deadly poison that seeps from every wound they inflict.*
+> The warriors' blood becomes as toxic as that of the sacred creatures.
 
-**Type:** Augment  
-**Casting Value:** 7+  
+**Type: Enchantment**
+**Casting Value:** 7+
 **Range:** 18"
 
 **Effect:**
-
-Target friendly unit within range gains the following abilities until the start of the caster's next Magic phase:
-
-- All close combat attacks gain **Poisoned Attacks** (wound on 6s regardless of Toughness, or use normal roll if better)
-- Any enemy model that suffers one or more unsaved wounds from this unit must pass a **Toughness test** at the end of the Combat phase or suffer **1 additional wound** with no armour save allowed (ward saves apply)
-
-**Note:** The additional wound only triggers once per enemy model per phase, regardless of how many wounds were initially caused.
-
+The targeted friendly unit benefits from the following effects until the caster's next **Start of Turn** sub-turn:
+- All melee attacks gain the **Poisoned Attacks** special rule
+- Enemies that suffer a wound must pass a Toughness test; if failed, they suffer 1 additional wound with no armour save (ward saves apply as normal)
+- This effect may only trigger **once per model per Close Combat phase**
 ---
-
 ## 3. Coils of the Constrictor
 
-*Spectral serpents materialize from thin air, wrapping around the enemy with crushing force, squeezing the life from their victims as pythons do their prey.*
+> Spectral serpents coil around the enemy, crushing the life from them.
 
-**Type:** Direct Damage  
-**Casting Value:** 8+  
+**Type: Magic Missile**
+**Casting Value:** 8+
 **Range:** 24"
 
 **Effect:**
-
-Nominate one enemy unit within range and line of sight. The unit immediately suffers **2D6 Strength 4 hits** with **Armour Piercing (1)**.
-
-Additionally, if the unit suffers one or more unsaved wounds, it suffers the following penalties until the start of the caster's next Magic phase:
-
-- The unit counts as being in **Difficult Terrain**
-- The unit suffers **-1 To Hit** in close combat (representing constriction hampering movement)
-
+The target enemy unit suffers **2D6 hits** at Strength 4, AP (-1).
+If at least one unsaved wound is caused, until the caster's next **Start of Turn** sub-phase:
+- The unit counts as moving through **Difficult Terrain**
+- The unit suffers **-1 To Hit** in close combat
 ---
+## 4. Basilisk's Gaze
 
-## 4. Gaze of the Basilisk
+> A petrifying gaze that turns the blood to ice.
 
-*The priestess channels the petrifying stare of the legendary basilisk, a creature so deadly that its very gaze turns flesh to stone. Warriors caught in this mystical gaze feel their limbs growing heavy, their skin hardening, their will crumbling.*
-
-**Type:** Hex  
-**Casting Value:** 9+  
+**Type: Hex**
+**Casting Value:** 9+
 **Range:** 18"
 
 **Effect:**
+The targeted enemy unit must pass a Leadership test.
 
-Target enemy unit within range and line of sight must immediately pass a **Leadership test**.
+- **If the test is failed:** until the caster's next **Conjuration** phase, the unit suffers:
+  - **-1 WS**
+  - **-1 BS**
+  - **-1 Initiative**
+  - **-2 Movement**
+  - Cannot perform a **March move**
 
-**If the test is failed:**
-
-The unit suffers the following penalties until the start of the caster's next Magic phase:
-- **-1 Weapon Skill**
-- **-1 Ballistic Skill**
-- **-1 Initiative**
-- **-2 Movement**
-- May **not make March moves**
-
-**If the test is passed on a natural roll of 10 or more:**
-
-The unit is **immune** to this spell for the remainder of the battle.
-
-**Note:** If a character is present in the unit, the unit may use the character's Leadership value for this test.
-
+- **If passed on a natural roll of 10+:** the unit is immune to this spell for the remainder of the battle.
 ---
+## 5. Swarm of Serpentine Broods
 
-## 5. Serpent Spawn Swarm
+> The Priestess summons a swarm of sacred serpents that surge forth from the depths of the jungle to engulf the enemies of Rigg.
 
-*The priestess calls forth countless venomous serpents from the jungle depths - vipers, cobras, and other deadly creatures that heed the Serpent Priestess's command.*
+**Type: Summoning**
+**Casting Value:** 10+
+**Range:** 18"
 
-**Type:** Summoning  
-**Casting Value:** 10+  
-**Range:** 12"
+When this spell is successfully cast, place a unit of **Sacred Serpent Swarm** following the conditions below:
 
-**Effect:**
+- The unit is placed entirely within **12"** of the Priestess
+- The unit may not be placed in base contact with an enemy unit
+- The unit must be placed on passable terrain
+- The unit **may not move, charge, or take any action** during the player turn in which it is summoned. It acts normally from the following turn onwards.
 
-You may immediately place a unit of **Serpent Swarm** on the battlefield within range of the caster and within the caster's line of sight. The unit must be placed more than 1" from any enemy units.
+The summoned unit is treated as a fully allied unit for the remainder of the game. It does not count towards the army selection limits and does not award Victory Points.
 
-The Serpent Swarm remains in play until it is destroyed or until the caster is slain, at which point it is immediately removed from play as a casualty.
+If the Priestess is removed as a casualty, the summoned unit **remains in play** and continues to act normally.
 
-### Serpent Swarm Profile
+This spell may only be cast **once per game**.
+
+### Profile — Sacred Serpent Swarm
+
+**Troop Type:** Swarm | **Base:** 40 x 40 mm | **Unit Size:** D3+1 bases
 
 | M | WS | BS | S | T | W | I | A | Ld |
-|---|----|----|---|---|---|---|---|---|
-| 5 | 3  | -  | 2 | 2 | 3 | 4 | 5 | 5  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6 | 3 | — | 3 | 2 | 3 | 4 | 5 | 6 |
 
-**Unit Size:** 3 swarm bases  
-**Troop Type:** Swarm  
-**Base Size:** 40mm x 40mm
-
-**Special Rules:**
-- **Poisoned Attacks:** All attacks wound on 6s regardless of Toughness
-- **Skirmishers**
-- **Swarm:** Follows all Swarm special rules (Unstable, Immune to Psychology, cannot be Stomped, etc.)
-- **Slithering Advance:** Ignores Difficult Terrain penalties in jungle/forest terrain
-- **Viper Strike:** Always strikes first in close combat (ignore Initiative order)
-
-**Armour Save:** 6+
-
-**Note:** The summoned unit does not count toward army composition limits and does not give up Victory Points if destroyed (unless the scenario specifies otherwise).
-
+**Special Rules:** Poisoned Attacks, Magical Attacks, Unbreakable, Swarm, Ignore Difficult Terrain
 ---
-
 ## 6. Apotheosis of Scales
 
-*The ultimate blessing of the Serpent Goddess, this spell transforms warriors into hybrid serpent-beings - their skin hardens into scales, their eyes become slitted and golden, their movements gain serpentine fluidity, and their strikes carry deadly venom.*
+> The ultimate blessing transforms warriors into sacred hybrids.
 
-**Type:** Augment  
-**Casting Value:** 12+  
-**Range:** Self or one friendly unit within 18"
+**Type: Enchantment**
+**Casting Value:** 12+
+**Range:** 18"
 
 **Effect:**
-
-Target unit undergoes a sacred transformation and gains the following bonuses until the start of the caster's next Magic phase:
-
-**Defensive:**
+The targeted friendly unit benefits from the following effects until the caster's next **Start of Turn** sub-phase:
 - **+1 Toughness**
-- **Scaly Skin (5+):** Grants a 5+ armour save if the unit has no armour, or improves existing armour save by 1 (to a maximum of 2+)
-
-**Offensive:**
-- **Poisoned Attacks:** All close combat attacks wound on 6s regardless of Toughness
-- **Serpentine Strike:** Unit always strikes at **Initiative 6** in close combat (regardless of their normal Initiative)
-
-**Psychological:**
-- Unit **causes Fear**
+- **Scaly Skin (6+)** *(or improves an existing save by +1, to a maximum of 2+)*
+- **Poisoned Attacks**
 
 **Restrictions:**
-- This spell cannot be cast on units that are already **Monstrous Infantry, Monsters, or Chariots**
-- Only **one unit** may benefit from this spell at a time. If cast again, the previous effect ends immediately.
-
-
-
+- Cannot target units of the Monstrous Infantry, Monsters or Chariots type
+- Only one unit may be affected at a time. If the spell is cast again on a new target, the effect on the previous unit immediately dissipates
+---
