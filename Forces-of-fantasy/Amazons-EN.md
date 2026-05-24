@@ -14,11 +14,11 @@ The Amazons are unique in that their race has no males — reproduction occurs t
 
 This document contains the following information:
 
-**Grand Army Composition List**: The default army composition list for the Amazons.
-**Profiles**: Every miniature available to the Amazons has a profile. Here you will find that miniature's characteristics, equipment, points value, details of its special rules, and more.
-**Magic Items**: In addition to the common magic items described in the Warhammer: The Old World rulebook, this army list includes a number of magic items unique to the Amazons.
-**Special Rules**: This section covers the rules specific to the Amazons.
-**The Lore of…**: Unique spells used alongside the Lores of Magic found in the Warhammer: The Old World rulebook.
+- **Grand Army Composition List**: The default army composition list for the Amazons.
+- **Profiles**: Every miniature available to the Amazons has a profile. Here you will find that miniature's characteristics, equipment, points value, details of its special rules, and more.
+- **Magic Items**: In addition to the common magic items described in the Warhammer: The Old World rulebook, this army list includes a number of magic items unique to the Amazons.
+- **Special Rules**: This section covers the rules specific to the Amazons.
+- **The Lore of…**: Unique spells used alongside the Lores of Magic found in the Warhammer: The Old World rulebook.
 ---
 ## AMAZON ARMY LIST
 
