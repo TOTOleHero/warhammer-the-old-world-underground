@@ -207,6 +207,7 @@ If your army includes a High Serpent Priestess with this option, you may include
 These units count as Amazon units in all respects and gain the Native of Lustria special rule. However, they do not gain the Cold One rule (they are commanded by the Priestess's will, not naturally disciplined as true Lizardmen creatures are).
 
 **Restriction:** If the High Serpent Priestess is slain during the battle, all units unlocked by this rule must immediately take a Leadership test at the start of each subsequent friendly turn. If failed, the unit becomes subject to Stupidity for the remainder of the game, as the Priestess's will fades.
+
 ---
 **MOUNT LIST**
 
