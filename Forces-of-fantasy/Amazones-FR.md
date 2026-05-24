@@ -322,8 +322,6 @@ Toute unité peut :
 
 > Les Koka‑Kalim sont l'élite fanatique des guerrières amazones, un ordre militaire chargé de protéger les temples et sanctuaires de la déesse Rigg. Leur nom vient de leur consommation constante de koka, une drogue narcotique extraite de plantes locales qui leur permet de se passer presque totalement de nourriture ou de sommeil. Cette dépendance leur donne une apparence émaciée et un regard halluciné, mais aussi des capacités martiales exceptionnelles. Insensibles à la douleur et dépourvues d'aversion naturelle pour le sang et la mort, ces combattantes vivent dans un état d'excitation nerveuse permanent qui les rend imprévisibles et irrationnelles. La Sororité, détentrice du pouvoir religieux en Amazonie, entretient une garde d'élite de Koka‑Kalim appelées les Dévotes, qui protègent les sanctuaires les plus sacrés et reçoivent parfois des armes Slann ancestrales : épées énergétiques et fusils‑bolters, des reliques vénérées comme des dons de Rigg elle‑même.
 
----
-
 | | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Koka‑Kalim | 4 | 4 | 3 | 3 | 3 | 1 | 4 | 2 | 7 | 12 |
@@ -337,8 +335,6 @@ Toute unité peut :
 - Arme de base
 - *Aucune armure — les Koka‑Kalim combattent émaciées, leur corps marqué par la drogue, sans protection autre que leur transe*
 
----
-
 **Options :**
 - Peut remplacer l'arme de base par une lance .................................................................Gratuit
 - Peut prendre des javelots (12", F3, Attaques Empoisonnées) ...................+1 pt/figurine
@@ -347,8 +343,6 @@ Toute unité peut :
 - Une figurine peut être amélioré en porte-étendard .......................................................+8 pts
 - Une figurine peut être amélioré en musicienne ................................................................+8 pts
 
----
-
 **Règles spéciales :**
 - **Immunisée à la Psychologie**
 - **Impétueuse**
@@ -356,14 +350,11 @@ Toute unité peut :
 - **Insensibles à la Douleur**
 - **Furie Sacrée**
 
----
-
 ### Insensibles à la Douleur
 *Les Koka‑Kalim ignorent les blessures qui mettraient à terre n'importe quel autre combattant. La drogue qui coule dans leurs veines transforme chaque coup reçu en carburant pour leur frénésie.*
 
 La figurine avec cette règle peut **relancer les jets de sauvegarde invulnérable de 1**.
 
----
 
 ### Furie Sacrée
 *Les Koka‑Kalim entrent en bataille dans un état de transe mystique. Plus le combat s'intensifie, plus leur transe s'approfondit, les rendant imperméables à la douleur.*
@@ -381,8 +372,6 @@ Les figurines avec cette règle bénéficient des sauvegardes invulnérables sui
 - Ces sauvegardes **ne se cumulent pas** avec d'autres sauvegardes invulnérables
 - Utilisez la meilleure sauvegarde disponible si plusieurs s'appliquent
 
----
-
 ### Lames des Anciens *(option)*
 *Reliques sacrées transmises par les Dévotes, ces lames énergétiques Slann brûlent d'une lumière dorée.*
 
@@ -392,6 +381,7 @@ Les figurines avec cette règle bénéficient des sauvegardes invulnérables sui
 | **Tir (Feu Solaire)** | 12" | 3 | — | Attaques Magiques, Tir Rapide, Instable |
 
 **Instable :** À chaque tour de tir ou de combat où cette figurine utilise sa Lame des Anciens, lancez 1D6. Sur un résultat de **1**, l'arme s'emballe : la figurine subit automatiquement 1 blessure sans sauvegarde d'aucune sorte.
+
 ---
 
 ## Nuées de la Jungle
@@ -453,6 +443,7 @@ Les figurines avec cette règle bénéficient des sauvegardes invulnérables sui
 **Règles spéciales**
 
 **Cavalerie Légère, Charge Dévastatrice, Native de Lustrie, Ordre Ouvert, Vif-Argent**
+
 ---
 
 ## Cavalières Amazones sur Sang‑Froid
@@ -564,17 +555,11 @@ Les figurines avec cette règle bénéficient des sauvegardes invulnérables sui
 
 **Armure Naturelle (1) *(Terradon uniquement)*, Cavalerie Légère, Évasif, Peur, Vol (10), Vif-Argent, Native de Lustrie**
 
----
-
 **Largage de Rochers**
 
 Au début de n'importe quelle phase de Tir amie, une unité de Cavalières Terradon qui a effectué un mouvement de Vol lors de la phase de Mouvement précédente peut choisir de larguer des rochers plutôt que de tirer normalement. Choisissez une unité ennemie que cette unité a survolée lors de ce mouvement : elle subit D3 touches de Force 4, PA —, par figurine de cette unité qui l'a survolée. Ces touches sont distribuées comme des tirs normaux. Une unité qui largue des rochers ne peut effectuer aucun autre tir lors de cette phase.
 
----
-
 **Restriction :** Cette unité ne peut être incluse dans une armée que si celle-ci comprend au moins une **Grande Prêtresse du Serpent**.
-
----
 
 # Guerrières Aigle
 
