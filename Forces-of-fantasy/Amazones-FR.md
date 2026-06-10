@@ -190,6 +190,7 @@ Au début de n’importe quel tour ami, une Cheffe de Guerre Amazone peut décle
 **Une Prêtresse du Serpent peut :**
 - Être une Sorcière de Niveau 2 ............................................................................. +35 points  
 - Acheter des objets magiques pour un total de .................................................... 50 points
+- Pratiquer le 'Rituel des Serviteurs Écailleux' (voir plus bas) ............................................. 30 points
 
 **Règles spéciales**
 - Lames des Anciens  
