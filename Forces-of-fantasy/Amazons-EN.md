@@ -65,11 +65,16 @@ Up to 25% of your army's points value may be spent on:
 Up to 20% of your army's points value may be spent on mercenaries.
 
 ## Allies
-Up to 25% of your army's points value may be spent on a single allied contingent chosen from:
-- Any Grand Army of the Lizardmen composition list
-- Valkyrie unit (Norsca army)
-- Ice Guard unit (Kislev army)
-- Any Grand Army of the Sea Elves composition list
+
+Up to 25% of your army's total points value may be spent on a single allied contingent, chosen from among the following:
+
+- Any Grand Army composition list of the **Lizardmen**.
+- The **Valkyries** units only, drawn from the Grand Army of **Norsca**.
+- The **Ice Guard** units only, drawn from the Grand Army of **Kislev** *(Unreliable)*.
+- The following units only, drawn from the Grand Army of the **Sea Elves** *(using the High Elves list)*: Lothern Sea Guard, Sword Masters, Ellyrian Reavers, Lothern Sky Cutter, Merwyrm.
+- Any Grand Army composition list of the **High Elves** *(Unreliable)*.
+- Any Grand Army composition list of the **Wood Elves** *(Unreliable)*.
+- Any Grand Army composition list of the **Dark Elves** *(Suspicious)*.
   
 ---
 
