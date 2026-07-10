@@ -1161,8 +1161,8 @@ Les ennemis subissent un modificateur de -1 pour toucher le porteur lors des att
 
 **Amulette-Bouclier** – 30 pts
 > Ce médaillon massif pulse d'une énergie protectrice qui se libère d'un coup face au danger.
-Usage unique. Le porteur gagne une sauvegarde invulnérable de 2+ contre la première blessure qu'il subit durant la bataille.
 
+Usage unique. Le porteur gagne une sauvegarde invulnérable de 2+ contre la première blessure qu'il subit durant la bataille.
 
 **Amulette Brillante** (*) – 15 pts
 > Cette petite amulette de résine sacrée brille faiblement, absorbant une part des coups qui atteignent son porteur.
