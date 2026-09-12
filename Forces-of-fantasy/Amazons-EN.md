@@ -257,7 +257,7 @@ A Serpent Priestess may be mounted on:
 |          | M | WS | BS | S | T | W | I | A | Ld | Points |
 |----------|---|----|----|---|---|---|---|---|----|--------|
 | Amazon   | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 11     |
-| Champion | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 11     |
+| Champion | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 16     |
 
 **Troop Type**: Regular Infantry  
 **Base Size**: 25 x 25 mm  
