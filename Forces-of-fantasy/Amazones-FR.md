@@ -256,7 +256,7 @@ Une Prêtresse du Serpent peut être montée sur :
 |          | M | CC | CT | F | E | PV | I | A | Cd | Points |
 |----------|---|----|----|---|---|---|---|---|----|--------|
 | Amazone  | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 1 | 7  | 11     |
-| Champion | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 16     |
+| Champion | 4 | 3  | 3  | 3 | 3 | 1 | 4 | 2 | 7  | 21     |
 
 **Type de troupe** : Infanterie régulière  
 **Taille de socle** : 25 x 25 mm  
